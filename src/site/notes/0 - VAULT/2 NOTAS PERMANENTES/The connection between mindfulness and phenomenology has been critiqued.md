@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/the-connection-between-mindfulness-and-phenomenology-has-been-critiqued/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+---
+
+## Observação 5: A conexão entre a atenção plena e a fenomenologia tem sido criticada.
+
+Nessa nota, o autor aponta que houve críticas em relação ao alinhamento e à comparação entre a atenção plena e a fenomenologia. Eles destacam a crítica apresentada por Hubert Dreyfus, que argumenta que os autores de The Embodied Mind (Varela, Thompson e Rosch) cometeram um erro ao lerem suas reflexões meditativas desprendidas de volta para suas experiências imersas de estar no mundo. Dreyfus sugere que os autores confundiram os detritos produzidos pela contemplação passiva durante a meditação da atenção plena com uma descrição fenomenológica precisa da ação e da percepção cotidianas.
+
+O autor oferece sua própria crítica, que difere da perspectiva de Dreyfus. **Eles argumentam que a alegação de que a fenomenologia é uma forma de meditação da atenção plena, especificamente como uma consciência sem julgamentos, aberta e receptiva do momento presente, descaracteriza a filosofia fenomenológica. Eles afirmam que, embora a atenção plena e a meditação não sejam descartadas, o interlocutor adequado para os fenomenólogos interessados no budismo deve ser a filosofia budista, e não a meditação da atenção plena budista (ou derivada da budista).**
+
+O autor afirma ainda que a forte ênfase em encontrar um componente metodológico comum entre a atenção plena e a fenomenologia obscureceu os valiosos recursos filosóficos que a fenomenologia oferece na exploração de questões levantadas pela atenção plena. Eles sugerem que liberar os ricos recursos da fenomenologia será essencial nas partes posteriores da tese, onde eles se envolvem com a atenção plena filosoficamente e analisam temas como autoconsciência, atenção e agência mental por meio das lentes da fenomenologia. Essa crítica visa redirecionar o foco para as contribuições distintas da fenomenologia na compreensão da atenção plena, em vez de enfatizar apenas as semelhanças entre as duas.
