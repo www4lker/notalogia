@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"meta-nota\"","permalink":"/\"meta-nota\"/","tags":["permanente","meta","ecologia","atalhomental","gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"dg-permalink":"\"/0-vault/2-notas-permanentes/meta-nota/\"","permalink":"/\"/0-vault/2-notas-permanentes/meta-nota/\"/","tags":["permanente","meta","ecologia","atalhomental","gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 # HASHTAG META
