@@ -11,7 +11,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/todo mundo deveria ter um blog txt\|todo mundo deveria ter um blog txt]]
 - [[0 - VAULT/1 NOTAS LITERAIS/blog para sempre\|blog para sempre]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O período do início dos anos 2000 viu o surgimento de plataformas de blog\|O período do início dos anos 2000 viu o surgimento de plataformas de blog]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/w4lker ponto com ponto br\|w4lker ponto com ponto br]]
+- [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/w4lker ponto com ponto br\|w4lker ponto com ponto br]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/storytelling para FRONT END DEV\|storytelling para FRONT END DEV]]
 - [[0 - VAULT/1 NOTAS LITERAIS/The Small Internet\|The Small Internet]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/jardim digital ou jardim murado\|jardim digital ou jardim murado]]

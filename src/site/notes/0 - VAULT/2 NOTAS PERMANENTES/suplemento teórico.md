@@ -9,7 +9,7 @@
 - 13:18
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/ECCO/Mestrado em 2024\|Mestrado em 2024]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/1/projeto de pesquisa 2024\|projeto de pesquisa 2024]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ECCO/projeto de pesquisa 2024\|projeto de pesquisa 2024]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Annotation - Remi H.\|Annotation - Remi H.]]
 - tags: #mestredeculturacontemporanea  #tecnologia #filosofia 
 ---

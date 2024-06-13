@@ -9,9 +9,9 @@
 - palavras-chave: #meta #zettelkasten #podkasten 
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/substack, revue e blog\|substack, revue e blog]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/w4lker ponto com ponto br\|w4lker ponto com ponto br]]
+- [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/w4lker ponto com ponto br\|w4lker ponto com ponto br]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Tim Berners-Lee\|Tim Berners-Lee]]
-- [[padroes de hipertexto e criação lit\|padroes de hipertexto e criação lit]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ELIT/padroes de hipertexto e criação lit\|padroes de hipertexto e criação lit]]
 ---
 ### [MIT Tech Review](https://mittechreview.com.br/jardins-digitais-permitem-cultivar-seu-proprio-cantinho-de-internet/)
 

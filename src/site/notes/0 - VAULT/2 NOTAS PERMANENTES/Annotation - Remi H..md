@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-07-08
 - Hora: 18:42
 - notas: 
-- [[0 - VAULT/3 NOTAS PARA REVISAR/1/projeto de pesquisa 2024\|projeto de pesquisa 2024]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ECCO/projeto de pesquisa 2024\|projeto de pesquisa 2024]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/obsidian\|obsidian]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Anotar com caneta ou com computador\|Anotar com caneta ou com computador]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/pen its powerful than computer\|pen its powerful than computer]]
