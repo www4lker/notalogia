@@ -102,7 +102,7 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 - [[0 - VAULT/1 NOTAS LITERAIS/Como mudar sua mente - netflix\|Como mudar sua mente - netflix]]
 - [[como mudar sua mente ep 2\|como mudar sua mente ep 2]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/conte sobre seu projeto para todo mundo\|conte sobre seu projeto para todo mundo]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/Cultura Geral - tudo o que você deve saber\|Cultura Geral - tudo o que você deve saber]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/1/Cultura Geral - tudo o que você deve saber\|Cultura Geral - tudo o que você deve saber]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser\|descobrindo o que seu projeto pode ser]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser 1\|descobrindo o que seu projeto pode ser 1]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Eduardo viveiros de castro\|Eduardo viveiros de castro]]
