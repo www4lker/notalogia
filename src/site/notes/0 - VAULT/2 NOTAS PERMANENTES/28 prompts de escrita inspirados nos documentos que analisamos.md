@@ -11,7 +11,7 @@
 - notas: 
   1. [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Como acalmar sua tempestade interior\|Como acalmar sua tempestade interior]]
 2. [[0 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/10/Meditation is like mountaineering approach it with care\|0 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/10/Meditation is like mountaineering approach it with care]]
-3. [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+3. [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 4. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/muito velho para games\|muito velho para games]]
 5. [[0 - VAULT/2 NOTAS PERMANENTES/lições de um retiro longo de meditação\|lições de um retiro longo de meditação]]
 6. [[0 - VAULT/2 NOTAS PERMANENTES/Aprenda a arte de escrever diários e arquivar sua vida\|Aprenda a arte de escrever diários e arquivar sua vida]]

@@ -10,7 +10,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/respostas da entrevista com o filosofo renascentista\|respostas da entrevista com o filosofo renascentista]]
 - [[dicotomia antigo e contemporaneo\|dicotomia antigo e contemporaneo]]
 - [[NOTAS DE LEITURA/LIVROS/Leonardo Da Vinci\|NOTAS DE LEITURA/LIVROS/Leonardo Da Vinci]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Montaigne, Michel de\|Montaigne, Michel de]]
+- [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Montaigne, Michel de\|Montaigne, Michel de]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/renascença tecnológica (pergunta)\|renascença tecnológica (pergunta)]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/onde começa o antropoceno\|onde começa o antropoceno]]
 ---

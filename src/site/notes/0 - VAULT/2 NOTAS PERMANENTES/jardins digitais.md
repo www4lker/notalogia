@@ -8,8 +8,8 @@
 ### Relacionado
 - palavras-chave: #meta #zettelkasten #podkasten 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/substack, revue e blog\|substack, revue e blog]]
-- [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/w4lker ponto com ponto br\|w4lker ponto com ponto br]]
+- [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/substack, revue e blog\|substack, revue e blog]]
+- [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/w4lker ponto com ponto br\|w4lker ponto com ponto br]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Tim Berners-Lee\|Tim Berners-Lee]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/padroes de hipertexto e criação lit\|padroes de hipertexto e criação lit]]
 ---

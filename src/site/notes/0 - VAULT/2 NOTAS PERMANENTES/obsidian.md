@@ -16,8 +16,8 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/markdown\|markdown]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Escrevendo agora - markdown\|Escrevendo agora - markdown]]
 - [[PASTA DE IMAGENS/TXT/IAW\|PASTA DE IMAGENS/TXT/IAW]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/IA WRITER MINIMALISTA\|IA WRITER MINIMALISTA]]
-- [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/OBJETIVOS DE ESCRITA\|OBJETIVOS DE ESCRITA]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/IA WRITER MINIMALISTA\|IA WRITER MINIMALISTA]]
+- [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/OBJETIVOS DE ESCRITA\|OBJETIVOS DE ESCRITA]]
 ---
 [[0 - VAULT/1 NOTAS LITERAIS/Escrevendo agora - Copia\|Escrevendo agora - Copia]] —  Onde se compara várias plataformas para organizar e escrever notas e textos, incluindo Nimble, Scrivener, Obsidian, VS Code ou Atom, e Typora.
 Onde se considera fatores como custo, suporte comunitário, qualidade e características ao decidir qual plataforma usar.

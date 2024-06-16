@@ -9,7 +9,7 @@
 - Hora: 09:22
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/não meçamos o caminho pelos meios\|não meçamos o caminho pelos meios]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/primeiro curso de vipassana da vida\|primeiro curso de vipassana da vida]]
 - tags: #Meditação #Vipassana #Objetivos #Equilíbrio
 ---

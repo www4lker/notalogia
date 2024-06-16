@@ -6,8 +6,10 @@
 ## criado em: 14:11 15-01-2023
 
 ### Relacionado
-- palavras-chave: 
-- notas: 
+- palavras-chave: #sacro-ofício #filosofia #totalizante #literatura  
+- tags: #totalizante #filosofia 
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/IA WRITER sobre usar corretamente os recursos de IA\|IA WRITER sobre usar corretamente os recursos de IA]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/o poder da leitura lenta\|o poder da leitura lenta]]
 ---
 ## Ler profunda e vagarosamente: indicação
 

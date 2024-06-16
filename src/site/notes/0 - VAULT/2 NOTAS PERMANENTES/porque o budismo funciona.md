@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/porque-o-budismo-funciona/","tags":["permanente","buddhismo","vipassana","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/porque-o-budismo-funciona/","tags":["permanente","buddhismo","vipassana","meditacao","insight","totalizante","chatgpt","pessoalidades","householder","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 # porque o budismo funciona
@@ -10,8 +10,11 @@
 
 ### Conteúdo Relacionado
 - notas: 
-  - [[0 - VAULT/1 NOTAS LITERAIS/Robert Wright\|Robert Wright]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/1 why buddhism is true\|1 why buddhism is true]]
+  - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Robert Wright\|Robert Wright]]
+- [[0 - VAULT/1 NOTAS LITERAIS/lições de um retiro longo de meditação - ANALISE GPT 4\|lições de um retiro longo de meditação - ANALISE GPT 4]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/141223\|141223]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/1 why buddhism is true\|1 why buddhism is true]]
+- tags: #buddhismo #insight #meditacao #totalizante #chatgpt  #totalizante #pessoalidades #householder #psique #filosofia 
 - #buddhismo #vipassana #meditacao 
 
 ---

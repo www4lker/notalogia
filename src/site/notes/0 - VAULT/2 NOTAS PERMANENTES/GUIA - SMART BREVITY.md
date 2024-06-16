@@ -9,7 +9,7 @@
 - 12:35
 ## relacionados:
 - notas:
-1. [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/SMART BREVITY RESUMÃO\|SMART BREVITY RESUMÃO]]
+1. [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/SMART BREVITY RESUMÃO\|SMART BREVITY RESUMÃO]]
 2. [[Moura-Moura-Tirando de letra\|Moura-Moura-Tirando de letra]]
 3. [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/esquema - LEITURAS CLANDESTINAS 4\|esquema - LEITURAS CLANDESTINAS 4]]
 4. [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/3 formas infalíveis de se expressar\|3 formas infalíveis de se expressar]]

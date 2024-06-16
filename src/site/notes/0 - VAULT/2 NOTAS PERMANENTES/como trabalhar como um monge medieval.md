@@ -9,10 +9,10 @@
 palavras-chave: #intelectual #academia #academico #totalizante #disserte #vipassana #meditacao #criatividade #promptgpt3 
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/Você precisa pensar como um monge medieval\|Você precisa pensar como um monge medieval]]
-- [[0 - VAULT/2 NOTAS PERMANENTES/digital minimalismo\|digital minimalismo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/O artigo discute dois livros, DEEP WORK e MINDFUL TECH\|O artigo discute dois livros, DEEP WORK e MINDFUL TECH]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/digital minimalism\|digital minimalism]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/DEEP WORK e MINDFUL TECH - artigo\|DEEP WORK e MINDFUL TECH - artigo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/A.-D. Sertillanges\|A.-D. Sertillanges]]
-- [[Trabalho Focado\|Trabalho Focado]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Trabalho Focado\|Trabalho Focado]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/A Vida Intelectual\|NOTAS DE LEITURA/KINDLE HIGHLIGHTS/A Vida Intelectual]]
 ---
 De tudo o que foi discutido neste tópico, informe um plano simples para me concentrar mais na escrita de minha tese como um monge do século XV faria:

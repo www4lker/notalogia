@@ -12,7 +12,7 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/reality and truth\|reality and truth]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+2. [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 3. [[0 - VAULT/2 NOTAS PERMANENTES/As crenças nos ajudam a fazer previsões, selecionar ações, compreender os assuntos com mais detalhes\|As crenças nos ajudam a fazer previsões, selecionar ações, compreender os assuntos com mais detalhes]]
 4. [[0 - VAULT/2 NOTAS PERMANENTES/Testando as crenças\|Testando as crenças]]
 5. 

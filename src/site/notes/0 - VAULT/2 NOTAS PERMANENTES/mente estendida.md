@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/mente-estendida/","tags":["permanente","filosofia","realworld","otimistarealista","totalizante","psicodelico","jardimdigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/mente-estendida/","tags":["permanente","filosofia","realworld","otimistarealista","totalizante","psicodelico","jardimdigital","biohack","intelectual","academia","academico","disserte","tecnologia","minimalismodigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 # mente estendida
 ## criado em: 14:37 17-01-2023
 
 ### Relacionado
-- palavras-chave: #filosofia #realworld #otimistarealista #totalizante #psicodelico #jardimdigital 
+- palavras-chave: #filosofia #realworld #otimistarealista #totalizante #psicodelico #biohack #intelectual #academia #academico #totalizante #disserte #tecnologia #minimalismodigital #filosofia #meta 
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/omg fungos vao controlar minha mente\|omg fungos vao controlar minha mente]]
-- [[0 - VAULT/1 NOTAS LITERAIS/transhumanismo\|transhumanismo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/O futuro é multiespécie\|O futuro é multiespécie]]
-- [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]]
+- [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/O futuro é multiespécie\|O futuro é multiespécie]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/obsidian\|obsidian]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Second Brain\|Second Brain]]
 ---

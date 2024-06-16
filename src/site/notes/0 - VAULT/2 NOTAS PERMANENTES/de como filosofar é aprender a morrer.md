@@ -9,7 +9,7 @@ criado em: 14:58 [[2022-07\|2022-07]]-29
 ##### Relacionado
 - palavras-chave: #insight #nãoficção #ceticismo #filosofia #[[ensaistica\|ensaistica]] #montanha 
 - notas permanentes: [[0 - VAULT/1 NOTAS LITERAIS/ensaios, de montaigne\|ensaios, de montaigne]] [[👩🏽‍🚀NOTAS PERMANENTES🧗🏼‍♂️/LENDO MONTAIGNE\|👩🏽‍🚀NOTAS PERMANENTES🧗🏼‍♂️/LENDO MONTAIGNE]]
-- notas de literatura: [[DISSERTAÇÃO E PROJETOS PARALELOS/🏡 PROJETOS E JARDIM DIGITAL🌱/Projeto Lendo Os Ensaios/LENDO MONTAIGNE 1\|DISSERTAÇÃO E PROJETOS PARALELOS/🏡 PROJETOS E JARDIM DIGITAL🌱/Projeto Lendo Os Ensaios/LENDO MONTAIGNE 1]] [[Lendo Montaigne aos poucos\|Lendo Montaigne aos poucos]] [[0 - VAULT/1 NOTAS LITERAIS/Montaigne, Michel de\|Montaigne, Michel de]] [[0 - VAULT/1 NOTAS LITERAIS/como viver, sarah bakewell\|como viver, sarah bakewell]] [[aquela vez que escrevi sobre meu avo no inumeraveis\|aquela vez que escrevi sobre meu avo no inumeraveis]]
+- notas de literatura: [[DISSERTAÇÃO E PROJETOS PARALELOS/🏡 PROJETOS E JARDIM DIGITAL🌱/Projeto Lendo Os Ensaios/LENDO MONTAIGNE 1\|DISSERTAÇÃO E PROJETOS PARALELOS/🏡 PROJETOS E JARDIM DIGITAL🌱/Projeto Lendo Os Ensaios/LENDO MONTAIGNE 1]] [[Lendo Montaigne aos poucos\|Lendo Montaigne aos poucos]] [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Montaigne, Michel de\|Montaigne, Michel de]] [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/como viver, sarah bakewell\|como viver, sarah bakewell]] [[aquela vez que escrevi sobre meu avo no inumeraveis\|aquela vez que escrevi sobre meu avo no inumeraveis]]
 
 ---
 Livro I, xx

@@ -9,7 +9,7 @@
 ### Relacionado
 
 - palavras-chave: #filosofia #totalizante #disserte #mentesmiceliais 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Ailton Krenak\|Ailton Krenak]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Ailton Krenak\|Ailton Krenak]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Morte na floresta\|Morte na floresta]]
 ---
 

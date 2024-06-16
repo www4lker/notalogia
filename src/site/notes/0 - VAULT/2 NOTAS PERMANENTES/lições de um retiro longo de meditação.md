@@ -11,7 +11,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/lições de um retiro longo de meditação VERSÃO ATUALIZADA\|lições de um retiro longo de meditação VERSÃO ATUALIZADA]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/eneagrama\|eneagrama]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/INTP T\|INTP T]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[0 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/10/Meditation is like mountaineering approach it with care\|0 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/10/Meditation is like mountaineering approach it with care]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/2020-01-02\|DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/2020-01-02]], 
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/ELIT/20082022\|DISSERTAÇÃO E PROJETOS PARALELOS/ELIT/20082022]], 

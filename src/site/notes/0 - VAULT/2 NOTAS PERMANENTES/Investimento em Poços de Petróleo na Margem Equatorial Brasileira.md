@@ -10,7 +10,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Fronteira, faixa de fronteira e paisagem urbana fronteiriça\|Fronteira, faixa de fronteira e paisagem urbana fronteiriça]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Geopolítica\|Geopolítica]]
 - [[neoindustrializacao\|neoindustrializacao]]
-- [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/esboço para o pitch\|esboço para o pitch]]
+- [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/esboço para o pitch\|esboço para o pitch]]
 - tags: #geo  
 - Fontes & Links: 
 - [Margem equatorial concentra metade do investimento previsto para poços de petróleo no país, diz ANP

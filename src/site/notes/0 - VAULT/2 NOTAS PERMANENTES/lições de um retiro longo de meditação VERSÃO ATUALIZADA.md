@@ -10,7 +10,7 @@
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/eneagrama\|eneagrama]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/INTP T\|INTP T]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Resumo do retiro - chapada dos guimarães\|Resumo do retiro - chapada dos guimarães]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/versão das lições no estilo de mccarthy\|versão das lições no estilo de mccarthy]]
 - tags: #totalizante #pessoalidades #householder #psique #filosofia 

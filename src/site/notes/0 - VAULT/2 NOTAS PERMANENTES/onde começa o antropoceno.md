@@ -13,7 +13,7 @@
 - [[NOTAS DE LEITURA/LIVROS/Antropoceno\|NOTAS DE LEITURA/LIVROS/Antropoceno]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Capitalismo tardio\|Capitalismo tardio]]
 - [[Capitalist Sorcery\|Capitalist Sorcery]]
-- [[Antropoceno capitaloceno\|Antropoceno capitaloceno]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/Antropoceno, Capitaloceno e Plantationoceno\|Antropoceno, Capitaloceno e Plantationoceno]]
 - [[NOTAS DE LEITURA/LIVROS/Antropoceno\|NOTAS DE LEITURA/LIVROS/Antropoceno]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/cap 1\|cap 1]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Was 1610 the beginning of a new human epoch\|Was 1610 the beginning of a new human epoch]]

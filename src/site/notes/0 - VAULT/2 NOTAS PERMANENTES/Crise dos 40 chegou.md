@@ -34,7 +34,7 @@
 > 
 > É compreensível sentir-se nostálgico e refletir sobre suas experiências passadas, mas é importante não ficar preso em um ciclo de melancolia e nostalgia que o impeça de abraçar totalmente o presente e olhar para o futuro. Aqui estão algumas sugestões para ajudá-lo a evitar cair nesse padrão:
 
-1. Pratique a atenção plena: Mantenha-se presente no momento atual e esteja ciente de seus pensamentos e emoções. Técnicas de atenção plena, como meditação ou exercícios de respiração profunda, podem ajudá-lo a se concentrar no presente e evitar que sua mente se concentre excessivamente no passado. [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+1. Pratique a atenção plena: Mantenha-se presente no momento atual e esteja ciente de seus pensamentos e emoções. Técnicas de atenção plena, como meditação ou exercícios de respiração profunda, podem ajudá-lo a se concentrar no presente e evitar que sua mente se concentre excessivamente no passado. [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 
 2. Estabeleça metas e crie uma visão para seu futuro: Em vez de ficar preso ao passado, direcione sua energia e seu foco para estabelecer novas metas e imaginar o tipo de vida que deseja criar para si mesmo. Isso o ajudará a desviar sua atenção do passado para as possibilidades que estão por vir. [[0 - VAULT/1 NOTAS LITERAIS/blog para sempre\|blog para sempre]]
 

@@ -8,7 +8,7 @@
 - 21-03-2024
 - 17:06
 ## relacionados:
-- notas: [[biohack txt\|biohack txt]]
+- notas:
 - [[0 - VAULT/1 NOTAS LITERAIS/sociedade medicalizada\|sociedade medicalizada]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/2/agora todo mundo tem tdah\|agora todo mundo tem tdah]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/o que é biohacking\|o que é biohacking]]

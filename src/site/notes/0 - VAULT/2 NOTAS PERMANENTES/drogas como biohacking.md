@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #realworld #totalizante #psicodelico 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/transhumanismo\|transhumanismo]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/práticas biohacker\|práticas biohacker]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Cyberpunk Needs a Reboot\|Cyberpunk Needs a Reboot]]
 - [[Microdosing Psychedelics\|Microdosing Psychedelics]]

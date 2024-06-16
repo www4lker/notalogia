@@ -9,7 +9,7 @@
 - 22:42
 ## relacionados:
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/vox -  meditation\|vox -  meditation]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Robert Wright\|Robert Wright]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Robert Wright\|Robert Wright]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/article - anagarika munindra\|article - anagarika munindra]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/budismo e habitos\|budismo e habitos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Engaging mindfulness - introduction\|Engaging mindfulness - introduction]]

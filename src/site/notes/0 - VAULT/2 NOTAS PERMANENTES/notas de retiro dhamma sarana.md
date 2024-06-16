@@ -8,7 +8,7 @@
 - 06-01-2024
 - 02:06
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Vipassana e TAD\|Vipassana e TAD]]
 - [[De volta ao vipassana depois de 5 anos\|De volta ao vipassana depois de 5 anos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/primeiro curso de vipassana da vida\|primeiro curso de vipassana da vida]]
@@ -33,7 +33,7 @@
 	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 121223\|NK - 121223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/131223\|131223]] - dia 8
 	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 131223\|NK - 131223]]
-- [[0 - VAULT/1 NOTAS LITERAIS/141223\|141223]] - dia 9
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/141223\|141223]] - dia 9
 	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 141223\|NK - 141223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/151223\|151223]] -  dia 10
 	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 151223\|NK - 151223]]

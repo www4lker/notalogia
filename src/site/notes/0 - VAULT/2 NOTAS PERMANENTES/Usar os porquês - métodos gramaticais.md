@@ -15,7 +15,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/Hábitos mentais do escritor\|Hábitos mentais do escritor]]
 - [[0 - VAULT/1 NOTAS LITERAIS/zettelzinsser chapter 1\|zettelzinsser chapter 1]]
 - [[0 - VAULT/1 NOTAS LITERAIS/141220221348\|141220221348]]
-- [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/OBJETIVOS DE ESCRITA\|OBJETIVOS DE ESCRITA]]
+- [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/OBJETIVOS DE ESCRITA\|OBJETIVOS DE ESCRITA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/é recomendável evitar o uso de advérbios desnecessários\|é recomendável evitar o uso de advérbios desnecessários]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/é importante estar aberto a novas idéias e direções à medida que elas surgem\|é importante estar aberto a novas idéias e direções à medida que elas surgem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/sobre o argumento principal de um texto\|sobre o argumento principal de um texto]]

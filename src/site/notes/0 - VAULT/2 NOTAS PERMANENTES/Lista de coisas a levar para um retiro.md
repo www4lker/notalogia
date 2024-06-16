@@ -9,9 +9,9 @@
 - Hora: 16:29
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[Curso em chapada dos guimaraes - checklist\|Curso em chapada dos guimaraes - checklist]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Resumo do retiro - chapada dos guimarães\|Resumo do retiro - chapada dos guimarães]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas de retiro dhamma sarana\|notas de retiro dhamma sarana]]
 - tags: #totalizante #pessoalidades #householder #psique #filosofia #toolstolife #productivityhacks 

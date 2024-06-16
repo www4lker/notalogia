@@ -9,7 +9,7 @@
 - 15:14
 ## relacionados:
 - tags: #meta #promptGPT #analítico #literatura #eternoaprendiz 
-- notas: [[0 - VAULT/2 NOTAS PERMANENTES/meta\|meta]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/meta notas/meta\|meta]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Quitando o historico do YT\|Quitando o historico do YT]]
 ---
 

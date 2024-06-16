@@ -42,7 +42,7 @@ Biohacking é um termo abrangente que se refere à prática de modificar e otimi
 As práticas de biohacking podem variar desde intervenções simples, como o jejum intermitente [[0 - VAULT/1 NOTAS LITERAIS/jejum como biohacking\|jejum como biohacking]], até técnicas mais avançadas, como o uso de drogas para melhorar a produtividade [[0 - VAULT/1 NOTAS LITERAIS/microdose para produtividade\|microdose para produtividade]] e a auto-rastreamento para monitorar e otimizar diferentes aspectos da saúde [[2 NOTA PERMANENTE/Self tracking - 11 pontos.md\|2 NOTA PERMANENTE/Self tracking - 11 pontos.md]].
 
 ### 3. **Biohacking e Transumanismo**
-O biohacking está intimamente ligado ao movimento transumanista, que defende o uso da tecnologia para transcender as limitações biológicas humanas e alcançar novos níveis de capacidade e longevidade [[0 - VAULT/1 NOTAS LITERAIS/transhumanismo\|transhumanismo]].
+O biohacking está intimamente ligado ao movimento transumanista, que defende o uso da tecnologia para transcender as limitações biológicas humanas e alcançar novos níveis de capacidade e longevidade [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]].
 
 ### 4. **Biohacking e a Era do Antropoceno**
 A relação entre biohacking e o Antropoceno é explorada na nota [[0 - VAULT/3 NOTAS PARA REVISAR/1/a relação  entre antropoceno e biohacking\|a relação  entre antropoceno e biohacking]]. Ambas as áreas envolvem a intervenção humana no ambiente natural e levantam questões éticas sobre o impacto dessas intervenções no futuro da humanidade.
@@ -66,7 +66,7 @@ Referências:
 - [[0 - VAULT/1 NOTAS LITERAIS/jejum como biohacking\|jejum como biohacking]]
 - [[0 - VAULT/1 NOTAS LITERAIS/microdose para produtividade\|microdose para produtividade]]
 - [[2 NOTA PERMANENTE/Self tracking - 11 pontos.md\|2 NOTA PERMANENTE/Self tracking - 11 pontos.md]]
-- [[0 - VAULT/1 NOTAS LITERAIS/transhumanismo\|transhumanismo]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Rotina blecaute\|1 NOTAS LITERAIS/Rotina blecaute.md]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Hericium erinaceus - os benefícios comprovados do cogumelos\|Hericium erinaceus - os benefícios comprovados do cogumelos]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Ganoderma\|1 NOTAS LITERAIS/Ganoderma.md]]

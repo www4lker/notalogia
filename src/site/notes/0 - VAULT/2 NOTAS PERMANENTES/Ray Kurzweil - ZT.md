@@ -15,7 +15,7 @@
 - [[0 - VAULT/3 NOTAS PARA REVISAR/4/Ray Kurzweil - notas conectadas\|Ray Kurzweil - notas conectadas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Why the Future Doesn_t Need Us\|Why the Future Doesn_t Need Us]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Mind Children - H Moravec\|Mind Children - H Moravec]]
-- [[0 - VAULT/1 NOTAS LITERAIS/transhumanismo\|transhumanismo]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/anti-psicodelia\|anti-psicodelia]]
 - tags: #wiredetal #tecnologia #pesquisa #interessesgerais #filosofia #filosofia #tecnologia #mestredeculturacontemporanea
 - 

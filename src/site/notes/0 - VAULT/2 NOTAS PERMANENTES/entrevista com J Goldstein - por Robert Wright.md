@@ -16,7 +16,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/Fracasse estrategicamente\|Fracasse estrategicamente]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/PRATIQUE O NÃO-FAZER\|PRATIQUE O NÃO-FAZER]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/nos relacionamentos, seja curioso como uma criança ou um cientista\|nos relacionamentos, seja curioso como uma criança ou um cientista]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Vipassana e TAD\|Vipassana e TAD]]
 - tags: #insight #vipassana #meditacao 
 - [Fontes & Links](https://www.youtube.com/watch?v=p9GgDJw192I)

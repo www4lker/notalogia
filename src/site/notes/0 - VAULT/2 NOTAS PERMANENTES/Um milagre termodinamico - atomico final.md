@@ -13,4 +13,4 @@ criado em: 15:18 2022-08-25
 
 ---
 
-Eu fecho com um elogio à memória do meu avô e um elogio à literatura, tanto por se mostrar potencialmente maravilhosa como por me ajudar a lidar com a perda. Interessante notar as duas referências perdidas: o título, que faz [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/referência a watchmen\|referência a watchmen]] e as [[0 - VAULT/1 NOTAS LITERAIS/SUBSTACK/pinturas de Renoir\|pinturas de Renoir]] que eu realmente não fui capaz de aprofundar. Da primeira referência eu me orgulho, da segunda eu me envergonho. 
+Eu fecho com um elogio à memória do meu avô e um elogio à literatura, tanto por se mostrar potencialmente maravilhosa como por me ajudar a lidar com a perda. Interessante notar as duas referências perdidas: o título, que faz [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/referência a watchmen\|referência a watchmen]] e as [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/pinturas de Renoir\|pinturas de Renoir]] que eu realmente não fui capaz de aprofundar. Da primeira referência eu me orgulho, da segunda eu me envergonho. 

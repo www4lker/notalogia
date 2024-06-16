@@ -32,7 +32,7 @@
 #### algumas sugestões de outras notas
 
 - Explorar técnicas adicionais de aquecimento criativo, como o método Pomodoro e [[páginas matinais funcionam\|páginas matinais funcionam]].
-- Investigar como a meditação [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]] pode ser relacionada à percolação e geração de ideias.
+- Investigar como a meditação [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]] pode ser relacionada à percolação e geração de ideias.
 - Examinar como a prática do ciclismo urbano pode contribuir para momentos de percolação.
 - Explorar exemplos de pessoas famosas que incorporaram a percolação em suas vidas criativas.
 
@@ -49,7 +49,7 @@
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/0-vault/1-notas-literais/insight-pensamento-e-meditacao/vipassana/#8f7464" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

@@ -10,7 +10,7 @@
 
 - palavras-chave: #totalizante #pessoalidades #householder #geo #antiturismo 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[Overcoming Tourism - Hakim Bey - Hermetic Library\|Overcoming Tourism - Hakim Bey - Hermetic Library]]
 ---
 

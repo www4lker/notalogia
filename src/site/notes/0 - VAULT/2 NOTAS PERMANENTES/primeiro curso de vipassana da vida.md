@@ -10,7 +10,7 @@
 
 ### Conteúdo Relacionado
 - notas: [[Curso em chapada dos guimaraes - checklist\|Curso em chapada dos guimaraes - checklist]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[De volta ao vipassana depois de 5 anos\|De volta ao vipassana depois de 5 anos]] 
 - tags: #Meditação #Vipassana #Objetivos #Equilíbrio #pessoalidades 
 - Fontes & Links: 

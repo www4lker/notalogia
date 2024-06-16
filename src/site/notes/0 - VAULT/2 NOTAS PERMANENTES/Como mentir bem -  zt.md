@@ -27,3 +27,5 @@ Métodos tradicionais de detecção de mentiras, como polígrafos, são limitado
 
 ### Capacidade Cognitiva e Honestidade
 Indivíduos com maiores capacidades cognitivas são melhores em mentir e menos limitados pelos custos cognitivos. No entanto, as limitações inerentes dos sistemas cognitivos frequentemente promovem a honestidade por padrão, devido ao esforço mental necessário para manter a decepção.
+
+#sciencebitch #Metacognition #psique

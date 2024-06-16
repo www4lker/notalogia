@@ -11,7 +11,7 @@
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/curso de meditação em 2015\|curso de meditação em 2015]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/primeiro curso de vipassana da vida\|primeiro curso de vipassana da vida]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Vipassana\|1 NOTAS LITERAIS/Vipassana]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Análise - servidor do dhamma - código de conduta\|Análise - servidor do dhamma - código de conduta]]
 - tags: #totalizante #pessoalidades #householder 
 - Fontes & Links:  https://www.dhamma.org/pt-BR/about/dscode
