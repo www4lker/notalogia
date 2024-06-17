@@ -34,7 +34,7 @@ Articles Confronting a traumatic event: toward an understanding of inhibition an
 4. "[[0 - VAULT/3 NOTAS PARA REVISAR/4/Putting Feelings Into Words\|Putting Feelings Into Words]]" - Quais são os mecanismos pelos quais rotular afetos ajuda a gerenciar experiências emocionais negativas?
 5. "[[0 - VAULT/1 NOTAS LITERAIS/Incentivando a honestidade com choques no cérebro\|Incentivando a honestidade com choques no cérebro]]" - A estimulação cerebral não invasiva pode aumentar a honestidade ao reduzir a trapaça?
 6. "[[0 - VAULT/3 NOTAS PARA REVISAR/4/The β1-adrenergic receptor links sympathetic nerves to T cell exhaustion\|The β1-adrenergic receptor links sympathetic nerves to T cell exhaustion]]" - Como a resposta ao estresse e a atividade do sistema nervoso regulam a exaustão das células T e influenciam doenças?
-7. "[[0 - VAULT/3 NOTAS PARA REVISAR/4/Writing About Emotional Experiences as a Therapeutic Process\|Writing About Emotional Experiences as a Therapeutic Process]]" - Como a escrita sobre experiências emocionais contribui para melhorias na saúde física e mental?
+7. "[[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Writing About Emotional Experiences as a Therapeutic Process\|Writing About Emotional Experiences as a Therapeutic Process]]" - Como a escrita sobre experiências emocionais contribui para melhorias na saúde física e mental?
 8. "[[0 - VAULT/1 NOTAS LITERAIS/Cérebro e corpo são mais interligados do que imaginávamos\|Cérebro e corpo são mais interligados do que imaginávamos]]" - Como a interação entre cérebro e corpo influencia tanto a saúde física quanto mental, e quais são as implicações para tratamentos?
 9. [[Therapeutic Journaling\|Therapeutic Journaling]]
 

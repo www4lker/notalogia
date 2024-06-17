@@ -12,7 +12,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/sociedade medicalizada\|sociedade medicalizada]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/2/agora todo mundo tem tdah\|agora todo mundo tem tdah]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/o que é biohacking\|o que é biohacking]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/4/Writing About Emotional Experiences as a Therapeutic Process\|Writing About Emotional Experiences as a Therapeutic Process]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Writing About Emotional Experiences as a Therapeutic Process\|Writing About Emotional Experiences as a Therapeutic Process]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Hericium + Ganoderma\|Hericium + Ganoderma]]
 -  [[0 - VAULT/1 NOTAS LITERAIS/huberman husbands\|huberman husbands]]
 - tags: #filosofia #realworld #otimistarealista #totalizante #psicodelico #erowid

@@ -11,7 +11,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]] 
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/o fim do antropoceno\|o fim do antropoceno]]
 - [[0 - VAULT/1 NOTAS LITERAIS/O MITO DA IA\|O MITO DA IA]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/humanos de 500 anos de idade\|humanos de 500 anos de idade]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/humanos de 500 anos de idade\|humanos de 500 anos de idade]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/4/Ray Kurzweil - notas conectadas\|Ray Kurzweil - notas conectadas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Why the Future Doesn_t Need Us\|Why the Future Doesn_t Need Us]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Mind Children - H Moravec\|Mind Children - H Moravec]]
