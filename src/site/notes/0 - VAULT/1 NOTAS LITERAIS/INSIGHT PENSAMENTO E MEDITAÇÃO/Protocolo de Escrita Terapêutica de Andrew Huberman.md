@@ -9,7 +9,7 @@
 - 21:27
 ## relacionados:
 - notas:
-1. [[0 - VAULT/3 NOTAS PARA REVISAR/1/Protocolo de escrita para saúde\|Protocolo de escrita para saúde]]
+1. [[0 - VAULT/1 NOTAS LITERAIS/psique/Protocolo de escrita para saúde\|Protocolo de escrita para saúde]]
 2. [[0 - VAULT/2 NOTAS PERMANENTES/Protocolo de escrita para saúde - consensus\|Protocolo de escrita para saúde - consensus]]
 3. [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Writing About Emotional Experiences as a Therapeutic Process\|Writing About Emotional Experiences as a Therapeutic Process]]
 - tags: #sciencebitch #psique #filosofia

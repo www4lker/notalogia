@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-07-08
 - Hora: 21:12
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/do obsidian ao scrivener\|do obsidian ao scrivener]]
+- [[0 - VAULT/1 NOTAS LITERAIS/meta notas/do obsidian ao scrivener\|do obsidian ao scrivener]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Guia para transformar sua pesquisa em forma escrita\|Guia para transformar sua pesquisa em forma escrita]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como fazer meu sistema zettelkasten no Obsidian\|Como fazer meu sistema zettelkasten no Obsidian]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Long form e outros jeitos de escrever seu primeiro livro\|Long form e outros jeitos de escrever seu primeiro livro]]

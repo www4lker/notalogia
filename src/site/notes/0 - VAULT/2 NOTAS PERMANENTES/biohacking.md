@@ -24,7 +24,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/huberman husbands\|1 NOTAS LITERAIS/huberman husbands.md]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/4/livro Optimal Illusions (Ilusões Ótimas) - INT\|NOTAS PARA REVISAR/4/livro Optimal Illusions (Ilusões Ótimas) - INT.md]]
 - [[0 - VAULT/1 NOTAS LITERAIS/justificativas para o biohacking\|1 NOTAS LITERAIS/justificativas para o biohacking.md]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/1/a relação  entre antropoceno e biohacking\|a relação  entre antropoceno e biohacking]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/a relação  entre antropoceno e biohacking\|a relação  entre antropoceno e biohacking]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Castanhas do pará\|1 NOTAS LITERAIS/Castanhas do pará.md]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Ganoderma\|1 NOTAS LITERAIS/Ganoderma.md]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Hericium + Ganoderma\|Hericium + Ganoderma]]
@@ -45,7 +45,7 @@ As práticas de biohacking podem variar desde intervenções simples, como o jej
 O biohacking está intimamente ligado ao movimento transumanista, que defende o uso da tecnologia para transcender as limitações biológicas humanas e alcançar novos níveis de capacidade e longevidade [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]].
 
 ### 4. **Biohacking e a Era do Antropoceno**
-A relação entre biohacking e o Antropoceno é explorada na nota [[0 - VAULT/3 NOTAS PARA REVISAR/1/a relação  entre antropoceno e biohacking\|a relação  entre antropoceno e biohacking]]. Ambas as áreas envolvem a intervenção humana no ambiente natural e levantam questões éticas sobre o impacto dessas intervenções no futuro da humanidade.
+A relação entre biohacking e o Antropoceno é explorada na nota [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/a relação  entre antropoceno e biohacking\|a relação  entre antropoceno e biohacking]]. Ambas as áreas envolvem a intervenção humana no ambiente natural e levantam questões éticas sobre o impacto dessas intervenções no futuro da humanidade.
 
 ### 5. **Biohacking e a Cultura Contemporânea**
 O biohacking também é visto como parte de uma tendência mais ampla na cultura contemporânea de buscar a auto-otimização e o aprimoramento pessoal. Isso é evidenciado pelo interesse em práticas como a "Rotina Blecaute" para melhorar a qualidade do sono [[0 - VAULT/1 NOTAS LITERAIS/Rotina blecaute\|1 NOTAS LITERAIS/Rotina blecaute.md]] e o uso de suplementos como o Hericium erinaceus e o Ganoderma para benefícios cognitivos e de saúde [[0 - VAULT/1 NOTAS LITERAIS/Hericium erinaceus - os benefícios comprovados do cogumelos\|Hericium erinaceus - os benefícios comprovados do cogumelos]] [[0 - VAULT/1 NOTAS LITERAIS/Ganoderma\|1 NOTAS LITERAIS/Ganoderma.md]].

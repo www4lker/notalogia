@@ -25,7 +25,7 @@
 14. [[0 - VAULT/2 NOTAS PERMANENTES/A poeta sem exagero\|A poeta sem exagero]]
 15. [[0 - VAULT/2 NOTAS PERMANENTES/Pai, sua bênção, pois quero aprender programação\|Pai, sua bênção, pois quero aprender programação]]
 16. [[0 - VAULT/2 NOTAS PERMANENTES/some philosophical insights into making money or at least cutting living costs\|some philosophical insights into making money or at least cutting living costs]]
-17. [[0 - VAULT/2 NOTAS PERMANENTES/o cirurgião dentista especialista em ATM\|o cirurgião dentista especialista em ATM]]
+17. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/o cirurgião dentista especialista em ATM\|o cirurgião dentista especialista em ATM]]
 18. [[0 - VAULT/2 NOTAS PERMANENTES/Self tracking - 11 pontos\|Self tracking - 11 pontos]]
 19. [[0 - VAULT/1 NOTAS LITERAIS/ideias para escrever\|ideias para escrever]]
 20. [[0 - VAULT/1 NOTAS LITERAIS/write non fiction or autofiction\|write non fiction or autofiction]]

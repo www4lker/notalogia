@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: [[0 - VAULT/3 NOTAS PARA REVISAR/2/alan wake II\|alan wake II]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/4/true detective - nexo jornal\|true detective - nexo jornal]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Monsieur Spade\|Monsieur Spade]], 
+- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Monsieur Spade - Gênesis e Contextualização\|Monsieur Spade - Gênesis e Contextualização]], 
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/A murder at the end of the world - série televisiva da FX\|A murder at the end of the world - série televisiva da FX]]
 - tags: #hardboiled, #lit #literatura #tv #cultura 
 - https://www.newyorker.com/magazine/2024/01/22/true-detective-tv-review-hbo-max
