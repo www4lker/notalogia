@@ -26,14 +26,12 @@ Destacamos que esse é um projeto aberto e sempre em evolução. Seguindo o esp�
 > 4. [[0 - VAULT/2 NOTAS PERMANENTES/jardins digitais\|jardins digitais]]
 > 5. [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/obsidian - o fenômeno\|obsidian - o fenômeno]]
 
-**[](obsidian%20-%20o%20fenômeno.md)g minimalista](https://blog.walker.eco.br/)==**
+**==Conheça meu [blog minimalista](https://blog.walker.eco.br/)==**
 
 #digital #jardimdigital #meta #zettelkasten 
 #meta #zettelkasten
 
 **Agradeço ao [Ole Eskild Steensen](https://github.com/oleeskild/obsidian-digital-garden) pelo plugin que permitiu esse site nascer.**
-
----
 
 [^1]: Foto de <a href="https://unsplash.com/pt-br/@ubahnverleih?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">C M</a> na <a href="https://unsplash.com/pt-br/fotografias/livros-nas-prateleiras-no-quarto-X_j3b4rqnlk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 [^2]: Como mencionado em um livro chamado [How to Take Smart Notes de Sönke Ahrens](https://www.amazon.com.br/How-Take-Smart-Notes-Technique/dp/3982438802) e no site [zettelkesten.de](https://zettelkasten.de/)
