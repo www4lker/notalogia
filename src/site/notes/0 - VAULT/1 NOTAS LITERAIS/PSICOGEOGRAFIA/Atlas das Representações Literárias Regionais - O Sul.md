@@ -8,11 +8,11 @@
 - 26-09-2023
 - 18:08
 ## relacionados:
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/2/Cultura Sulista - trabalho de geografia regional\|Cultura Sulista - trabalho de geografia regional]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Cultura Sulista - trabalho de geografia regional\|Cultura Sulista - trabalho de geografia regional]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - PREFACIO\|ARLR - PREFACIO]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/2/ARLR - int\|ARLR - int]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - glossário\|ARLR - glossário]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/As origens do Gaúcho - Eduardo bueno\|As origens do Gaúcho - Eduardo bueno]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/As origens do Gaúcho - Eduardo bueno\|As origens do Gaúcho - Eduardo bueno]]
 - tags: #lit #literatura 
 - Fontes & Links: https://www.ibge.gov.br/geociencias/atlas/tematicos/16364-atlas-das-representacoes-literarias-de-regioes-brasileiras-brasil-meridional.html?edicao=16373
 - tags: #geo #lit #literatura 

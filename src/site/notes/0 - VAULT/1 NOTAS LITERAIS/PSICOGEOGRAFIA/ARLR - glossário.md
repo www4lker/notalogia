@@ -8,11 +8,11 @@
 - 27-09-2023
 - 08:04
 ## relacionados:
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/2/amigo punk - lição\|amigo punk - lição]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/amigo punk - lição\|amigo punk - lição]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/2/ARLR - SIGNIFICADO\|ARLR - SIGNIFICADO]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - Cap 1\|ARLR - Cap 1]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - PREFACIO\|ARLR - PREFACIO]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/Cultura Sulista - trabalho de geografia regional\|Cultura Sulista - trabalho de geografia regional]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Cultura Sulista - trabalho de geografia regional\|Cultura Sulista - trabalho de geografia regional]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/conceitos de região, regionalidade e regionalização\|conceitos de região, regionalidade e regionalização]]
 - tags: #geo #lit #literatura 
 - Fontes & Links: https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=280931
