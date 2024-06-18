@@ -10,14 +10,14 @@
 
 - palavras-chave: #meta #zettelkasten #produtividades #insumos #criatividade #insight #obsidian 
 - notas: 
-- [[2 - NOTAS PERMANENTES/zettelkasten\|2 - NOTAS PERMANENTES/zettelkasten]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/zettelkasten\|zettelkasten]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/zetteltipity\|zetteltipity]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/PKM AS A FRAGMENTATION OF WORLDVIEW\|PKM AS A FRAGMENTATION OF WORLDVIEW]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/pkm - personal knowledge management\|pkm - personal knowledge management]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/criticismo PKM\|criticismo PKM]]
 - [[0 - VAULT/1 NOTAS LITERAIS/conhecimento contingente e PKM\|1 NOTAS LITERAIS/conhecimento contingente e PKM]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Reflexão sobre a eficiência versus exploração no PKM\|Reflexão sobre a eficiência versus exploração no PKM]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/culto ao obsidian\|culto ao obsidian]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/culto ao obsidian\|culto ao obsidian]]
 
 ---
 

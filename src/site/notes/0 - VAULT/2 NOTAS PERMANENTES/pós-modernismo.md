@@ -17,7 +17,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Tudo que é sólido desmancha no ar\|Tudo que é sólido desmancha no ar]]
 - [[Severance\|Severance]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/ABSTRACT PHANTOM\|ABSTRACT PHANTOM]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Lyotard, Jean-François\|Lyotard, Jean-François]]
+- [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Lyotard, Jean-François\|Lyotard, Jean-François]]
 ---
 >O pós-modernismo é frequentemente visto como um conceito indefinível, mas pode ser entendido como um conjunto de práticas que utilizam conceitos como diferença e repetição para desafiar ideias como presença, identidade e certeza.
 

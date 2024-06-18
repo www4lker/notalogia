@@ -10,7 +10,7 @@
 
 - palavras-chave: #meta #zettelkasten #produtividades #insumos #criatividade #insight #obsidian #filosofia #geo #lit 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/PKM AS A FRAGMENTATION OF WORLDVIEW\|PKM AS A FRAGMENTATION OF WORLDVIEW]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Lyotard, Jean-François\|Lyotard, Jean-François]]
+- [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Lyotard, Jean-François\|Lyotard, Jean-François]]
 - [[0 - VAULT/1 NOTAS LITERAIS/criticismo PKM 2.0\|criticismo PKM 2.0]]
 - [[2 - NOTAS PERMANENTES/zettelkasten\|2 - NOTAS PERMANENTES/zettelkasten]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/zetteltipity\|zetteltipity]]

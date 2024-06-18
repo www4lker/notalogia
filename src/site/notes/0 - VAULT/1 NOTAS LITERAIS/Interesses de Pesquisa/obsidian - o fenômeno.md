@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/obsidian\|obsidian]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Why note-taking apps don’t make us smarter\|Why note-taking apps don’t make us smarter]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/culto ao obsidian\|culto ao obsidian]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/culto ao obsidian\|culto ao obsidian]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Notas eficazes segundo Annotation - MIT Press\|Notas eficazes segundo Annotation - MIT Press]]
 - tags: #massacritica #meta #zettelkasten #escrivão #produtividades
 - Fontes & Links: https://www.fastcompany.com/90960653/why-people-are-obsessed-with-obsidian-the-indie-darling-of-notetaking-apps

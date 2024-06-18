@@ -24,7 +24,7 @@
 - [[Filosofia e Geografia na Cultura Contemporânea\|Filosofia e Geografia na Cultura Contemporânea]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Content, por Kate Eichorn\|Content, por Kate Eichorn]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/its the content killing the culture - wisecrack edition\|its the content killing the culture - wisecrack edition]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/5 ChatGPT Prompts To Create Awesome Content (That Actually Sounds Like You)\|5 ChatGPT Prompts To Create Awesome Content (That Actually Sounds Like You)]]
+- [[0 - VAULT/1 NOTAS LITERAIS/meta notas/5 ChatGPT Prompts To Create Awesome Content (That Actually Sounds Like You)\|5 ChatGPT Prompts To Create Awesome Content (That Actually Sounds Like You)]]
 - tags: #internet #disserte #promptgpt3 #interessesdepesquisa #podkasten #mestredeculturacontemporanea #memai 
 ---
 

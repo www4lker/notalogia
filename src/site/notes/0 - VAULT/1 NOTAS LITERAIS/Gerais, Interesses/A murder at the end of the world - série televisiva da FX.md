@@ -9,7 +9,7 @@
 - 21:37
 ## relacionados:
 - notas:
--  [[0 - VAULT/3 NOTAS PARA REVISAR/2/alan wake II\|alan wake II]]
+-  [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Alan Wake II - Maestria da narrativa\|Alan Wake II - Maestria da narrativa]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/4/true detective - nexo jornal\|true detective - nexo jornal]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Monsieur Spade - Gênesis e Contextualização\|Monsieur Spade - Gênesis e Contextualização]]
 - tags: #hardboiled, #lit #literatura #tv #cultura #mestredeculturacontemporanea 

@@ -11,7 +11,7 @@
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/The band Always - entrevista\|The band Always - entrevista]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ouvindo the caretaker\|ouvindo the caretaker]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/alan wake II\|alan wake II]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Alan Wake II - Maestria da narrativa\|Alan Wake II - Maestria da narrativa]]
 - [[pie chart musical\|pie chart musical]]
 - tags:
 - #mestredeculturacontemporanea

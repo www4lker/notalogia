@@ -23,7 +23,7 @@ criado em: 16:06 2022-10-17
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/A ascensão da indústria de conteúdo\|A ascensão da indústria de conteúdo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/A revolução das máquinas de conteúdo\|A revolução das máquinas de conteúdo]]
 - [[ história da ascensão da IC\| história da ascensão da IC]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Lyotard, Jean-François\|Lyotard, Jean-François]]
+- [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Lyotard, Jean-François\|Lyotard, Jean-François]]
 
 ---
 

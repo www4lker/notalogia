@@ -8,7 +8,7 @@
 - 20-01-2024
 - 18:20
 ## relacionados:
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/2/alan wake II\|alan wake II]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Alan Wake II - Maestria da narrativa\|Alan Wake II - Maestria da narrativa]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/4/true detective - nexo jornal\|true detective - nexo jornal]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Monsieur Spade - Gênesis e Contextualização\|Monsieur Spade - Gênesis e Contextualização]], 
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/A murder at the end of the world - série televisiva da FX\|A murder at the end of the world - série televisiva da FX]]

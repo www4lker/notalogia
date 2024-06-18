@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/minhas-notas-disponiveis-em-um-site-novo/","tags":["meta","zettelkasten","podkasten","gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/minhas-notas-disponiveis-em-um-site-novo/","tags":["meta","zettelkasten","jardimdigital","academia","interessesgerais","pesquisa","PKM","gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 ![090909.jpg](https://mataroa.blog/images/9a181eea.jpeg)[^1]
@@ -17,19 +17,22 @@ O Notalogia é muito mais do que uma simples coleção de notas. É um espaço p
 
 Destacamos que esse é um projeto aberto e sempre em evolução. Seguindo o espírito da fase beta de desenvolvimento de software, o NOTALOGIA está sempre em fluxo e mudança. Espero que mais pessoas possam apreciar o valor de criar seus próprios cantinhos digitais, e convido os leitores a explorar esse conceito e criar seus próprios espaços pessoais na internet. 
 
-**Segue um índice, embora minha sugestão seja se deixar levar por aquilo que parecer mais interessantes:**
 
-> [!NOTE] Índice
+> [!INFO] Fale comigo
+> Sugestões, correções, críticas & elogios em: [niilist@gmail.com](mailto:niilist@gmail.com)
+
+**Índice sugestivo:**
+
 > 1. [[0 - VAULT/2 NOTAS PERMANENTES/HASHTAG META\|HASHTAG META]]
 > 2. [[0 - VAULT/2 NOTAS PERMANENTES/HASHTAG filosofia\|HASHTAG filosofia]]
 > 3. [[0 - VAULT/2 NOTAS PERMANENTES/INSIGHT hashtag\|INSIGHT hashtag]]
 > 4. [[0 - VAULT/2 NOTAS PERMANENTES/jardins digitais\|jardins digitais]]
 > 5. [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/obsidian - o fenômeno\|obsidian - o fenômeno]]
+> 6. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/digital garden\|digital garden]]
+> 7. [[0 - VAULT/2 NOTAS PERMANENTES/zettelkasten\|zettelkasten]]
+> 8. [[0 - VAULT/1 NOTAS LITERAIS/meta notas/NOTAS PERMANENTES1\|NOTAS PERMANENTES1]]
 
 **==Conheça meu [blog minimalista](https://blog.walker.eco.br/)==**
-
-#digital #jardimdigital #meta #zettelkasten 
-#meta #zettelkasten
 
 **Agradeço ao [Ole Eskild Steensen](https://github.com/oleeskild/obsidian-digital-garden) pelo plugin que permitiu esse site nascer.**
 

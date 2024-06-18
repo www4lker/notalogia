@@ -44,7 +44,7 @@
 
 **Comentário**: A escrita diária de ficção é fundamental para a saúde mental do autor. Bloqueios na escrita podem levar a depressão e a comportamentos desagradáveis.
 
-[[0 - VAULT/3 NOTAS PARA REVISAR/2/alan wake II\|alan wake II]]
+[[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Alan Wake II - Maestria da narrativa\|Alan Wake II - Maestria da narrativa]]
 
 ### Equilíbrio entre Qualidade e Quantidade
 
