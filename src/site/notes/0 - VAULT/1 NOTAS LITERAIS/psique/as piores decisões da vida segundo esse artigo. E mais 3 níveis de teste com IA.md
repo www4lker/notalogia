@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/lições de um retiro longo de meditação\|lições de um retiro longo de meditação]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/Analogia do rio e do balde\|Analogia do rio e do balde]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/Analogia do rio e do balde para entender como consumimos informação\|Analogia do rio e do balde para entender como consumimos informação]]
 - tags: #psique #totalizante #chatbot 
 - Fontes & Links: https://www.yourtango.com/self/worst-decisions-you-can-make-in-life-according-to-experts
 ---

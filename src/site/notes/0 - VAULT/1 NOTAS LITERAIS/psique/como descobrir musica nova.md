@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/Como parar de viver no piloto automático\|Como parar de viver no piloto automático]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/Ao vivo com Pexis\|Ao vivo com Pexis]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Ao vivo com Pexis\|Ao vivo com Pexis]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Four Tet na Pitchfork\|Four Tet na Pitchfork]]
 - [[0 - VAULT/1 NOTAS LITERAIS/entrevista com Four Tet\|entrevista com Four Tet]]
 - tags: #cultura #sons #mestredeculturacontemporanea #insight 

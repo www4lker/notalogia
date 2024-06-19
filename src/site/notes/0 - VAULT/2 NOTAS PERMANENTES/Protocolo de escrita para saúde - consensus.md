@@ -9,7 +9,7 @@
 - 12:28
 ## relacionados:
 - notas: [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Manual do Método de Journaling para Melhoria da Saúde Mental e Física\|Manual do Método de Journaling para Melhoria da Saúde Mental e Física]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/A neuroplasticidade do córtex pré-frontal (CPF) é fundamental para os efeitos positivos do journaling\|A neuroplasticidade do córtex pré-frontal (CPF) é fundamental para os efeitos positivos do journaling]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/A neuroplasticidade do córtex pré-frontal (CPF) é fundamental para os efeitos positivos do diário pessoal\|A neuroplasticidade do córtex pré-frontal (CPF) é fundamental para os efeitos positivos do diário pessoal]]
 1. #EscritaCurativa
 2. #VocabulárioEmocional
 3. #TraumaEPsicoterapia

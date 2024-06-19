@@ -11,7 +11,7 @@
 - 13:24
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/12 why buddhism is true\|12 why buddhism is true]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/13 why buddhism is true\|13 why buddhism is true]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/13 why buddhism is true\|13 why buddhism is true]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/14 why buddhism is true\|14 why buddhism is true]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/15 why buddhism is true\|15 why buddhism is true]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Robert Wright\|Robert Wright]]

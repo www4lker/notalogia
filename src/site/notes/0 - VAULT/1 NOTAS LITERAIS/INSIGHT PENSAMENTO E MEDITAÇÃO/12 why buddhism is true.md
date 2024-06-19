@@ -9,7 +9,7 @@
 - 03-12-2023
 - 13:12
 ## relacionados:
-- Notas: [[0 - VAULT/3 NOTAS PARA REVISAR/2/13 why buddhism is true\|13 why buddhism is true]]
+- Notas: [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/13 why buddhism is true\|13 why buddhism is true]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/14 why buddhism is true\|14 why buddhism is true]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/15 why buddhism is true\|15 why buddhism is true]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Robert Wright\|Robert Wright]]

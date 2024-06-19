@@ -8,7 +8,7 @@
 - 04-12-2023
 - 12:58
 ## relacionados:
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/2/Analogia do rio e do balde\|Analogia do rio e do balde]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/Analogia do rio e do balde para entender como consumimos informação\|Analogia do rio e do balde para entender como consumimos informação]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/um roteiro de leitura de Os Ensaios de Montaigne\|um roteiro de leitura de Os Ensaios de Montaigne]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Quitando o historico do YT\|Quitando o historico do YT]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/MESTRADO 2024 - REFLEXÕES\|MESTRADO 2024 - REFLEXÕES]]

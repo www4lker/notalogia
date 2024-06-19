@@ -9,7 +9,7 @@
 - 22:46
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Notas essencias de Work, por James Suzman\|Notas essencias de Work, por James Suzman]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/A conexão entre aceleração de partículas e práticas indígenas\|A conexão entre aceleração de partículas e práticas indígenas]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/A conexão entre aceleração de partículas e práticas indígenas\|A conexão entre aceleração de partículas e práticas indígenas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo\|Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo]]
 - tags: #nãoficção #disserte #interessesdepesquisa #eternoaprendiz #totalizante #pessoalidades #householder #ceticismo #sciencebitch 
 - Fontes & Links: https://psyche.co/ideas/digging-for-answers-in-a-cave-filled-with-neanderthal-skeletons

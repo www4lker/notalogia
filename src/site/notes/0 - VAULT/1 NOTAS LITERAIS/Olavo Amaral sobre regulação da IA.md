@@ -12,7 +12,7 @@
 1. [[0 - VAULT/2 NOTAS PERMANENTES/Don’t ask if artificial intelligence is good or fair, ask how it shifts power\|Don’t ask if artificial intelligence is good or fair, ask how it shifts power]]
 2. [[0 - VAULT/1 NOTAS LITERAIS/Regulando a inteligência artificial\|Regulando a inteligência artificial]]
 3. [[0 - VAULT/2 NOTAS PERMANENTES/IA E PRIVACIDADE - USO COM BOM SENSO\|IA E PRIVACIDADE - USO COM BOM SENSO]]
-4. [[0 - VAULT/3 NOTAS PARA REVISAR/2/A IA em 2023 - e o que esperar em 2024\|A IA em 2023 - e o que esperar em 2024]]
+4. [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/A IA em 2023 - e o que esperar em 2024\|A IA em 2023 - e o que esperar em 2024]]
 - tags: palavras-chave: #promptgpt3 #meta #zettelkasten #1000palavrasoumais #disserte #newsletter #ceticismo #escrita #filosofia #mestredeculturacontemporanea #totalizante #criatividade #episteme
 - Fontes & Links: https://www.nexojornal.com.br/colunistas/2024/06/11/inteligencia-artificial-riscos-debate
 ---

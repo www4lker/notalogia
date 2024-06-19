@@ -11,7 +11,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/anti-psicodelia\|anti-psicodelia]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Ray Kurzweil - ZT\|Ray Kurzweil - ZT]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Psiquiatras, Professores e o Paradoxo de Moravec\|Psiquiatras, Professores e o Paradoxo de Moravec]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/A IA em 2023 - e o que esperar em 2024\|A IA em 2023 - e o que esperar em 2024]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/A IA em 2023 - e o que esperar em 2024\|A IA em 2023 - e o que esperar em 2024]]
 - [[0 - VAULT/1 NOTAS LITERAIS/review On the Mode of Existence of Technical Objects by Simondon\|review On the Mode of Existence of Technical Objects by Simondon]]
 - tags: #filosofia #tecnologia #mestredeculturacontemporanea #filosofia #pesquisa #interessesdepesquisa #interessesgerais #ceticismo #disserte #criatividade #ludismoiluminado
 - [Fontes](https://1ft.io/proxy?q=https://www.estadao.com.br/link/cultura-digital/ray-kurzweil-longevidade-humana-inteligencia-artificial/#amp_tf=De%2520%25251%2524s&aoh=17107048923464&csi=0&referrer=https%253A%252F%252Fwww.google.com&ampshare=https%253A%252F%252Fwww.estadao.com.br%252Flink%252Fcultura-digital%252Fray-kurzweil-longevidade-humana-inteligencia-artificial%252F)

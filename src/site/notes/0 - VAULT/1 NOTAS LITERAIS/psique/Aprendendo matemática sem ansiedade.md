@@ -14,6 +14,7 @@
 -  [[0 - VAULT/1 NOTAS LITERAIS/psique/Aprendendo matemática sem ansiedade\|Aprendendo matemática sem ansiedade]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/Teach Yourself Programming in Ten Years\|Teach Yourself Programming in Ten Years]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Por que a matemática e a literatura são uma fórmula vencedora\|Por que a matemática e a literatura são uma fórmula vencedora]]
+- [[0 - VAULT/1 NOTAS LITERAIS/psique/How I Rewired My Brain to Become Fluent in Math\|How I Rewired My Brain to Become Fluent in Math]]
 
  #toolstolife #anelo #lit #literatura #academia #academico #meth #psique 
 - Fontes & Links: https://www.edx.org/learn/math/stanford-university-how-to-learn-math-for-students

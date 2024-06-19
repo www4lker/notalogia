@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Cultura Sulista - trabalho de geografia regional\|Cultura Sulista - trabalho de geografia regional]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - PREFACIO\|ARLR - PREFACIO]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/ARLR - int\|ARLR - int]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - int\|ARLR - int]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - glossário\|ARLR - glossário]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/As origens do Gaúcho - Eduardo bueno\|As origens do Gaúcho - Eduardo bueno]]
 - tags: #lit #literatura 

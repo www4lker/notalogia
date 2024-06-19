@@ -11,6 +11,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Alan wake 2 e a literatura ergódica\|Alan wake 2 e a literatura ergódica]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Joguei 700 horas de rimworld e ainda tô aprendendo - wiredetal\|Joguei 700 horas de rimworld e ainda tô aprendendo - wiredetal]]
 - [[0 - VAULT/1 NOTAS LITERAIS/podcast mfc Jogos Bizarros\|podcast mfc Jogos Bizarros]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/ALAN WAKE AWE\|ALAN WAKE AWE]]
 - tags: #hardboiled, #lit #literatura #tv #cultura #games #mestredeculturacontemporanea 
 ---
 # Alan Wake 2: Destaque Narrativo de 2023

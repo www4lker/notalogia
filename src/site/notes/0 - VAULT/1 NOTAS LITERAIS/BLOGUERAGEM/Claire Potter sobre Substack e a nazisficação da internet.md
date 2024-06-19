@@ -8,7 +8,7 @@
 - 01-01-2024
 - 16:55
 ## relacionados:
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/2/A Polêmica do Substack com Conteúdos Neonazistas\|A Polêmica do Substack com Conteúdos Neonazistas]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/A Polêmica do Substack com Conteúdos Neonazistas\|A Polêmica do Substack com Conteúdos Neonazistas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/A merdificação das plataformas\|A merdificação das plataformas]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/substackers contra nazis\|substackers contra nazis]]
 - tags:  #substack  #textão #anglo #leitura #interessesgerais #mestredeculturacontemporanea #insumos 

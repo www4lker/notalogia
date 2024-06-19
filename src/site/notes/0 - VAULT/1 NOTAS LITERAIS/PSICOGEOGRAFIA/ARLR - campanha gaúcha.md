@@ -9,13 +9,13 @@
 - 18:33
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Atlas das Representações Literárias Regionais - O Sul\|Atlas das Representações Literárias Regionais - O Sul]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/ARLR - int\|ARLR - int]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - int\|ARLR - int]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - missões jesuíticas\|ARLR - missões jesuíticas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Cultura Sulista - trabalho de geografia regional\|Cultura Sulista - trabalho de geografia regional]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - PREFACIO\|ARLR - PREFACIO]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/ARLR - Colonias\|ARLR - Colonias]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/ARLR - Vale Itajaí\|ARLR - Vale Itajaí]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/ARLR - Paraná\|ARLR - Paraná]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - Colonias\|ARLR - Colonias]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - Vale Itajaí\|ARLR - Vale Itajaí]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - Paraná\|ARLR - Paraná]]
 - tags: #geo #lit #literatura 
 - Fontes & Links: https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=280931
 ---

@@ -24,7 +24,7 @@ criado em: 10:13 2022-09-30
 #### Relacionado
 - palavras-chave: #promptgpt3 #mestredeculturacontemporanea 
 - notas:
-- [[0 - VAULT/2 NOTAS PERMANENTES/MESTRE DE CULTURA CONTEMPORÂNEA - 202210201143\|MESTRE DE CULTURA CONTEMPORÂNEA - 202210201143]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ECCO/diagnosticar não é “predizer”, mas estar atento ao desconhecido que bate à porta\|diagnosticar não é “predizer”, mas estar atento ao desconhecido que bate à porta]]
 - 
 ---
 # mestrado em cultura contemporânea

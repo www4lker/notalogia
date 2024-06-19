@@ -20,23 +20,23 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/051223\|051223]] - dia 0
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/061223\|061223]] - dia 1
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/071223\|071223]] - dia 2 
-	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 071223\|NK - 071223]]
+	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 071223\|NK - 071223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/081223\|081223]] - dia 3
-	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 081223\|NK - 081223]]
+	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 081223\|NK - 081223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/091223\|091223]] - dia 4
-	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 091223\|NK - 091223]]
+	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 091223\|NK - 091223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/101223\|101223]] - dia 5
-	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 101223\|NK - 101223]]
+	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 101223\|NK - 101223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/111223\|111223]] - dia 6
-	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 111223\|NK - 111223]]
+	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 111223\|NK - 111223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/121223\|121223]] - dia 7
-	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 121223\|NK - 121223]]
+	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 121223\|NK - 121223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/131223\|131223]] - dia 8
-	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 131223\|NK - 131223]]
+	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 131223\|NK - 131223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/141223\|141223]] - dia 9
-	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 141223\|NK - 141223]]
+	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 141223\|NK - 141223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/151223\|151223]] -  dia 10
-	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/NK - 151223\|NK - 151223]]
+	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 151223\|NK - 151223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/161223\|161223]] - dia final
 
 ---

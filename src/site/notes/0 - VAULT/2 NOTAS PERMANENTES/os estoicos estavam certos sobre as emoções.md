@@ -11,7 +11,7 @@
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/como se tornar mais estoico - um guia\|como se tornar mais estoico - um guia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Necessidade de Consciência Emocional\|Necessidade de Consciência Emocional]]
 - [[Farnsworth-Lizardo-Ser Estoico\|Farnsworth-Lizardo-Ser Estoico]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/365 ideias estoicas\|365 ideias estoicas]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/365 ideias estoicas\|365 ideias estoicas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INTELIGÊNCIA EMOCIONAL - caminho das pedras\|INTELIGÊNCIA EMOCIONAL - caminho das pedras]]
 - tags: #totalizante #vipassana #pessoalidades #TerapiaPelaEscrita #TraumaEPsicoterapia #filosofia
 - Fontes & Links: https://psyche.co/ideas/the-stoics-were-right-emotional-control-is-good-for-the-soul

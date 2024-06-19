@@ -11,7 +11,7 @@
 
 ### Conteúdo Relacionado
 
-- notas: [[0 - VAULT/2 NOTAS PERMANENTES/literature and metacog\|literature and metacog]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/literature, at least in theory, enhance my metacognition\|literature, at least in theory, enhance my metacognition]]
 - tags: #vipassana #meditacao #habitanimal 
 - Fontes & Links: 
 ---

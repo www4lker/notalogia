@@ -17,7 +17,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/Fracasse estrategicamente\|Fracasse estrategicamente]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/PRATIQUE O NÃO-FAZER\|PRATIQUE O NÃO-FAZER]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/nos relacionamentos, seja curioso como uma criança ou um cientista\|nos relacionamentos, seja curioso como uma criança ou um cientista]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/Analogia do rio e do balde\|Analogia do rio e do balde]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/Analogia do rio e do balde para entender como consumimos informação\|Analogia do rio e do balde para entender como consumimos informação]]
 - tags: #mementomori #criatividade #toolstolife #ceticismo 
 ---
 

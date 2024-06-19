@@ -63,7 +63,7 @@ criado em: 11:51 2022-08-03
 - [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/podcast heitor cony\|podcast heitor cony]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/sobre como alguem le\|sobre como alguem le]]
 - [[NOTAS DE LEITURA/LIVROS/Metodologia Do Trabalho Científico\|NOTAS DE LEITURA/LIVROS/Metodologia Do Trabalho Científico]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/1, 2, 3 TESTANDO... LITERATURA DIGITAL NO BRASIL HOJE\|1, 2, 3 TESTANDO... LITERATURA DIGITAL NO BRASIL HOJE]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ELIT/ELIT - NO BRASIL HOJE\|ELIT - NO BRASIL HOJE]]
 - [[O despertar de tudo\|O despertar de tudo]]
 - [[Larusso-333 páginas para tirar seu projeto do papel\|Larusso-333 páginas para tirar seu projeto do papel]]
 - [[220920221613 1\|220920221613 1]]

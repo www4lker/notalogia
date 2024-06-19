@@ -9,7 +9,7 @@
 - 18:30
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Atlas das Representações Literárias Regionais - O Sul\|Atlas das Representações Literárias Regionais - O Sul]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/2/ARLR - int\|ARLR - int]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - int\|ARLR - int]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - Cap 1\|ARLR - Cap 1]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - campanha gaúcha\|ARLR - campanha gaúcha]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Cultura Sulista - trabalho de geografia regional\|Cultura Sulista - trabalho de geografia regional]]
