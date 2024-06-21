@@ -9,7 +9,7 @@
 - 05-09-2023
 - 01:09
 ## relacionados:
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/3/formas sóbrias de exercitar sua criatividade\|formas sóbrias de exercitar sua criatividade]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/formas sóbrias de exercitar sua criatividade\|formas sóbrias de exercitar sua criatividade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/COMO LER MAIS LIVROS - VIA NEXO\|COMO LER MAIS LIVROS - VIA NEXO]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/como evitar a falácia do colecionador\|como evitar a falácia do colecionador]]
 - tags: #filosofia #realworld #otimistarealista #totalizante #jardimdigital #meta #zettelkasten

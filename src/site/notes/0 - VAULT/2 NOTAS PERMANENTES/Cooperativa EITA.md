@@ -9,7 +9,7 @@
 - Hora: 11:54
 - notas: [[3 - DISSERTAÇÃO E PROJETOS PARALELOS/ANELO/expandindo\|expandindo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/projeto integrador\|projeto integrador]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/Por que sobram vagas em tecnologia e faltam empregos aos jovens\|Por que sobram vagas em tecnologia e faltam empregos aos jovens]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Por que sobram vagas em tecnologia e faltam empregos aos jovens\|Por que sobram vagas em tecnologia e faltam empregos aos jovens]]
 - tags: #geo #tecnologia #boradev 
 - Fontes & Links: https://eita.coop.br/trabalhe-conosco/
 ---

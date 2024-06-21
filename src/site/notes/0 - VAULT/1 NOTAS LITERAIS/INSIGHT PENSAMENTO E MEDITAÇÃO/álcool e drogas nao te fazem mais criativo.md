@@ -11,7 +11,7 @@
 ### Conteúdo Relacionado
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/no antigo império persa, os homens debatiam duas vezes\|no antigo império persa, os homens debatiam duas vezes]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/formas sóbrias de exercitar sua criatividade\|formas sóbrias de exercitar sua criatividade]]
+- [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/formas sóbrias de exercitar sua criatividade\|formas sóbrias de exercitar sua criatividade]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/Projeto Psiconautas\|Projeto Psiconautas]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/3/dicas de cultivo\|dicas de cultivo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/protocolo de md 2022\|protocolo de md 2022]]
