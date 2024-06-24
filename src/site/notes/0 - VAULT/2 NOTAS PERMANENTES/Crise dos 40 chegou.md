@@ -11,7 +11,7 @@
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/crise da meia idade\|crise da meia idade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como fazer amigos quando adulto\|Como fazer amigos quando adulto]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/TAD\|TAD]]
+- [[0 - VAULT/1 NOTAS LITERAIS/psique/TAD\|TAD]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/4/writting on retreats\|writting on retreats]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como praticar o Ileísmo para ser um tiquinho menos tolo\|Como praticar o Ileísmo para ser um tiquinho menos tolo]]
 - tags: #psique #bhavana #mementomori 

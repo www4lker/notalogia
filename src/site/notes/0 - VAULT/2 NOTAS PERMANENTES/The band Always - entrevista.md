@@ -10,8 +10,8 @@ entrevista pitoresca
 - 01:53
 ## relacionados:
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/ALVVAYS\|ALVVAYS]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/The Passenger and Stella Maris\|The Passenger and Stella Maris]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/Aproveitando o hype de Succession\|Aproveitando o hype de Succession]]
+- [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/The Passenger and Stella Maris\|The Passenger and Stella Maris]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Aproveitando o hype de Succession\|Aproveitando o hype de Succession]]
 - tags: 
 - #mestredeculturacontemporanea 
 - #BandaAlways

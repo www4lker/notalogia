@@ -10,7 +10,7 @@
 
 ### Conteúdo Relacionado
 - notas: 
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/Manual de Sobrevivência à era da IA\|Manual de Sobrevivência à era da IA]]
+- [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/Manual de Sobrevivência à era da IA\|Manual de Sobrevivência à era da IA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/conclusão das entrelinhas\|conclusão das entrelinhas]]
 palavras-chave: #promptgpt3 #meta #zettelkasten #1000palavrasoumais #disserte #newsletter #ceticismo #escrita #filosofia #mestredeculturacontemporanea #totalizante #criatividade #episteme #criatividade 
 - [[0 - VAULT/1 NOTAS LITERAIS/Fake News - definição\|Fake News - definição]]

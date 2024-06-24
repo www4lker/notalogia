@@ -22,7 +22,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/power down routine\|1 NOTAS LITERAIS/power down routine.md]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/lemon tek\|lemon tek]]
 - [[0 - VAULT/1 NOTAS LITERAIS/huberman husbands\|1 NOTAS LITERAIS/huberman husbands.md]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/4/livro Optimal Illusions (Ilusões Ótimas) - INT\|NOTAS PARA REVISAR/4/livro Optimal Illusions (Ilusões Ótimas) - INT.md]]
+- [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/livro Optimal Illusions (Ilusões Ótimas) - INT\|livro Optimal Illusions (Ilusões Ótimas) - INT]]
 - [[0 - VAULT/1 NOTAS LITERAIS/justificativas para o biohacking\|1 NOTAS LITERAIS/justificativas para o biohacking.md]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/a relação  entre antropoceno e biohacking\|a relação  entre antropoceno e biohacking]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Castanhas do pará\|1 NOTAS LITERAIS/Castanhas do pará.md]]

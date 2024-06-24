@@ -9,7 +9,7 @@
 - Hora: 10:58
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/ChatGPT está a chegar para as salas de aula. Não entre em pânico\|ChatGPT está a chegar para as salas de aula. Não entre em pânico]]
-  [[0 - VAULT/3 NOTAS PARA REVISAR/3/review de chat gpt, bard e bing chat\|review de chat gpt, bard e bing chat]]
+  [[0 - VAULT/1 NOTAS LITERAIS/meta notas/Comparação de ChatGPT, Bing Chat e Bard - wired zt\|Comparação de ChatGPT, Bing Chat e Bard - wired zt]]
 - tags: 
   #promptgpt3 #meta #zettelkasten #1000palavrasoumais #disserte #newsletter #ceticismo #escrita #filosofia #mestredeculturacontemporanea #totalizante #criatividade #episteme
 - Fontes & Links: [nexo - bardos](https://www.nexojornal.com.br/colunistas/2023/Somos-todos-bardos-contar-hist%C3%B3rias-na-era-da-IA)

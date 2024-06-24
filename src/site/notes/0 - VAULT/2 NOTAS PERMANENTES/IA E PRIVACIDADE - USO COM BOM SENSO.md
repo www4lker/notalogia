@@ -9,7 +9,7 @@
 - 20:01
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/pontos sensíveis de privacidade - PI Inflection AI e chatgpt\|pontos sensíveis de privacidade - PI Inflection AI e chatgpt]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/Manual de Sobrevivência à era da IA\|Manual de Sobrevivência à era da IA]]
+- [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/Manual de Sobrevivência à era da IA\|Manual de Sobrevivência à era da IA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
 - tags: #IAeÉtica #IAvsInteligênciaHumana #chatbot 
 ---

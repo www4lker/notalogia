@@ -9,7 +9,7 @@
 - 23:44
 ## relacionados:
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/chile - de pinochet à democratização\|chile - de pinochet à democratização]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/Infancia - P M Campos\|Infancia - P M Campos]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Infancia - P M Campos\|Infancia - P M Campos]]
 - tags: #geo #leitura #disserte 
 - Fontes & Links: https://www.youtube.com/watch?v=VPFQRdo_s2E&t=3734s
 ---

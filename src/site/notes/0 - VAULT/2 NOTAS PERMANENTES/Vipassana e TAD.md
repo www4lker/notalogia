@@ -9,8 +9,8 @@
 - Hora: 11:05
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/3/TAD\|TAD]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/Como TAD pode me ajudar\|Como TAD pode me ajudar]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/psique/TAD\|TAD]]
+- [[0 - VAULT/1 NOTAS LITERAIS/psique/Como TAD pode me ajudar\|Como TAD pode me ajudar]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - tags: #insight #totalizante #pessoalidades #householder
 ---

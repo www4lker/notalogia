@@ -9,7 +9,7 @@
 - 08-09-2023
 - 14:50
 ## relacionados:
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/3/concluindo sobre capitalismo e tecnologia\|concluindo sobre capitalismo e tecnologia]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/wired - sobre capitalismo e tecnologia\|wired - sobre capitalismo e tecnologia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Críticas ao capitalismo - desigualdade e exploração\|Críticas ao capitalismo - desigualdade e exploração]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Êxitos e deficiências do capitalismo\|Êxitos e deficiências do capitalismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/O capitalismo é um sistema econômico baseado na propriedade privada dos meios de produção e em sua operação com fins lucrativos\|O capitalismo é um sistema econômico baseado na propriedade privada dos meios de produção e em sua operação com fins lucrativos]]

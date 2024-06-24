@@ -9,7 +9,7 @@
 - 10:05
 ## relacionados:
 - notas: 
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/Manual de Sobrevivência à era da IA\|Manual de Sobrevivência à era da IA]]
+- [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/Manual de Sobrevivência à era da IA\|Manual de Sobrevivência à era da IA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/5 coisas sobre filosofia da tecnologia\|5 coisas sobre filosofia da tecnologia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/A revolução das máquinas de conteúdo\|A revolução das máquinas de conteúdo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Olavo Amaral sobre regulação da IA\|Olavo Amaral sobre regulação da IA]]

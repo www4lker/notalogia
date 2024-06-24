@@ -8,14 +8,14 @@
 - 23-03-2024
 - 09:05
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/missão da ciência da personalidade\|missão da ciência da personalidade]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/missão da ciência da personalidade\|missão da ciência da personalidade]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Necessidade de Consciência Emocional\|Necessidade de Consciência Emocional]]
 - [[0 - VAULT/1 NOTAS LITERAIS/São tantas emoções\|São tantas emoções]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Solidão pode ser boa\|Solidão pode ser boa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/self help está lavando sua mente - Alice Cappelle\|self help está lavando sua mente - Alice Cappelle]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/TAD\|TAD]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/TAD BBC\|TAD BBC]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/Como TAD pode me ajudar\|Como TAD pode me ajudar]]
+- [[0 - VAULT/1 NOTAS LITERAIS/psique/TAD\|TAD]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/O link crucial entre motivação e auto consciência\|O link crucial entre motivação e auto consciência]]
+- [[0 - VAULT/1 NOTAS LITERAIS/psique/Como TAD pode me ajudar\|Como TAD pode me ajudar]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Vipassana e TAD\|Vipassana e TAD]]
 - tags: #psique #filosofia #AUTODESCOBERTA #insight #totalizante #pessoalidades #householder
 - Fontes & Links: https://psyche.co/ideas/theres-a-reason-some-of-us-find-it-easier-to-change-than-others

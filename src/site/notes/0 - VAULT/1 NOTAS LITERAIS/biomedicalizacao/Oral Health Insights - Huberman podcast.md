@@ -8,8 +8,8 @@
 - 01-03-2024
 - 15:08
 ## relacionados:
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/3/HUBERMAN ON FAT LOSS\|HUBERMAN ON FAT LOSS]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/HUBERMAN ON DOPAMINE\|HUBERMAN ON DOPAMINE]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/HUBERMAN ON FAT LOSS\|HUBERMAN ON FAT LOSS]]
+- [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/HUBERMAN ON DOPAMINE\|HUBERMAN ON DOPAMINE]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/o cirurgião dentista especialista em ATM\|o cirurgião dentista especialista em ATM]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/TOTALIZANTE\|TOTALIZANTE]]
 - tags: #huberman-podcast #totalizante 

@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-08-26
 - Hora: 20:11
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Limitações dos aplicativos de anotações\|Limitações dos aplicativos de anotações]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/3/3 artigos da wired resumidos\|3 artigos da wired resumidos]]
+- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/3 artigos da wired resumidos\|3 artigos da wired resumidos]]
 - tags: 
 - #promptgpt3 #disserte #metodologia 
 - #internetdebate

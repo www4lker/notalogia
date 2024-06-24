@@ -52,7 +52,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/globalização cultural\|globalização cultural]]
 - [[0 - VAULT/1 NOTAS LITERAIS/hibridismo\|hibridismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Canclini, Néstor García\|Canclini, Néstor García]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Joyce, Jaime\|Joyce, Jaime]]
+- [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Joyce, Jaime\|Joyce, Jaime]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/traço.md\|DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/traço.md]]
 - [[0 - VAULT/1 NOTAS LITERAIS/différance\|différance]]
 - [[0 - VAULT/1 NOTAS LITERAIS/desconstrução\|desconstrução]]

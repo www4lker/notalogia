@@ -34,6 +34,6 @@
 
 [[0 - VAULT/2 NOTAS PERMANENTES/lições de um retiro longo de meditação\|lições de um retiro longo de meditação]]
 [[0 - VAULT/2 NOTAS PERMANENTES/de como filosofar é aprender a morrer\|de como filosofar é aprender a morrer]]
-[[0 - VAULT/3 NOTAS PARA REVISAR/3/TAD\|TAD]]
+[[0 - VAULT/1 NOTAS LITERAIS/psique/TAD\|TAD]]
 [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 091223\|NK - 091223]]
 #insight #psique #totalizante #householder
