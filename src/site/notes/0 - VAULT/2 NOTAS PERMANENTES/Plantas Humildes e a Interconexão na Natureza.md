@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/Micorriza\|Micorriza]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/4/Mysteries, Yes\|Mysteries, Yes]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/Mysteries, Yes\|Mysteries, Yes]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Merlin Sheldrake\|Merlin Sheldrake]]
 - [[0 - VAULT/1 NOTAS LITERAIS/A trama da vida - introdução\|A trama da vida - introdução]]
 - tags: #fungos #naturae #darkforest #psicodelico #sciencebitch #nãoficção

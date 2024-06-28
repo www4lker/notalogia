@@ -10,7 +10,7 @@
 
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/wired - sobre capitalismo e tecnologia\|wired - sobre capitalismo e tecnologia]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/Meganets - Dan Auerbach\|Meganets - Dan Auerbach]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Meganets - Dan Auerbach\|Meganets - Dan Auerbach]]
 - tags: #otimistarealista #wiredetal  #geo #mestredeculturacontemporanea 
 ---
 ## Technology Addiction Has Created a Self-Help Trap ([link](https://www.wired.com/story/gaia-bernstein-technology-tobacco/))

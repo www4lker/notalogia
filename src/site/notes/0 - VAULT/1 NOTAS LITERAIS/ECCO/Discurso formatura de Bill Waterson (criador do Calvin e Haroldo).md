@@ -8,7 +8,7 @@
 - 02-01-2024
 - 21:00
 ## relacionados:
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/4/When Philosophers Become Therapists\|When Philosophers Become Therapists]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/psique/When Philosophers Become Therapists\|When Philosophers Become Therapists]]
 - [[0 - VAULT/1 NOTAS LITERAIS/The achievement society is burning us out, we need more play\|The achievement society is burning us out, we need more play]]
 - [[0 - VAULT/1 NOTAS LITERAIS/no nothing - article meditation\|no nothing - article meditation]]
 - tags: #filosofia #mestredeculturacontemporanea #art 

@@ -18,7 +18,7 @@ criado em: 17:23 2022-08-04
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/a psilocibina no cerebro\|a psilocibina no cerebro]] 
 - [[NOTAS DE LEITURA/LIVROS/As Portas Da Percepção\|NOTAS DE LEITURA/LIVROS/As Portas Da Percepção]]
 -  [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/131020221204\|131020221204]]
-- [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/241020221931\|241020221931]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/Definição de microdose\|Definição de microdose]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/o fim do álcool\|o fim do álcool]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/Se você quer a cura psicodélica, seu ego pode precisar morrer\|Se você quer a cura psicodélica, seu ego pode precisar morrer]]
 

@@ -13,7 +13,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/práticas biohacker\|práticas biohacker]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/o que é biohacking\|o que é biohacking]]
 - [[Antropologia Do Ciborgue\|Antropologia Do Ciborgue]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/Antropoceno, Capitaloceno e Plantationoceno\|Antropoceno, Capitaloceno e Plantationoceno]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Antropoceno, Capitaloceno e Plantationoceno\|Antropoceno, Capitaloceno e Plantationoceno]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Happycracia\|Happycracia]]
 ---
 >write a critical essay on how transhumanism and the biohacker movement are in essence a side-effect of living in a capitalist era of exacerbated charging for productivity beyond limits; how the neoliberal constant has forced individuals to be executioners of themselves.

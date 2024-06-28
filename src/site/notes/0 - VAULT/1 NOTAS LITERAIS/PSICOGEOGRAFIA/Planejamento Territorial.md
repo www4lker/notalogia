@@ -9,7 +9,7 @@
 - 21:22
 ## relacionados:
 - notas:
-1. [[0 - VAULT/3 NOTAS PARA REVISAR/4/Telos ambiental\|Telos ambiental]]
+1. [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Telos ambiental\|Telos ambiental]]
 2. [[0 - VAULT/2 NOTAS PERMANENTES/Geografia Humana para Iniciantes\|Geografia Humana para Iniciantes]]
 - tags: #geo #paysage #TGP #teoriaGeográfica #paisagem #geografiaCultural #sciencebitch 
 ---

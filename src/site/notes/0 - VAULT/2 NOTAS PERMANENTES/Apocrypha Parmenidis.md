@@ -26,5 +26,5 @@ Britto, Paulo Henriques. Fim de verão (p. 22). Companhia das Letras. Edição d
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Infancia - P M Campos\|Infancia - P M Campos]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/analisando o poema do PHB\|analisando o poema do PHB]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/Paulo Mendes Campos\|Paulo Mendes Campos]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Paulo Mendes Campos\|Paulo Mendes Campos]]
 - tags: #meta #promptGPT #elit #literatura 

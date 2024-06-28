@@ -10,7 +10,7 @@
 ## relacionados:
 - notas:
 -  [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Alan Wake II - Maestria da narrativa\|Alan Wake II - Maestria da narrativa]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/4/true detective - nexo jornal\|true detective - nexo jornal]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Renascimento de 'True Detective' na Quarta Temporada - nexo jornal\|Renascimento de 'True Detective' na Quarta Temporada - nexo jornal]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Monsieur Spade - Gênesis e Contextualização\|Monsieur Spade - Gênesis e Contextualização]]
 - tags: #hardboiled, #lit #literatura #tv #cultura #mestredeculturacontemporanea 
 - Fontes & Links:  https://www.imdb.com/title/tt15227418/reviews?ref_=tt_urv

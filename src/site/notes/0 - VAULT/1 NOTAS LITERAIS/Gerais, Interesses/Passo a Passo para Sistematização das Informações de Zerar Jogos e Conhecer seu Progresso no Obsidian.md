@@ -122,6 +122,6 @@ Com esse passo a passo, você pode usar o Obsidian para criar uma base de conhec
 
 ---
 [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Cogumelando Games indica uso de planilha\|Cogumelando Games indica uso de planilha]]
-[[0 - VAULT/3 NOTAS PARA REVISAR/Usando Obsidian para Zerar jogos e conhecer seu progresso\|Usando Obsidian para Zerar jogos e conhecer seu progresso]]
+[[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Usando Obsidian para Zerar jogos e conhecer seu progresso\|Usando Obsidian para Zerar jogos e conhecer seu progresso]]
 
 tags: #PKM #games #mochila #checklist

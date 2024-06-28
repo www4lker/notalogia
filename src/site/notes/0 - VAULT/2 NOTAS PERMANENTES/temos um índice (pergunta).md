@@ -133,7 +133,7 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 - [[0 - VAULT/2 NOTAS PERMANENTES/insight sobre minha dissertação\|insight sobre minha dissertação]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/isso não é um blog\|isso não é um blog]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Jameson, Fredric\|Jameson, Fredric]]
+- [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Jameson, Fredric\|Jameson, Fredric]]
 - [[lendo fooquedeu\|lendo fooquedeu]]
 - [[lendo nuno ramos\|lendo nuno ramos]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)\|Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]

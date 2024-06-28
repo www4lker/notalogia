@@ -13,7 +13,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/IA WRITER sobre usar corretamente os recursos de IA\|IA WRITER sobre usar corretamente os recursos de IA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/analisando o poema do PHB\|analisando o poema do PHB]]
 - [[modernismo brasileiro\|modernismo brasileiro]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/Paulo Mendes Campos\|Paulo Mendes Campos]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Paulo Mendes Campos\|Paulo Mendes Campos]]
 - tags: #meta #promptGPT #elit #literatura 
 ---
 

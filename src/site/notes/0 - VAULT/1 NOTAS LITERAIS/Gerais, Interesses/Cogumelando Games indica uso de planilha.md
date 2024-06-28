@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-07-08
 - Hora: 17:28
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Passo a Passo para Sistematização das Informações de Zerar Jogos e Conhecer seu Progresso no Obsidian\|Passo a Passo para Sistematização das Informações de Zerar Jogos e Conhecer seu Progresso no Obsidian]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/Usando Obsidian para Zerar jogos e conhecer seu progresso\|Usando Obsidian para Zerar jogos e conhecer seu progresso]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Usando Obsidian para Zerar jogos e conhecer seu progresso\|Usando Obsidian para Zerar jogos e conhecer seu progresso]]
 - tags: #PKM #games #mochila #checklist #podkasten 
 - Fontes & Links: https://www.youtube.com/@Cogumelando
 ---

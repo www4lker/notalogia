@@ -30,7 +30,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Levy, Pierre\|Levy, Pierre]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Cortázar, Julio\|Cortázar, Julio]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Piglia, Ricardo\|Piglia, Ricardo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Jameson, Fredric\|Jameson, Fredric]]
+- [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Jameson, Fredric\|Jameson, Fredric]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Schwanitz, Dietrich\|Schwanitz, Dietrich]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Hobsbawn, Eric\|Hobsbawn, Eric]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Rushdie, Salman\|Rushdie, Salman]]

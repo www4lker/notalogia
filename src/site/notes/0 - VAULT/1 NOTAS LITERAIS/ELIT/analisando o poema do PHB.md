@@ -13,7 +13,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Infancia - P M Campos\|Infancia - P M Campos]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/analisando o poema do PHB\|analisando o poema do PHB]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/Paulo Mendes Campos\|Paulo Mendes Campos]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Paulo Mendes Campos\|Paulo Mendes Campos]]
 - tags: #meta #promptGPT #elit #literatura 
 ---
 Este soneto explora a natureza efêmera da vida e a dualidade entre começos e fins, bem como a ideia de que o óbvio é frequentemente negligenciado. Vamos analisar cada estrofe:

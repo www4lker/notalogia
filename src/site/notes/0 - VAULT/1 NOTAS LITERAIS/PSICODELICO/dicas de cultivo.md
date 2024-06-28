@@ -9,7 +9,7 @@
 - Hora: 13:10
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/3 NOTAS PARA REVISAR/4/guia do psiconauta - cap 15\|guia do psiconauta - cap 15]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/guia do psiconauta - cap 15\|guia do psiconauta - cap 15]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/CULTIVAR cogumelos\|CULTIVAR cogumelos]]
 - [[0 - VAULT/1 NOTAS LITERAIS/O relato de uma experiência psicodélica com cogumelos\|O relato de uma experiência psicodélica com cogumelos]]
 - tags: #sciencebitch #insight #psicodelico #nãoficção #TEONANACATL

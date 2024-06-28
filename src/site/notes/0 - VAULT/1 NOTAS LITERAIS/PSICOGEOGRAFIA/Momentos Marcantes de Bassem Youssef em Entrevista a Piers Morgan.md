@@ -11,7 +11,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/O meio é a mensagem notas do podcast boa noite internet\|O meio é a mensagem notas do podcast boa noite internet]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/Why smart people So Dumb Wisecrack\|Why smart people So Dumb Wisecrack]]
 - [[0 - VAULT/1 NOTAS LITERAIS/John oliver takes on musk\|John oliver takes on musk]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/4/Tired -  Distracted - Burned Out - Listen to This\|Tired -  Distracted - Burned Out - Listen to This]]
+- [[0 - VAULT/1 NOTAS LITERAIS/psique/Tired -  Distracted - Burned Out - Listen to This\|Tired -  Distracted - Burned Out - Listen to This]]
 - tags: #podkasten #geo #mestredeculturacontemporanea 
 - Fontes & Links: https://www.youtube.com/watch?v=4idQbwsvtUo
 ---

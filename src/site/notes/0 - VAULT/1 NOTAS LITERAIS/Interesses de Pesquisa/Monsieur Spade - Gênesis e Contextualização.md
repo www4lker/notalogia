@@ -12,7 +12,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/hard boiled\|hard boiled]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Monsieur Spade - review\|Monsieur Spade - review]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Revisão feminista em narrativas de detetives - true detective\|Revisão feminista em narrativas de detetives - true detective]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/4/true detective - nexo jornal\|true detective - nexo jornal]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Renascimento de 'True Detective' na Quarta Temporada - nexo jornal\|Renascimento de 'True Detective' na Quarta Temporada - nexo jornal]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Critique Studies in Contemporary Fiction\|Critique Studies in Contemporary Fiction]]
 - tags: #criatividade #tv #literatura #otimistarealista #householder
 ---

@@ -10,7 +10,7 @@
 - notas: 
 - [[Haraway, Donna\|Haraway, Donna]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/deus das avencas\|deus das avencas]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/Antropoceno, Capitaloceno e Plantationoceno\|Antropoceno, Capitaloceno e Plantationoceno]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Antropoceno, Capitaloceno e Plantationoceno\|Antropoceno, Capitaloceno e Plantationoceno]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O futuro é ancestral - le monde diplomatique\|O futuro é ancestral - le monde diplomatique]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Ailton Krenak\|Ailton Krenak]]

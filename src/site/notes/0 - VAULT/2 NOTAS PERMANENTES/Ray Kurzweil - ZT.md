@@ -12,13 +12,12 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/o fim do antropoceno\|o fim do antropoceno]]
 - [[0 - VAULT/1 NOTAS LITERAIS/O MITO DA IA\|O MITO DA IA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/humanos de 500 anos de idade\|humanos de 500 anos de idade]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/4/Ray Kurzweil - notas conectadas\|Ray Kurzweil - notas conectadas]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ANELO/Ray Kurzweil - notas conectadas\|Ray Kurzweil - notas conectadas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Why the Future Doesn_t Need Us\|Why the Future Doesn_t Need Us]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Mind Children - H Moravec\|Mind Children - H Moravec]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/anti-psicodelia\|anti-psicodelia]]
 - tags: #wiredetal #tecnologia #pesquisa #interessesgerais #filosofia #filosofia #tecnologia #mestredeculturacontemporanea
-- 
 ---
 
 ## Ray Kurzweil's Pursuit of Immortality
@@ -46,7 +45,7 @@
 10. **The Quest for Human Emotion**: Kurzweil emphasizes that the pinnacle of human intelligence lies in emotions and complex behaviors, not just in mathematical or technical prowess.
 
 **Connected Notes**:
-[[0 - VAULT/3 NOTAS PARA REVISAR/4/Ray Kurzweil - notas conectadas\|Ray Kurzweil - notas conectadas]]
+[[0 - VAULT/1 NOTAS LITERAIS/ANELO/Ray Kurzweil - notas conectadas\|Ray Kurzweil - notas conectadas]]
 
 - The Impact of Moore's Law on Technology
 - The Role of Computer Simulations in Predicting the Singularity

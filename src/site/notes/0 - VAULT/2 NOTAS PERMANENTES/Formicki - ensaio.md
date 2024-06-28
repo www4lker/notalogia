@@ -9,7 +9,7 @@
 - 08:20
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/Raquel Rolnik - aula\|Raquel Rolnik - aula]]
-- [[0 - VAULT/1 NOTAS LITERAIS/é imoral pensar moradia como investimento\|é imoral pensar moradia como investimento]]
+- [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/é imoral pensar moradia como investimento\|é imoral pensar moradia como investimento]]
 - tags: #Moralidade #mestredeculturacontemporanea #householder #ensaio 
 - Fontes & Links: https://www.nexojornal.com.br/ensaio/2023/12/24/Primeiro-as-cidades-precisam-garantir-o-b%C3%A1sico-%C3%A0-moradia
 ---

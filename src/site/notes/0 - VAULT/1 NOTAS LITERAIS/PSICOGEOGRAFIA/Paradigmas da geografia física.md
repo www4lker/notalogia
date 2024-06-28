@@ -12,7 +12,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Filosofias da Geografia\|Filosofias da Geografia]]
 1. [[0 - VAULT/2 NOTAS PERMANENTES/Geografia Humana para Iniciantes\|Geografia Humana para Iniciantes]]
 2. [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Geografia Humana para Iniciantes 2\|Geografia Humana para Iniciantes 2]]
-3. [[0 - VAULT/3 NOTAS PARA REVISAR/4/Suerte garay\|Suerte garay]]
+3. [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Suerte garay\|Suerte garay]]
 - tags: #geo #teoriaGeográfica #paisagem #geografiaCultural #gpi #sciencebitch 
 ---
 

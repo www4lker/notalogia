@@ -8,8 +8,10 @@
 - 03-12-2023
 - 13:46
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/2 why buddhism is true\|2 why buddhism is true]]
- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/14 why buddhism is true\|14 why buddhism is true]]
+- notas:
+- [[0 - VAULT/1 NOTAS LITERAIS/psique/Módulos Mentais\|Módulos Mentais]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/2 why buddhism is true\|2 why buddhism is true]]
+- [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/14 why buddhism is true\|14 why buddhism is true]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/15 why buddhism is true\|15 why buddhism is true]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Robert Wright\|Robert Wright]]
 - tags: #buddhismo #insight #meditacao #totalizante #chatgpt #vipassana  #retiro-vipassana #psique 

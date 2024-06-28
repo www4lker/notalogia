@@ -7,8 +7,8 @@ criado em: 17:05 2022-10-16
 
 ##### Relacionado
 - palavras-chave: #filosofia #mentesmiceliais #academia #mestredeculturacontemporanea #geo
-- notas [[0 - VAULT/3 NOTAS PARA REVISAR/Ideias para adiar o fim do mundo\|Ideias para adiar o fim do mundo]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/A Vida Não é útil\|A Vida Não é útil]]
+- notas [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Ideias para adiar o fim do mundo\|Ideias para adiar o fim do mundo]]
+- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/A Vida Não é útil\|A Vida Não é útil]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Críticas e influência do trabalho de Leary\|Críticas e influência do trabalho de Leary]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Livro Mushrooms at the end of the world\|Livro Mushrooms at the end of the world]] 
 - [[0 - VAULT/1 NOTAS LITERAIS/Stefano Mancuso\|Stefano Mancuso]]
