@@ -9,7 +9,7 @@
 - Hora: 09:57
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Como o ChatGPT funciona\|Como o ChatGPT funciona]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/Como o ChatGPT funciona\|Como o ChatGPT funciona]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio\|Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/AI Shouldn’t Compete With Workers\|AI Shouldn’t Compete With Workers]]
 - tags: #artigos #nãoficção #disserte #promptgpt3 #interessesgerais #nexo 

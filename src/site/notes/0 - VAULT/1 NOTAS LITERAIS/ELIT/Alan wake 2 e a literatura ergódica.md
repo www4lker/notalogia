@@ -10,8 +10,8 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Ergodic Literature\|Ergodic Literature]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/Cybertext\|Cybertext]]
-3. [[0 - VAULT/1 NOTAS LITERAIS/literatura ergódica\|literatura ergódica]]
+2. [[0 - VAULT/1 NOTAS LITERAIS/888/Cybertext\|Cybertext]]
+3. [[0 - VAULT/1 NOTAS LITERAIS/888/literatura ergódica\|literatura ergódica]]
 4. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Alan Wake II - Maestria da narrativa\|Alan Wake II - Maestria da narrativa]]
 - tags:  #interessesdepesquisa #literatura #games 
 ---

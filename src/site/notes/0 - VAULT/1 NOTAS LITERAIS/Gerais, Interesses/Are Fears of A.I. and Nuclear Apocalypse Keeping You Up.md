@@ -10,11 +10,11 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
+2. [[0 - VAULT/1 NOTAS LITERAIS/888/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
 3. [[0 - VAULT/2 NOTAS PERMANENTES/Labatut no FLIP\|Labatut no FLIP]]
 4. [[0 - VAULT/2 NOTAS PERMANENTES/La piedra de la locura\|La piedra de la locura]]
-5. [[0 - VAULT/1 NOTAS LITERAIS/resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
-6. [[0 - VAULT/1 NOTAS LITERAIS/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
+5. [[0 - VAULT/1 NOTAS LITERAIS/888/resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
+6. [[0 - VAULT/1 NOTAS LITERAIS/888/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
 - tags: #filosofia #tecnologia #geo 
 - Fontes & Links: https://kazumilk.com/books/are-fears-of-a-i-and-nuclear-apocalypse-keeping-you-up-blame-prometheus/44106/
 ---

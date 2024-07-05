@@ -8,7 +8,7 @@ criado em: 15:42 2022-10-14
 ##### Relacionado
 - palavras-chave: #promptgpt3 #interessesgerais #interessesdepesquisa #vipassana 
 - notas permanentes: [[0 - VAULT/2 NOTAS PERMANENTES/dissertação index\|dissertação index]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Manufacturing Happy Citizens\|Manufacturing Happy Citizens]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Manufacturing Happy Citizens\|Manufacturing Happy Citizens]]
 - notas de dissertação:
 - notas de literatura: 
 

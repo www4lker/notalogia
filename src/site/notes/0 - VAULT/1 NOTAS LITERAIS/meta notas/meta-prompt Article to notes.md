@@ -13,9 +13,9 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/prompt zettelkasten\|prompt zettelkasten]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/como fazer notas atômicas segundo o GPT\|como fazer notas atômicas segundo o GPT]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/custom-prompt\|custom-prompt]]
-- [[0 - VAULT/1 NOTAS LITERAIS/prompt personalizado - chatgpt\|prompt personalizado - chatgpt]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/prompt personalizado - chatgpt\|prompt personalizado - chatgpt]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/how would you like chatgpt to respond - HWYLTA\|how would you like chatgpt to respond - HWYLTA]]
-- [[0 - VAULT/1 NOTAS LITERAIS/prompt alt-text\|prompt alt-text]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/prompt alt-text\|prompt alt-text]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/prompt resumo não alienado\|prompt resumo não alienado]]
 - tags: #meta #obsidian #insight #zettelkasten 
 - #promptgpt3 #meta #zettelkasten #1000palavrasoumais #disserte #newsletter #ceticismo #escrita #filosofia #mestredeculturacontemporanea #totalizante #criatividade #episteme

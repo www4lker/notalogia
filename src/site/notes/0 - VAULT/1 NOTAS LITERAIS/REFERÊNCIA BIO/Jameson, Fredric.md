@@ -8,7 +8,7 @@
 #### Relacionado
 - palavras-chave: #filosofia #literatura #mestredeculturacontemporanea 
 - notas:
-- [[0 - VAULT/1 NOTAS LITERAIS/Han, Byung-Chul\|Han, Byung-Chul]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Han, Byung-Chul\|Han, Byung-Chul]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Arqueologias do futuro\|Arqueologias do futuro]]
 ---
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Fredric Jameson?

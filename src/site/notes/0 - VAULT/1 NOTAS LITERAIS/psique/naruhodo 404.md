@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psique/naruhodo-404/","tags":["podkasten","totalizante","filosofia","psique","literatura","sciencebitch",390,196,335,187,336,337,284,267,268,168,393,394,309,310,397,161],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psique/naruhodo-404/","tags":["podkasten","totalizante","filosofia","psique","literatura","sciencebitch",390,196,335,187,336,337,284,267,268,168,393,394,309,310,397,161,"academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 # naruhodo 404 por que algumas pessoas gostam de terminar as coisas e outras nao

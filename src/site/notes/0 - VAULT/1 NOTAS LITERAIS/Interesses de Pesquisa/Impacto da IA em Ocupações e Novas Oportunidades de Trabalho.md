@@ -113,6 +113,6 @@ Essas novas áreas de trabalho destacam a importância da criatividade, valores 
 ---
 
 #tecnologia #interessesgerais #filosofia #insumos
-[[0 - VAULT/1 NOTAS LITERAIS/Role of Automatons in Modern Society\|Role of Automatons in Modern Society]]
-[[0 - VAULT/1 NOTAS LITERAIS/The Consequences of AI Proliferation\|The Consequences of AI Proliferation]]
+[[0 - VAULT/1 NOTAS LITERAIS/888/Role of Automatons in Modern Society\|Role of Automatons in Modern Society]]
+[[0 - VAULT/1 NOTAS LITERAIS/888/The Consequences of AI Proliferation\|The Consequences of AI Proliferation]]
 [[0 - VAULT/2 NOTAS PERMANENTES/radical AI network\|radical AI network]]

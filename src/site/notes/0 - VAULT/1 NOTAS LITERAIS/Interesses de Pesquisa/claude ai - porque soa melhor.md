@@ -8,9 +8,9 @@
 - 24-06-2024
 - 10:15
 ## relacionados:
-- notas:[[0 - VAULT/1 NOTAS LITERAIS/Como deveríamos estar usando IA nesse momento (pergunta)\|Como deveríamos estar usando IA nesse momento (pergunta)]]
+- notas:[[0 - VAULT/1 NOTAS LITERAIS/888/Como deveríamos estar usando IA nesse momento (pergunta)\|Como deveríamos estar usando IA nesse momento (pergunta)]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/Comparação de ChatGPT, Bing Chat e Bard - wired zt\|Comparação de ChatGPT, Bing Chat e Bard - wired zt]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Your A.I. Companion Will Support You No Matter What\|Your A.I. Companion Will Support You No Matter What]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Your A.I. Companion Will Support You No Matter What\|Your A.I. Companion Will Support You No Matter What]]
 - tags: #technologyimpact #filosofia #tecnologia #IAeÉtica #IAvsInteligênciaHumana #chatbot #technologyimpact #filosofia #tecnologia #IAeÉtica
 ---
 
@@ -18,8 +18,8 @@
 
 ## Tópicos relacionados:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/Como deveríamos estar usando IA nesse momento (zt)\|Como deveríamos estar usando IA nesse momento (zt)]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/Your A.I. Companion Will Support You No Matter What\|Your A.I. Companion Will Support You No Matter What]]
-3. [[0 - VAULT/1 NOTAS LITERAIS/writing with AI - IA net\|writing with AI - IA net]]
+2. [[0 - VAULT/1 NOTAS LITERAIS/888/Your A.I. Companion Will Support You No Matter What\|Your A.I. Companion Will Support You No Matter What]]
+3. [[0 - VAULT/1 NOTAS LITERAIS/888/writing with AI - IA net\|writing with AI - IA net]]
 
 ## Perguntas de pesquisa:
 1. Quais são as principais vantagens de Claude 3 em comparação com outros modelos de IA?
@@ -123,8 +123,8 @@ Claude 3 se destaca pela sua personalidade literária e capacidade de escrita cr
 **Fontes & Links:**
 
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como deveríamos estar usando IA nesse momento (zt)\|Como deveríamos estar usando IA nesse momento (zt)]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Your A.I. Companion Will Support You No Matter What\|Your A.I. Companion Will Support You No Matter What]]
-- [[0 - VAULT/1 NOTAS LITERAIS/writing with AI - IA net\|writing with AI - IA net]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Your A.I. Companion Will Support You No Matter What\|Your A.I. Companion Will Support You No Matter What]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/writing with AI - IA net\|writing with AI - IA net]]
 
 ---
 **Tags:** #chatbot #technologyimpact #filosofia #tecnologia #IAeÉtica #IAvsInteligênciaHumana #chatbot

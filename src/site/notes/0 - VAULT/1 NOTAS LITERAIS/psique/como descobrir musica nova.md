@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psique/como-descobrir-musica-nova/","tags":["ExploracaoMusical","DescubraNovosSons","PlaylistsCuradas","MergulheNaMusica","ContextoNaDescobertaMusical","AprimoreExperienciaAuditiva","MenteAbertaParaGeneros","EscutaIntencional","PacienciaNaDescobertaMusical","ExperienciaMusicalAoVivo","RevivalFisicoDaMusica","ExploracaoEmLojasDeDiscos","AventurasNaRadioOnline"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psique/como-descobrir-musica-nova/","tags":["ExploracaoMusical","DescubraNovosSons","PlaylistsCuradas","MergulheNaMusica","ContextoNaDescobertaMusical","AprimoreExperienciaAuditiva","MenteAbertaParaGeneros","EscutaIntencional","PacienciaNaDescobertaMusical","ExperienciaMusicalAoVivo","RevivalFisicoDaMusica","ExploracaoEmLojasDeDiscos","AventurasNaRadioOnline","cultura","sons","mestredeculturacontemporanea","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 # como descobrir musica nova
@@ -9,10 +9,10 @@
 - 10:47
 ## relacionados:
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Como parar de viver no piloto automático\|Como parar de viver no piloto automático]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Como parar de viver no piloto automático\|Como parar de viver no piloto automático]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Ao vivo com Pexis\|Ao vivo com Pexis]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Four Tet na Pitchfork\|Four Tet na Pitchfork]]
-- [[0 - VAULT/1 NOTAS LITERAIS/entrevista com Four Tet\|entrevista com Four Tet]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/entrevista com Four Tet\|entrevista com Four Tet]]
 - tags: #cultura #sons #mestredeculturacontemporanea #insight 
 - Fontes & Links: https://psyche.co/guides/how-to-find-new-music-amid-all-the-streaming-abundance
 ---

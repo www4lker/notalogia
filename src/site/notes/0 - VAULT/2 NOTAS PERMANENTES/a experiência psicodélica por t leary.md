@@ -23,11 +23,11 @@ palavras-chave: #psicodelico #totalizante #eternoaprendiz
 
 
 
-Título: [[0 - VAULT/1 NOTAS LITERAIS/Teoria da Exploração da Consciência de Leary\|Teoria da Exploração da Consciência de Leary]]
+Título: [[0 - VAULT/1 NOTAS LITERAIS/888/Teoria da Exploração da Consciência de Leary\|Teoria da Exploração da Consciência de Leary]]
 
 
 Nota 2:
-Título: [[0 - VAULT/1 NOTAS LITERAIS/O uso do Livro Tibetano dos Mortos como um guia\|O uso do Livro Tibetano dos Mortos como um guia]]
+Título: [[0 - VAULT/1 NOTAS LITERAIS/888/O uso do Livro Tibetano dos Mortos como um guia\|O uso do Livro Tibetano dos Mortos como um guia]]
 
 
 Nota 3:
@@ -35,7 +35,7 @@ Título: A[[ importância do cenário e da ambientação\| importância do cená
 
 
 Nota 4:
-Título: [[0 - VAULT/1 NOTAS LITERAIS/Críticas e influência do trabalho de Leary\|Críticas e influência do trabalho de Leary]]
+Título: [[0 - VAULT/1 NOTAS LITERAIS/888/Críticas e influência do trabalho de Leary\|Críticas e influência do trabalho de Leary]]
 
 ---
 

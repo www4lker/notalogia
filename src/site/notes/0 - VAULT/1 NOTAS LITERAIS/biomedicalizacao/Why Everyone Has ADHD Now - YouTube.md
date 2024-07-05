@@ -12,7 +12,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/Honestidade Radical - Notas de Vídeo\|Honestidade Radical - Notas de Vídeo]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/A Teoria Filosófica da Atenção Plena e sua Crítica\|A Teoria Filosófica da Atenção Plena e sua Crítica]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/biomedicalização\|biomedicalização]]
-- [[0 - VAULT/1 NOTAS LITERAIS/sociedade medicalizada\|sociedade medicalizada]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/sociedade medicalizada\|sociedade medicalizada]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Leverage Dopamine to Overcome Procrastination & Optimize Effort\|Leverage Dopamine to Overcome Procrastination & Optimize Effort]]
 - tags: #filosofia #mestredeculturacontemporanea #erowid #ceticismo #filosofia #insight #biohack #totalizante #podkasten 
 - Fontes & Links: [Why Everyone Has ADHD Now - YouTube](https://www.youtube.com/watch?v=H0qKO23cwpk&t=328)
@@ -22,7 +22,7 @@
 - [01:00](https://www.youtube.com/watch?v=H0qKO23cwpk&t=60s) 📈 Estudos mostram um aumento na distribuição de medicamentos estimulantes em 45,5% de 2012 a 2021 devido a um pico nos diagnósticos de TDAH, com um aumento explícito durante a pandemia.
 - [01:42](https://www.youtube.com/watch?v=H0qKO23cwpk&t=102s) 🧩 A definição de TDAH parece ter se ampliado, abrangendo um espectro de comportamentos, criando uma noção de que todos estão potencialmente sofrendo de TDAH.
 - [03:20](https://www.youtube.com/watch?v=H0qKO23cwpk&t=200s) 🔎 O vídeo se abstém de discutir o TDAH do ponto de vista científico e se concentra em suas implicações sociais.
-- [03:48](https://www.youtube.com/watch?v=H0qKO23cwpk&t=228s) 💊 Ascensão da "[[0 - VAULT/1 NOTAS LITERAIS/sociedade medicalizada\|sociedade medicalizada]]" após a Segunda Guerra Mundial, vista como uma mudança de questões legais, sociais ou morais sendo vistas e tratadas por meio de uma lente médica.
+- [03:48](https://www.youtube.com/watch?v=H0qKO23cwpk&t=228s) 💊 Ascensão da "[[0 - VAULT/1 NOTAS LITERAIS/888/sociedade medicalizada\|sociedade medicalizada]]" após a Segunda Guerra Mundial, vista como uma mudança de questões legais, sociais ou morais sendo vistas e tratadas por meio de uma lente médica.
 - [04:58](https://www.youtube.com/watch?v=H0qKO23cwpk&t=298s) 🔄 O maior foco na autorregulação tornou a saúde um projeto individual com implicações morais significativas, transformando nossos corpos em uma lista interminável de possíveis doenças.
 - [05:40](https://www.youtube.com/watch?v=H0qKO23cwpk&t=340s) ⚠️ A sensação constante de doença em potencial da sociedade levou a um aumento do autodiagnóstico e à visão de que qualquer incômodo pode indicar uma condição grave.
 - [07:04](https://www.youtube.com/watch?v=H0qKO23cwpk&t=424s) 🏷️ 1980 marca o reconhecimento oficial do Transtorno de Déficit de Atenção como uma classificação oficial, e os casos de pacientes medicados aumentaram na década de 1990.

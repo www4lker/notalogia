@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/referencia-bio/o-futuro-e-multiespecie/","tags":["filosofia","literatura","insight","realworld","otimistarealista","totalizante","psicodelico","biohack","intelectual","academia","academico","disserte","tecnologia","minimalismodigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/referencia-bio/o-futuro-e-multiespecie/","tags":["filosofia","literatura","insight","realworld","otimistarealista","totalizante","psicodelico","biohack","intelectual","academia","academico","disserte","tecnologia","minimalismodigital","mentesmiceliais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 # O futuro é multiespécie

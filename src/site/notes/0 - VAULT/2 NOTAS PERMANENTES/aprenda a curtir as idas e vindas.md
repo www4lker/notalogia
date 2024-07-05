@@ -10,7 +10,7 @@
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/A reescrita é crucial\|A reescrita é crucial]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
-- [[0 - VAULT/1 NOTAS LITERAIS/William Zinsser\|William Zinsser]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/William Zinsser\|William Zinsser]]
 - [[NOTAS DE LEITURA/LIVROS/Tirando De Letra\|NOTAS DE LEITURA/LIVROS/Tirando De Letra]]
 ---
 A reescrita é uma parte importante do processo de escrita que permite aos escritores melhorar a clareza, a precisão e a qualidade geral de seu trabalho. Ela pode envolver o corte de palavras ou frases desnecessárias, a substituição de linguagem menos eficaz por palavras mais precisas ou coloridas, o fortalecimento de transições e a reformulação de frases para melhorar seu ritmo ou musicalidade. Muitos escritores gostam do processo de reescrever e descobrem que é através deste processo que eles são capazes de produzir seu melhor trabalho.

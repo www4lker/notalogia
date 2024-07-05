@@ -12,7 +12,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/article - anagarika munindra\|article - anagarika munindra]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/vox -  meditation  -ZT\|vox -  meditation  -ZT]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/writting on retreats\|writting on retreats]]
-- [[0 - VAULT/1 NOTAS LITERAIS/exame - sn goenka morreu\|exame - sn goenka morreu]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/exame - sn goenka morreu\|exame - sn goenka morreu]]
 - tags: #insumos #insight #vipassana #pessoalidades
 - Fontes & Links: https://www.nytimes.com/2019/04/03/obituaries/sn-goenka-overlooked.html
 ---

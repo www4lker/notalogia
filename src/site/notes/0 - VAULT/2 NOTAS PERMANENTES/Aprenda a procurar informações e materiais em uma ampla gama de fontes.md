@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Como se faz uma tese\|Como se faz uma tese]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Como se faz uma tese\|Como se faz uma tese]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/lide com o lide\|lide com o lide]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/dicas de pesquisa\|dicas de pesquisa]]

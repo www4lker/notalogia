@@ -20,5 +20,5 @@ Aqui estão alguns passos que você pode seguir para estabelecer uma rotina de m
 
 Lembre-se, a prática regular da meditação pode ajudar a cultivar a atenção plena, a paz interior e a clareza mental. No entanto, ela é apenas uma ferramenta em seu arsenal, e é importante combinar essa prática com outras estratégias de autocuidado e crescimento pessoal.
 
-[[0 - VAULT/1 NOTAS LITERAIS/extra - Analisando as notas sob uma perspectiva superior\|extra - Analisando as notas sob uma perspectiva superior]]
+[[0 - VAULT/1 NOTAS LITERAIS/888/extra - Analisando as notas sob uma perspectiva superior\|extra - Analisando as notas sob uma perspectiva superior]]
 #retiro-vipassana #totalizante #pessoalidades #householder #psique #filosofia #insight

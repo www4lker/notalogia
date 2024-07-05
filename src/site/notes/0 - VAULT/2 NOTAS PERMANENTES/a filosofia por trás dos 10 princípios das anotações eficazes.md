@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #meta #zettelkasten #escrivão #descobertas #pessoalidades #criatividade #insight #filosofia
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/A.-D. Sertillanges\|A.-D. Sertillanges]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/A.-D. Sertillanges\|A.-D. Sertillanges]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/Sertilanges A-D, Cap 7\|Sertilanges A-D, Cap 7]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/como fazer notas melhores e mais espertas - introdução\|como fazer notas melhores e mais espertas - introdução]]

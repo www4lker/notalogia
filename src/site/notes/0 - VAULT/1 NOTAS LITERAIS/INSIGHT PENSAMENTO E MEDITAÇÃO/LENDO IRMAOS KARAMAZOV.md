@@ -9,7 +9,7 @@ criado em: 18:16 2022-08-09
 - palavras-chave: 
 - notas permanentes: #psique #literatura #pessoalidades 
 - notas de dissertação:
-- [[0 - VAULT/1 NOTAS LITERAIS/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/O Individualista\|O Individualista]]
 
 ---

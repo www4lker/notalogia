@@ -8,7 +8,7 @@ criado em: 02:19 2022-08-10
 ##### Relacionado
 - palavras-chave: #insight #vipassana #virtú
 - notas permanentes: [[0 - VAULT/2 NOTAS PERMANENTES/MEDITAÇÃO\|MEDITAÇÃO]] [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
-- [[0 - VAULT/1 NOTAS LITERAIS/meditar no quintal\|meditar no quintal]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/meditar no quintal\|meditar no quintal]]
 - notas de dissertação:
 - notas de literatura: 
 

@@ -9,7 +9,7 @@
 - 13:21
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/14 why buddhism is true\|14 why buddhism is true]]
-[[0 - VAULT/1 NOTAS LITERAIS/Poem with nirvana\|Poem with nirvana]]
+[[0 - VAULT/1 NOTAS LITERAIS/888/Poem with nirvana\|Poem with nirvana]]
 [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/16 why buddhism is true\|16 why buddhism is true]]
 - tags: #buddhismo #insight #meditacao #totalizante #chatgpt #vipassana  #retiro-vipassana #psique #anglo
 ---

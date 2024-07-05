@@ -21,6 +21,6 @@ Assim, a prática de diário pessoal, estimulando a reflexão, expressão emocio
 - tags: 
 - Fontes & Links: 
 ---
-[[0 - VAULT/1 NOTAS LITERAIS/Cérebro e corpo são mais interligados do que imaginávamos\|Cérebro e corpo são mais interligados do que imaginávamos]]
+[[0 - VAULT/1 NOTAS LITERAIS/888/Cérebro e corpo são mais interligados do que imaginávamos\|Cérebro e corpo são mais interligados do que imaginávamos]]
 [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Manual do Método de Journaling para Melhoria da Saúde Mental e Física\|Manual do Método de Journaling para Melhoria da Saúde Mental e Física]]
-[[0 - VAULT/1 NOTAS LITERAIS/PRINCIPAIS CONCEITOS 29112023\|PRINCIPAIS CONCEITOS 29112023]]
+[[0 - VAULT/1 NOTAS LITERAIS/888/PRINCIPAIS CONCEITOS 29112023\|PRINCIPAIS CONCEITOS 29112023]]

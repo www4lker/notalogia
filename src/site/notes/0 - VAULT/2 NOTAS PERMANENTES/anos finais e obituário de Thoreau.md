@@ -9,10 +9,10 @@
 - Hora: 17:23
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Thoreau, Henry David\|Thoreau, Henry David]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/Thoreau, Henry David\|Thoreau, Henry David]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/This psychedelics researcher approached his death with calm and curiosity\|This psychedelics researcher approached his death with calm and curiosity]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ensaios, de montaigne\|ensaios, de montaigne]]
-- [[0 - VAULT/1 NOTAS LITERAIS/pc siqueira está morto\|pc siqueira está morto]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/ensaios, de montaigne\|ensaios, de montaigne]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/pc siqueira está morto\|pc siqueira está morto]]
 - tags: #estoico #filosofia #mementomori 
 ---
 

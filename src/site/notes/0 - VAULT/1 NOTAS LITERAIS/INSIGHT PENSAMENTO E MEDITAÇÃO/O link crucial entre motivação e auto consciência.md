@@ -12,7 +12,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/psique/TAD\|TAD]]
 - [[0 - VAULT/1 NOTAS LITERAIS/psique/Como TAD pode me ajudar\|Como TAD pode me ajudar]]
 	- [[0 - VAULT/2 NOTAS PERMANENTES/Vipassana e TAD\|Vipassana e TAD]]
-	- [[0 - VAULT/1 NOTAS LITERAIS/Como parar de viver no piloto automático\|Como parar de viver no piloto automático]]
+	- [[0 - VAULT/1 NOTAS LITERAIS/888/Como parar de viver no piloto automático\|Como parar de viver no piloto automático]]
 - tags: #insight #psique #totalizante #householder
 - Fontes & Links:  https://www.bbc.com/worklife/article/20230102-four-types-of-motivation
 ---

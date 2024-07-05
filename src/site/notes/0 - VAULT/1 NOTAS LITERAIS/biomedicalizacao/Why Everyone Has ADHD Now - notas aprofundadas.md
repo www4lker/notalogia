@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/why-everyone-has-adhd-now-notas-aprofundadas/","tags":["filosofia","mestredeculturacontemporanea","erowid","ceticismo","insight","biohack","totalizante","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/why-everyone-has-adhd-now-notas-aprofundadas/","tags":["filosofia","mestredeculturacontemporanea","erowid","ceticismo","insight","biohack","totalizante","podkasten","6:**","333partedois"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/Why Everyone Has ADHD Now - YouTube\|Why Everyone Has ADHD Now - YouTube]]
@@ -88,6 +88,6 @@ Em suma, o vídeo sugere que os sentimentos generalizados de ADHD podem ser mais
 ---
 
 - [[0 - VAULT/2 NOTAS PERMANENTES/biomedicalização\|biomedicalização]]
-- [[0 - VAULT/1 NOTAS LITERAIS/sociedade medicalizada\|sociedade medicalizada]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/sociedade medicalizada\|sociedade medicalizada]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Leverage Dopamine to Overcome Procrastination & Optimize Effort\|Leverage Dopamine to Overcome Procrastination & Optimize Effort]]
 - tags: #filosofia #mestredeculturacontemporanea #erowid #ceticismo #filosofia #insight #biohack #totalizante #podkasten 

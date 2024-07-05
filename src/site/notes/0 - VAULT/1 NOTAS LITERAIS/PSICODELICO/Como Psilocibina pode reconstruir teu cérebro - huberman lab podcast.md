@@ -9,9 +9,9 @@
 - 14:36
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/Dose Heroica - Big Think\|Dose Heroica - Big Think]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Cogumelos Livres\|Cogumelos Livres]]
-- [[0 - VAULT/1 NOTAS LITERAIS/dopamina e motivação\|dopamina e motivação]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Huberman and S Harris - Potencial do uso de psicodélicos\|Huberman and S Harris - Potencial do uso de psicodélicos]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Cogumelos Livres\|Cogumelos Livres]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/dopamina e motivação\|dopamina e motivação]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Huberman and S Harris - Potencial do uso de psicodélicos\|Huberman and S Harris - Potencial do uso de psicodélicos]]
 - tags: #TEONANACATL #psicodelico #mementomori #microdose #protocodemd #filosofia #ceticismo #sciencebitch
 - Fontes & Links: https://www.youtube.com/watch?v=eIxVfln02Ss
 ---

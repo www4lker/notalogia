@@ -15,8 +15,8 @@
 8. **Como a meditação da atenção plena pode intervir no nível dos sentimentos e alterar sua influência na tomada de decisões?** [[ resposta 8 como a meditação pode intervir...\| resposta 8 como a meditação pode intervir...]]
 9. Como os primeiros sucessos e fracassos influenciam a autodisciplina?
 10. Como a seleção natural reforça comportamentos que levam à gratificação?
-11. **Como a abordagem modular do problema da autodisciplina sugere novas maneiras de lidar com o problema?** [[0 - VAULT/1 NOTAS LITERAIS/resposta 11 como a abordagem modular...\|resposta 11 como a abordagem modular...]]
-12. **Como a técnica RAIN ajuda a superar vícios?** [[0 - VAULT/1 NOTAS LITERAIS/resposta 12 sobre a tecnica RAIN\|resposta 12 sobre a tecnica RAIN]]
+11. **Como a abordagem modular do problema da autodisciplina sugere novas maneiras de lidar com o problema?** [[0 - VAULT/1 NOTAS LITERAIS/888/resposta 11 como a abordagem modular...\|resposta 11 como a abordagem modular...]]
+12. **Como a técnica RAIN ajuda a superar vícios?** [[0 - VAULT/1 NOTAS LITERAIS/888/resposta 12 sobre a tecnica RAIN\|resposta 12 sobre a tecnica RAIN]]
 13. Como o déficit de atenção e o ódio podem ser tratados como vícios e controlados por meio da abordagem mindfulness?
 14. **Qual é o papel da autodisciplina no controle de impulsos e no fortalecimento das paixões calmas?**
 15. **Como a autodisciplina pode levar à edificação moral e espiritual?**

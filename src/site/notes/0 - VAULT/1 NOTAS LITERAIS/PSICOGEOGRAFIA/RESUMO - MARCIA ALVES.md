@@ -8,9 +8,9 @@
 - 24-03-2024
 - 22:15
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Geografia das emoções - transcrição de vídeo\|Geografia das emoções - transcrição de vídeo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Geografia Existencial\|Geografia Existencial]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Por uma geografia dos espaços vividos - geografia e fenomenologia\|Por uma geografia dos espaços vividos - geografia e fenomenologia]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/Geografia das emoções - transcrição de vídeo\|Geografia das emoções - transcrição de vídeo]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Geografia Existencial\|Geografia Existencial]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Por uma geografia dos espaços vividos - geografia e fenomenologia\|Por uma geografia dos espaços vividos - geografia e fenomenologia]]
 - tags: #geo #filosofia #psique #psicodelico 
 ---
 

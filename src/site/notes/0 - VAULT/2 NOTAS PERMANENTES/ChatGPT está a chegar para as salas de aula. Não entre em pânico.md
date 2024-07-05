@@ -15,7 +15,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/ALARMADOS PELO GPT3, UNIVERSIDADES COMEÇAM E REVISAR SUA FORMA DE ENSINAR - artigo\|ALARMADOS PELO GPT3, UNIVERSIDADES COMEÇAM E REVISAR SUA FORMA DE ENSINAR - artigo]]
 - [[ChatGPT Isn’t the Only Way to Use AI in Education\|ChatGPT Isn’t the Only Way to Use AI in Education]]
-- [[0 - VAULT/1 NOTAS LITERAIS/turnit in e o chatgpt\|turnit in e o chatgpt]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/turnit in e o chatgpt\|turnit in e o chatgpt]]
 ---
 [fonte](https://www.wired.com/story/chatgpt-is-coming-for-classrooms-dont-panic/)
 

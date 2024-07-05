@@ -9,9 +9,9 @@ criado em: 13:22 2022-10-06
 - palavras-chave: #promptgpt3 #literatura #insight #disserte #filosofia 
 - notas: 
 - [[Postmodernism\|Postmodernism]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Foucault, Michel\|Foucault, Michel]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Deleuze\|Deleuze]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Derrida\|Derrida]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Foucault, Michel\|Foucault, Michel]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Deleuze\|Deleuze]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Derrida\|Derrida]]
 ---
 # Create a list of 8 questions for my interview with a postmodern philosopher:
 

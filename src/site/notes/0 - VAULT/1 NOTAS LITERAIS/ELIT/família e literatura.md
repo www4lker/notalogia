@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/familia-e-literatura/","tags":["literatura","promptGPT","tv","cultura","CulturalPatterns","CulturalInfluence"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/familia-e-literatura/","tags":["literatura","promptGPT","tv","cultura","CulturalPatterns","CulturalInfluence","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 # família e literatura
@@ -13,7 +13,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Succession e literatura russa\|Succession e literatura russa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Buddenbrooks e Succession\|Buddenbrooks e Succession]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/LIVROS QUE ASPIRO A LER PORQUE SIM\|LIVROS QUE ASPIRO A LER PORQUE SIM]]
-- [[0 - VAULT/1 NOTAS LITERAIS/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
 - tags: #literatura #promptGPT #tv #cultura #CulturalPatterns #CulturalInfluence #mestredeculturacontemporanea 
 ---
 

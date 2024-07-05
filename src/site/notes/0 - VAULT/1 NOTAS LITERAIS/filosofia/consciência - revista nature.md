@@ -9,9 +9,9 @@
 - 14:22
 ## relacionados:
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Os quatro circuitos superiores\|Os quatro circuitos superiores]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Os quatro circuitos superiores\|Os quatro circuitos superiores]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/filosofia da mente - Definição e escopo\|filosofia da mente - Definição e escopo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/CONSENSUS APP - GUIA\|CONSENSUS APP - GUIA]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/CONSENSUS APP - GUIA\|CONSENSUS APP - GUIA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/The Space Of Possible Minds\|The Space Of Possible Minds]]
 - tags: #escrivão #escrita
 #filosofia #pesquisa #interessesdepesquisa #interessesgerais #ceticismo #disserte #criatividade #ludismoiluminado #sciencebitch #EightCircuitModel #Consciousness #CulturalInfluence #SocietalNorms #Beliefs #Values #Transcendence #Individuality #CreativeExpression #mentesmiceliais #totalizante

@@ -9,9 +9,9 @@
 - 10:02
 ## relacionados:
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/LONGFORM OBSIDIAN\|LONGFORM OBSIDIAN]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/LONGFORM OBSIDIAN\|LONGFORM OBSIDIAN]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/obsidian\|obsidian]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Scrivener 3\|Scrivener 3]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Scrivener 3\|Scrivener 3]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/do obsidian ao scrivener -  toque final\|do obsidian ao scrivener -  toque final]]
 palavras-chave: #massacritica #meta #zettelkasten #escrivão #produtividades 
 ---

@@ -8,9 +8,9 @@
 - 26-09-2023
 - 17:56
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/ESPETACULARIZAÇÃO DO AGRONEGÓCIO - 111 os sulistas\|ESPETACULARIZAÇÃO DO AGRONEGÓCIO - 111 os sulistas]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/ESPETACULARIZAÇÃO DO AGRONEGÓCIO - 111 os sulistas\|ESPETACULARIZAÇÃO DO AGRONEGÓCIO - 111 os sulistas]]
 - tags: #geo #academia 
-- [[0 - VAULT/1 NOTAS LITERAIS/ESPETACULARIZAÇÃO DO AGRONEGÓCIO - o ser pioneiro\|ESPETACULARIZAÇÃO DO AGRONEGÓCIO - o ser pioneiro]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/ESPETACULARIZAÇÃO DO AGRONEGÓCIO - o ser pioneiro\|ESPETACULARIZAÇÃO DO AGRONEGÓCIO - o ser pioneiro]]
 - 
 - Fontes & Links: 
 ---

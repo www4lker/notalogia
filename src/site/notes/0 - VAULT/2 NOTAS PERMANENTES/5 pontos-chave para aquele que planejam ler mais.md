@@ -10,7 +10,7 @@ criado em: 12:35 2022-10-10
 - notas:
 - [[0 - VAULT/2 NOTAS PERMANENTES/bookscreens\|bookscreens]]
 - [[LITERATURA E VIDEOGAMES\|LITERATURA E VIDEOGAMES]]
-- [[0 - VAULT/1 NOTAS LITERAIS/literatura ergódica\|literatura ergódica]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/literatura ergódica\|literatura ergódica]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/COMO LER MAIS LIVROS - VIA NEXO\|COMO LER MAIS LIVROS - VIA NEXO]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/6 ERROS PARA SE MANTER LEITOR\|6 ERROS PARA SE MANTER LEITOR]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/como ler mais - especial para o walker (2)\|como ler mais - especial para o walker (2)]]

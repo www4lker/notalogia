@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão #promptgpt3 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/William Zinsser\|William Zinsser]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/William Zinsser\|William Zinsser]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Sobre a escrita\|NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Sobre a escrita]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/é recomendável evitar o uso de advérbios desnecessários\|é recomendável evitar o uso de advérbios desnecessários]]
