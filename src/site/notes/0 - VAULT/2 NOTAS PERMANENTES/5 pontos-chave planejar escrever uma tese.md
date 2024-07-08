@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/5-pontos-chave-planejar-escrever-uma-tese/","tags":["permanente","promptgpt3","academia","pesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/5-pontos-chave-planejar-escrever-uma-tese/","tags":["permanente","promptgpt3","academia","pesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 101020221241
@@ -10,7 +10,7 @@ criado em: 12:41 2022-10-10
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - [[NOTAS DE LEITURA/LIVROS/Estrutura De Roteiro - Como Escrever Um Livro\|NOTAS DE LEITURA/LIVROS/Estrutura De Roteiro - Como Escrever Um Livro]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como se faz uma tese\|Como se faz uma tese]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como se faz uma tese\|Como se faz uma tese]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/pesquisa com mais de 40 mil pessoas apontam que games não fazem mal\|pesquisa com mais de 40 mil pessoas apontam que games não fazem mal]]
 
 ---

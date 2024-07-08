@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/descobrindo-o-que-seu-projeto-pode-ser-1/","tags":["criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/descobrindo-o-que-seu-projeto-pode-ser-1/","tags":["criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # descobrindo o que seu projeto pode ser

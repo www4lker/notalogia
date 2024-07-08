@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/king-lear-versos-finais-em-ingles/","tags":["permanente","literatura","filosofia","formalismorusso"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/king-lear-versos-finais-em-ingles/","tags":["permanente","literatura","filosofia","formalismorusso"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 
@@ -12,7 +12,7 @@
 
 - [[0 - VAULT/2 NOTAS PERMANENTES/Rei Lear das Estepes\|Rei Lear das Estepes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Lady Macbeth do distrito de Mtzensk\|Lady Macbeth do distrito de Mtzensk]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
 - tags: #literatura #filosofia #formalismorusso 
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/sebald-documentary/","tags":["permanente","totalizante","pessoalidades","literatura","habitanimal","lit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/sebald-documentary/","tags":["permanente","totalizante","pessoalidades","literatura","habitanimal","lit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Sebald Documentary
@@ -8,11 +8,11 @@
 - 26-09-2023
 - 12:59
 ## relacionados:
-notas: [[0 - VAULT/1 NOTAS LITERAIS/Sebald, W. G.\|Sebald, W. G.]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Understanding Sebald\|Understanding Sebald]]
+notas: [[Sebald, W. G.\|Sebald, W. G.]]
+- [[Understanding Sebald\|Understanding Sebald]]
 - [[sebald, paciência depois\|sebald, paciência depois]]
-- [[0 - VAULT/1 NOTAS LITERAIS/SEBALDWEG - 2023\|SEBALDWEG - 2023]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Os Anéis de Saturno\|Os Anéis de Saturno]]
+- [[SEBALDWEG - 2023\|SEBALDWEG - 2023]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Os Anéis de Saturno\|Os Anéis de Saturno]]
 - tags: #totalizante #pessoalidades #literatura #habitanimal #lit #literatura
 - Links: https://www.youtube.com/watch?v=En3VlxsAVgQ
 ---

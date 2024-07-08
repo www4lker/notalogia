@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/aprendizados-sobre-criacao-de-ilustracoes-e-mapas/","tags":["permanente","geo","gpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/aprendizados-sobre-criacao-de-ilustracoes-e-mapas/","tags":["permanente","geo","gpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Tópicos relacionados à área de criação de ilustrações e/ou mapas

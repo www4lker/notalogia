@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/livro-optimal-illusions-ilusoes-otimas-int/","tags":["realworld","insight","BIOHACK","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/livro-optimal-illusions-ilusoes-otimas-int/","tags":["realworld","insight","BIOHACK","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # livro Optimal Illusions (Ilusões Ótimas)
@@ -8,11 +8,11 @@
 - 28-03-2024
 - 12:29
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/self help está lavando sua mente - Alice Cappelle\|self help está lavando sua mente - Alice Cappelle]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ilusões da otimização\|ilusões da otimização]]
-- [[0 - VAULT/1 NOTAS LITERAIS/armadilhas da otimização\|armadilhas da otimização]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como o trabalho otimizado pode se tornar um ciclo vicioso\|Como o trabalho otimizado pode se tornar um ciclo vicioso]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Neoluditas 2023\|Neoluditas 2023]]
+- notas: [[self help está lavando sua mente - Alice Cappelle\|self help está lavando sua mente - Alice Cappelle]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ilusões da otimização\|ilusões da otimização]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/armadilhas da otimização\|armadilhas da otimização]]
+- [[Como o trabalho otimizado pode se tornar um ciclo vicioso\|Como o trabalho otimizado pode se tornar um ciclo vicioso]]
+- [[Neoluditas 2023\|Neoluditas 2023]]
 - tags: #realworld #insight #BIOHACK #totalizante 
 - Fontes & Links: 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/o-cirurgiao-dentista-especialista-em-atm/","tags":["permanente","pessoalidades","totalizante","householder","MudançaDeFormaDoRosto","DentesMolares","MudançaNaMordida","CanalAuditivo","ATM","EspecialistaATM","DisfunçãoTemporomandibular","DorOrofacial","TratamentoATM"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/o-cirurgiao-dentista-especialista-em-atm/","tags":["permanente","pessoalidades","totalizante","householder","MudançaDeFormaDoRosto","DentesMolares","MudançaNaMordida","CanalAuditivo","ATM","EspecialistaATM","DisfunçãoTemporomandibular","DorOrofacial","TratamentoATM"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # o cirurgião dentista especialista em ATM

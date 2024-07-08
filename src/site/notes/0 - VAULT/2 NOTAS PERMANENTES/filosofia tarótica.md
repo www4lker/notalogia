@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/filosofia-tarotica/","tags":["permanente","mestredeculturacontemporanea","cultura","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/filosofia-tarotica/","tags":["permanente","mestredeculturacontemporanea","cultura","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # filosofia tarótica
@@ -9,7 +9,7 @@
 - 15:17
 ## relacionados:
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Alejandro Jodorowsky\|Alejandro Jodorowsky]]
-- [[0 - VAULT/1 NOTAS LITERAIS/isso não é um filme\|isso não é um filme]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/isso não é um filme\|isso não é um filme]]
 - tags: #mestredeculturacontemporanea #cultura #filosofia 
 - Fontes & Links: 
 ---

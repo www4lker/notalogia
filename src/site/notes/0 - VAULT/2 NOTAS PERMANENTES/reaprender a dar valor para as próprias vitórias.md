@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/reaprender-a-dar-valor-para-as-proprias-vitorias/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo","pessoalidades","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/reaprender-a-dar-valor-para-as-proprias-vitorias/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo","pessoalidades","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # reaprender a dar valor para as próprias vitórias

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/diferencas-entre-modelos-de-raw-e-leary/","tags":["permanente","psicodelico","totalizante","eternoaprendiz","psique","filosofia","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/diferencas-entre-modelos-de-raw-e-leary/","tags":["permanente","psicodelico","totalizante","eternoaprendiz","psique","filosofia","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # diferenças entre modelos de RAW e LEARY

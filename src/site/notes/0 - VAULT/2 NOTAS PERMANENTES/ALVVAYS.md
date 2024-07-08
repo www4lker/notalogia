@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/alvvays/","tags":["permanente","mestredeculturacontemporanea","BandaAlways","Entrevista","MúsicaCelta","CenárioMusicalHalifax"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/alvvays/","tags":["permanente","mestredeculturacontemporanea","BandaAlways","Entrevista","MúsicaCelta","CenárioMusicalHalifax"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # ALVVAYS
@@ -10,7 +10,7 @@
 
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/The band Always - entrevista\|The band Always - entrevista]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ouvindo the caretaker\|ouvindo the caretaker]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ouvindo the caretaker\|ouvindo the caretaker]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Alan Wake II - Maestria da narrativa\|Alan Wake II - Maestria da narrativa]]
 - [[pie chart musical\|pie chart musical]]
 - tags:

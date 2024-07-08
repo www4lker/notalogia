@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-foguete-como-um-simbolo-de-dominacao-e-capitalismo-explorador/","tags":["permanente","literatura","geo","filosofia","chatgpt","RocketsSymbolism","PynchonRocketMetaphor","TechnologyAndCapitalism"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-foguete-como-um-simbolo-de-dominacao-e-capitalismo-explorador/","tags":["permanente","literatura","geo","filosofia","chatgpt","RocketsSymbolism","PynchonRocketMetaphor","TechnologyAndCapitalism"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # O foguete como um símbolo de dominação e capitalismo explorador
@@ -9,7 +9,7 @@
 - Hora: 15:32
 
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Pynchon, Thomas\|Pynchon, Thomas]]
+- notas: [[Pynchon, Thomas\|Pynchon, Thomas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
 - Fontes & Links: 
 ---

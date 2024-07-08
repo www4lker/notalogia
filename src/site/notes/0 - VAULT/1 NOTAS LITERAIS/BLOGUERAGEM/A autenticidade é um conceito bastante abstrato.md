@@ -28,7 +28,7 @@ Por fim, é importante lembrar que a IA é apenas uma ferramenta e que a verdade
 - notas:
 1. [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/A Importância de Criar Conteúdo Autêntico com ChatGPT\|A Importância de Criar Conteúdo Autêntico com ChatGPT]]
 2. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/INFP-T (T é para Turbulento)\|INFP-T (T é para Turbulento)]]
-3. [[0 - VAULT/1 NOTAS LITERAIS/888/5 Uses for ChatGPT really original\|5 Uses for ChatGPT really original]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/5 Uses for ChatGPT really original\|5 Uses for ChatGPT really original]]
 - tags: 
 #toródeideias 
 #meta #obsidian #insight #zettelkasten

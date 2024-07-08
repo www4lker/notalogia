@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/para-que-serve-a-crenca/","tags":["permanente","filosofia","meditacao","insight","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/para-que-serve-a-crenca/","tags":["permanente","filosofia","meditacao","insight","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Para quê serve a crença
@@ -9,8 +9,8 @@
 - Hora: 17:47
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/As crenças nos ajudam a fazer previsões, selecionar ações, compreender os assuntos com mais detalhes\|As crenças nos ajudam a fazer previsões, selecionar ações, compreender os assuntos com mais detalhes]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Um comentário perspicaz sobre o capítulo poderia ser\|Um comentário perspicaz sobre o capítulo poderia ser]] 
-- [[0 - VAULT/1 NOTAS LITERAIS/Kahneman, Daniel\|Kahneman, Daniel]]
+- [[Um comentário perspicaz sobre o capítulo poderia ser\|Um comentário perspicaz sobre o capítulo poderia ser]] 
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Kahneman, Daniel\|Kahneman, Daniel]]
 - tags: #filosofia #meditacao #insight #sciencebitch #permanente
 - Fontes & Links: 
 ---

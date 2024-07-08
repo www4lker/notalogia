@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/estrutura-externa-e-importancia-da-escrita-no-processo-de-aprendizagem/","tags":["meta","zettelkasten","habitanimal","mestredeculturacontemporanea","PKM","academico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/estrutura-externa-e-importancia-da-escrita-no-processo-de-aprendizagem/","tags":["meta","zettelkasten","habitanimal","mestredeculturacontemporanea","PKM","academico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Estrutura Externa e Importância da Escrita no Processo de Aprendizagem
@@ -9,7 +9,7 @@
 - 17:52
 ## relacionados:
 - notas:
-1. [[0 - VAULT/1 NOTAS LITERAIS/how to take smart notes\|how to take smart notes]]
+1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/how to take smart notes\|how to take smart notes]]
 2. [[0 - VAULT/1 NOTAS LITERAIS/meta notas/TUDO É CONECTADO\|TUDO É CONECTADO]]
 - tags: #meta #zettelkasten #habitanimal #mestredeculturacontemporanea #meta #zettelkasten #PKM #academico
 ---

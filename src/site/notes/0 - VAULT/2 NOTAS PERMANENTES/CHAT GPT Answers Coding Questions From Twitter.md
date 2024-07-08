@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chat-gpt-answers-coding-questions-from-twitter/","tags":["permanente","CodingLanguages","SelfTaughtCoding","MovieMagic","FrontEndBackEnd","CodeThatChangedTheWorld","PythonSnakes","Error404","CodingVsProgramming","RaspberryPi","CodingAI","AlgorithmPractice","GitHubExplained","EasiestCodingLanguage","MathAndCoding","CodingForWebDesign","ImportanceOfCoding"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chat-gpt-answers-coding-questions-from-twitter/","tags":["permanente","CodingLanguages","SelfTaughtCoding","MovieMagic","FrontEndBackEnd","CodeThatChangedTheWorld","PythonSnakes","Error404","CodingVsProgramming","RaspberryPi","CodingAI","AlgorithmPractice","GitHubExplained","EasiestCodingLanguage","MathAndCoding","CodingForWebDesign","ImportanceOfCoding"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # CHAT GPT Answers Coding Questions From Twitter

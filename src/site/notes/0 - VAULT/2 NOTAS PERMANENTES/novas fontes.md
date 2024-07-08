@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/novas-fontes/","tags":["permanente","meta","zettelkasten","chatbot","bujo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/novas-fontes/","tags":["permanente","meta","zettelkasten","chatbot","bujo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # novas fontes
@@ -26,13 +26,13 @@ criado em: 15:59 2022-08-01
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Notas de projetos\|Notas de projetos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/novas fontes\|novas fontes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Primeira postagem\|Primeira postagem]]
-- [[0 - VAULT/1 NOTAS LITERAIS/screenshots\|screenshots]]
+- [[screenshots\|screenshots]]
 - [[2 - NOTAS PERMANENTES/zettelkasten\|2 - NOTAS PERMANENTES/zettelkasten]]
 
 ---
 Ideia de fontes para notas espalhadas por aí: 
 o [[quadro branco\|quadro branco]] no meu quarto
-o caderno que comprei para fazer [[0 - VAULT/1 NOTAS LITERAIS/bullet journal - bujo\|bullet journal - bujo]]
+o caderno que comprei para fazer [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/bullet journal - bujo\|bullet journal - bujo]]
 aquela [[caderneta da bolivia\|caderneta da bolivia]]
 aquela [[caderneta ecco\|caderneta ecco]]
 dar uma de chatbot e pegar o melhor daquelas [[conversas no grupo podcast\|conversas no grupo podcast]].

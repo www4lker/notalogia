@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-sentido-verdadeiro-da-felicidade/","tags":["permanente","Metacognition","filosofia","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-sentido-verdadeiro-da-felicidade/","tags":["permanente","Metacognition","filosofia","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # o sentido verdadeiro da felicidade

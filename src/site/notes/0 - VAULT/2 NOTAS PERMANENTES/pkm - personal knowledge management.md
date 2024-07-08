@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pkm-personal-knowledge-management/","tags":["permanente","meta","zettelkasten","produtividades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pkm-personal-knowledge-management/","tags":["permanente","meta","zettelkasten","produtividades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # pkm - personal knowledge management
@@ -11,7 +11,7 @@
 - [[2 - NOTAS PERMANENTES/zettelkasten\|2 - NOTAS PERMANENTES/zettelkasten]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/zetteltipity\|zetteltipity]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/o que é PKM\|o que é PKM]]
-- [[0 - VAULT/1 NOTAS LITERAIS/conhecimento contingente e PKM\|1 NOTAS LITERAIS/conhecimento contingente e PKM]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/conhecimento contingente e PKM\|0 - VAULT/1 NOTAS LITERAIS/888/conhecimento contingente e PKM]]
 ---
 Personal Knowledge Management (PKM) é um sistema de estratégias e ferramentas utilizadas para capturar, organizar, armazenar e compartilhar informações. *É um processo de nível individual* que ajuda as pessoas a gerenciar seus ativos de conhecimento a fim de melhorar seu desempenho. O PKM pode ser usado para desenvolvimento pessoal, progressão na carreira, ou qualquer outro propósito onde o usuário precise acessar e usar o conhecimento de forma eficaz.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/missao-da-ciencia-da-personalidade/","tags":["psique","filosofia","AUTODESCOBERTA","insight","totalizante","pessoalidades","householder","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/missao-da-ciencia-da-personalidade/","tags":["psique","filosofia","AUTODESCOBERTA","insight","totalizante","pessoalidades","householder","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # missão da ciência da personalidade
@@ -11,7 +11,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/psique/TAD\|TAD]]
 - [[0 - VAULT/1 NOTAS LITERAIS/psique/Como TAD pode me ajudar\|Como TAD pode me ajudar]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Psyche - Existe uma razão para que algumas pessoas sejam mais fáceis de mudar do que outras\|Psyche - Existe uma razão para que algumas pessoas sejam mais fáceis de mudar do que outras]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Necessidade de Consciência Emocional\|Necessidade de Consciência Emocional]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Necessidade de Consciência Emocional\|Necessidade de Consciência Emocional]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/cap 9 autodisciplina -  questões relacionadas\|cap 9 autodisciplina -  questões relacionadas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/consciência - revista nature\|consciência - revista nature]]
 - tags: #psique #filosofia #AUTODESCOBERTA #insight #totalizante #pessoalidades #householder #sciencebitch 

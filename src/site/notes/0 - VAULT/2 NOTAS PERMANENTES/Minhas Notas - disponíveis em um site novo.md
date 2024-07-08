@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/minhas-notas-disponiveis-em-um-site-novo/","tags":["meta","zettelkasten","jardimdigital","academia","interessesgerais","pesquisa","PKM","gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/minhas-notas-disponiveis-em-um-site-novo/","tags":["meta","zettelkasten","jardimdigital","academia","interessesgerais","pesquisa","PKM","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 ![090909.jpg](https://mataroa.blog/images/9a181eea.jpeg)[^1]

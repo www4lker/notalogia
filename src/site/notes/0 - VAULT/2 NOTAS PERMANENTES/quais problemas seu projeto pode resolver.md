@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/quais-problemas-seu-projeto-pode-resolver/","tags":["permanente","promptgpt3","criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/quais-problemas-seu-projeto-pode-resolver/","tags":["permanente","promptgpt3","criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # quais problemas seu projeto pode resolver

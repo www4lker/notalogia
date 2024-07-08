@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/lendo-irmaos-karamazov/","tags":["psique","literatura","pessoalidades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/lendo-irmaos-karamazov/","tags":["psique","literatura","pessoalidades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # LENDO IRMAOS KARAMAZOV
@@ -9,7 +9,7 @@ criado em: 18:16 2022-08-09
 - palavras-chave: 
 - notas permanentes: #psique #literatura #pessoalidades 
 - notas de dissertação:
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/O Individualista\|O Individualista]]
 
 ---

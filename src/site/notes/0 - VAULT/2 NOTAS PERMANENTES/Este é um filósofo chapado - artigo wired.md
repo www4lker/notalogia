@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/este-e-um-filosofo-chapado-artigo-wired/","tags":["permanente","wiredetal","psicodelico","filosofia","lit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/este-e-um-filosofo-chapado-artigo-wired/","tags":["permanente","wiredetal","psicodelico","filosofia","lit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Este é um filósofo chapado - artigo wired
@@ -12,9 +12,9 @@
 ### Conteúdo Relacionado
 
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/McKenna e o macaco chapado\|McKenna e o macaco chapado]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Psiconautas viagens com a ciência psicodélica brasileira\|Psiconautas viagens com a ciência psicodélica brasileira]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Merlin Sheldrake\|Merlin Sheldrake]]
-- [[0 - VAULT/1 NOTAS LITERAIS/pesquisas recentes envolvendo filosofia e substâncias\|pesquisas recentes envolvendo filosofia e substâncias]]
+- [[Psiconautas viagens com a ciência psicodélica brasileira\|Psiconautas viagens com a ciência psicodélica brasileira]]
+- [[Merlin Sheldrake\|Merlin Sheldrake]]
+- [[pesquisas recentes envolvendo filosofia e substâncias\|pesquisas recentes envolvendo filosofia e substâncias]]
 - tags: #wiredetal #psicodelico #filosofia #lit 
 - Fontes & Links: [artigo wired this is a philosopher on drugs](https://www.wired.com/story/this-is-a-philosopher-on-drugs/)
 ---
@@ -31,14 +31,14 @@ O autor também desafia suposições culturais dominantes e oferece críticas à
 
 Here are the atomic notes based on the article, each representing a single idea:
 
-1. **Note 1 - [[0 - VAULT/1 NOTAS LITERAIS/Desinteresse dos filósofos em alteradores de consciencia\|Desinteresse dos filósofos em alteradores de consciencia]]
+1. **Note 1 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Desinteresse dos filósofos em alteradores de consciencia\|Desinteresse dos filósofos em alteradores de consciencia]]
 
-2. **Note 2 - [[0 - VAULT/1 NOTAS LITERAIS/poucos filósofos documentaram experiências com drogas\|poucos filósofos documentaram experiências com drogas]]
+2. **Note 2 - [[poucos filósofos documentaram experiências com drogas\|poucos filósofos documentaram experiências com drogas]]
 
-3. **Note 3 - [[0 - VAULT/1 NOTAS LITERAIS/Conservadorismo na filosofia\|Conservadorismo na filosofia]]
+3. **Note 3 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Conservadorismo na filosofia\|Conservadorismo na filosofia]]
 
-4. **Note 4 - [[0 - VAULT/1 NOTAS LITERAIS/percepção e realidade\|percepção e realidade]]
+4. **Note 4 - [[percepção e realidade\|percepção e realidade]]
 
-5. **Note 5 - [[0 - VAULT/1 NOTAS LITERAIS/Ferramentas psicodelicas para entender a realidade\|Ferramentas psicodelicas para entender a realidade]]
+5. **Note 5 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Ferramentas psicodelicas para entender a realidade\|Ferramentas psicodelicas para entender a realidade]]
 
-6. **Note 6 - [[0 - VAULT/1 NOTAS LITERAIS/experiência pessoa com psicodelicos\|experiência pessoa com psicodelicos]]
+6. **Note 6 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/experiência pessoa com psicodelicos\|experiência pessoa com psicodelicos]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/identificacao-de-estrategias-eficazes-para-o-crescimento-intelectual/","tags":["permanente","estrategiasdecrescimentointelectual","intelectual","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/identificacao-de-estrategias-eficazes-para-o-crescimento-intelectual/","tags":["permanente","estrategiasdecrescimentointelectual","intelectual","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Identificação de estratégias eficazes para o crescimento intelectual

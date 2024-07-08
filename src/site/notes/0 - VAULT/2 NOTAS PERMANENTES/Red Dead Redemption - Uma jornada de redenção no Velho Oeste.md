@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/red-dead-redemption-uma-jornada-de-redencao-no-velho-oeste/","tags":["permanente","literatura","ergodico","RedDeadRedemption2","Prequel","FronteiraAmericana","GangueVanDerLinde","RedDeadRedemption","Videogame","Ação","Aventura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/red-dead-redemption-uma-jornada-de-redencao-no-velho-oeste/","tags":["permanente","literatura","ergodico","RedDeadRedemption2","Prequel","FronteiraAmericana","GangueVanDerLinde","RedDeadRedemption","Videogame","Ação","Aventura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 

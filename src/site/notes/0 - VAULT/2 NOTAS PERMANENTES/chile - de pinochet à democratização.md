@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chile-de-pinochet-a-democratizacao/","tags":["permanente","geo","otimistarealista","leitura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chile-de-pinochet-a-democratizacao/","tags":["permanente","geo","otimistarealista","leitura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 1# chile - de pinochet à democratização

@@ -13,7 +13,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO\|um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/MdCC\|MdCC]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica\|Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/episteme\|episteme]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/episteme\|episteme]]
 ---
 
 **Os Paralelos entre a Tese de Michel Foucault de Episteme e a Moderna Produção de Textos em Mídia Eletrônica**

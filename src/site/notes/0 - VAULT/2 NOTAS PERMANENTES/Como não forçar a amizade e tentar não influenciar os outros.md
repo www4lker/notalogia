@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-nao-forcar-a-amizade-e-tentar-nao-influenciar-os-outros/","tags":["permanente","meta","filosofia","insight","mestredeculturacontemporanea","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-nao-forcar-a-amizade-e-tentar-nao-influenciar-os-outros/","tags":["permanente","meta","filosofia","insight","mestredeculturacontemporanea","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como não forçar a amizade e tentar não influenciar os outros

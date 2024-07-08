@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/etarismo-no-tiktok/","tags":["permanente","criadordeconteudo","mestredeculturacontemporanea","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/etarismo-no-tiktok/","tags":["permanente","criadordeconteudo","mestredeculturacontemporanea","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # ageism on tt
@@ -11,7 +11,7 @@
 
 ### Conteúdo Relacionado
 
-- notas: [[0 - VAULT/2 NOTAS PERMANENTES/Content, por Kate Eichorn\|Content, por Kate Eichorn]] [[0 - VAULT/1 NOTAS LITERAIS/Indústria Cultural\|Indústria Cultural]] [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/its the content killing the culture - wisecrack edition\|its the content killing the culture - wisecrack edition]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/Content, por Kate Eichorn\|Content, por Kate Eichorn]] [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Indústria Cultural\|Indústria Cultural]] [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/its the content killing the culture - wisecrack edition\|its the content killing the culture - wisecrack edition]]
 - tags: #criadordeconteudo #mestredeculturacontemporanea #totalizante 
 - Fontes & Links: 
 - wired original https://www.wired.com/story/tiktok-teenage-look-ageism/

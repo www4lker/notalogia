@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/main-insight-of-the-book-the-power-of-habit-by-charles-duhig/","tags":["permanente","habitanimal","HabitRevolution","SmallChangesBigResults","IdentityShift","SystematicSuccess","EnvironmentMatters","HabitStacking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/main-insight-of-the-book-the-power-of-habit-by-charles-duhig/","tags":["permanente","habitanimal","HabitRevolution","SmallChangesBigResults","IdentityShift","SystematicSuccess","EnvironmentMatters","HabitStacking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # main insight of the book The power of habit by charles duhig

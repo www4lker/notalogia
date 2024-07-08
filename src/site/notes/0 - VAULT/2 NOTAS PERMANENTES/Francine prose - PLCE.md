@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/francine-prose-plce/","tags":["permanente","academia","literatura","academico","ReadingLiterature","lit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/francine-prose-plce/","tags":["permanente","academia","literatura","academico","ReadingLiterature","lit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Francine prose - PLCE
@@ -10,9 +10,9 @@
 ## relacionados:
 - notas: [[Prose-Para ler como um escritor\|Prose-Para ler como um escritor]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Farmácia Literária - sofrimentos relacionados à leitura\|Farmácia Literária - sofrimentos relacionados à leitura]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Francine prose - Palavras\|Francine prose - Palavras]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Francine prose - Frases\|Francine prose - Frases]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Francine prose - Parágrafos\|Francine prose - Parágrafos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Francine prose - Palavras\|Francine prose - Palavras]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Francine prose - Frases\|Francine prose - Frases]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Francine prose - Parágrafos\|Francine prose - Parágrafos]]
 - [[Manguel-O leitor como metáfora\|Manguel-O leitor como metáfora]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/hábitos de escritores\|hábitos de escritores]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/meta - megavault - gostos literários\|meta - megavault - gostos literários]]

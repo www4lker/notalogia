@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/crise-dos-40-chegou/","tags":["permanente","psique","bhavana","mementomori"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/crise-dos-40-chegou/","tags":["permanente","psique","bhavana","mementomori"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Crise dos 40 chegou
@@ -9,18 +9,18 @@
 - Hora: 13:21
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/crise da meia idade\|crise da meia idade]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/crise da meia idade\|crise da meia idade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como fazer amigos quando adulto\|Como fazer amigos quando adulto]]
 - [[0 - VAULT/1 NOTAS LITERAIS/psique/TAD\|TAD]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/writting on retreats\|writting on retreats]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como praticar o Ileísmo para ser um tiquinho menos tolo\|Como praticar o Ileísmo para ser um tiquinho menos tolo]]
 - tags: #psique #bhavana #mementomori 
 - Fontes & Links: 
-- [[0 - VAULT/1 NOTAS LITERAIS/huberman husbands\|huberman husbands]]
-- [[0 - VAULT/1 NOTAS LITERAIS/dopamina e motivação\|dopamina e motivação]]
-- [[0 - VAULT/1 NOTAS LITERAIS/O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST\|O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/huberman husbands\|huberman husbands]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/dopamina e motivação\|dopamina e motivação]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST\|O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Leverage Dopamine to Overcome Procrastination & Optimize Effort - Huberman Lab Podcast - ZT\|Leverage Dopamine to Overcome Procrastination & Optimize Effort - Huberman Lab Podcast - ZT]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Huberman and S Harris - Potencial do uso de psicodélicos\|Huberman and S Harris - Potencial do uso de psicodélicos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman and S Harris - Potencial do uso de psicodélicos\|Huberman and S Harris - Potencial do uso de psicodélicos]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Huberman - lab - podcast - index\|Huberman - lab - podcast - index]]
 ---
 
@@ -36,14 +36,14 @@
 
 1. Pratique a atenção plena: Mantenha-se presente no momento atual e esteja ciente de seus pensamentos e emoções. Técnicas de atenção plena, como meditação ou exercícios de respiração profunda, podem ajudá-lo a se concentrar no presente e evitar que sua mente se concentre excessivamente no passado. [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 
-2. Estabeleça metas e crie uma visão para seu futuro: Em vez de ficar preso ao passado, direcione sua energia e seu foco para estabelecer novas metas e imaginar o tipo de vida que deseja criar para si mesmo. Isso o ajudará a desviar sua atenção do passado para as possibilidades que estão por vir. [[0 - VAULT/1 NOTAS LITERAIS/blog para sempre\|blog para sempre]]
+2. Estabeleça metas e crie uma visão para seu futuro: Em vez de ficar preso ao passado, direcione sua energia e seu foco para estabelecer novas metas e imaginar o tipo de vida que deseja criar para si mesmo. Isso o ajudará a desviar sua atenção do passado para as possibilidades que estão por vir. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/blog para sempre\|blog para sempre]]
 
 3. Cultive a gratidão: Reserve um tempo todos os dias para apreciar e expressar gratidão pelos aspectos positivos de sua vida. Concentrar-se nas bênçãos do presente pode ajudar a mudar sua mentalidade e não ficar remoendo o que você considera oportunidades perdidas ou não aproveitadas. [[0 - VAULT/2 NOTAS PERMANENTES/Huberman on Gratitude\|Huberman on Gratitude]]
 
 4. Envolva-se em novas experiências: Explore novos hobbies, interesses ou atividades que lhe tragam alegria e satisfação. Ao participar ativamente de novas experiências, você criará novas lembranças e desenvolverá um senso de entusiasmo pelo presente.
 5. [[viagem para sampa 2023\|viagem para sampa 2023]]
 
-6. Busque o apoio de outras pessoas: Compartilhe seus sentimentos com amigos ou familiares de confiança. Eles podem oferecer uma perspectiva e um apoio valiosos, ajudando-o a navegar por quaisquer emoções desafiadoras e lembrando-o dos motivos pelos quais ficar remoendo o passado pode não ser do seu interesse. [[0 - VAULT/1 NOTAS LITERAIS/Fazer amizades com adultos\|Fazer amizades com adultos]]
+6. Busque o apoio de outras pessoas: Compartilhe seus sentimentos com amigos ou familiares de confiança. Eles podem oferecer uma perspectiva e um apoio valiosos, ajudando-o a navegar por quaisquer emoções desafiadoras e lembrando-o dos motivos pelos quais ficar remoendo o passado pode não ser do seu interesse. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazer amizades com adultos\|Fazer amizades com adultos]]
 
 7. Reflita sobre as lições aprendidas: Embora seja natural sentir nostalgia, é importante reconhecer que o passado não é necessariamente melhor do que o presente ou o futuro. Reflita sobre as lições que aprendeu com suas experiências passadas e use-as como trampolim para o crescimento e aprimoramento pessoal. [[Por Que Manter Um Diário Pode Mudar Sua Vida - 1\|Por Que Manter Um Diário Pode Mudar Sua Vida - 1]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/escrita-como-possibildade-de-surgir-do-antropoceno/","tags":["permanente","interessesdepesquisa","interessesgerais","academia","intelectual","disserte","literatura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/escrita-como-possibildade-de-surgir-do-antropoceno/","tags":["permanente","interessesdepesquisa","interessesgerais","academia","intelectual","disserte","literatura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 

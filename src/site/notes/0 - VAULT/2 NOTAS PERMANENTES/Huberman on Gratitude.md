@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/huberman-on-gratitude/","tags":["permanente","psique","mementomori","meditacao","vipassana","Metacognition","interessesgerais","insight","framework","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/huberman-on-gratitude/","tags":["permanente","psique","mementomori","meditacao","vipassana","Metacognition","interessesgerais","insight","framework","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Huberman on Gratitude 1
@@ -48,44 +48,44 @@ Há uma distinção importante a ser feita entre traços e estados emocionais. T
 *Questões Relacionadas: Qual é a diferença entre traços e estados emocionais? Como é possível reconfigurar nosso sistema nervoso para alcançar estados emocionais desejados? Quais abordagens podem ser adotadas para alcançar a calma ou a responsividade nas situações desejadas?*
 
 ---
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on Gratitude 2\|Huberman on Gratitude 2]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on Gratitude 2\|Huberman on Gratitude 2]]
 
 ---
 
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 2-5\|Huberman on gratitude 2-5]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 2-5\|Huberman on gratitude 2-5]]
 
 ---
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 3\|Huberman on gratitude 3]]
-
----
-
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 4\|Huberman on gratitude 4]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 3\|Huberman on gratitude 3]]
 
 ---
 
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 5\|Huberman on gratitude 5]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 4\|Huberman on gratitude 4]]
 
 ---
 
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 6\|Huberman on gratitude 6]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 5\|Huberman on gratitude 5]]
 
 ---
 
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 7\|Huberman on gratitude 7]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 6\|Huberman on gratitude 6]]
 
 ---
 
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 8\|Huberman on gratitude 8]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 7\|Huberman on gratitude 7]]
+
+---
+
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 8\|Huberman on gratitude 8]]
 
 
 ---
 
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 9\|Huberman on gratitude 9]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 9\|Huberman on gratitude 9]]
 
 ---
 
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 10\|Huberman on gratitude 10]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 10\|Huberman on gratitude 10]]
 
 ---
 
-[[0 - VAULT/1 NOTAS LITERAIS/Huberman on gratitude 11\|Huberman on gratitude 11]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Huberman on gratitude 11\|Huberman on gratitude 11]]

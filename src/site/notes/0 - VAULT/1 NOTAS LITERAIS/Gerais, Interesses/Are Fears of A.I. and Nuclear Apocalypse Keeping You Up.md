@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/are-fears-of-a-i-and-nuclear-apocalypse-keeping-you-up/","tags":["filosofia","tecnologia","geo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/are-fears-of-a-i-and-nuclear-apocalypse-keeping-you-up/","tags":["filosofia","tecnologia","geo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # ZETTEL - Are Fears of A.I. and Nuclear Apocalypse Keeping You Up
@@ -10,11 +10,11 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/888/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
 3. [[0 - VAULT/2 NOTAS PERMANENTES/Labatut no FLIP\|Labatut no FLIP]]
 4. [[0 - VAULT/2 NOTAS PERMANENTES/La piedra de la locura\|La piedra de la locura]]
-5. [[0 - VAULT/1 NOTAS LITERAIS/888/resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
-6. [[0 - VAULT/1 NOTAS LITERAIS/888/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
+5. [[resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
+6. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
 - tags: #filosofia #tecnologia #geo 
 - Fontes & Links: https://kazumilk.com/books/are-fears-of-a-i-and-nuclear-apocalypse-keeping-you-up-blame-prometheus/44106/
 ---

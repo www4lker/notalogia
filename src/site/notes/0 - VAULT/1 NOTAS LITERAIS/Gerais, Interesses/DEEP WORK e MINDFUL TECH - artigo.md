@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/deep-work-e-mindful-tech-artigo/","tags":["intelectual","academia","academico","totalizante","disserte","tecnologia","minimalismodigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/deep-work-e-mindful-tech-artigo/","tags":["intelectual","academia","academico","totalizante","disserte","tecnologia","minimalismodigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # DEEP WORK e MINDFUL TECH - artigo

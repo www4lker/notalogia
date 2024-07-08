@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/se-livros-pudessem-matar/","tags":["permanente","podkasten","mestredeculturacontemporanea","LiteraryExperiment","criatividade","InsightfulObservation","PodcastReview","BookCritique","MediaAnalysis","PublicNarratives"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/se-livros-pudessem-matar/","tags":["permanente","podkasten","mestredeculturacontemporanea","LiteraryExperiment","criatividade","InsightfulObservation","PodcastReview","BookCritique","MediaAnalysis","PublicNarratives"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # se livros pudessem matar

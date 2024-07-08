@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/o-que-o-mundo-precisa-e-ninguem-esta-fazendo/","tags":["criatividade","333parteum","insight","interessesgerais","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/o-que-o-mundo-precisa-e-ninguem-esta-fazendo/","tags":["criatividade","333parteum","insight","interessesgerais","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # o que o mundo precisa e ninguem esta fazendo

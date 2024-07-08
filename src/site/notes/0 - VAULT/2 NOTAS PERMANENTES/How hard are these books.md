@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/how-hard-are-these-books/","title":"How hard are these books","tags":["literatura","cultura","mestredeculturacontemporanea","anglo","LiteraryLabyrinth","ComplexReads","MindBendingProse","ChallengeYourself"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/how-hard-are-these-books/","title":"How hard are these books","tags":["literatura","cultura","mestredeculturacontemporanea","anglo","LiteraryLabyrinth","ComplexReads","MindBendingProse","ChallengeYourself"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 
@@ -13,9 +13,9 @@
 
 ### Conteúdo Relacionado
 
-- notas: [[LIT\|LIT]], [[Postmodernism\|Postmodernism]] [[David Foster Wallace\|David Foster Wallace]] [[0 - VAULT/1 NOTAS LITERAIS/Pynchon, Thomas\|Pynchon, Thomas]], [[0 - VAULT/1 NOTAS LITERAIS/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]] [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Joyce, Jaime\|Joyce, Jaime]]
+- notas: [[LIT\|LIT]], [[Postmodernism\|Postmodernism]] [[David Foster Wallace\|David Foster Wallace]] [[Pynchon, Thomas\|Pynchon, Thomas]], [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]] [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Joyce, Jaime\|Joyce, Jaime]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Qual é mais difícil de ler\|Qual é mais difícil de ler]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Lendo DFW\|Lendo DFW]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Lendo DFW\|Lendo DFW]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/LIVROS QUE ASPIRO A LER PORQUE SIM\|LIVROS QUE ASPIRO A LER PORQUE SIM]]
 - tags: #literatura #cultura #mestredeculturacontemporanea #anglo #insight #mestredeculturacontemporanea #literatura
 - Fontes & Links: 

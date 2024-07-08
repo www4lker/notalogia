@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/interocepcao-e-a-exterocepcao/","tags":["insight","totalizante","pessoalidades","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/interocepcao-e-a-exterocepcao/","tags":["insight","totalizante","pessoalidades","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Significado de Interocepção e Exterocepção
@@ -23,7 +23,7 @@ Em resumo, a interocepção está relacionada à percepção das sensações int
 - Fontes & Links: 
 ---
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/prática de meditação Space-Time Bridging\|prática de meditação Space-Time Bridging]]
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST\|O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST\|O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Vipassana e TAD\|Vipassana e TAD]]
 - tags: #insight #totalizante #pessoalidades #householder 

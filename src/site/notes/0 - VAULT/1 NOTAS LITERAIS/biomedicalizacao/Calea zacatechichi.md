@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/calea-zacatechichi/","tags":["totalizante","biohack","psicodelico","meditacao","vipassana","insight","sonhos","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/calea-zacatechichi/","tags":["totalizante","biohack","psicodelico","meditacao","vipassana","insight","sonhos","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # calea
@@ -10,7 +10,7 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/Erowid\|Erowid]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/CONSENSUS APP - GUIA\|CONSENSUS APP - GUIA]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/CONSENSUS APP - GUIA\|CONSENSUS APP - GUIA]]
 3. [[Salvia divinorum\|Salvia divinorum]]
 - tags: #totalizante #biohack #psicodelico #meditacao #vipassana #insight #sonhos #psique
 - Fontes & Links: https://www.erowid.org/plants/calea_zacatechichi/

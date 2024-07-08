@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-fazer-meu-sistema-zettelkasten-no-obsidian/","tags":["permanente","insumos","criatividade","sistemático","OrganizaçãoDoConhecimento","PKM","AbordagemFragmentada","Limitações","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-fazer-meu-sistema-zettelkasten-no-obsidian/","tags":["permanente","insumos","criatividade","sistemático","OrganizaçãoDoConhecimento","PKM","AbordagemFragmentada","Limitações","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como fazer meu sistema zettelkasten no Obsidian

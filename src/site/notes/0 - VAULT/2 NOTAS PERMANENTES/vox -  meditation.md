@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/vox-meditation/","tags":["permanente","vipassana","sciencebitch","ceticismo","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/vox-meditation/","tags":["permanente","vipassana","sciencebitch","ceticismo","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # vox -  meditation
@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-08-23
 - Hora: 17:32
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/vox -  meditation  -ZT\|vox -  meditation  -ZT]]
-- [[0 - VAULT/1 NOTAS LITERAIS/no nothing - article meditation\|no nothing - article meditation]]
+- [[no nothing - article meditation\|no nothing - article meditation]]
 - [[0 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/10/Meditation is like mountaineering approach it with care\|0 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/10/Meditation is like mountaineering approach it with care]]
 - tags: #vipassana #sciencebitch #ceticismo #meditacao 
 ---

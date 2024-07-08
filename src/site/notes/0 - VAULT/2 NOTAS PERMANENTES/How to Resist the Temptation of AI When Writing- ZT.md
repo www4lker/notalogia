@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/how-to-resist-the-temptation-of-ai-when-writing-zt/","tags":["permanente","chatgpt","chatbot","IAeÉtica","IAvsInteligênciaHumana","escrivão","escrita","promptgpt3","metodologia","disserte","anglo","tecnologia","meta","zettelkasten","1000palavrasoumais","newsletter","ceticismo","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/how-to-resist-the-temptation-of-ai-when-writing-zt/","tags":["permanente","chatgpt","chatbot","IAeÉtica","IAvsInteligênciaHumana","escrivão","escrita","promptgpt3","metodologia","disserte","anglo","tecnologia","meta","zettelkasten","1000palavrasoumais","newsletter","ceticismo","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # How to Resist the Temptation of AI When Writing- ZT
@@ -9,8 +9,8 @@
 - 11:38
 ## relacionados:
 - notas:
-1. [[0 - VAULT/1 NOTAS LITERAIS/How to Resist the Temptation of AI When Writing\|How to Resist the Temptation of AI When Writing]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/writing with AI - IA net\|writing with AI - IA net]]
+1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/How to Resist the Temptation of AI When Writing\|How to Resist the Temptation of AI When Writing]]
+2. [[writing with AI - IA net\|writing with AI - IA net]]
 3. [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/As entrelinhas dos conteúdos produzidos pelo ChatGpt\|As entrelinhas dos conteúdos produzidos pelo ChatGpt]]
 4. [[0 - VAULT/1 NOTAS LITERAIS/ECCO/No feature -  IAW\|No feature -  IAW]]
 5. [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/voce quer ser escritor - lamento\|voce quer ser escritor - lamento]]

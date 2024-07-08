@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/curadoria-de-filosofia-da-tecnologia/","tags":["permanente","filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado","FilialPiety","ConfucianThought","MoralBehavior"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/curadoria-de-filosofia-da-tecnologia/","tags":["permanente","filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado","FilialPiety","ConfucianThought","MoralBehavior"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # curadoria de filosofia da tecnologia
@@ -10,11 +10,11 @@
 
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
-- [[0 - VAULT/1 NOTAS LITERAIS/summary the truth of the technological world\|summary the truth of the technological world]]
-- [[0 - VAULT/1 NOTAS LITERAIS/summary the truth of the technological world\|summary the truth of the technological world]]
-- [[0 - VAULT/1 NOTAS LITERAIS/The Question Concerning Technology in China - and other works\|The Question Concerning Technology in China - and other works]]
+- [[summary the truth of the technological world\|summary the truth of the technological world]]
+- [[summary the truth of the technological world\|summary the truth of the technological world]]
+- [[The Question Concerning Technology in China - and other works\|The Question Concerning Technology in China - and other works]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/SONHOS TECNOFEUDAIS\|SONHOS TECNOFEUDAIS]]
-- [[0 - VAULT/1 NOTAS LITERAIS/resenha livro do Vinícius Portella\|resenha livro do Vinícius Portella]]
+- [[resenha livro do Vinícius Portella\|resenha livro do Vinícius Portella]]
 
 - Fontes & Links: #filosofia #pesquisa #interessesdepesquisa #interessesgerais #ceticismo #disserte #criatividade #ludismoiluminado
 ---
@@ -31,21 +31,21 @@ Numa direção mais ampla, muitos vêm também tentando recuperar o pensamento f
 Uma coisa parece certa: vindo de onde vier, o confronto real com nossos problemas ecológicos e sociais demanda uma investigação profunda das nossas cadeias de mediação tecnológica. E está mais do que na hora de as ciências humanas se embrenharem mais fundo nessas questões.
 
 ## How We Became Posthuman
-[[0 - VAULT/1 NOTAS LITERAIS/review how we become posthuman\|review how we become posthuman]]
+[[review how we become posthuman\|review how we become posthuman]]
 
 N. Katherine Hayles (University of Chicago Press, 2008)
 
 Uma das principais teóricas norte-americanas de literatura e tecnologia, Nancy Katherine Hayles escreveu esse clássico da teoria de mídia no final da década de 1990 (infelizmente ainda sem tradução por aqui). As principais discussões do livro giram em torno da oposição entre o digital e o corpo, informação e matéria, e em como o mito do digital se construiu em cima de uma negação da sua materialidade subjacente. Hayles descortina os fundamentos filosóficos, científicos e políticos da era cibernética com erudição e clareza.
 
 ## Do modo de existência dos objetos técnicos
-[[0 - VAULT/1 NOTAS LITERAIS/review On the Mode of Existence of Technical Objects by Simondon\|review On the Mode of Existence of Technical Objects by Simondon]]
+[[review On the Mode of Existence of Technical Objects by Simondon\|review On the Mode of Existence of Technical Objects by Simondon]]
 
 Gilbert Simondon (Trad. Vera Ribeiro, Contraponto, 2020)
 
 Gilbert Simondon ainda é bem desconhecido no Brasil, apesar de ter influenciado bastante o filósofo Gilles Deleuze (figurinha carimbada nas pós-graduações em humanidades por aqui). Simondon parte da premissa de que a cultura humanista ocidental havia se formado como um sistema de defesa contra a técnica, considerada em si uma fonte de alienação. Em contraponto, o autor oferece uma visão da tecnicidade não como uma força oposta ao humano e à natureza, mas como algo que deve ser entendido de forma mais aberta e horizontal, menos concentrada em tecnocratas e mais espalhada por toda a sociedade. Talvez seja a hora de começar a digerir melhor essas ideias.
 
 ## A Hacker Manifesto
-[[0 - VAULT/1 NOTAS LITERAIS/review a hacker manifesto\|review a hacker manifesto]]
+[[review a hacker manifesto\|review a hacker manifesto]]
 
 McKenzie Wark (Harvard University Press, 2004)
 
@@ -55,14 +55,14 @@ Também sem tradução no Brasil, o manifesto hacker da teórica australiana McK
 { #06aca6}
 
 
-[[0 - VAULT/1 NOTAS LITERAIS/summary the truth of the technological world\|summary the truth of the technological world]]
+[[summary the truth of the technological world\|summary the truth of the technological world]]
 
 Friedrich Kittler (Trad. Markus Heddiger, Contraponto, 2017)
 
 Filho improvável de Heidegger, Lacan e Foucault (mas antes de tudo do romantismo alemão), Friedrich Kittler é o principal nome do que veio a se chamar a escola alemã de teoria de mídia. Levando muito a sério a relação entre tecnologia e guerra, Kittler inverte a relação humanista tradicional entre a humanidade e seus meios técnicos, compreendendo o humano como um produto de suas próprias tecnologias. O mais paranoico de todos os pensadores de tecnologia, Kittler não via nenhuma força emancipadora na ascensão da computação pessoal norte-americana dos anos 1990, mas sim a implementação de um circuito vertical e fechado de controle corporativo. Parece difícil dizer hoje que ele estava exagerando.
 
 ## Tecnodiversidade
-[[0 - VAULT/1 NOTAS LITERAIS/Hui, Yuk\|Hui, Yuk]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Hui, Yuk\|Hui, Yuk]]
 
 Yuk Hui (Trad. Humberto Amaral, Ubu, 2020)
 

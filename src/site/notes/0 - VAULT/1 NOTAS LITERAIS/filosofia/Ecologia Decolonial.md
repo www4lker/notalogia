@@ -9,10 +9,10 @@
 - 17:20
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/colonialismo químico\|colonialismo químico]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Decolonização - Um desafio às estruturas de poder opressivas\|Decolonização - Um desafio às estruturas de poder opressivas]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Decolonização - Um desafio às estruturas de poder opressivas\|Decolonização - Um desafio às estruturas de poder opressivas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Chico mendes\|Chico mendes]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/ARLR - Paraná - citações\|ARLR - Paraná - citações]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Educação Antiracista\|Educação Antiracista]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Educação Antiracista\|Educação Antiracista]]
 - 
 - tags: #geo #academia #insumos #ecologia #decolonialidades
 - 

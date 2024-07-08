@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/quando-agir-sob-impulso-e-o-mais-sensato/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/quando-agir-sob-impulso-e-o-mais-sensato/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # QUANDO AGIR SOB IMPULSO É O MAIS SENSATO
@@ -10,8 +10,8 @@
 
 ### Conteúdo Relacionado
 - notas: [[Burkeman, Oliver\|Burkeman, Oliver]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Joseph Goldstein\|Joseph Goldstein]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Mindfulness-2\|Mindfulness-2]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Joseph Goldstein\|Joseph Goldstein]]
+- [[Mindfulness-2\|Mindfulness-2]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/reaprender a dar valor para as próprias vitórias\|reaprender a dar valor para as próprias vitórias]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O VALOR DO VOLUME FIXO DE PRODUTIVIDADE\|O VALOR DO VOLUME FIXO DE PRODUTIVIDADE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Fracasse estrategicamente\|Fracasse estrategicamente]]

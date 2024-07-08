@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/guia-abrangente-para-repeticao-espacada-e-anki/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/guia-abrangente-para-repeticao-espacada-e-anki/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 
@@ -7,7 +7,7 @@
 2. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/anki tips\|anki tips]]
 3. [[0 - VAULT/1 NOTAS LITERAIS/ANELO/anki + programação\|anki + programação]]
 4. [[0 - VAULT/2 NOTAS PERMANENTES/usando o ANKI para aprender QUALQUER COISA\|usando o ANKI para aprender QUALQUER COISA]]
-5. [[0 - VAULT/1 NOTAS LITERAIS/anki para concursos\|anki para concursos]]
+5. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/anki para concursos\|anki para concursos]]
 
 ---
 

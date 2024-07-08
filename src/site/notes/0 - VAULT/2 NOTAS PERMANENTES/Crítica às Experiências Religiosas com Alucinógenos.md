@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/critica-as-experiencias-religiosas-com-alucinogenos/","tags":["permanente","filosofia","buddhismo","Meditação","CríticaReligiãoDrogas","MaterialismoEspiritual","DesejoPorAlteração","SuposiçõesEquivocadas","RepetiçãoPadrõesBusca","EquívocosHistóricosEspiritualidade","ReduçãoExperiênciaReligiosa","SaúdeEspiritualidade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/critica-as-experiencias-religiosas-com-alucinogenos/","tags":["permanente","filosofia","buddhismo","Meditação","CríticaReligiãoDrogas","MaterialismoEspiritual","DesejoPorAlteração","SuposiçõesEquivocadas","RepetiçãoPadrõesBusca","EquívocosHistóricosEspiritualidade","ReduçãoExperiênciaReligiosa","SaúdeEspiritualidade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Crítica às Experiências Religiosas com Alucinógenos

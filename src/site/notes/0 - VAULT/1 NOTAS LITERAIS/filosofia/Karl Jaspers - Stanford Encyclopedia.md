@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/karl-jaspers-stanford-encyclopedia/","tags":["lit","filosofia","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/karl-jaspers-stanford-encyclopedia/","tags":["lit","filosofia","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Karl Jaspers - Stanford Encyclopedia
@@ -10,8 +10,8 @@
 ## relacionados:
 - #lit #filosofia #literatura 
 -  [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Existencialismo\|Existencialismo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Kierkegaard\|Kierkegaard]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Formas Contingentes do Conhecimento\|Formas Contingentes do Conhecimento]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Kierkegaard\|Kierkegaard]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Formas Contingentes do Conhecimento\|Formas Contingentes do Conhecimento]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Lyotard, Jean-François\|Lyotard, Jean-François]]
 - Fontes & Links: https://plato.stanford.edu/entries/jaspers/
 ---

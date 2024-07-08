@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-ler-mais-especial-para-o-walker-2/","tags":["permanente","mementomori","nexo","ensaistica","diário","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-ler-mais-especial-para-o-walker-2/","tags":["permanente","mementomori","nexo","ensaistica","diário","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # como ler mais - especial para o walker
@@ -10,7 +10,7 @@
 
 ### Conteúdo Relacionado
 - notas: #mementomori 
-- [[0 - VAULT/1 NOTAS LITERAIS/CANSADO DE LER EM KINDLE\|CANSADO DE LER EM KINDLE]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/CANSADO DE LER EM KINDLE\|CANSADO DE LER EM KINDLE]]
 - [[1- NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Aflito com quantidade de livros em casa\|1- NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Aflito com quantidade de livros em casa]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/COMO LER MAIS LIVROS - VIA NEXO\|COMO LER MAIS LIVROS - VIA NEXO]]
 - palavras-chave: #nexo #ensaistica #diário #totalizante 

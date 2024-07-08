@@ -11,8 +11,8 @@
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/newsletter nova - baseada neste vault\|newsletter nova - baseada neste vault]]
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/TORÓ DE IDEIAS PARA GERAR UMA NOVA substack\|TORÓ DE IDEIAS PARA GERAR UMA NOVA substack]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Fazendo sucesso no Threads\|Fazendo sucesso no Threads]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Para além dos jardins  murados dos substack\|Para além dos jardins  murados dos substack]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazendo sucesso no Threads\|Fazendo sucesso no Threads]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Para além dos jardins  murados dos substack\|Para além dos jardins  murados dos substack]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Etapas para se tornar um criador de conteúdo\|Etapas para se tornar um criador de conteúdo]]
 - tags: #newsletter #mestredeculturacontemporanea 
 ---

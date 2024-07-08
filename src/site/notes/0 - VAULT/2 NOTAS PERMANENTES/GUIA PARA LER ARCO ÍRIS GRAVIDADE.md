@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/guia-para-ler-arco-iris-gravidade/","tags":["permanente","literatura","geo","filosofia","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/guia-para-ler-arco-iris-gravidade/","tags":["permanente","literatura","geo","filosofia","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Gravitys Rainbow by Thomas Pynchon is known for its complex plot
@@ -9,7 +9,7 @@
 ### Conteúdo Relacionado
 
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Pynchon, Thomas\|Pynchon, Thomas]]
+- notas: [[Pynchon, Thomas\|Pynchon, Thomas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
 
 #### Fontes & Links

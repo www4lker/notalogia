@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/duas-perguntas-poderosas/","tags":["permanente","SelfReflection","filosofia","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/duas-perguntas-poderosas/","tags":["permanente","SelfReflection","filosofia","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Duas perguntas que podem prevenir ou mitigar uma crise existencial

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/heteroglassia-e-diferenca-de-dialogismo/","tags":["permanente","literatura","interessesdepesquisa","interessesgerais","filosofia","formalismorusso"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/heteroglassia-e-diferenca-de-dialogismo/","tags":["permanente","literatura","interessesdepesquisa","interessesgerais","filosofia","formalismorusso"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Heteroglassia e diferença de Dialogismo
@@ -9,7 +9,7 @@
 - palavras-chave: #literatura #interessesdepesquisa #interessesgerais #filosofia #formalismorusso 
 - notas: [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Dostoiévski\|NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Dostoiévski]]
 - [[Bakhtin, M\|Bakhtin, M]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Tolstói, Lev\|Tolstói, Lev]]
+- [[Tolstói, Lev\|Tolstói, Lev]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/relendo os clássicos russos artigo new yorker\|relendo os clássicos russos artigo new yorker]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Dialogismo\|Dialogismo]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O que é romance polifônico e alguns exemplos\|O que é romance polifônico e alguns exemplos]]

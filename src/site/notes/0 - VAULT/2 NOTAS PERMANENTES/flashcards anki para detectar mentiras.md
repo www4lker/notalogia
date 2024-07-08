@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/flashcards-anki-para-detectar-mentiras/","tags":["anki","autoanki","filosofia","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/flashcards-anki-para-detectar-mentiras/","tags":["anki","autoanki","filosofia","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # flashcards anki para detectar mentiras

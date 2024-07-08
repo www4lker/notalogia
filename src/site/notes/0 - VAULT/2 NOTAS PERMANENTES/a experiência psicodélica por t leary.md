@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-experiencia-psicodelica-por-t-leary/","tags":["permanente","psicodelico","totalizante","eternoaprendiz","psique","filosofia","criatividade","LearyPsychedelia","SetSetting","BuddhistPsychedelia","ConsciousnessExploration","PsychedelicControversy","HallmarkPsychedelia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-experiencia-psicodelica-por-t-leary/","tags":["permanente","psicodelico","totalizante","eternoaprendiz","psique","filosofia","criatividade","LearyPsychedelia","SetSetting","BuddhistPsychedelia","ConsciousnessExploration","PsychedelicControversy","HallmarkPsychedelia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # a experiência psicodélica por t leary
@@ -23,11 +23,11 @@ palavras-chave: #psicodelico #totalizante #eternoaprendiz
 
 
 
-Título: [[0 - VAULT/1 NOTAS LITERAIS/888/Teoria da Exploração da Consciência de Leary\|Teoria da Exploração da Consciência de Leary]]
+Título: [[Teoria da Exploração da Consciência de Leary\|Teoria da Exploração da Consciência de Leary]]
 
 
 Nota 2:
-Título: [[0 - VAULT/1 NOTAS LITERAIS/888/O uso do Livro Tibetano dos Mortos como um guia\|O uso do Livro Tibetano dos Mortos como um guia]]
+Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O uso do Livro Tibetano dos Mortos como um guia\|O uso do Livro Tibetano dos Mortos como um guia]]
 
 
 Nota 3:
@@ -35,7 +35,7 @@ Título: A[[ importância do cenário e da ambientação\| importância do cená
 
 
 Nota 4:
-Título: [[0 - VAULT/1 NOTAS LITERAIS/888/Críticas e influência do trabalho de Leary\|Críticas e influência do trabalho de Leary]]
+Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Críticas e influência do trabalho de Leary\|Críticas e influência do trabalho de Leary]]
 
 ---
 

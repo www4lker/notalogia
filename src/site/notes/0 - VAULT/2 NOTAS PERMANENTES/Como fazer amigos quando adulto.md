@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-fazer-amigos-quando-adulto/","tags":["permanente","psique","filosofia","literatura","autoajuda","nãoficção","chatgpt","meta","insight","mestredeculturacontemporanea","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-fazer-amigos-quando-adulto/","tags":["permanente","psique","filosofia","literatura","autoajuda","nãoficção","chatgpt","meta","insight","mestredeculturacontemporanea","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # How to make friends as an adult | Psyche
@@ -15,8 +15,8 @@
 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Como não forçar a amizade e tentar não influenciar os outros\|Como não forçar a amizade e tentar não influenciar os outros]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como fazer amigos quando adulto\|Como fazer amigos quando adulto]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como lidar com a estranheza da amizade\|Como lidar com a estranheza da amizade]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Fazer amizades com adultos\|Fazer amizades com adultos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como lidar com a estranheza da amizade\|Como lidar com a estranheza da amizade]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazer amizades com adultos\|Fazer amizades com adultos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Transformar os encontros iniciais em amizades\|Transformar os encontros iniciais em amizades]]
 - tags: #literatura #autoajuda #nãoficção #chatgpt 
 - #meta #filosofia #insight #mestredeculturacontemporanea #criatividade 
@@ -27,20 +27,20 @@
 
 1. [[0 - VAULT/2 NOTAS PERMANENTES/As amizades de adultos exigem esforço\|As amizades de adultos exigem esforço]]: [[0 - VAULT/2 NOTAS PERMANENTES/As amizades de adultos exigem esforço\|As amizades de adultos exigem esforço]]]
 
-2. [[0 - VAULT/1 NOTAS LITERAIS/A mentalidade positiva promove as conexões\|A mentalidade positiva promove as conexões]]: [[0 - VAULT/1 NOTAS LITERAIS/A mentalidade positiva promove as conexões\|A mentalidade positiva promove as conexões]]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A mentalidade positiva promove as conexões\|A mentalidade positiva promove as conexões]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A mentalidade positiva promove as conexões\|A mentalidade positiva promove as conexões]]]
 
-3. [[0 - VAULT/1 NOTAS LITERAIS/O poder da iniciação\|O poder da iniciação]]: [[0 - VAULT/1 NOTAS LITERAIS/O poder da iniciação\|O poder da iniciação]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O poder da iniciação\|O poder da iniciação]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O poder da iniciação\|O poder da iniciação]]
 
-4. [[0 - VAULT/1 NOTAS LITERAIS/A aparência consistente estimula a simpatia\|A aparência consistente estimula a simpatia]]: [[0 - VAULT/1 NOTAS LITERAIS/A aparência consistente estimula a simpatia\|A aparência consistente estimula a simpatia]]
+4. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A aparência consistente estimula a simpatia\|A aparência consistente estimula a simpatia]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A aparência consistente estimula a simpatia\|A aparência consistente estimula a simpatia]]
 
-5. [[0 - VAULT/1 NOTAS LITERAIS/A vulnerabilidade aprofunda a conexão\|A vulnerabilidade aprofunda a conexão]]: [[0 - VAULT/1 NOTAS LITERAIS/A vulnerabilidade aprofunda a conexão\|A vulnerabilidade aprofunda a conexão]] - 
+5. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A vulnerabilidade aprofunda a conexão\|A vulnerabilidade aprofunda a conexão]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A vulnerabilidade aprofunda a conexão\|A vulnerabilidade aprofunda a conexão]] - 
 
 6. [[0 - VAULT/2 NOTAS PERMANENTES/Aconselha-se a continuidade da amizade\|Aconselha-se a continuidade da amizade]]: [[0 - VAULT/2 NOTAS PERMANENTES/Aconselha-se a continuidade da amizade\|Aconselha-se a continuidade da amizade]]
 
-7. [[0 - VAULT/1 NOTAS LITERAIS/Fazer amizades com adultos\|Fazer amizades com adultos]]:[[0 - VAULT/1 NOTAS LITERAIS/Fazer amizades com adultos\|Fazer amizades com adultos]]]. 
+7. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazer amizades com adultos\|Fazer amizades com adultos]]:[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazer amizades com adultos\|Fazer amizades com adultos]]]. 
 
-8. [[0 - VAULT/1 NOTAS LITERAIS/Preparação psicológica\|Preparação psicológica]]: [[0 - VAULT/1 NOTAS LITERAIS/Preparação psicológica\|Preparação psicológica]]]
+8. [[Preparação psicológica\|Preparação psicológica]]: [[Preparação psicológica\|Preparação psicológica]]]
 
 9. [[0 - VAULT/2 NOTAS PERMANENTES/Transformar os encontros iniciais em amizades\|Transformar os encontros iniciais em amizades]]: [[0 - VAULT/2 NOTAS PERMANENTES/Transformar os encontros iniciais em amizades\|Transformar os encontros iniciais em amizades]]
 
-10. [[0 - VAULT/1 NOTAS LITERAIS/Como lidar com a estranheza da amizade\|Como lidar com a estranheza da amizade]]: [[0 - VAULT/1 NOTAS LITERAIS/Como lidar com a estranheza da amizade\|Como lidar com a estranheza da amizade]]
+10. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como lidar com a estranheza da amizade\|Como lidar com a estranheza da amizade]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como lidar com a estranheza da amizade\|Como lidar com a estranheza da amizade]]

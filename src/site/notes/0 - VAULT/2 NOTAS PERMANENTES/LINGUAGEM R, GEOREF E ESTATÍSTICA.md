@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/linguagem-r-georef-e-estatistica/","tags":["permanente","boradev","academia","meth","totalizante","geo","TechEthics"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/linguagem-r-georef-e-estatistica/","tags":["permanente","boradev","academia","meth","totalizante","geo","TechEthics"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # LINGUAGEM R, GEOREF E ESTATÍSTICA

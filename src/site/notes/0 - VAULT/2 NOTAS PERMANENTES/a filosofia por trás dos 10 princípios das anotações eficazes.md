@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-filosofia-por-tras-dos-10-principios-das-anotacoes-eficazes/","tags":["permanente","meta","zettelkasten","escrivão","descobertas","pessoalidades","criatividade","insight","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-filosofia-por-tras-dos-10-principios-das-anotacoes-eficazes/","tags":["permanente","meta","zettelkasten","escrivão","descobertas","pessoalidades","criatividade","insight","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # a filosofia por trás dos 10 princípios das anotações eficazes
@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #meta #zettelkasten #escrivão #descobertas #pessoalidades #criatividade #insight #filosofia
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/888/A.-D. Sertillanges\|A.-D. Sertillanges]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A.-D. Sertillanges\|A.-D. Sertillanges]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/Sertilanges A-D, Cap 7\|Sertilanges A-D, Cap 7]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/como fazer notas melhores e mais espertas - introdução\|como fazer notas melhores e mais espertas - introdução]]

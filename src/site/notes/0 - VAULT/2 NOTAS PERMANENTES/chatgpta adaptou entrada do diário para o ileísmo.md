@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chatgpta-adaptou-entrada-do-diario-para-o-ileismo/","tags":["permanente","pessoalidades","criatividade","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chatgpta-adaptou-entrada-do-diario-para-o-ileismo/","tags":["permanente","pessoalidades","criatividade","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # chatgpta adaptou entrada do diário para o ileísmo

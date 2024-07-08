@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/que-outros-usos-para-a-pesquisa-academica-nas-ciencias-humanas-eu-posso-usar-o-chatgpt3/","tags":["permanente","interessesgerais","wiredetal","interessesdepesquisa","meta","promptgpt3","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/que-outros-usos-para-a-pesquisa-academica-nas-ciencias-humanas-eu-posso-usar-o-chatgpt3/","tags":["permanente","interessesgerais","wiredetal","interessesdepesquisa","meta","promptgpt3","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Que outros usos para a pesquisa acadêmica nas ciências humanas eu posso usar o chatgpt3
@@ -11,7 +11,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/gpt3\|gpt3]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/BERT\|BERT]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/racismo algorítmico\|racismo algorítmico]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Santos, Milton\|Santos, Milton]]
+- [[Santos, Milton\|Santos, Milton]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/IA ou não, é sempre cedo demais para soar o toque de morte da arte parte 2\|IA ou não, é sempre cedo demais para soar o toque de morte da arte parte 2]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte\|pode inteligencia virtual fazer arte]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/midjourney\|midjourney]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/por-que-precisamos-reaprender-a-perguntar/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme","interessesgerais","pesquisa","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/por-que-precisamos-reaprender-a-perguntar/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme","interessesgerais","pesquisa","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Por que precisamos reaprender a perguntar
@@ -11,9 +11,9 @@
 ### Conteúdo Relacionado
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/Manual de Sobrevivência à era da IA\|Manual de Sobrevivência à era da IA]]
-- [[0 - VAULT/1 NOTAS LITERAIS/conclusão das entrelinhas\|conclusão das entrelinhas]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/conclusão das entrelinhas\|conclusão das entrelinhas]]
 palavras-chave: #promptgpt3 #meta #zettelkasten #1000palavrasoumais #disserte #newsletter #ceticismo #escrita #filosofia #mestredeculturacontemporanea #totalizante #criatividade #episteme #criatividade 
-- [[0 - VAULT/1 NOTAS LITERAIS/Fake News - definição\|Fake News - definição]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fake News - definição\|Fake News - definição]]
 - tags: #filosofia #interessesgerais #pesquisa #academia 
 - Fontes & Links: https://www.nexojornal.com.br/colunistas/2023/Por-que-precisamos-reaprender-a-perguntar
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/literature-at-least-in-theory-enhance-my-metacognition/","tags":["permanente","literatura","filosofia","habitanimal","criatividade","psique","ReadingLiterature","MetacognitionEnhancement","SelfAwareness","Empathy","PerspectiveTaking","CriticalThinking","ProblemSolving","Creativity"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/literature-at-least-in-theory-enhance-my-metacognition/","tags":["permanente","literatura","filosofia","habitanimal","criatividade","psique","ReadingLiterature","MetacognitionEnhancement","SelfAwareness","Empathy","PerspectiveTaking","CriticalThinking","ProblemSolving","Creativity"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # literature and metacog

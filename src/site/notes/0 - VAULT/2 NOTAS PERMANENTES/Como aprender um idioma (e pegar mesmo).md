@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-aprender-um-idioma-e-pegar-mesmo/","tags":["permanente","metas-para-2023","disserte","framework","leitura","intelectual","academia","artigos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-aprender-um-idioma-e-pegar-mesmo/","tags":["permanente","metas-para-2023","disserte","framework","leitura","intelectual","academia","artigos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 060120231007

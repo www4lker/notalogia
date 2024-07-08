@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ia-ou-nao-e-sempre-cedo-demais-para-soar-o-toque-de-morte-da-arte-parte-2/","tags":["permanente","interessesgerais","wiredetal","interessesdepesquisa","meta","promptgpt3","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ia-ou-nao-e-sempre-cedo-demais-para-soar-o-toque-de-morte-da-arte-parte-2/","tags":["permanente","interessesgerais","wiredetal","interessesdepesquisa","meta","promptgpt3","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # IA ou não, é sempre cedo demais para soar o toque de morte da arte
@@ -10,7 +10,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/gpt3\|gpt3]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/BERT\|BERT]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/racismo algorítmico\|racismo algorítmico]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Santos, Milton\|Santos, Milton]]
+- [[Santos, Milton\|Santos, Milton]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte\|pode inteligencia virtual fazer arte]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/midjourney\|midjourney]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/o que a IA significa para a criatividade humana\|o que a IA significa para a criatividade humana]]

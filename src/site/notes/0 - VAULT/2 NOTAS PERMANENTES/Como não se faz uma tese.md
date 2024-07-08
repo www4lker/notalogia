@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-nao-se-faz-uma-tese/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","ensaistica","anglo","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-nao-se-faz-uma-tese/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","ensaistica","anglo","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 201220221126
@@ -10,13 +10,13 @@
 - #academia #ensaistica #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão #anglo #filosofia 
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/A pirâmide financeira da carreira acadêmica\|A pirâmide financeira da carreira acadêmica]]
-- [[0 - VAULT/1 NOTAS LITERAIS/William Zinsser\|William Zinsser]] [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities\|Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
+- [[William Zinsser\|William Zinsser]] [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities\|Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O processo de escrever\|O processo de escrever]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/A práxis do escritor\|A práxis do escritor]]
 - [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities\|Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/a dissertação argumentativa\|a dissertação argumentativa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como se faz uma tese\|Como se faz uma tese]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como se faz uma tese\|Como se faz uma tese]]
 ---
 
 - No final de um semestre, os instrutores do primeiro ano podem ficar decepcionados com a qualidade dos trabalhos de pesquisa que recebem dos alunos.

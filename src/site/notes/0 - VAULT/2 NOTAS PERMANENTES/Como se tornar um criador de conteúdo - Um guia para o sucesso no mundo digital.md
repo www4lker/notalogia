@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-se-tornar-um-criador-de-conteudo-um-guia-para-o-sucesso-no-mundo-digital/","tags":["permanente","meta","criadordeconteudo","mestredeculturacontemporanea","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-se-tornar-um-criador-de-conteudo-um-guia-para-o-sucesso-no-mundo-digital/","tags":["permanente","meta","criadordeconteudo","mestredeculturacontemporanea","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como se tornar um criador de conteúdo - Um guia para o sucesso no mundo digital

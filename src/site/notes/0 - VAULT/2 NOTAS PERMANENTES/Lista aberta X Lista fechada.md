@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/lista-aberta-x-lista-fechada/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/lista-aberta-x-lista-fechada/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Lista aberta X Lista fechada

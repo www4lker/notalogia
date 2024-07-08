@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/porque-ficou-mais-dificil-dividir-a-rua-nas-cidades/","tags":["permanente","capturas","provacabal","autocracia","biking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/porque-ficou-mais-dificil-dividir-a-rua-nas-cidades/","tags":["permanente","capturas","provacabal","autocracia","biking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # porque ficou mais difícil dividir a rua nas cidades
@@ -8,7 +8,7 @@ criado em: 17:23
 ##### Relacionado
 - palavras-chave: #capturas #[[notasprontas\|notasprontas]] #provacabal
 - notas permanentes:
-- notas de literatura: [[0 - VAULT/1 NOTAS LITERAIS/screenshots\|screenshots]]
+- notas de literatura: [[screenshots\|screenshots]]
 
 
 ---

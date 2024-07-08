@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/feedback-construtivo-para-projetos-academicos-e-criativos/","tags":["permanente","memai","toródeideias"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/feedback-construtivo-para-projetos-academicos-e-criativos/","tags":["permanente","memai","toródeideias"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Feedback construtivo para projetos acadêmicos e criativos
@@ -8,9 +8,9 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-08-26
 - Hora: 22:46
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/prompts memai\|prompts memai]]
+- notas: [[prompts memai\|prompts memai]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/sobre a criatividade\|sobre a criatividade]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ChatGPT Não é a única forma de usar a IA na Educação\|ChatGPT Não é a única forma de usar a IA na Educação]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ChatGPT Não é a única forma de usar a IA na Educação\|ChatGPT Não é a única forma de usar a IA na Educação]]
 - tags: #memai #toródeideias 
 ---
 ## brainstorming de algumas ideias

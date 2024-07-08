@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/3-why-buddhism-is-true/","tags":["buddhismo","insight","meditacao","totalizante","chatgpt","vipassana","retiro-vipassana","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/3-why-buddhism-is-true/","tags":["buddhismo","insight","meditacao","totalizante","chatgpt","vipassana","retiro-vipassana","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 3 why buddhism is true
@@ -71,7 +71,7 @@ Questões Relacionadas: **Meditação, Ilusão, Ansiedade, Mindfulness**
 
 Título: **Paralelos entre Terapia Cognitivo-Comportamental e Meditação Mindfulness**
 
-[[0 - VAULT/1 NOTAS LITERAIS/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
 [[0 - VAULT/2 NOTAS PERMANENTES/integrar cnv e tcc\|integrar cnv e tcc]]
 
 Tanto a terapia cognitivo-comportamental quanto a meditação mindfulness buscam questionar a validade dos sentimentos. Na terapia cognitivo-comportamental, isso é feito por meio de perguntas que desafiam a lógica dos pensamentos associados a sentimentos específicos. Em ambas as abordagens, o objetivo é enfraquecer os sentimentos problemáticos ao expor a falta de lógica ou a ilusão por trás deles. 

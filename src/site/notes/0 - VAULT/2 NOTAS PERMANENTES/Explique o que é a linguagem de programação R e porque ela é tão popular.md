@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/explique-o-que-e-a-linguagem-de-programacao-r-e-porque-ela-e-tao-popular/","tags":["permanente","programando","criatividade","filosofia","tecnologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/explique-o-que-e-a-linguagem-de-programacao-r-e-porque-ela-e-tao-popular/","tags":["permanente","programando","criatividade","filosofia","tecnologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Explique o que é a linguagem de programação R e porque ela é tão popular
@@ -14,7 +14,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/10 linguagens de programação mais usadas no mundo e porquê\|10 linguagens de programação mais usadas no mundo e porquê]]
 - [[2 NOTA PERMANENTE/glossário programação\|2 NOTA PERMANENTE/glossário programação]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/linguagem discutidas quais não são open source\|linguagem discutidas quais não são open source]]
-- [[0 - VAULT/1 NOTAS LITERAIS/interested in web development\|interested in web development]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/interested in web development\|interested in web development]]
 ---
 
 R é uma linguagem de programação usada principalmente para análise estatística, visualização de dados e criação de modelos preditivos. Ela é gratuita, de código aberto e amplamente utilizada em muitas áreas, como ciências biológicas, finanças, medicina, ciências sociais e muito mais.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/open-ai-api-sobre-usaro-chat-gpt-como-educador/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/open-ai-api-sobre-usaro-chat-gpt-como-educador/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 030220231339
@@ -9,7 +9,7 @@
 ### Relacionado
 
 - palavras-chave: #promptgpt3 #meta #zettelkasten #1000palavrasoumais #disserte #newsletter #ceticismo #escrita #filosofia #mestredeculturacontemporanea #totalizante #criatividade #episteme 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/ChatGPT Não é a única forma de usar a IA na Educação\|ChatGPT Não é a única forma de usar a IA na Educação]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ChatGPT Não é a única forma de usar a IA na Educação\|ChatGPT Não é a única forma de usar a IA na Educação]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/ChatGPT está a chegar para as salas de aula. Não entre em pânico\|ChatGPT está a chegar para as salas de aula. Não entre em pânico]]
 ---
 

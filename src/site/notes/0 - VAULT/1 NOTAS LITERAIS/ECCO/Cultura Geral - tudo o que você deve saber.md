@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/cultura-geral-tudo-o-que-voce-deve-saber/","tags":["ECCO","mestredeculturacontemporanea","literatura","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/cultura-geral-tudo-o-que-voce-deve-saber/","tags":["ECCO","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Cultura Geral - tudo o que você deve saber
@@ -11,8 +11,8 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/MESTRE DE CULTURA CONTEMPORANEA\|MESTRE DE CULTURA CONTEMPORANEA]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/888/aflito pelo número de livros no mundo 1\|aflito pelo número de livros no mundo 1]]
-3. [[0 - VAULT/1 NOTAS LITERAIS/888/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/aflito pelo número de livros no mundo 1\|aflito pelo número de livros no mundo 1]]
+3. [[DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
 - tags: #ECCO #mestredeculturacontemporanea #literatura #filosofia
 - Fontes & Links: 
 ---
@@ -23,29 +23,29 @@
 ### Relacionado
 
 - palavras-chave: #mestredeculturacontemporanea 
-- notas:- [[0 - VAULT/1 NOTAS LITERAIS/888/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
+- notas:- [[📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Como criar um esboço para uma revisão do videogame na Steam\|Como criar um esboço para uma revisão do videogame na Steam]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Assisti pleasure\|Assisti pleasure]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/atlanta\|atlanta]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD\|CEUPCD]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Como mudar sua mente - netflix\|Como mudar sua mente - netflix]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como mudar sua mente - netflix\|Como mudar sua mente - netflix]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/conte sobre seu projeto para todo mundo\|conte sobre seu projeto para todo mundo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/Cultura Geral - tudo o que você deve saber\|Cultura Geral - tudo o que você deve saber]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser\|descobrindo o que seu projeto pode ser]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser 1\|descobrindo o que seu projeto pode ser 1]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Eduardo viveiros de castro\|Eduardo viveiros de castro]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/entrevista com Four Tet\|entrevista com Four Tet]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/etnomusicologia\|etnomusicologia]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Eduardo viveiros de castro\|Eduardo viveiros de castro]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/entrevista com Four Tet\|entrevista com Four Tet]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/etnomusicologia\|etnomusicologia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/filosofia do futuro\|filosofia do futuro]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Foucault, Michel\|Foucault, Michel]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Foucault, Michel\|Foucault, Michel]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Four Tet na Pitchfork\|Four Tet na Pitchfork]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/insight sobre minha dissertação\|insight sobre minha dissertação]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/isso não é um blog\|isso não é um blog]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Livros Nexo História e Política Contemporânea\|Livros Nexo História e Política Contemporânea]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Livros Nexo História e Política Contemporânea\|Livros Nexo História e Política Contemporânea]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/mestizaje\|mestizaje]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/mestrado\|mestrado]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Santos, Milton\|Santos, Milton]]
+- [[Santos, Milton\|Santos, Milton]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/o que voce planeja com minha filha me perguntou o meta\|o que voce planeja com minha filha me perguntou o meta]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/O rompimento com a linguagem\|O rompimento com a linguagem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/prompts midjourney\|prompts midjourney]]
@@ -55,10 +55,10 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/qualificação\|qualificação]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/quisquilae\|quisquilae]]
 - [[Relatório da bolsa\|Relatório da bolsa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Schwanitz, Dietrich\|Schwanitz, Dietrich]]
+- [[Schwanitz, Dietrich\|Schwanitz, Dietrich]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/um dia uma semana um mes um ano\|um dia uma semana um mes um ano]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Bauman, Zygmunt\|Bauman, Zygmunt]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Schwanitz, Dietrich\|Schwanitz, Dietrich]] (autor)
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Bauman, Zygmunt\|Bauman, Zygmunt]]
+- [[Schwanitz, Dietrich\|Schwanitz, Dietrich]] (autor)
 ---
 
 >Cultura geral aborda episódios centrais da Bíblia; a emergência dos Estados e a epopéia da modernização, revoluções e democracia; a evolução da literatura, da arte e da música através de suas grandes obras; o desenvolvimento da ciência e da filosofia, o campo de batalha das ideologias, das cosmogonias e das teorias, aborda também a educação dada pelos livros, colégios e universidades, pelos jornais e foros de opiniões. Um quadro cronológico, uma breve relação dos livros que transformaram o mundo e conselhos de leitura aumentam a utilidade desta obra imprescindível.

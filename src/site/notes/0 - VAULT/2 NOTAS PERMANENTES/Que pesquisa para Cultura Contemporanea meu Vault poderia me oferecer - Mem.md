@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/que-pesquisa-para-cultura-contemporanea-meu-vault-poderia-me-oferecer-mem/","tags":["permanente","culturacontemporanea","pesquisa","memai","idiossincratico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/que-pesquisa-para-cultura-contemporanea-meu-vault-poderia-me-oferecer-mem/","tags":["permanente","culturacontemporanea","pesquisa","memai","idiossincratico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Que pesquisa para Cultura Contemporanea meu Vault poderia me oferecer - Mem

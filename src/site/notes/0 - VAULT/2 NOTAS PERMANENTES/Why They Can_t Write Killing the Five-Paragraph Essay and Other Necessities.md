@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/why-they-can-t-write-killing-the-five-paragraph-essay-and-other-necessities/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","anglo","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/why-they-can-t-write-killing-the-five-paragraph-essay-and-other-necessities/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","anglo","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities

@@ -9,7 +9,7 @@
 - 16:55
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/A Polêmica do Substack com Conteúdos Neonazistas\|A Polêmica do Substack com Conteúdos Neonazistas]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/A merdificação das plataformas\|A merdificação das plataformas]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A merdificação das plataformas\|A merdificação das plataformas]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/substackers contra nazis\|substackers contra nazis]]
 - tags:  #substack  #textão #anglo #leitura #interessesgerais #mestredeculturacontemporanea #insumos 
 - Fontes & Links: https://substack.com/@clairepotter

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/identificando-fontes-mais-comuns/","tags":["permanente","meta","zettelkasten","insumos","internet","interessesgerais","BiGv","PiPv","MiMv"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/identificando-fontes-mais-comuns/","tags":["permanente","meta","zettelkasten","insumos","internet","interessesgerais","BiGv","PiPv","MiMv"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # identificando
@@ -13,7 +13,7 @@ criado em: 15:52 2022-09-30
 
 ---
 # Quais as suas fontes?
-Seguindo um exercício proposto por Tiago Forte em [[0 - VAULT/1 NOTAS LITERAIS/Second Brain\|Second Brain]], identifiquemos nossas principais fontes de informação e as classifiquemos por ordem de importância e quantidade de acesso.
+Seguindo um exercício proposto por Tiago Forte em [[Second Brain\|Second Brain]], identifiquemos nossas principais fontes de informação e as classifiquemos por ordem de importância e quantidade de acesso.
 
 ## identificando as mais importantes entradas de informação atuais:
 
@@ -25,7 +25,7 @@ Seguindo um exercício proposto por Tiago Forte em [[0 - VAULT/1 NOTAS LITERAIS/
 
 ***- livros - BI, GV***  — #BiGv
 - Sonhos - BI, PV 
-- podcasts - MI, GV [[0 - VAULT/1 NOTAS LITERAIS/Como anotar podcasts\|Como anotar podcasts]]
+- podcasts - MI, GV [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como anotar podcasts\|Como anotar podcasts]]
 - artigos da internet - MI, GV
 *- newsletter - PI, PV* — #PiPv
 - clubes de leitura - MI, PV
@@ -47,12 +47,12 @@ Seguindo um exercício proposto por Tiago Forte em [[0 - VAULT/1 NOTAS LITERAIS/
 12. [[lit notas\|lit notas]]
 13. [[0 - VAULT/2 NOTAS PERMANENTES/NOTAS DE LITERATURA\|NOTAS DE LITERATURA]]
 14. [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Notas de projetos\|Notas de projetos]]
-15. [[0 - VAULT/1 NOTAS LITERAIS/NOTAS PASSAGEIRAS\|NOTAS PASSAGEIRAS]]
+15. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/NOTAS PASSAGEIRAS\|NOTAS PASSAGEIRAS]]
 16. [[0 - VAULT/2 NOTAS PERMANENTES/novas fontes\|novas fontes]]
 17. [[0 - VAULT/1 NOTAS LITERAIS/meta notas/novos projetos\|novos projetos]]
 18. [[0 - VAULT/2 NOTAS PERMANENTES/Primeira postagem\|Primeira postagem]]
-19. [[0 - VAULT/1 NOTAS LITERAIS/screenshots\|screenshots]]
-20. [[0 - VAULT/1 NOTAS LITERAIS/sindrome do impostor e dunning krugger efeito\|sindrome do impostor e dunning krugger efeito]]
+19. [[screenshots\|screenshots]]
+20. [[sindrome do impostor e dunning krugger efeito\|sindrome do impostor e dunning krugger efeito]]
 21. [[0 - VAULT/2 NOTAS PERMANENTES/sobre se expressar\|sobre se expressar]]
 22. [[2 - NOTAS PERMANENTES/zettelkasten\|2 - NOTAS PERMANENTES/zettelkasten]]
 

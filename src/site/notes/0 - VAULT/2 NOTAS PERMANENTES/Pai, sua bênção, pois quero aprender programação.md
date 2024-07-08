@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pai-sua-bencao-pois-quero-aprender-programacao/","title":"pai sua benção","tags":["promptgpt3","totalizante","pessoalidades","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pai-sua-bencao-pois-quero-aprender-programacao/","title":"pai sua benção","tags":["promptgpt3","totalizante","pessoalidades","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 

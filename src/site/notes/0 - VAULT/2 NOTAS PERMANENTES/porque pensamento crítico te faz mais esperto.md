@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/porque-pensamento-critico-te-faz-mais-esperto/","tags":["permanente","sciencebitch","filosofia","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/porque-pensamento-critico-te-faz-mais-esperto/","tags":["permanente","sciencebitch","filosofia","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # porque pensamento crítico te faz mais esperto
@@ -12,7 +12,7 @@ criado em: 16:10 2022-08-31
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/a opiniao que temos das coisas\|a opiniao que temos das coisas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/apresentacao por scoralick\|apresentacao por scoralick]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/barromeu\|barromeu]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ceticismo em montaigne\|ceticismo em montaigne]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ceticismo em montaigne\|ceticismo em montaigne]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/coesa da sociedade\|coesa da sociedade]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/contemporaneo x classico\|contemporaneo x classico]]
 - [[continuacao de I, xiv\|continuacao de I, xiv]]

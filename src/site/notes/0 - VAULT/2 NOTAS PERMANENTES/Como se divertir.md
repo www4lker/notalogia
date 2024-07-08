@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-se-divertir/","tags":["permanente","interessesgerais","insight","framework","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-se-divertir/","tags":["permanente","interessesgerais","insight","framework","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como se divertir
@@ -7,7 +7,7 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-07-06
 - Hora: 19:31
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Qual deveria ser o espaço do brincar na vida de um adulto\|Qual deveria ser o espaço do brincar na vida de um adulto]]
+- notas: [[Qual deveria ser o espaço do brincar na vida de um adulto\|Qual deveria ser o espaço do brincar na vida de um adulto]]
 - tags: #interessesgerais #insight #framework #filosofia 
 - Fontes & Links: https://psyche.co/guides/how-to-start-having-more-fun-in-your-busy-life
 ---

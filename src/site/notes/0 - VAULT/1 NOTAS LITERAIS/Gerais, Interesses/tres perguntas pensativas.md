@@ -6,7 +6,7 @@
  
 Sugiro os seguintes tópicos para as vossas perguntas. 
 
-- [[0 - VAULT/1 NOTAS LITERAIS/888/three creative questions GPT-4\|three creative questions GPT-4]]
+- [[three creative questions GPT-4\|three creative questions GPT-4]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/um conjunto de perguntas absolutamente simples e interessantes sobre Inteligência humana\|um conjunto de perguntas absolutamente simples e interessantes sobre Inteligência humana]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/three creative questions\|three creative questions]]
 - #meta #chatbot #academia #promptGPT 

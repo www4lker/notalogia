@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-ler-mais-especial-para-o-walker/","tags":["permanente","mementomori","householder","habitanimal","tecnologia","ensaistica","diário","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-ler-mais-especial-para-o-walker/","tags":["permanente","mementomori","householder","habitanimal","tecnologia","ensaistica","diário","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # como ler mais - especial para o walker
@@ -11,7 +11,7 @@
 ### Conteúdo Relacionado
 - notas: #mementomori 
 - [[0 - VAULT/2 NOTAS PERMANENTES/PROCURANDO SUA IDENTIDADE DE LEITURA\|PROCURANDO SUA IDENTIDADE DE LEITURA]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Biblioterapia funciona (pergunta)\|Biblioterapia funciona (pergunta)]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Biblioterapia funciona (pergunta)\|Biblioterapia funciona (pergunta)]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Farmácia Literária - sofrimentos relacionados à leitura\|Farmácia Literária - sofrimentos relacionados à leitura]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Mem - memai\|Mem - memai]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/5 pontos-chave para aquele que planejam ler mais\|5 pontos-chave para aquele que planejam ler mais]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-utiliar-o-chatgpt-para-aprimorar-sua-escrita/","tags":["permanente","promptGPT","criatividade","centauro","wiredetal","toródeideias"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-utiliar-o-chatgpt-para-aprimorar-sua-escrita/","tags":["permanente","promptGPT","criatividade","centauro","wiredetal","toródeideias"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como utiliar o chatgpt para aprimorar sua escrita
@@ -8,12 +8,12 @@
 -  Ano, Mês e dia: 2023-07-24
 - Hora: 11:36
 - notas: 
- - [[0 - VAULT/1 NOTAS LITERAIS/prompts excelentes para  autoficção\|prompts excelentes para  autoficção]]
- - [[0 - VAULT/1 NOTAS LITERAIS/prompts excelentes - não ficção literária\|prompts excelentes - não ficção literária]]
- - [[0 - VAULT/1 NOTAS LITERAIS/prompts excelentes para ensaística filosófica\|prompts excelentes para ensaística filosófica]]
+ - [[prompts excelentes para  autoficção\|prompts excelentes para  autoficção]]
+ - [[prompts excelentes - não ficção literária\|prompts excelentes - não ficção literária]]
+ - [[prompts excelentes para ensaística filosófica\|prompts excelentes para ensaística filosófica]]
  - [[0 - VAULT/2 NOTAS PERMANENTES/How to Resist the Temptation of AI When Writing- ZT\|How to Resist the Temptation of AI When Writing- ZT]]
-  [[0 - VAULT/1 NOTAS LITERAIS/Como Utilizar o ChatGPT para Aprimorar Sua Escrita + obsidian\|Como Utilizar o ChatGPT para Aprimorar Sua Escrita + obsidian]]
-- [[0 - VAULT/1 NOTAS LITERAIS/5 Uses for ChatGPT really original\|5 Uses for ChatGPT really original]]
+  [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como Utilizar o ChatGPT para Aprimorar Sua Escrita + obsidian\|Como Utilizar o ChatGPT para Aprimorar Sua Escrita + obsidian]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/5 Uses for ChatGPT really original\|5 Uses for ChatGPT really original]]
 - [[escrevendo um livro com o chatgpt\|escrevendo um livro com o chatgpt]]
 - tags: #promptGPT #criatividade #centauro #wiredetal #toródeideias 
 - Fontes & Links:

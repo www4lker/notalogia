@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-episteme-de-foucault-e-a-hipercultura/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-episteme-de-foucault-e-a-hipercultura/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 121020222226
@@ -31,7 +31,7 @@ criado em: 22:26 2022-10-12
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/121020222215.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/121020222215.md]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/episteme.md\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/episteme.md]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/061020221226.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/061020221226.md]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Precisamos de arte e cultura\|Precisamos de arte e cultura]]
+- [[Precisamos de arte e cultura\|Precisamos de arte e cultura]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/surrealismo.md\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/surrealismo.md]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Esto no es una Pipa - video analise.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Esto no es una Pipa - video analise.md]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Metodologia do trabalho científico.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Metodologia do trabalho científico.md]]
@@ -72,7 +72,7 @@ criado em: 22:26 2022-10-12
 - palavras-chave: #interessesdepesquisa #filosofia #mestredeculturacontemporanea #internet #promptgpt3
 - notas:
 - [[NOTAS DE LEITURA/LIVROS/Hiperculturalidade\|NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]
-- [[0 - VAULT/1 NOTAS LITERAIS/GLOBALIZAÇÃO - INDEX\|GLOBALIZAÇÃO - INDEX]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/GLOBALIZAÇÃO - INDEX\|GLOBALIZAÇÃO - INDEX]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Ciberespaço\|Ciberespaço]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Content, por Kate Eichorn\|Content, por Kate Eichorn]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Relacionar a hipercultura com a globalização\|Relacionar a hipercultura com a globalização]]

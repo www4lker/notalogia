@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/notas-de-retiro-dhamma-sarana/","tags":["permanente","retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight","lendosamharris"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/notas-de-retiro-dhamma-sarana/","tags":["permanente","retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight","lendosamharris"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # notas de  retiro dhamma sarana
@@ -31,13 +31,13 @@
 	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 111223\|NK - 111223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/121223\|121223]] - dia 7
 	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 121223\|NK - 121223]]
-- [[0 - VAULT/1 NOTAS LITERAIS/131223\|131223]] - dia 8
+- [[131223\|131223]] - dia 8
 	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 131223\|NK - 131223]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/141223\|141223]] - dia 9
 	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 141223\|NK - 141223]]
-- [[0 - VAULT/1 NOTAS LITERAIS/151223\|151223]] -  dia 10
+- [[151223\|151223]] -  dia 10
 	- notas kindle deste dia [[0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 151223\|NK - 151223]]
-- [[0 - VAULT/1 NOTAS LITERAIS/161223\|161223]] - dia final
+- [[161223\|161223]] - dia final
 
 ---
 

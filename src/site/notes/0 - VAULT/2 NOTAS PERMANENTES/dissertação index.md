@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/dissertacao-index/","tags":["permanente","interessesdepesquisa","promptgpt3","acadêmico","pesquisa","intelectual","crítica","teórico","analítico","escrita","leitura","ensino"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/dissertacao-index/","tags":["permanente","interessesdepesquisa","promptgpt3","acadêmico","pesquisa","intelectual","crítica","teórico","analítico","escrita","leitura","ensino"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # dissertação
@@ -26,7 +26,7 @@ criado em: 13:46 2022-08-25
 - [[Survivorship bias\|Survivorship bias]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/um milagre termodinámico\|um milagre termodinámico]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Um milagre termodinamico - atomico\|Um milagre termodinamico - atomico]]
-- [[0 - VAULT/1 NOTAS LITERAIS/epson-L4260\|epson-L4260]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/epson-L4260\|epson-L4260]]
 
 ---
 # o que me falta?

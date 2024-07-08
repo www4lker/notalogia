@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nada-vem-do-nada-eulogia-a-meu-avo/","tags":["permanente","mementomori","darkforest","diario","filosofia","mestredeculturacontemporanea","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nada-vem-do-nada-eulogia-a-meu-avo/","tags":["permanente","mementomori","darkforest","diario","filosofia","mestredeculturacontemporanea","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Nada vem do nada (eulogia a meu avô)

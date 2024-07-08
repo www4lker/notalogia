@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/insight-sobre-minha-dissertacao/","tags":["permanente","insight","mestredeculturacontemporanea","disserte","1000palavrasoumais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/insight-sobre-minha-dissertacao/","tags":["permanente","insight","mestredeculturacontemporanea","disserte","1000palavrasoumais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # insight sobre minha dissertação
@@ -9,7 +9,7 @@ criado em: 12:43 2022-08-03
 - palavras-chave: #insight #mestredeculturacontemporanea #disserte #1000palavrasoumais 
 - notas permanentes: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/curadoria de filosofia da tecnologia\|curadoria de filosofia da tecnologia]]
-- notas de literatura: [[0 - VAULT/1 NOTAS LITERAIS/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
+- notas de literatura: [[📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
 [[Outra_globalizacao\|Outra_globalizacao]]
 [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]]
 - [[2022-W25\|2022-W25]]
@@ -19,7 +19,7 @@ criado em: 12:43 2022-08-03
 - [[giuseppe paterno\|giuseppe paterno]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/insight sobre minha dissertação\|insight sobre minha dissertação]]
 - [[NOTAS DE LEITURA/LIVROS/No Tempo Das Catástrofes\|NOTAS DE LEITURA/LIVROS/No Tempo Das Catástrofes]]
-- [[0 - VAULT/1 NOTAS LITERAIS/o que significa escrever na era da internet\|o que significa escrever na era da internet]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/o que significa escrever na era da internet\|o que significa escrever na era da internet]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/quisquilae\|quisquilae]]
 - [[Relatório da bolsa\|Relatório da bolsa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/sobre como alguem le\|sobre como alguem le]]

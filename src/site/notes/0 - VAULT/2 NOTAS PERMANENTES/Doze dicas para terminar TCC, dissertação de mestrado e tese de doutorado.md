@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/doze-dicas-para-terminar-tcc-dissertacao-de-mestrado-e-tese-de-doutorado/","tags":["permanente","interessesdepesquisa","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/doze-dicas-para-terminar-tcc-dissertacao-de-mestrado-e-tese-de-doutorado/","tags":["permanente","interessesdepesquisa","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 151120220902

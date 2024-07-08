@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/joguei-700-horas-de-rimworld-e-ainda-to-aprendendo-wiredetal/","tags":["permanente","games","mochila","checklist","wiredetal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/joguei-700-horas-de-rimworld-e-ainda-to-aprendendo-wiredetal/","tags":["permanente","games","mochila","checklist","wiredetal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Joguei 700 horas de rimworld e ainda tô aprendendo - wiredetal

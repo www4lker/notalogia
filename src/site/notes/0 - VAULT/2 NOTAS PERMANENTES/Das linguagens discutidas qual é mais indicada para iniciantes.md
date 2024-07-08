@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/das-linguagens-discutidas-qual-e-mais-indicada-para-iniciantes/","tags":["permanente","programando","criatividade","filosofia","tecnologia","CodingLanguages","SelfTaughtCoding","MovieMagic","FrontEndBackEnd","CodeThatChangedTheWorld","PythonSnakes","Error404","CodingVsProgramming","RaspberryPi","CodingAI","AlgorithmPractice","GitHubExplained","EasiestCodingLanguage","MathAndCoding","CodingForWebDesign","ImportanceOfCoding"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/das-linguagens-discutidas-qual-e-mais-indicada-para-iniciantes/","tags":["permanente","programando","criatividade","filosofia","tecnologia","CodingLanguages","SelfTaughtCoding","MovieMagic","FrontEndBackEnd","CodeThatChangedTheWorld","PythonSnakes","Error404","CodingVsProgramming","RaspberryPi","CodingAI","AlgorithmPractice","GitHubExplained","EasiestCodingLanguage","MathAndCoding","CodingForWebDesign","ImportanceOfCoding"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Das linguagens discutidas qual é mais indicada para iniciantes
@@ -16,7 +16,7 @@
 #CodingLanguages #SelfTaughtCoding #MovieMagic #FrontEndBackEnd #CodeThatChangedTheWorld #PythonSnakes #Error404 #CodingVsProgramming #RaspberryPi #CodingAI #AlgorithmPractice #GitHubExplained #EasiestCodingLanguage #MathAndCoding #CodingForWebDesign #ImportanceOfCoding
 - notas: [[2 NOTA PERMANENTE/glossário programação\|2 NOTA PERMANENTE/glossário programação]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/linguagem discutidas quais não são open source\|linguagem discutidas quais não são open source]]
-- [[0 - VAULT/1 NOTAS LITERAIS/interested in web development\|interested in web development]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/interested in web development\|interested in web development]]
 ---
 
 

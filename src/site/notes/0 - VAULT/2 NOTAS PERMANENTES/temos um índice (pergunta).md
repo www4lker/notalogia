@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/temos-um-indice-pergunta/","tags":["permanente","disserte","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/temos-um-indice-pergunta/","tags":["permanente","disserte","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 300920221013
@@ -8,9 +8,9 @@ criado em: 10:13 2022-09-30
 ##### Relacionado
 - palavras-chave: #disserte #interessesdepesquisa 
 - notas permanentes: [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]] 
-- [[0 - VAULT/1 NOTAS LITERAIS/Eco, Umberto\|Eco, Umberto]] [[0 - VAULT/1 NOTAS LITERAIS/Foucault, Michel\|Foucault, Michel]] 
-- [[0 - VAULT/1 NOTAS LITERAIS/Han, Byung-Chul\|Han, Byung-Chul]] 
-- [[0 - VAULT/1 NOTAS LITERAIS/Santos, Milton\|Santos, Milton]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Eco, Umberto\|Eco, Umberto]] [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Foucault, Michel\|Foucault, Michel]] 
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Han, Byung-Chul\|Han, Byung-Chul]] 
+- [[Santos, Milton\|Santos, Milton]]
 - [[261020221004\|261020221004]]
 - 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/0-vault/2-notas-permanentes/md-cc/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -93,10 +93,10 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 
 ---
 #### Mais:
-- [[0 - VAULT/1 NOTAS LITERAIS/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Levy, Pierre\|Levy, Pierre]]
+- [[📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Levy, Pierre\|Levy, Pierre]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/CITAÇÃO Alicia Kowaltowski\|CITAÇÃO Alicia Kowaltowski]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Precisamos de arte e cultura\|Precisamos de arte e cultura]]
+- [[Precisamos de arte e cultura\|Precisamos de arte e cultura]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária\|Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Como criar um esboço para uma revisão do videogame na Steam\|Como criar um esboço para uma revisão do videogame na Steam]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/The Future of the Book\|The Future of the Book]]
@@ -113,19 +113,19 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Assisti pleasure\|Assisti pleasure]]
 - [[assitindo X\|assitindo X]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/atlanta\|atlanta]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Canclini, Néstor García\|Canclini, Néstor García]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Canclini, Néstor García\|Canclini, Néstor García]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD\|CEUPCD]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como mudar sua mente - netflix\|Como mudar sua mente - netflix]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como mudar sua mente - netflix\|Como mudar sua mente - netflix]]
 - [[como mudar sua mente ep 2\|como mudar sua mente ep 2]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/conte sobre seu projeto para todo mundo\|conte sobre seu projeto para todo mundo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/Cultura Geral - tudo o que você deve saber\|Cultura Geral - tudo o que você deve saber]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser\|descobrindo o que seu projeto pode ser]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser 1\|descobrindo o que seu projeto pode ser 1]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Eduardo viveiros de castro\|Eduardo viveiros de castro]]
-- [[0 - VAULT/1 NOTAS LITERAIS/entrevista com Four Tet\|entrevista com Four Tet]]
-- [[0 - VAULT/1 NOTAS LITERAIS/etnomusicologia\|etnomusicologia]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Eduardo viveiros de castro\|Eduardo viveiros de castro]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/entrevista com Four Tet\|entrevista com Four Tet]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/etnomusicologia\|etnomusicologia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/filosofia do futuro\|filosofia do futuro]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Foucault, Michel\|Foucault, Michel]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Foucault, Michel\|Foucault, Michel]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Four Tet na Pitchfork\|Four Tet na Pitchfork]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg\|From Internet to Gutenberg]]
 - [[giuseppe paterno\|giuseppe paterno]]
@@ -137,7 +137,7 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 - [[lendo fooquedeu\|lendo fooquedeu]]
 - [[lendo nuno ramos\|lendo nuno ramos]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)\|Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Livros Nexo História e Política Contemporânea\|Livros Nexo História e Política Contemporânea]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Livros Nexo História e Política Contemporânea\|Livros Nexo História e Política Contemporânea]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/MdCC\|MdCC]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/mestizaje\|mestizaje]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/mestrado\|mestrado]]
@@ -155,11 +155,11 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 - [[Relatório da bolsa\|Relatório da bolsa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Resumido podcast\|Resumido podcast]]
 - [[reuniao colegiado 22 07\|reuniao colegiado 22 07]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Santos, Milton\|Santos, Milton]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Schwanitz, Dietrich\|Schwanitz, Dietrich]]
+- [[Santos, Milton\|Santos, Milton]]
+- [[Schwanitz, Dietrich\|Schwanitz, Dietrich]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Three kinds of hypertext\|Three kinds of hypertext]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/um dia uma semana um mes um ano\|um dia uma semana um mes um ano]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Bauman, Zygmunt\|Bauman, Zygmunt]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Bauman, Zygmunt\|Bauman, Zygmunt]]
 
 
 </div></div>
@@ -173,7 +173,7 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 1 — foucault e isso não é um cachimbo
 1.1 foucault e magritte
 1.1.1 surrealismo de magritte e a desconfiança da linguagem
-2 — [[0 - VAULT/1 NOTAS LITERAIS/episteme\|episteme]] em foucault
+2 — [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/episteme\|episteme]] em foucault
 2.1 CULTURA contemporanea
 2.2 arte digital e inteligencia virtual (dimensão epistemica).
 

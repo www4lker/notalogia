@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-espantosa-simplicidade-de-wislawa-szymborska/","tags":["permanente","poesia","literatura","pessoalidades","escrita"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-espantosa-simplicidade-de-wislawa-szymborska/","tags":["permanente","poesia","literatura","pessoalidades","escrita"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A espantosa simplicidade de Wislawa Szymborska
@@ -14,7 +14,7 @@
 ### Conteúdo Relacionado
 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Quão difícil é aprender polonês\|Quão difícil é aprender polonês]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Plath, Sylvia\|Plath, Sylvia]]
+- [[Plath, Sylvia\|Plath, Sylvia]]
 - tags: #poesia #literatura #pessoalidades #literatura #escrita 
 - Fontes & Links: https://quatrocincoum.folha.uol.com.br/br/resenhas/os-melhores-livros-de-2020/a-espantosa-simplicidade-de-wislawa-szymborska
 ---
@@ -33,19 +33,19 @@ Título: [[0 - VAULT/2 NOTAS PERMANENTES/O encontro entre simplicidade e magia n
 Nota 2:
 Título:[[ A busca por uma reinvenção do olhar em Szymborska\| A busca por uma reinvenção do olhar em Szymborska]]
 
-[[0 - VAULT/1 NOTAS LITERAIS/A busca por uma reinvenção do olhar em Szymborska\|A busca por uma reinvenção do olhar em Szymborska]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A busca por uma reinvenção do olhar em Szymborska\|A busca por uma reinvenção do olhar em Szymborska]]
 
 Nota 3:
 Título: O[[ espanto como elemento central na poesia de Szymborska\| espanto como elemento central na poesia de Szymborska]]
 
-[[0 - VAULT/1 NOTAS LITERAIS/espanto como elemento central na poesia de Szymborska\|espanto como elemento central na poesia de Szymborska]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/espanto como elemento central na poesia de Szymborska\|espanto como elemento central na poesia de Szymborska]]
 
 Nota 4:
-Título: [[0 - VAULT/1 NOTAS LITERAIS/O humor e o pensamento em Szymborska\|O humor e o pensamento em Szymborska]]
+Título: [[O humor e o pensamento em Szymborska\|O humor e o pensamento em Szymborska]]
 
-[[0 - VAULT/1 NOTAS LITERAIS/O humor e o pensamento em Szymborska\|O humor e o pensamento em Szymborska]]
+[[O humor e o pensamento em Szymborska\|O humor e o pensamento em Szymborska]]
 
 Nota 5:
-Título: [[0 - VAULT/1 NOTAS LITERAIS/A tradução e a voz de Szymborska em português\|A tradução e a voz de Szymborska em português]]
+Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A tradução e a voz de Szymborska em português\|A tradução e a voz de Szymborska em português]]
 
-[[0 - VAULT/1 NOTAS LITERAIS/A tradução e a voz de Szymborska em português\|A tradução e a voz de Szymborska em português]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A tradução e a voz de Szymborska em português\|A tradução e a voz de Szymborska em português]]

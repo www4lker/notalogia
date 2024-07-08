@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/notas-importantes-ao-ver-um-doc/","tags":["permanente","promptgpt3","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/notas-importantes-ao-ver-um-doc/","tags":["permanente","promptgpt3","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # NOTAS IMPORTANTES AO VER UM DOC

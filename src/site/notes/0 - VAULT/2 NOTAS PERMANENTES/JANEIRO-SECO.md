@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/janeiro-seco/","tags":["permanente","totalizante","psicodelico","insight","TEONANACATL","fungos","naturae","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/janeiro-seco/","tags":["permanente","totalizante","psicodelico","insight","TEONANACATL","fungos","naturae","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 110120231428

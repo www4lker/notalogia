@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-a-mente-funciona-tailormade/","tags":["permanente","otimistarealista","tecnologia","sciencebitch","totalizante","psique","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-a-mente-funciona-tailormade/","tags":["permanente","otimistarealista","tecnologia","sciencebitch","totalizante","psique","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como a mente funciona - tailormade
@@ -9,7 +9,7 @@
 - Hora: 15:35
 - notas: [[Pinker, Steven\|Pinker, Steven]]
 - [[Steven Pinker\|Steven Pinker]]
-- [[0 - VAULT/1 NOTAS LITERAIS/como a mente funciona por pinker\|como a mente funciona por pinker]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/como a mente funciona por pinker\|como a mente funciona por pinker]]
 - [[Guia de Escrita - Pinker\|Guia de Escrita - Pinker]]
 - tags: #otimistarealista #tecnologia #sciencebitch #totalizante #psique #householder 
 - Fontes & Links: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-praticar-o-ileismo-para-ser-um-tiquinho-menos-tolo/","tags":["permanente","philosophy","filosofia","psique","vipassana"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-praticar-o-ileismo-para-ser-um-tiquinho-menos-tolo/","tags":["permanente","philosophy","filosofia","psique","vipassana"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como praticar o Ileísmo para ser um tiquinho menos tolo

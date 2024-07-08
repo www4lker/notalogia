@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/exemplo-de-uso-de-gpt-3/","tags":["permanente","meta","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/exemplo-de-uso-de-gpt-3/","tags":["permanente","meta","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # exemplo de uso de gpt-3
@@ -11,7 +11,7 @@ criado em: 18:49 2022-08-16
 - [[0 - VAULT/2 NOTAS PERMANENTES/gpt3\|gpt3]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/BERT\|BERT]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/gpt3 por ele mesmo\|gpt3 por ele mesmo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/poesia feita por gpt3\|poesia feita por gpt3]]
+- [[poesia feita por gpt3\|poesia feita por gpt3]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ\|ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]
 - notas de dissertação:
 - notas de literatura: 

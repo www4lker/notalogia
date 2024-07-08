@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/angustia-mortal/","tags":["permanente","ExpectativasRealistasComOEnvelhecimento","ConstruindoSabedoriaAoLongoDosAnos","EmoçõesFlutuantesNoCaminhoDoEquilíbrio","ExperiênciasQueMoldamExpectativas","EnvelhecendoComSerenidade","psique","filosofia","meditacao","vipassana","insight","insumos","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/angustia-mortal/","tags":["permanente","ExpectativasRealistasComOEnvelhecimento","ConstruindoSabedoriaAoLongoDosAnos","EmoçõesFlutuantesNoCaminhoDoEquilíbrio","ExperiênciasQueMoldamExpectativas","EnvelhecendoComSerenidade","psique","filosofia","meditacao","vipassana","insight","insumos","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # angústia mortal
@@ -12,7 +12,7 @@
 ### Conteúdo Relacionado
 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Death Is Natures Way of Telling You to Slow Down\|Death Is Natures Way of Telling You to Slow Down]]
-- [[0 - VAULT/1 NOTAS LITERAIS/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Harvard Professor Answers Happiness Questions From Twitter\|Harvard Professor Answers Happiness Questions From Twitter]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/idade e felicidade\|idade e felicidade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/técnicas para lidar com a angústa mortal\|técnicas para lidar com a angústa mortal]]

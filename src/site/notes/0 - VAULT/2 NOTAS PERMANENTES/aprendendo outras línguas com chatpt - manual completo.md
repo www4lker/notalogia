@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/aprendendo-outras-linguas-com-chatpt-manual-completo/","tags":["permanente","anki","Learning","lit","geo","criatividade","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/aprendendo-outras-linguas-com-chatpt-manual-completo/","tags":["permanente","anki","Learning","lit","geo","criatividade","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # aprendendo outras línguas com chatpt

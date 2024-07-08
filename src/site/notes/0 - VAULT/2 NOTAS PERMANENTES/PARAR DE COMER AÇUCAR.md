@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/parar-de-comer-acucar/","tags":["permanente","calistenia","totalizante","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/parar-de-comer-acucar/","tags":["permanente","calistenia","totalizante","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # PARAR DE COMER AÇUCAR
@@ -8,15 +8,15 @@
 -  Ano, Mês e dia: 2023-07-04
 - Hora: 20:48
 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas\|Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas\|Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Entendendo o autocontrole equilibrado com as tendências humanas\|Entendendo o autocontrole equilibrado com as tendências humanas]]
-- [[0 - VAULT/1 NOTAS LITERAIS/28 dias usando ginseng e ginkgo\|28 dias usando ginseng e ginkgo]]
+- [[28 dias usando ginseng e ginkgo\|28 dias usando ginseng e ginkgo]]
 - tags: #calistenia #totalizante #householder 
 - Fontes & Links: https://chat.openai.com/share/cdce8746-7319-4e08-8762-5ebb4f1b1efe
 	- - notas + 
 - [[Grain Brain - The Surprising Truth about Wheat, Carbs, and Sugar - Your Brain's Silent Killers\|Grain Brain - The Surprising Truth about Wheat, Carbs, and Sugar - Your Brain's Silent Killers]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Dieta Cetogênica à prova de bobos\|Dieta Cetogênica à prova de bobos]]
-- [[0 - VAULT/1 NOTAS LITERAIS/DIETA CETOGENICA - DIETA DA MENTE\|DIETA CETOGENICA - DIETA DA MENTE]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dieta Cetogênica à prova de bobos\|Dieta Cetogênica à prova de bobos]]
+- [[DIETA CETOGENICA - DIETA DA MENTE\|DIETA CETOGENICA - DIETA DA MENTE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/uma lista abrangente de alimentos comumente encontrados no Brasil que sejam adequados para uma dieta cetogênica\|uma lista abrangente de alimentos comumente encontrados no Brasil que sejam adequados para uma dieta cetogênica]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/PARAR DE COMER AÇUCAR\|PARAR DE COMER AÇUCAR]]
 - tags: #totalizante #calistenia #householder 

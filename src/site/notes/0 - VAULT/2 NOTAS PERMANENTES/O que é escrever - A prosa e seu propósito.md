@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-que-e-escrever-a-prosa-e-seu-proposito/","tags":["permanente","filosofia","escriba","escrita","AUTODESCOBERTA","interessesgerais","pesquisa","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-que-e-escrever-a-prosa-e-seu-proposito/","tags":["permanente","filosofia","escriba","escrita","AUTODESCOBERTA","interessesgerais","pesquisa","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # O que é escrever - A prosa e seu propósito
@@ -9,7 +9,7 @@
 - 20:44
 ## relacionados:
 - notas:
-1. [[0 - VAULT/1 NOTAS LITERAIS/Por que escrever - sartre\|Por que escrever - sartre]]
+1. [[Por que escrever - sartre\|Por que escrever - sartre]]
 - tags: #filosofia #escriba #escrita #AUTODESCOBERTA 
 - #interessesgerais #pesquisa #literatura #filosofia #filosofia #escriba #escrita #AUTODESCOBERTA 
 - Fontes & Links: 

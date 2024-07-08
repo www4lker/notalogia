@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/plantas-humildes-e-a-interconexao-na-natureza/","tags":["permanente","fungos","naturae","darkforest","psicodelico","sciencebitch","nãoficção"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/plantas-humildes-e-a-interconexao-na-natureza/","tags":["permanente","fungos","naturae","darkforest","psicodelico","sciencebitch","nãoficção"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Plantas Humildes e a Interconexão na Natureza
@@ -9,10 +9,10 @@
 - 14:24
 ## relacionados:
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Micorriza\|Micorriza]]
+- [[Micorriza\|Micorriza]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Mysteries, Yes\|Mysteries, Yes]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Merlin Sheldrake\|Merlin Sheldrake]]
-- [[0 - VAULT/1 NOTAS LITERAIS/A trama da vida - introdução\|A trama da vida - introdução]]
+- [[Merlin Sheldrake\|Merlin Sheldrake]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A trama da vida - introdução\|A trama da vida - introdução]]
 - tags: #fungos #naturae #darkforest #psicodelico #sciencebitch #nãoficção
 - Fontes & Links: https://www.tiktok.com/@wholly.chloe/video/7334819706550963498
 ---

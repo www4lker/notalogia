@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/a-tecnica-rain/","tags":["filosofia","sciencebitch","MindfulTransformation","vipassana","buddhismo","insight","meditacao","totalizante","chatgpt","pessoalidades","householder","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/a-tecnica-rain/","tags":["filosofia","sciencebitch","MindfulTransformation","vipassana","buddhismo","insight","meditacao","totalizante","chatgpt","pessoalidades","householder","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A técnica RAIN

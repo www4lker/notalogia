@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/estamos-todos-vivendo-sob-um-arco-iris-gravidade/","tags":["permanente","literatura","geo","filosofia","chatgpt","ThomasPynchon","PynchonsRockets","PowerOfSeclusion","LiteratureAndPolitics"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/estamos-todos-vivendo-sob-um-arco-iris-gravidade/","tags":["permanente","literatura","geo","filosofia","chatgpt","ThomasPynchon","PynchonsRockets","PowerOfSeclusion","LiteratureAndPolitics"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Estamos todos vivendo sob um arco íris gravidade
@@ -9,7 +9,7 @@
 ### Conteúdo Relacionado
 
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Pynchon, Thomas\|Pynchon, Thomas]]
+- notas: [[Pynchon, Thomas\|Pynchon, Thomas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/a table with 10 important characters in Gravitys Rainbow\|a table with 10 important characters in Gravitys Rainbow]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/GUIA PARA LER ARCO ÍRIS GRAVIDADE\|GUIA PARA LER ARCO ÍRIS GRAVIDADE]]

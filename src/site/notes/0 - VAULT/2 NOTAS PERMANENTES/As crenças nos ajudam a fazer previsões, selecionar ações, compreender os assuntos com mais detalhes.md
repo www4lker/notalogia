@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/as-crencas-nos-ajudam-a-fazer-previsoes-selecionar-acoes-compreender-os-assuntos-com-mais-detalhes/","tags":["permanente","filosofia","meditacao","insight","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/as-crencas-nos-ajudam-a-fazer-previsoes-selecionar-acoes-compreender-os-assuntos-com-mais-detalhes/","tags":["permanente","filosofia","meditacao","insight","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 #  Em que as crenças nos ajudam?
@@ -13,7 +13,7 @@
 
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Understanding Beliefs (SUMARIO)\|Understanding Beliefs (SUMARIO)]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Para quê serve a crença\|Para quê serve a crença]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Kahneman, Daniel\|Kahneman, Daniel]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Kahneman, Daniel\|Kahneman, Daniel]]
 - tags: #filosofia #meditacao #insight #sciencebitch #permanente
 - Fontes & Links: [mitpress](https://mitpress.mit.edu/9780262526432/understanding-beliefs/)
 ---

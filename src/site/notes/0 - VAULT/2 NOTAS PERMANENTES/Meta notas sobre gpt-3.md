@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/meta-notas-sobre-gpt-3/","tags":["permanente","gpt3","chatgpt","chatbot"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/meta-notas-sobre-gpt-3/","tags":["permanente","gpt3","chatgpt","chatbot"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 030220231330
@@ -12,8 +12,8 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/prompts midjourney\|prompts midjourney]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica\|Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Resumido podcast\|Resumido podcast]]
-- [[0 - VAULT/1 NOTAS LITERAIS/argumento do quarto chinês\|argumento do quarto chinês]]
-- [[0 - VAULT/1 NOTAS LITERAIS/o que significa escrever na era da internet\|o que significa escrever na era da internet]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/argumento do quarto chinês\|argumento do quarto chinês]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/o que significa escrever na era da internet\|o que significa escrever na era da internet]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/dicas para ajudá-lo a aceitar sua entrevista\|dicas para ajudá-lo a aceitar sua entrevista]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Entrevista - REM-MT\|Entrevista - REM-MT]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/guerra de prompts\|guerra de prompts]]

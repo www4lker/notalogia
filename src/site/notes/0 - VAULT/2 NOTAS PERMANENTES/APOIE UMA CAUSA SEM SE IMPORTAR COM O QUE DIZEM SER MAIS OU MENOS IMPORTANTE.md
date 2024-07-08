@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/apoie-uma-causa-sem-se-importar-com-o-que-dizem-ser-mais-ou-menos-importante/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/apoie-uma-causa-sem-se-importar-com-o-que-dizem-ser-mais-ou-menos-importante/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # APOIE UMA CAUSA SEM SE IMPORTAR COM O QUE DIZEM SER MAIS OU MENOS IMPORTANTE
@@ -13,7 +13,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/O VALOR DO VOLUME FIXO DE PRODUTIVIDADE\|O VALOR DO VOLUME FIXO DE PRODUTIVIDADE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Abraçe a tecnologia chata\|Abraçe a tecnologia chata]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Fracasse estrategicamente\|Fracasse estrategicamente]]
-- [[0 - VAULT/1 NOTAS LITERAIS/qual a sua causa, walker\|qual a sua causa, walker]]
+- [[qual a sua causa, walker\|qual a sua causa, walker]]
 - tags: #mementomori #criatividade #toolstolife #ceticismo 
 - Fontes & Links: https://chat.openai.com/share/ed96eb0e-5a60-4be8-b612-f9d8245435d4
 ---

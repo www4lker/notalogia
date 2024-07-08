@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/simple-pratices-to-enhance-metacognition/","tags":["permanente","vipassana","meditacao","habitanimal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/simple-pratices-to-enhance-metacognition/","tags":["permanente","vipassana","meditacao","habitanimal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # simple pratices to enhance metacognition
@@ -27,7 +27,7 @@ Há várias práticas simples que você pode incorporar à sua rotina diária pa
     
 3. **Mantenha um diário**: Anote seus pensamentos e sentimentos em um diário. Isso pode ajudá-lo a desenvolver maior autoconsciência e a refletir sobre suas experiências. Você também pode usar o diário para acompanhar seu progresso no desenvolvimento de suas habilidades metacognitivas.
     
-4. **Pratique a reestruturação cognitiva**: Isso envolve identificar padrões de pensamentos negativos e substituí-los por outros mais positivos e realistas. Por exemplo, se você se pegar pensando: "Nunca vou conseguir fazer isso", substitua esse pensamento por "Talvez eu tenha dificuldades no início, mas com a prática, posso melhorar". - [[0 - VAULT/1 NOTAS LITERAIS/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
+4. **Pratique a reestruturação cognitiva**: Isso envolve identificar padrões de pensamentos negativos e substituí-los por outros mais positivos e realistas. Por exemplo, se você se pegar pensando: "Nunca vou conseguir fazer isso", substitua esse pensamento por "Talvez eu tenha dificuldades no início, mas com a prática, posso melhorar". - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
     
 5. **Busque feedback**: Peça feedback a outras pessoas sobre seus pensamentos, comportamentos e decisões. Isso pode lhe fornecer informações valiosas sobre seus pontos fortes e fracos, além de ajudá-lo a identificar áreas de melhoria.
 
@@ -46,7 +46,7 @@ There are several simple practices that you can incorporate into your daily rout
     
 3. Keep a journal: Write down your thoughts and feelings in a journal. This can help you develop greater self-awareness and reflect on your experiences. You can also use your journal to track your progress in developing your metacognitive abilities.
     
-4. Practice cognitive restructuring: This involves identifying negative thought patterns and replacing them with more positive and realistic ones. For example, if you find yourself thinking, "I'm never going to be able to do this," you can replace that thought with, "I may struggle at first, but with practice, I can improve." — [[0 - VAULT/1 NOTAS LITERAIS/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
+4. Practice cognitive restructuring: This involves identifying negative thought patterns and replacing them with more positive and realistic ones. For example, if you find yourself thinking, "I'm never going to be able to do this," you can replace that thought with, "I may struggle at first, but with practice, I can improve." — [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
     
 5. Seek feedback: Ask others for feedback on your thoughts, behaviors, and decisions. This can provide you with valuable information about your strengths and weaknesses, as well as help you identify areas for improvement.
 

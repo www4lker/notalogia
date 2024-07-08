@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/labatut-no-flip/","tags":["permanente","literatura","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/labatut-no-flip/","tags":["permanente","literatura","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Labatut no FLIP
@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/La piedra de la locura\|La piedra de la locura]]
 - [[Quando deixamos de entender o mundo\|Quando deixamos de entender o mundo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
+- [[resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
 - tags: tags: #literatura #filosofia #insight 
 - Fontes & Links: [video original](https://www.youtube.com/watch?v=fLZ8YjO7A_Y)  Flip 2022: Of the harm you gave me…, with Benjamin Labatut
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/os-estoicos-estavam-certos-sobre-as-emocoes/","tags":["permanente","totalizante","vipassana","pessoalidades","TerapiaPelaEscrita","TraumaEPsicoterapia","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/os-estoicos-estavam-certos-sobre-as-emocoes/","tags":["permanente","totalizante","vipassana","pessoalidades","TerapiaPelaEscrita","TraumaEPsicoterapia","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # os estoicos estavam certos sobre as emoções
@@ -9,10 +9,10 @@
 - 18:37
 ## relacionados:
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/como se tornar mais estoico - um guia\|como se tornar mais estoico - um guia]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Necessidade de Consciência Emocional\|Necessidade de Consciência Emocional]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Necessidade de Consciência Emocional\|Necessidade de Consciência Emocional]]
 - [[Farnsworth-Lizardo-Ser Estoico\|Farnsworth-Lizardo-Ser Estoico]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/365 ideias estoicas\|365 ideias estoicas]]
-- [[0 - VAULT/1 NOTAS LITERAIS/INTELIGÊNCIA EMOCIONAL - caminho das pedras\|INTELIGÊNCIA EMOCIONAL - caminho das pedras]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/INTELIGÊNCIA EMOCIONAL - caminho das pedras\|INTELIGÊNCIA EMOCIONAL - caminho das pedras]]
 - tags: #totalizante #vipassana #pessoalidades #TerapiaPelaEscrita #TraumaEPsicoterapia #filosofia
 - Fontes & Links: https://psyche.co/ideas/the-stoics-were-right-emotional-control-is-good-for-the-soul
 ---

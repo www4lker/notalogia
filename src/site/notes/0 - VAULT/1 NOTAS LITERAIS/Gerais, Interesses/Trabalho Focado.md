@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/trabalho-focado/","title":"Trabalho Focado","tags":["intelectual","academia","academico","totalizante","disserte","tecnologia","minimalismodigital","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/trabalho-focado/","title":"Trabalho Focado","tags":["intelectual","academia","academico","totalizante","disserte","tecnologia","minimalismodigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Trabalho Focado

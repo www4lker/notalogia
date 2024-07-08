@@ -13,7 +13,7 @@
 - tags: #literatura #formalismorusso 
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Buddenbrooks e Succession\|Buddenbrooks e Succession]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/LIVROS QUE ASPIRO A LER PORQUE SIM\|LIVROS QUE ASPIRO A LER PORQUE SIM]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
+- [[DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
 - tags: #literatura #promptGPT #tv #cultura #CulturalPatterns #CulturalInfluence 
 ---
 

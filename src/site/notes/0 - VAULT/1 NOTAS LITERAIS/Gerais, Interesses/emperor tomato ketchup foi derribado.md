@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/emperor-tomato-ketchup-foi-derribado/","tags":["mestredeculturacontemporanea","cultura","filosofia","literatura","totalizante","pesquisa","interessesdepesquisa","cinema"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/emperor-tomato-ketchup-foi-derribado/","tags":["mestredeculturacontemporanea","cultura","filosofia","literatura","totalizante","pesquisa","interessesdepesquisa","cinema"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # emperor tomato ketchup foi derribado

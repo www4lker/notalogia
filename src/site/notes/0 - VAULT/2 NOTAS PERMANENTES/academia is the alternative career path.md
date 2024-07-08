@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/academia-is-the-alternative-career-path/","tags":["permanente","academia","ensaistica","literatura","intelectual","pesquisa","interessesgerais","substack","escrita","escrivão","anglo","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/academia-is-the-alternative-career-path/","tags":["permanente","academia","ensaistica","literatura","intelectual","pesquisa","interessesgerais","substack","escrita","escrivão","anglo","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # academia is the alternative career path

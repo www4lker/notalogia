@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/que-livro-meu-vault-poderia-criar-mem/","tags":["permanente","literatura","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/que-livro-meu-vault-poderia-criar-mem/","tags":["permanente","literatura","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Que livro meu Vault poderia criar - Mem
@@ -7,9 +7,9 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-08-26
 - Hora: 21:52
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/pesquisa via chatgpt sobre como escrever\|pesquisa via chatgpt sobre como escrever]]
-- [[0 - VAULT/1 NOTAS LITERAIS/non fiction novel\|non fiction novel]]
-- [[0 - VAULT/1 NOTAS LITERAIS/LEITURA DE LIVROS DE FICÇÃO\|LEITURA DE LIVROS DE FICÇÃO]]
+- notas: [[pesquisa via chatgpt sobre como escrever\|pesquisa via chatgpt sobre como escrever]]
+- [[non fiction novel\|non fiction novel]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/LEITURA DE LIVROS DE FICÇÃO\|LEITURA DE LIVROS DE FICÇÃO]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Que pesquisa para Cultura Contemporanea meu Vault poderia me oferecer - Mem\|Que pesquisa para Cultura Contemporanea meu Vault poderia me oferecer - Mem]]
 - tags: #literatura #meta
 - Fontes & Links: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-duzia-de-problemas-favoritos-de-montaigne/","tags":["permanente","framework","darkforest","totalizante","enfim","insight","filosofia","ceticismo","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-duzia-de-problemas-favoritos-de-montaigne/","tags":["permanente","framework","darkforest","totalizante","enfim","insight","filosofia","ceticismo","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # dozen of your favorite problems

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/passo-a-passo-de-como-conseguir-novos-habitos/","tags":["permanente","habitanimal","HabitRevolution","SmallChangesBigResults","IdentityShift","SystematicSuccess","EnvironmentMatters","HabitStacking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/passo-a-passo-de-como-conseguir-novos-habitos/","tags":["permanente","habitanimal","HabitRevolution","SmallChangesBigResults","IdentityShift","SystematicSuccess","EnvironmentMatters","HabitStacking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # PASSO A PASSO DE COMO CONSEGUIR NOVOS HABITOS

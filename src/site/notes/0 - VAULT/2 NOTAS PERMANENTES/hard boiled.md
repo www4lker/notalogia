@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/hard-boiled/","title":"hard boiled","tags":["criatividade","tv","literatura","otimistarealista","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/hard-boiled/","title":"hard boiled","tags":["criatividade","tv","literatura","otimistarealista","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 
@@ -13,8 +13,8 @@
 ### Conteúdo Relacionado
 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/SUPERMERCADO, ANTROPOCENO E PERRY MASON\|SUPERMERCADO, ANTROPOCENO E PERRY MASON]]
-- [[0 - VAULT/1 NOTAS LITERAIS/como ser abstêmio\|como ser abstêmio]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Raymond Chandler - starter pack\|Raymond Chandler - starter pack]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/como ser abstêmio\|como ser abstêmio]]
+- [[Raymond Chandler - starter pack\|Raymond Chandler - starter pack]]
 - tags: #criatividade #tv #literatura #otimistarealista #householder 
 
 ---
@@ -49,7 +49,7 @@ Tanto Chandler quanto Gardner foram escritores influentes em sua época, e suas 
 
 Se você gosta de ficção policial hardboiled das décadas de 1920 e 1930, há muitos outros autores e obras que você pode gostar. Aqui estão algumas sugestões:
 
-1. Dashiell Hammett: [[0 - VAULT/1 NOTAS LITERAIS/Hammett foi um dos pioneiros da ficção policial hardboiled\|Hammett foi um dos pioneiros da ficção policial hardboiled]], e suas obras influenciaram muito Chandler e Gardner. Seu personagem mais famoso é o detetive particular Sam Spade, que aparece no romance "The Maltese Falcon" (1930).
+1. Dashiell Hammett: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Hammett foi um dos pioneiros da ficção policial hardboiled\|Hammett foi um dos pioneiros da ficção policial hardboiled]], e suas obras influenciaram muito Chandler e Gardner. Seu personagem mais famoso é o detetive particular Sam Spade, que aparece no romance "The Maltese Falcon" (1930).
     
 2. James M. Cain: Cain foi outro escritor influente da ficção hardboiled, conhecido por suas histórias violentas e corajosas de crime e traição. Suas obras mais famosas incluem "The Postman Always Rings Twice" (1934) e "Double Indemnity" (1936).
     

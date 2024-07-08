@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/esqueleto-de-ensaio-relacionando-blood-meridian-e-rdrii-feito-por-chat-gpt/","tags":["permanente","chatgpt","games","literatura","ergodico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/esqueleto-de-ensaio-relacionando-blood-meridian-e-rdrii-feito-por-chat-gpt/","tags":["permanente","chatgpt","games","literatura","ergodico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 
@@ -11,7 +11,7 @@
 
 - palavras-chave: 
 - notas: #chatgpt #games #literatura #ergodico 
-- [[0 - VAULT/1 NOTAS LITERAIS/Thoreau, Henry David\|Thoreau, Henry David]] 
+- [[Thoreau, Henry David\|Thoreau, Henry David]] 
 - [[0 - VAULT/2 NOTAS PERMANENTES/Red Dead Redemption - Uma jornada de redenção no Velho Oeste\|Red Dead Redemption - Uma jornada de redenção no Velho Oeste]]
 - [[Meridiano De Sangue\|Meridiano De Sangue]]
 - [[Blood Meridian or the Evening Redness in the West\|Blood Meridian or the Evening Redness in the West]]

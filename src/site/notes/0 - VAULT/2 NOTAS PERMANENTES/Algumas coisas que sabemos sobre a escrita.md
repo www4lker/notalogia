@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/algumas-coisas-que-sabemos-sobre-a-escrita/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/algumas-coisas-que-sabemos-sobre-a-escrita/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Algumas coisas que sabemos sobre a escrita
@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/William Zinsser\|William Zinsser]]
+- [[William Zinsser\|William Zinsser]]
 - [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities\|Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
 ---
 # Algumas coisas que sabemos sobre a escrita:

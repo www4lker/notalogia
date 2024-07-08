@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-grande-pergunta/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo","vipassana","meditacao","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-grande-pergunta/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo","vipassana","meditacao","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # a grande pergunta
@@ -7,7 +7,7 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-07-06
 - Hora: 12:59
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/a grande pergunta - análise\|a grande pergunta - análise]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/a grande pergunta - análise\|a grande pergunta - análise]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/APOIE UMA CAUSA SEM SE IMPORTAR COM O QUE DIZEM SER MAIS OU MENOS IMPORTANTE\|APOIE UMA CAUSA SEM SE IMPORTAR COM O QUE DIZEM SER MAIS OU MENOS IMPORTANTE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Harvard Professor Answers Happiness Questions From Twitter\|Harvard Professor Answers Happiness Questions From Twitter]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O VALOR DO VOLUME FIXO DE PRODUTIVIDADE\|O VALOR DO VOLUME FIXO DE PRODUTIVIDADE]]

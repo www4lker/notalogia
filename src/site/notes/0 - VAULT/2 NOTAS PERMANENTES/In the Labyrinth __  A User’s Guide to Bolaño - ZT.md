@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/in-the-labyrinth-a-user-s-guide-to-bolano-zt/","tags":["permanente","literatura","formalismorusso","pessoalidades","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/in-the-labyrinth-a-user-s-guide-to-bolano-zt/","tags":["permanente","literatura","formalismorusso","pessoalidades","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # In the Labyrinth __  A User’s Guide to Bolaño - ZT
@@ -11,7 +11,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/Para começar Bolaño\|Para começar Bolaño]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/chile - de pinochet à democratização\|chile - de pinochet à democratização]]
 - [[Alejandro Zambra, autor chileno que virou cult\|Alejandro Zambra, autor chileno que virou cult]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Marçal aquino e seu novo livro\|Marçal aquino e seu novo livro]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Marçal aquino e seu novo livro\|Marçal aquino e seu novo livro]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/ECCO dois ponto zero\|ECCO dois ponto zero]]
 - [[LIT\|LIT]]
 - [[Rubem Fonseca\|Rubem Fonseca]]

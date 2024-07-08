@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/quais-problemas-seu-projeto-pode-resolver/","tags":["promptgpt3","criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/quais-problemas-seu-projeto-pode-resolver/","tags":["promptgpt3","criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # quais problemas seu projeto pode resolver

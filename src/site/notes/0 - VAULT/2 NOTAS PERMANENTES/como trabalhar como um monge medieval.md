@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-trabalhar-como-um-monge-medieval/","tags":["permanente","intelectual","academia","academico","totalizante","disserte","vipassana","meditacao","criatividade","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-trabalhar-como-um-monge-medieval/","tags":["permanente","intelectual","academia","academico","totalizante","disserte","vipassana","meditacao","criatividade","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # como trabalhar como um monge medieval
@@ -8,10 +8,10 @@
 ### Relacionado
 palavras-chave: #intelectual #academia #academico #totalizante #disserte #vipassana #meditacao #criatividade #promptgpt3 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Você precisa pensar como um monge medieval\|Você precisa pensar como um monge medieval]]
+- [[Você precisa pensar como um monge medieval\|Você precisa pensar como um monge medieval]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/digital minimalism\|digital minimalism]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/DEEP WORK e MINDFUL TECH - artigo\|DEEP WORK e MINDFUL TECH - artigo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/A.-D. Sertillanges\|A.-D. Sertillanges]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A.-D. Sertillanges\|A.-D. Sertillanges]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Trabalho Focado\|Trabalho Focado]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/A Vida Intelectual\|NOTAS DE LEITURA/KINDLE HIGHLIGHTS/A Vida Intelectual]]
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/idispiando/","tags":["permanente","capturas","householder","provacabal","literatura","poesia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/idispiando/","tags":["permanente","capturas","householder","provacabal","literatura","poesia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # idispiando
@@ -8,7 +8,7 @@ criado em: 19:16 2022-07-27
 ##### Relacionado
 - palavras-chave: #capturas #[[notasprontas\|notasprontas]] #householder #provacabal #literatura #poesia
 - notas permanentes: [[poesia\|poesia]]
-- notas de literatura: [[0 - VAULT/1 NOTAS LITERAIS/screenshots\|screenshots]][[SEMANA 23 DE 2022\|SEMANA 23 DE 2022]]
+- notas de literatura: [[screenshots\|screenshots]][[SEMANA 23 DE 2022\|SEMANA 23 DE 2022]]
 
 ---
 

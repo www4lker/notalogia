@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/antes-de-comecar-faca-a-si-mesmo-6-perguntas/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/antes-de-comecar-faca-a-si-mesmo-6-perguntas/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 181220221156
@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/William Zinsser\|William Zinsser]]
+- [[William Zinsser\|William Zinsser]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Sobre o escopo do texto\|Sobre o escopo do texto]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/sobre o argumento principal de um texto\|sobre o argumento principal de um texto]]

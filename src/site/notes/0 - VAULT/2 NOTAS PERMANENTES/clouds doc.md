@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/clouds-doc/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/clouds-doc/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # clouds doc
@@ -17,7 +17,7 @@
 ---
 
 Nota 1: 
-**Título:** [[0 - VAULT/1 NOTAS LITERAIS/A interseção de arte, código e tecnologias de código aberto\|A interseção de arte, código e tecnologias de código aberto]]
+**Título:** [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A interseção de arte, código e tecnologias de código aberto\|A interseção de arte, código e tecnologias de código aberto]]
 
 Nota 2:
-**Título:** [[0 - VAULT/1 NOTAS LITERAIS/um documentário interativo que explora a comunidade de arte digital\|um documentário interativo que explora a comunidade de arte digital]]
+**Título:** [[um documentário interativo que explora a comunidade de arte digital\|um documentário interativo que explora a comunidade de arte digital]]

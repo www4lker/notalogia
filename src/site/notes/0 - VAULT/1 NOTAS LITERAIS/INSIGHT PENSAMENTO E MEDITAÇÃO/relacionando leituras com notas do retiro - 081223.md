@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/relacionando-leituras-com-notas-do-retiro-081223/","tags":["filosofia","literatura","interessesgerais","pesquisa","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/relacionando-leituras-com-notas-do-retiro-081223/","tags":["filosofia","literatura","interessesgerais","pesquisa","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Baseado nas leituras e reflexões do dia 4, há uma série de temas interconectados presentes que podem ser explorados.

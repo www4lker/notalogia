@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/how-to-start-the-perfect-sleep-routine/","title":"How to start the perfect sleep routine","tags":["biohack","habitanimal","totalizante","SleepRoutine","HealthyHabits","BedtimeRitual","SleepCycles","SmartBand","SleepTracking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/how-to-start-the-perfect-sleep-routine/","title":"How to start the perfect sleep routine","tags":["biohack","habitanimal","totalizante","SleepRoutine","HealthyHabits","BedtimeRitual","SleepCycles","SmartBand","SleepTracking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 
@@ -13,7 +13,7 @@
 ### Conteúdo Relacionado
 
 - notas: [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Por que nós dormimos\|Por que nós dormimos]]
-- [[0 - VAULT/1 NOTAS LITERAIS/power down routine\|power down routine]]
+- [[power down routine\|power down routine]]
 - tags: #biohack #habitanimal #totalizante 
 - Fontes & Links: 
 ---

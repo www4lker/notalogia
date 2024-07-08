@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/caligrama/","tags":["permanente","interessesdepesquisa","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/caligrama/","tags":["permanente","interessesdepesquisa","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # caligrama
@@ -9,9 +9,9 @@ criado em: 18:59 2022-08-31
 - palavras-chave: #interessesdepesquisa #disserte
 - notas permanentes: 
 - notas de dissertação: [[0 - VAULT/2 NOTAS PERMANENTES/dissertação index\|dissertação index]]
-- notas de literatura: [[0 - VAULT/1 NOTAS LITERAIS/literatura ergódica\|literatura ergódica]]
+- notas de literatura: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/literatura ergódica\|literatura ergódica]]
 - [[Isto não é um cachimbo por VF\|Isto não é um cachimbo por VF]]
-- [[0 - VAULT/1 NOTAS LITERAIS/episteme\|episteme]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/episteme\|episteme]]
 - [[261020221004\|261020221004]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ\|ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/escritas da pandemia\|escritas da pandemia]]
@@ -30,6 +30,6 @@ o caligrama é uma tautologia, mas não é do tipo retorico. Ele repete a mensag
 
 Ao contrario da crenca geral, computadores tambem nao sao multitarefas; eles apenas fazem suas tarefas de maneira muito rápida. E quando alguem pede para a IA desenhar “ uma flor nascendo nas rachaduras do antropoceno”, muito provavelmente nao esta aí a maquina interpretando um conceito, mas usando de pré treino para acertar o melhor palpite para esse pedido —muitas vezes aglutinando vieses e preconceitos no caminho pois seu pretreino muitas vezes foi feito com base de dados colhidos da internet.
 
-Mas porque é um caligrama a arte gerada por IA? porque ela aponta para nos mesmos, nossa limitacao elementar, seja em termos de linguagem ou de originalidade, de criar algo realmente novo. A colagem feita pela maquina parece original, mas remete ao pedido em texto feito pelo usuario — e o texto por sua vez remete à capacidade do usuario de descrever o que gostaria de ver exposto de maneira artistica; esse por sua vez nos retorna a pergunta — e nisso a tecnologia sempre pode ser realmente útil, como diz o [[0 - VAULT/1 NOTAS LITERAIS/James Bridle\|James Bridle]] — sois capaz de saber o que quer?
+Mas porque é um caligrama a arte gerada por IA? porque ela aponta para nos mesmos, nossa limitacao elementar, seja em termos de linguagem ou de originalidade, de criar algo realmente novo. A colagem feita pela maquina parece original, mas remete ao pedido em texto feito pelo usuario — e o texto por sua vez remete à capacidade do usuario de descrever o que gostaria de ver exposto de maneira artistica; esse por sua vez nos retorna a pergunta — e nisso a tecnologia sempre pode ser realmente útil, como diz o [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/James Bridle\|James Bridle]] — sois capaz de saber o que quer?
 
 

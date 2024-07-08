@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/ironic-cringe/","tags":["literatura","totalizante","pesquisa","interessesdepesquisa","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/ironic-cringe/","tags":["literatura","totalizante","pesquisa","interessesdepesquisa","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 ### Insight sobre "Cringe Ironic" conforme comentado pelo autor:

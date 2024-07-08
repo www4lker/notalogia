@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/reality-and-truth/","title":"reality and truth","tags":["filosofia","meditacao","insight","sciencebitch","permanente","BeyondPerception","ConstructingReality","PhilosophicalInquiry","MeaningfulTruth","RevisingBeliefs","FallibilityOfKnowledge","LogicalCoherence","HumanMadeConcepts","EverEvolvingUnderstanding"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/reality-and-truth/","title":"reality and truth","tags":["filosofia","meditacao","insight","sciencebitch","permanente","BeyondPerception","ConstructingReality","PhilosophicalInquiry","MeaningfulTruth","RevisingBeliefs","FallibilityOfKnowledge","LogicalCoherence","HumanMadeConcepts","EverEvolvingUnderstanding"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 

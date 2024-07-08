@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/adverbios-como-ameacas-ao-edificio-verbal/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/adverbios-como-ameacas-ao-edificio-verbal/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # ANALOGIA: advérbios como ameaças ao edifício verbal
@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão #promptgpt3 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/888/William Zinsser\|William Zinsser]]
+- [[William Zinsser\|William Zinsser]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Sobre a escrita\|NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Sobre a escrita]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/é recomendável evitar o uso de advérbios desnecessários\|é recomendável evitar o uso de advérbios desnecessários]]

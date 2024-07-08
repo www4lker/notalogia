@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/6-palpites-de-coisas-que-o-mundo-precisa-e-ninguem-esta-a-fazer-nas-humanidades/","tags":["promptgpt3","criatividade","insight","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/6-palpites-de-coisas-que-o-mundo-precisa-e-ninguem-esta-a-fazer-nas-humanidades/","tags":["promptgpt3","criatividade","insight","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 141020221550

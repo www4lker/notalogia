@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ressurgimento-dos-blogs/","tags":["permanente","escrivão","mementomori","desenvolvimentoweb","boradev","Collaboration","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ressurgimento-dos-blogs/","tags":["permanente","escrivão","mementomori","desenvolvimentoweb","boradev","Collaboration","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # ressurgimento dos blogs
@@ -8,12 +8,12 @@
 - 01-01-2024
 - 18:16
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/todo mundo deveria ter um blog txt\|todo mundo deveria ter um blog txt]]
-- [[0 - VAULT/1 NOTAS LITERAIS/blog para sempre\|blog para sempre]]
+- notas: [[todo mundo deveria ter um blog txt\|todo mundo deveria ter um blog txt]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/blog para sempre\|blog para sempre]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O período do início dos anos 2000 viu o surgimento de plataformas de blog\|O período do início dos anos 2000 viu o surgimento de plataformas de blog]]
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/w4lker ponto com ponto br\|w4lker ponto com ponto br]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/storytelling para FRONT END DEV\|storytelling para FRONT END DEV]]
-- [[0 - VAULT/1 NOTAS LITERAIS/The Small Internet\|The Small Internet]]
+- [[The Small Internet\|The Small Internet]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/jardim digital ou jardim murado\|jardim digital ou jardim murado]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/digital garden\|digital garden]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Jenny Odell Can Stretch Time and So Can You\|Jenny Odell Can Stretch Time and So Can You]]

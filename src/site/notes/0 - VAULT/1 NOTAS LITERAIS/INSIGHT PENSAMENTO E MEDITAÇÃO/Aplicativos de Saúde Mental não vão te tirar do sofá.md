@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/aplicativos-de-saude-mental-nao-vao-te-tirar-do-sofa/","tags":["ceticismo","tecnologia","insight","wiredetal","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/aplicativos-de-saude-mental-nao-vao-te-tirar-do-sofa/","tags":["ceticismo","tecnologia","insight","wiredetal","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 200120231041

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chat-gpt-me-ajuda-a-escrever/","tags":["permanente","promptgpt3","metodologia","disserte","anglo","tecnologia","meta","zettelkasten","1000palavrasoumais","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme","toródeideias"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chat-gpt-me-ajuda-a-escrever/","tags":["permanente","promptgpt3","metodologia","disserte","anglo","tecnologia","meta","zettelkasten","1000palavrasoumais","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme","toródeideias"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # chat gpt me ajuda a escrever

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/voce-tem-escolhido-seus-objetivos-todos-do-jeito-errado/","tags":["permanente","wiredetal","habitanimal","metas-para-2023","ceticismo","pessoalidades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/voce-tem-escolhido-seus-objetivos-todos-do-jeito-errado/","tags":["permanente","wiredetal","habitanimal","metas-para-2023","ceticismo","pessoalidades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 030120231737

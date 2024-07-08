@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/anos-finais-e-obituario-de-thoreau/","tags":["permanente","estoico","filosofia","mementomori","ChatGPT"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/anos-finais-e-obituario-de-thoreau/","tags":["permanente","estoico","filosofia","mementomori","ChatGPT"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # anos finais e obituário de Thoreau
@@ -9,10 +9,10 @@
 - Hora: 17:23
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/Thoreau, Henry David\|Thoreau, Henry David]]
+- notas: [[Thoreau, Henry David\|Thoreau, Henry David]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/This psychedelics researcher approached his death with calm and curiosity\|This psychedelics researcher approached his death with calm and curiosity]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/ensaios, de montaigne\|ensaios, de montaigne]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/pc siqueira está morto\|pc siqueira está morto]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ensaios, de montaigne\|ensaios, de montaigne]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/pc siqueira está morto\|pc siqueira está morto]]
 - tags: #estoico #filosofia #mementomori 
 ---
 

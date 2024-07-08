@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/explore-a-ideia-de-aprender-a-conviver-com-os-incomodos-e-ruidos-em-vez-de-tentar-elimina-los-completamente/","tags":["totalizante","wiredetal","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/explore-a-ideia-de-aprender-a-conviver-com-os-incomodos-e-ruidos-em-vez-de-tentar-elimina-los-completamente/","tags":["totalizante","wiredetal","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # explore a ideia de aprender a conviver com os incômodos e ruídos em vez de tentar eliminá-los completamente

@@ -10,7 +10,7 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/o meio é a mensagem\|o meio é a mensagem]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/888/12. Tiziana Terranova\|12. Tiziana Terranova]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/12. Tiziana Terranova\|12. Tiziana Terranova]]
 - tags: #internet #disserte #promptgpt3 #interessesdepesquisa #filosofia #literatura #geo #mestredeculturacontemporanea
 ---
 A Teoria da Informação de Claude Shannon tem amplas aplicações em diversas áreas. 

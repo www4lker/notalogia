@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/5-estrategias-para-potencializar-a-empatia-atraves-da-investigacao-academica/","tags":["promptgpt3","interessesgerais","interessesdepesquisa","vipassana"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/5-estrategias-para-potencializar-a-empatia-atraves-da-investigacao-academica/","tags":["promptgpt3","interessesgerais","interessesdepesquisa","vipassana"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 5 estratégias para potencializar a empatia através da investigação acadêmica
@@ -8,7 +8,7 @@ criado em: 15:42 2022-10-14
 ##### Relacionado
 - palavras-chave: #promptgpt3 #interessesgerais #interessesdepesquisa #vipassana 
 - notas permanentes: [[0 - VAULT/2 NOTAS PERMANENTES/dissertação index\|dissertação index]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Manufacturing Happy Citizens\|Manufacturing Happy Citizens]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Manufacturing Happy Citizens\|Manufacturing Happy Citizens]]
 - notas de dissertação:
 - notas de literatura: 
 

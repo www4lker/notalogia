@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/encontre-a-novidade-do-mundano/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo","meditacao","vipassana"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/encontre-a-novidade-do-mundano/","tags":["permanente","mementomori","criatividade","toolstolife","ceticismo","meditacao","vipassana"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Encontre a novidade do mundano

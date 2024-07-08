@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pontos-chave-que-eu-deveria-saber-ao-estudar-a-industria-cultural/","tags":["permanente","internet","disserte","promptgpt3","interessesdepesquisa","podkasten","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pontos-chave-que-eu-deveria-saber-ao-estudar-a-industria-cultural/","tags":["permanente","internet","disserte","promptgpt3","interessesdepesquisa","podkasten","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 101020221345
@@ -8,7 +8,7 @@ criado em: 13:45 2022-10-10
 ##### Relacionado
 - palavras-chave: #internet #disserte #promptgpt3 #interessesdepesquisa #podkasten #mestredeculturacontemporanea
 - notas:
-- [[0 - VAULT/1 NOTAS LITERAIS/Benjamin, Walter\|Benjamin, Walter]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Benjamin, Walter\|Benjamin, Walter]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/estudos da mídia\|estudos da mídia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/hipercultura\|hipercultura]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/hipermídia\|hipermídia]]

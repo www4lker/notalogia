@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/mushrooms-a-poem-by-sylvia-plath/","tags":["ensaistica","filosofia","literatura","microdose"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/mushrooms-a-poem-by-sylvia-plath/","tags":["ensaistica","filosofia","literatura","microdose"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # mushrooms, a poem
@@ -7,7 +7,7 @@
 
 - palavras-chave: #ensaistica #filosofia #literatura #microdose 
 - notas:
-- [[0 - VAULT/1 NOTAS LITERAIS/Plath, Sylvia\|Plath, Sylvia]]
+- [[Plath, Sylvia\|Plath, Sylvia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/hifacultura\|hifacultura]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/terapia psicodélica\|terapia psicodélica]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/o poema cogumelos explicado\|o poema cogumelos explicado]]

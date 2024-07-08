@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/como-se-alongar/","tags":["totalizante","mementomori","criatividade","toolstolife","ceticismo","calistenia","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/como-se-alongar/","tags":["totalizante","mementomori","criatividade","toolstolife","ceticismo","calistenia","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # COMO SE ALONGAR
@@ -9,10 +9,10 @@
 - 18:30
 ## relacionados:
 - notas:
-1. [[0 - VAULT/1 NOTAS LITERAIS/Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas\|Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/porque cardio não vai te emagrecer\|porque cardio não vai te emagrecer]]
-3. [[0 - VAULT/1 NOTAS LITERAIS/meditar no quintal\|meditar no quintal]]
-4. [[0 - VAULT/1 NOTAS LITERAIS/Como Transformar um Passeio de Bicicleta em um Treino de Ciclismo\|Como Transformar um Passeio de Bicicleta em um Treino de Ciclismo]]
+1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas\|Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas]]
+2. [[porque cardio não vai te emagrecer\|porque cardio não vai te emagrecer]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/meditar no quintal\|meditar no quintal]]
+4. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como Transformar um Passeio de Bicicleta em um Treino de Ciclismo\|Como Transformar um Passeio de Bicicleta em um Treino de Ciclismo]]
 - tags: #totalizante #mementomori #criatividade #toolstolife #ceticismo #calistenia #totalizante #householder
 ---
 O alongamento é uma parte importante para garantir uma sessão segura e eficaz. Aqui estão algumas dicas para você alongar antes de pular corda:

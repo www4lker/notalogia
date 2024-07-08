@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/mysteries-yes/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/mysteries-yes/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 > ##### **Mysteries, Yes  
@@ -26,6 +26,6 @@
 >    “Look!” and laugh in astonishment,  
 >    and bow their heads.
 
-- [[0 - VAULT/1 NOTAS LITERAIS/A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo\|A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo\|A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/projeto pastorino/The universe is full of wonder and mystery, and you are a part of it\|The universe is full of wonder and mystery, and you are a part of it]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/analisando o poema do PHB\|analisando o poema do PHB]]

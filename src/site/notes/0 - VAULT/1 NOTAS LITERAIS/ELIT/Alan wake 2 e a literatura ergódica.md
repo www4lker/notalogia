@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/alan-wake-2-e-a-literatura-ergodica/","tags":["interessesdepesquisa","literatura","games"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/alan-wake-2-e-a-literatura-ergodica/","tags":["interessesdepesquisa","literatura","games"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Alan wake 2 e a literatura ergódica
@@ -10,8 +10,8 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Ergodic Literature\|Ergodic Literature]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/888/Cybertext\|Cybertext]]
-3. [[0 - VAULT/1 NOTAS LITERAIS/888/literatura ergódica\|literatura ergódica]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Cybertext\|Cybertext]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/literatura ergódica\|literatura ergódica]]
 4. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Alan Wake II - Maestria da narrativa\|Alan Wake II - Maestria da narrativa]]
 - tags:  #interessesdepesquisa #literatura #games 
 ---

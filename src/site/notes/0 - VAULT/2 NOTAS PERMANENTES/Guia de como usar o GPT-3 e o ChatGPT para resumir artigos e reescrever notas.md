@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/guia-de-como-usar-o-gpt-3-e-o-chat-gpt-para-resumir-artigos-e-reescrever-notas/","tags":["permanente","promptgpt3","metodologia","disserte","anglo","tecnologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/guia-de-como-usar-o-gpt-3-e-o-chat-gpt-para-resumir-artigos-e-reescrever-notas/","tags":["permanente","promptgpt3","metodologia","disserte","anglo","tecnologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 060220231505
@@ -12,7 +12,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/Repetição espaçada - Spaced repetition\|Repetição espaçada - Spaced repetition]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/chat gpt me ajuda a escrever\|chat gpt me ajuda a escrever]]
 - [[ disclaimer chat gpt\| disclaimer chat gpt]]
-- [[0 - VAULT/1 NOTAS LITERAIS/explique o metodo estatistico do gpt 3 de forma simples\|explique o metodo estatistico do gpt 3 de forma simples]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/explique o metodo estatistico do gpt 3 de forma simples\|explique o metodo estatistico do gpt 3 de forma simples]]
  
 ---
 ## seja honesto no uso de ferramentas externas

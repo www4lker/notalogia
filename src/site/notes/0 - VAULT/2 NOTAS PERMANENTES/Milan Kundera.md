@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/milan-kundera/","tags":["permanente","literatura","autoficção","criatividade","householder","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/milan-kundera/","tags":["permanente","literatura","autoficção","criatividade","householder","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Milan Kundera
@@ -7,8 +7,8 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-07-12
 - Hora: 21:31
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Knausgård - o que esperar destes próximos livros, se a melhor estratégia é devorar ou ler aos poucos\|Knausgård - o que esperar destes próximos livros, se a melhor estratégia é devorar ou ler aos poucos]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Julián Fuks\|Julián Fuks]] 
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Knausgård - o que esperar destes próximos livros, se a melhor estratégia é devorar ou ler aos poucos\|Knausgård - o que esperar destes próximos livros, se a melhor estratégia é devorar ou ler aos poucos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Julián Fuks\|Julián Fuks]] 
 - tags: #literatura #autoficção #criatividade #householder #otimistarealista 
 - Fontes & Links: https://www.nytimes.com/2023/07/12/world/europe/milan-kundera-dead.html
 ---

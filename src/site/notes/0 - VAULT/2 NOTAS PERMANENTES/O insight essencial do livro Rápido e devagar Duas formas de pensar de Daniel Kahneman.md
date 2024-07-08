@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-insight-essencial-do-livro-rapido-e-devagar-duas-formas-de-pensar-de-daniel-kahneman/","tags":["permanente","mestredeculturacontemporanea","LiteraryExperiment","criatividade","InsightfulObservation","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-insight-essencial-do-livro-rapido-e-devagar-duas-formas-de-pensar-de-daniel-kahneman/","tags":["permanente","mestredeculturacontemporanea","LiteraryExperiment","criatividade","InsightfulObservation","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # O insight essencial do livro Rápido e devagar Duas formas de pensar de Daniel Kahneman

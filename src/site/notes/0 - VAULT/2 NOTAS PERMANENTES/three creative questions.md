@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/three-creative-questions/","tags":["permanente","filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/three-creative-questions/","tags":["permanente","filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # três perguntas criativas sobre
@@ -13,7 +13,7 @@
 1. [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/o consumo de massa.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/o consumo de massa.md]]
 2. [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/reprodução da desigualdade.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/reprodução da desigualdade.md]]
 3. [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
-4. [[0 - VAULT/1 NOTAS LITERAIS/three creative questions GPT-4\|three creative questions GPT-4]]
+4. [[three creative questions GPT-4\|three creative questions GPT-4]]
 
 
 #filosofia #filosofia #pesquisa #interessesdepesquisa #interessesgerais #ceticismo #disserte #criatividade #ludismoiluminado

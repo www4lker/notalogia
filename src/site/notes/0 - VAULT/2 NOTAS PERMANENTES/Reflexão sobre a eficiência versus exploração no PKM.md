@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/reflexao-sobre-a-eficiencia-versus-exploracao-no-pkm/","tags":["permanente","insumos","criatividade","sistemático","OrganizaçãoDoConhecimento","PKM","AbordagemFragmentada","Limitações","Eficiência","Exploração","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/reflexao-sobre-a-eficiencia-versus-exploracao-no-pkm/","tags":["permanente","insumos","criatividade","sistemático","OrganizaçãoDoConhecimento","PKM","AbordagemFragmentada","Limitações","Eficiência","Exploração","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Reflexão sobre a eficiência versus exploração no PKM

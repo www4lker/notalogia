@@ -8,7 +8,7 @@
 - 22-03-2024
 - 13:39
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/Piramide de maslow\|Piramide de maslow]]
+- notas: [[Piramide de maslow\|Piramide de maslow]]
 - [[0 - VAULT/1 NOTAS LITERAIS/psique/naruhodo 404\|naruhodo 404]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Understanding Beliefs (SUMARIO)\|Understanding Beliefs (SUMARIO)]]
 - tags: #podkasten #totalizante #filosofia #psique #literatura #sciencebitch #academia

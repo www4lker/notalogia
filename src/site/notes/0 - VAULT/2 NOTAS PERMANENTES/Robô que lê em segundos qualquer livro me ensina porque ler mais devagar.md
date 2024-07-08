@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/robo-que-le-em-segundos-qualquer-livro-me-ensina-porque-ler-mais-devagar/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/robo-que-le-em-segundos-qualquer-livro-me-ensina-porque-ler-mais-devagar/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Robô que lê em segundos qualquer livro me ensina porque ler mais devagar:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-crianca-e-o-louco-salvadores-da-percepcao-e-aceitacao/","tags":["permanente","pessoalidades","tarot","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-crianca-e-o-louco-salvadores-da-percepcao-e-aceitacao/","tags":["permanente","pessoalidades","tarot","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A Criança e o Louco: Salvadores da Percepção e Aceitação

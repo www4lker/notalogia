@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/onde-memoria-acaba-e-generativa-ia-comeca/","tags":["permanente","wiredetal","philosophy","tecnologia","disserte","capitalismo","leitura","realworld","promptgpt3","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/onde-memoria-acaba-e-generativa-ia-comeca/","tags":["permanente","wiredetal","philosophy","tecnologia","disserte","capitalismo","leitura","realworld","promptgpt3","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # onde memoria acaba e generativa IA começa

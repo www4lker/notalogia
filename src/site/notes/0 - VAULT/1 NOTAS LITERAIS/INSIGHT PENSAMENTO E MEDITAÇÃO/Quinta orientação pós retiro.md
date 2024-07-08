@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/quinta-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/quinta-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Reservar um tempo para si mesmo e meditar são práticas que se sobrepõem em algumas áreas, mas também possuem suas distinções.

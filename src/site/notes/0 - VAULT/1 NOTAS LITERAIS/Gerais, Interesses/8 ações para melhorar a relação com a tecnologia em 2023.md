@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/8-acoes-para-melhorar-a-relacao-com-a-tecnologia-em-2023/","tags":["minimalismodigital","tecnologia","totalizante","minimim","jardimdigital","ceticismo","metas-para-2023"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/8-acoes-para-melhorar-a-relacao-com-a-tecnologia-em-2023/","tags":["minimalismodigital","tecnologia","totalizante","minimim","jardimdigital","ceticismo","metas-para-2023"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 8 ações para melhorar a relação com a tecnologia em 2023

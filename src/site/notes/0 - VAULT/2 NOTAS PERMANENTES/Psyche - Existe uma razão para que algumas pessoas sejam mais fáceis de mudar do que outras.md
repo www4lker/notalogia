@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/psyche-existe-uma-razao-para-que-algumas-pessoas-sejam-mais-faceis-de-mudar-do-que-outras/","tags":["permanente","psique","filosofia","AUTODESCOBERTA","insight","totalizante","pessoalidades","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/psyche-existe-uma-razao-para-que-algumas-pessoas-sejam-mais-faceis-de-mudar-do-que-outras/","tags":["permanente","psique","filosofia","AUTODESCOBERTA","insight","totalizante","pessoalidades","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Psyche 
@@ -9,10 +9,10 @@
 - 09:05
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/missão da ciência da personalidade\|missão da ciência da personalidade]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Necessidade de Consciência Emocional\|Necessidade de Consciência Emocional]]
-- [[0 - VAULT/1 NOTAS LITERAIS/São tantas emoções\|São tantas emoções]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Solidão pode ser boa\|Solidão pode ser boa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/self help está lavando sua mente - Alice Cappelle\|self help está lavando sua mente - Alice Cappelle]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Necessidade de Consciência Emocional\|Necessidade de Consciência Emocional]]
+- [[São tantas emoções\|São tantas emoções]]
+- [[Solidão pode ser boa\|Solidão pode ser boa]]
+- [[self help está lavando sua mente - Alice Cappelle\|self help está lavando sua mente - Alice Cappelle]]
 - [[0 - VAULT/1 NOTAS LITERAIS/psique/TAD\|TAD]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/O link crucial entre motivação e auto consciência\|O link crucial entre motivação e auto consciência]]
 - [[0 - VAULT/1 NOTAS LITERAIS/psique/Como TAD pode me ajudar\|Como TAD pode me ajudar]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/cioran-seja-um-perdedor/","tags":["permanente","pessoalidades","filosofia","lit","criatividade","mementomori"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/cioran-seja-um-perdedor/","tags":["permanente","pessoalidades","filosofia","lit","criatividade","mementomori"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Cioran -  seja um perdedor
@@ -35,18 +35,18 @@
 
 O artigo discute o argumento filosófico apresentado por Emil Cioran, um filósofo romeno que defendia o valor de não fazer nada. Cioran acreditava que, em um mundo obcecado pela ocupação e ação constantes, abraçar a ociosidade e ser um "perdedor" poderia levar a uma compreensão mais profunda da vida e da sociedade. Ele via uma vida desprovida de ambições práticas e distrações como uma oportunidade de contemplar o mundo e adquirir uma perspectiva filosófica. Cioran considerava o fracasso como parte integrante da existência, mas observou que a sociedade tende a ignorar e adoçar o fracasso, promovendo uma busca constante pelo sucesso. Ele criticou a pressão da sociedade para manter uma perspectiva positiva e argumentou que abraçar os aspectos sombrios da existência e confrontar o vazio era essencial para a compreensão genuína. O artigo destaca a ironia de que Cioran, que alegou não ter feito nada sério em sua vida, ofereceu percepções profundas sobre a condição alienada da sociedade moderna por meio de seus escritos.
 
-**Nota 1:[[0 - VAULT/1 NOTAS LITERAIS/A escolha da inatividade\|A escolha da inatividade]]
+**Nota 1:[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A escolha da inatividade\|A escolha da inatividade]]
 
-**Nota 2:** [[0 - VAULT/1 NOTAS LITERAIS/Ociosidade e conhecimento\|Ociosidade e conhecimento]]
+**Nota 2:** [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Ociosidade e conhecimento\|Ociosidade e conhecimento]]
 
 **Nota 3: A perspectiva filosófica do perdedorismo**
-[[0 - VAULT/1 NOTAS LITERAIS/A perspectiva filosófica do perdedorismo\|A perspectiva filosófica do perdedorismo]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A perspectiva filosófica do perdedorismo\|A perspectiva filosófica do perdedorismo]]
 
 **Nota 4: Percepção do fracasso**
-[[0 - VAULT/1 NOTAS LITERAIS/Percepção do fracasso\|Percepção do fracasso]]
+[[Percepção do fracasso\|Percepção do fracasso]]
 
 **Nota 5: Esterilização de experiências desagradáveis pela sociedade**
-[[0 - VAULT/1 NOTAS LITERAIS/Esterilização de experiências desagradáveis pela sociedade\|Esterilização de experiências desagradáveis pela sociedade]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Esterilização de experiências desagradáveis pela sociedade\|Esterilização de experiências desagradáveis pela sociedade]]
 
 **Conectividade**:
 As anotações aqui poderiam ser vinculadas a tópicos como "Filosofia da inatividade", "Visões sobre o fracasso", "Vida e obra de Emil Cioran" e "Críticas à sociedade moderna". Esses tópicos conectados poderiam explorar melhor como a filosofia de Cioran afeta vários aspectos da vida, do sistema social e da compreensão humana.

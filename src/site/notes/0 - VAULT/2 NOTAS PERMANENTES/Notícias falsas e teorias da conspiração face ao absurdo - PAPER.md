@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/noticias-falsas-e-teorias-da-conspiracao-face-ao-absurdo-paper/","tags":["permanente","filosofia","geo","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/noticias-falsas-e-teorias-da-conspiracao-face-ao-absurdo-paper/","tags":["permanente","filosofia","geo","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Notícias falsas e teorias da conspiração face ao absurdo - PAPER
@@ -7,7 +7,7 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-07-06
 - Hora: 19:24
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Camus, Albert\|Camus, Albert]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Camus, Albert\|Camus, Albert]]
 - tags: #filosofia #geo #academia 
 - Fontes & Links: https://www.nexojornal.com.br/academico/2023/06/23/Not%C3%ADcias-falsas-e-teoria-da-conspira%C3%A7%C3%A3o-%C3%A0-luz-de-Albert-Camus
 ---

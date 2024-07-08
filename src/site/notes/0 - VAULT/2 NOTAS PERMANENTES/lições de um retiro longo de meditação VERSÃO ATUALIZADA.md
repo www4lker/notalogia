@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/licoes-de-um-retiro-longo-de-meditacao-versao-atualizada/","tags":["permanente","totalizante","pessoalidades","householder","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/licoes-de-um-retiro-longo-de-meditacao-versao-atualizada/","tags":["permanente","totalizante","pessoalidades","householder","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # lições de um retiro longo de meditação VERSÃO ATUALIZADA

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-relevancia-de-arco-iris-nos-tempos-atuais/","tags":["permanente","literatura","geo","filosofia","chatgpt","GravitysRainbowRelevance","PynchonForesight","LiteratureAndLife"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-relevancia-de-arco-iris-nos-tempos-atuais/","tags":["permanente","literatura","geo","filosofia","chatgpt","GravitysRainbowRelevance","PynchonForesight","LiteratureAndLife"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A relevância de arco íris nos tempos atuais
@@ -9,7 +9,7 @@
 - Hora: 15:33
 
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Pynchon, Thomas\|Pynchon, Thomas]]
+- notas: [[Pynchon, Thomas\|Pynchon, Thomas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
 - Fontes & Links: 
 ---

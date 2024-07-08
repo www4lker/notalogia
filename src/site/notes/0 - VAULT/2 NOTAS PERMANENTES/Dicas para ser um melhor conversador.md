@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/dicas-para-ser-um-melhor-conversador/","tags":["permanente","interessesgerais","totalizante","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/dicas-para-ser-um-melhor-conversador/","tags":["permanente","interessesgerais","totalizante","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Dicas para ser um melhor conversador
@@ -8,8 +8,8 @@
 -  Ano, Mês e dia: 2023-07-20
 - Hora: 12:45
 - notas: [[2 NOTA PERMANENTE/O que conversar pode fazer por nós\|2 NOTA PERMANENTE/O que conversar pode fazer por nós]]
-- [[0 - VAULT/1 NOTAS LITERAIS/o segredo dos podcasters\|o segredo dos podcasters]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Preparação psicológica\|Preparação psicológica]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/o segredo dos podcasters\|o segredo dos podcasters]]
+- [[Preparação psicológica\|Preparação psicológica]]
 - tags: #interessesgerais #totalizante #criatividade 
 - Fontes & Links: 
 ---

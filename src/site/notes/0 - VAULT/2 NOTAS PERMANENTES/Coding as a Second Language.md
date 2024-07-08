@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/coding-as-a-second-language/","tags":["permanente","wiredetal","TechEthics","filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/coding-as-a-second-language/","tags":["permanente","wiredetal","TechEthics","filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Should I Learn Coding as a Second Language? | WIRED
@@ -26,22 +26,22 @@ Em uma era em que os modelos avançados de IA estão cada vez mais sofisticados,
 
 ---
 
-**Nota 1: Entendendo a IA como a nova hermenêutica**[[0 - VAULT/1 NOTAS LITERAIS/Entendendo a IA como a nova hermenêutica\|Entendendo a IA como a nova hermenêutica]]
+**Nota 1: Entendendo a IA como a nova hermenêutica**[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Entendendo a IA como a nova hermenêutica\|Entendendo a IA como a nova hermenêutica]]
 
 **Nota 2: O risco e a realidade da automação de código**
-[[0 - VAULT/1 NOTAS LITERAIS/O risco e a realidade da automação de código\|O risco e a realidade da automação de código]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O risco e a realidade da automação de código\|O risco e a realidade da automação de código]]
 
-**Nota 3: A codificação como uma alfabetização fundamental**[[0 - VAULT/1 NOTAS LITERAIS/A codificação como uma alfabetização fundamental\|A codificação como uma alfabetização fundamental]]
+**Nota 3: A codificação como uma alfabetização fundamental**[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A codificação como uma alfabetização fundamental\|A codificação como uma alfabetização fundamental]]
 
 **Nota 4: Consciência crítica por meio da alfabetização em codificação**
-[[0 - VAULT/1 NOTAS LITERAIS/Consciência crítica por meio da alfabetização em codificação\|Consciência crítica por meio da alfabetização em codificação]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Consciência crítica por meio da alfabetização em codificação\|Consciência crítica por meio da alfabetização em codificação]]
 
 **Nota 5: Capacitação por meio da alfabetização tecnológica**
 
-[[0 - VAULT/1 NOTAS LITERAIS/Capacitação por meio da alfabetização tecnológica\|Capacitação por meio da alfabetização tecnológica]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Capacitação por meio da alfabetização tecnológica\|Capacitação por meio da alfabetização tecnológica]]
 
 **Nota 6: Discurso público e alfabetização em IA**
-[[0 - VAULT/1 NOTAS LITERAIS/Discurso público e alfabetização em IA\|Discurso público e alfabetização em IA]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Discurso público e alfabetização em IA\|Discurso público e alfabetização em IA]]
 
 **Nota 7: A urgência da proficiência humana em linguagens de IA**
-[[0 - VAULT/1 NOTAS LITERAIS/A urgência da proficiência humana em linguagens de IA\|A urgência da proficiência humana em linguagens de IA]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A urgência da proficiência humana em linguagens de IA\|A urgência da proficiência humana em linguagens de IA]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/quao-dificil-e-aprender-polones/","tags":["permanente","anki","Learning","eternoaprendiz","geo","lit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/quao-dificil-e-aprender-polones/","tags":["permanente","anki","Learning","eternoaprendiz","geo","lit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Quão difícil é aprender polonês
@@ -12,7 +12,7 @@
 
 ### Conteúdo Relacionado
 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Como se proununcia o nome de Wislawa Szymborska\|Como se proununcia o nome de Wislawa Szymborska]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como se proununcia o nome de Wislawa Szymborska\|Como se proununcia o nome de Wislawa Szymborska]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/aprendendo outras línguas com chatpt - manual completo\|aprendendo outras línguas com chatpt - manual completo]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/quarenta palavras em polonês\|quarenta palavras em polonês]]
 - tags: #anki #Learning #eternoaprendiz #geo #lit

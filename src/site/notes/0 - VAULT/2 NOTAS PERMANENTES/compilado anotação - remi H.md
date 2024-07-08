@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/compilado-anotacao-remi-h/","tags":["permanente","meta","zettelkasten","escrivão","descobertas","pessoalidades","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/compilado-anotacao-remi-h/","tags":["permanente","meta","zettelkasten","escrivão","descobertas","pessoalidades","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # compilado - anotação - remi H
@@ -9,8 +9,8 @@
 - 10:30
 ## relacionados:
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Annotation - Remi H.\|Annotation - Remi H.]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Notas eficazes segundo Annotation - MIT Press\|Notas eficazes segundo Annotation - MIT Press]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Anotar com caneta ou com computador\|Anotar com caneta ou com computador]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Notas eficazes segundo Annotation - MIT Press\|Notas eficazes segundo Annotation - MIT Press]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Anotar com caneta ou com computador\|Anotar com caneta ou com computador]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/Sertilanges A-D, Cap 7\|Sertilanges A-D, Cap 7]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/tipos de notas, definição\|tipos de notas, definição]]
 - [[Criando um segundo cérebro - Tiago Forte\|Criando um segundo cérebro - Tiago Forte]]

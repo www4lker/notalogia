@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ia-e-privacidade-uso-com-bom-senso/","tags":["permanente","IAeÉtica","IAvsInteligênciaHumana","chatbot"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ia-e-privacidade-uso-com-bom-senso/","tags":["permanente","IAeÉtica","IAvsInteligênciaHumana","chatbot"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # IA E PRIVACIDADE - USO COM BOM SENSO
@@ -8,7 +8,7 @@
 - 21-03-2024
 - 20:01
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/pontos sensíveis de privacidade - PI Inflection AI e chatgpt\|pontos sensíveis de privacidade - PI Inflection AI e chatgpt]]
+- notas: [[pontos sensíveis de privacidade - PI Inflection AI e chatgpt\|pontos sensíveis de privacidade - PI Inflection AI e chatgpt]]
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/Manual de Sobrevivência à era da IA\|Manual de Sobrevivência à era da IA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
 - tags: #IAeÉtica #IAvsInteligênciaHumana #chatbot 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/interview-with-mc-kenzie-wark-zt/","tags":["filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/interview-with-mc-kenzie-wark-zt/","tags":["filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Resumo Zettelkasten do texto "Part I: Facting, ficting and selving, technologies of embodiment"
@@ -60,8 +60,8 @@
 - A criação de espaços de prática coletiva, baseados em valores _femme_ e comunismo, pode oferecer alternativas à lógica econômica dominante.
 ---
 
-[[0 - VAULT/1 NOTAS LITERAIS/Manifesto Hacker - a live\|Manifesto Hacker - a live]]
-[[0 - VAULT/1 NOTAS LITERAIS/Manifesto Hacker\|Manifesto Hacker]]
-[[0 - VAULT/1 NOTAS LITERAIS/13. Paul B Preciado\|13. Paul B Preciado]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Manifesto Hacker - a live\|Manifesto Hacker - a live]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Manifesto Hacker\|Manifesto Hacker]]
+[[13. Paul B Preciado\|13. Paul B Preciado]]
 
 #filosofia #pesquisa #interessesdepesquisa #interessesgerais #ceticismo #disserte #criatividade #ludismoiluminado

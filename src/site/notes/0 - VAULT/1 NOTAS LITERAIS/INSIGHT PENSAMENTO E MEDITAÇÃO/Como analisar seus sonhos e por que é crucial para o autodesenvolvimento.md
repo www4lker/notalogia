@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/como-analisar-seus-sonhos-e-por-que-e-crucial-para-o-autodesenvolvimento/","tags":["psique","totalizante","meditacao","sonhos","tarot","paginasmatinais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/como-analisar-seus-sonhos-e-por-que-e-crucial-para-o-autodesenvolvimento/","tags":["psique","totalizante","meditacao","sonhos","tarot","paginasmatinais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 030120231948

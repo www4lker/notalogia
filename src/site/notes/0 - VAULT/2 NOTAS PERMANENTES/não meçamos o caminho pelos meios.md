@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nao-mecamos-o-caminho-pelos-meios/","tags":["permanente","Autoconhecimento","JornadaEspiritual","Meditação","Vipassana"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nao-mecamos-o-caminho-pelos-meios/","tags":["permanente","Autoconhecimento","JornadaEspiritual","Meditação","Vipassana"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # não meçamos o caminho pelos meios

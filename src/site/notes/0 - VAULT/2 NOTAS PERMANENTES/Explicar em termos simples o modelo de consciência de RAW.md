@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/explicar-em-termos-simples-o-modelo-de-consciencia-de-raw/","tags":["permanente","psicodelico","totalizante","eternoaprendiz","psique","filosofia","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/explicar-em-termos-simples-o-modelo-de-consciencia-de-raw/","tags":["permanente","psicodelico","totalizante","eternoaprendiz","psique","filosofia","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 100220231259
@@ -57,10 +57,10 @@ Aqui está um breve resumo de cada circuito, em termos simples:
 
 >Expand: The Cultural Circuit
 
-[[0 - VAULT/1 NOTAS LITERAIS/o circuito cultural\|o circuito cultural]]
+[[o circuito cultural\|o circuito cultural]]
 
 >expand: The Emotional Circuit
 
-[[0 - VAULT/1 NOTAS LITERAIS/o circuito emocional\|o circuito emocional]]
+[[o circuito emocional\|o circuito emocional]]
 
 

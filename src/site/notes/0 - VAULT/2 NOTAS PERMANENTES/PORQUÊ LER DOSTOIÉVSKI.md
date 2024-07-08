@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/porque-ler-dostoievski/","tags":["permanente","BiGv","literatura","alegria","formalismorusso"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/porque-ler-dostoievski/","tags":["permanente","BiGv","literatura","alegria","formalismorusso"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 202207090830
@@ -7,9 +7,9 @@ criado em: 08:30
 
 palavras-chave: #BiGv #literatura #alegria #formalismorusso 
 
-notas de literatura: [[0 - VAULT/1 NOTAS LITERAIS/Irmãos Karamázov\|Irmãos Karamázov]]
+notas de literatura: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Irmãos Karamázov\|Irmãos Karamázov]]
 [[NOTAS DE LEITURA/LIVROS/Dostoiévski\|NOTAS DE LEITURA/LIVROS/Dostoiévski]]
-[[0 - VAULT/1 NOTAS LITERAIS/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
 
 notas permanentes: [[da perseveranca\|da perseveranca]]
 

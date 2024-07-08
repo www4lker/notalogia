@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/budismo-e-habitos/","tags":["permanente","meditacao","KeystoneHabits","habitanimal","MindfulTransformation","BreakingFreeFromConditioning","AwakeningBeyondHabits","InsightfulObservation","FreedomThroughAwareness"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/budismo-e-habitos/","tags":["permanente","meditacao","KeystoneHabits","habitanimal","MindfulTransformation","BreakingFreeFromConditioning","AwakeningBeyondHabits","InsightfulObservation","FreedomThroughAwareness"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # budismo e habitos

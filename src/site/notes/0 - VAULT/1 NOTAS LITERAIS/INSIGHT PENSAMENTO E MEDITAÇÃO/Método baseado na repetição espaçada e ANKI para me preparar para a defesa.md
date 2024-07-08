@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/metodo-baseado-na-repeticao-espacada-e-anki-para-me-preparar-para-a-defesa/","tags":["disserte","mestredeculturacontemporanea","insight","pessoalidades","criatividade","tecnologia","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/metodo-baseado-na-repeticao-espacada-e-anki-para-me-preparar-para-a-defesa/","tags":["disserte","mestredeculturacontemporanea","insight","pessoalidades","criatividade","tecnologia","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Método baseado na repetição espaçada e ANKI para me preparar para a defesa
@@ -12,8 +12,8 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/anki tips\|anki tips]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/all about anki\|all about anki]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/usando o ANKI para aprender QUALQUER COISA\|usando o ANKI para aprender QUALQUER COISA]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/DEFESA EM 12 PASSOS\|DEFESA EM 12 PASSOS]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/anki para concursos\|anki para concursos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DEFESA EM 12 PASSOS\|DEFESA EM 12 PASSOS]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/anki para concursos\|anki para concursos]]
 
 #### Fontes & Links
 Fontes:

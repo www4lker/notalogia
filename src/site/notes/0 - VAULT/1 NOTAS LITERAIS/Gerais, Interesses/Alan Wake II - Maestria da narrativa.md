@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/alan-wake-ii-maestria-da-narrativa/","tags":["hardboiled","lit","literatura","tv","cultura","games","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/alan-wake-ii-maestria-da-narrativa/","tags":["hardboiled","lit","literatura","tv","cultura","games"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # alan wake II - Destaque Narrativo de 2023
@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Alan wake 2 e a literatura ergódica\|Alan wake 2 e a literatura ergódica]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Joguei 700 horas de rimworld e ainda tô aprendendo - wiredetal\|Joguei 700 horas de rimworld e ainda tô aprendendo - wiredetal]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/podcast mfc Jogos Bizarros\|podcast mfc Jogos Bizarros]]
+- [[podcast mfc Jogos Bizarros\|podcast mfc Jogos Bizarros]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/ALAN WAKE AWE\|ALAN WAKE AWE]]
 - tags: #hardboiled, #lit #literatura #tv #cultura #games #mestredeculturacontemporanea 
 ---

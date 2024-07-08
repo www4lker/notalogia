@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/disclaimer-chat-gpt/","tags":["permanente","promptgpt3","metodologia","disserte","tecnologia","totalizante","otimistarealista","meta","zettelkasten","1000palavrasoumais","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/disclaimer-chat-gpt/","tags":["permanente","promptgpt3","metodologia","disserte","tecnologia","totalizante","otimistarealista","meta","zettelkasten","1000palavrasoumais","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # disclaimer chat gpt
@@ -10,7 +10,7 @@
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/Guia de como usar o GPT-3 e o ChatGPT para resumir artigos e reescrever notas\|Guia de como usar o GPT-3 e o ChatGPT para resumir artigos e reescrever notas]]
 - [[ escala de uso de IA no contexto academico\| escala de uso de IA no contexto academico]]
-- [[0 - VAULT/1 NOTAS LITERAIS/explique o metodo estatistico do gpt 3 de forma simples\|explique o metodo estatistico do gpt 3 de forma simples]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/explique o metodo estatistico do gpt 3 de forma simples\|explique o metodo estatistico do gpt 3 de forma simples]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/NATURE ISSUES FOR DEBATE - CHATGPT\|NATURE ISSUES FOR DEBATE - CHATGPT]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Ferramentas como o ChatGPT ameaçam a ciência transparente - aqui estão as nossas regras básicas para a sua utilização\|Ferramentas como o ChatGPT ameaçam a ciência transparente - aqui estão as nossas regras básicas para a sua utilização]]
 ---

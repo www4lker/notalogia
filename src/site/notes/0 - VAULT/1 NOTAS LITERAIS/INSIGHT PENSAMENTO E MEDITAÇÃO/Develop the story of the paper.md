@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/develop-the-story-of-the-paper/","tags":["disserte","interessesdepesquisa","sinergia","metodologia","acadêmico","escrita","escrivão","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/develop-the-story-of-the-paper/","tags":["disserte","interessesdepesquisa","sinergia","metodologia","acadêmico","escrita","escrivão","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Develop the story of the paper

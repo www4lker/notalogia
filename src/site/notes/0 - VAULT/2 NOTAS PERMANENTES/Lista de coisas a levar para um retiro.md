@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/lista-de-coisas-a-levar-para-um-retiro/","tags":["permanente","totalizante","pessoalidades","householder","psique","filosofia","toolstolife","productivityhacks"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/lista-de-coisas-a-levar-para-um-retiro/","tags":["permanente","totalizante","pessoalidades","householder","psique","filosofia","toolstolife","productivityhacks"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Lista de coisas a levar para um retiro

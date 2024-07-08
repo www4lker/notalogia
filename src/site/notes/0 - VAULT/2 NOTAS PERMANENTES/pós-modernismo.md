@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pos-modernismo/","tags":["permanente","literatura","estética","mestredeculturacontemporanea","filosofia","pesquisa","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pos-modernismo/","tags":["permanente","literatura","estética","mestredeculturacontemporanea","filosofia","pesquisa","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # pós-modernismo
@@ -8,13 +8,13 @@
 ### Relacionado
 - palavras-chave: #literatura #estética #mestredeculturacontemporanea #filosofia #pesquisa #interessesgerais 
 - notas: [[Postmodernism\|Postmodernism]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Derrida\|Derrida]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Kant\|Kant]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Georg Wilhelm Friedrich Hegel\|Georg Wilhelm Friedrich Hegel]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Derrida\|Derrida]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Kant\|Kant]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Georg Wilhelm Friedrich Hegel\|Georg Wilhelm Friedrich Hegel]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap\|Turing Trap]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/O paradoxo da fé\|O paradoxo da fé]]
 - [[A Sociedade Do Espetáculo\|A Sociedade Do Espetáculo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Tudo que é sólido desmancha no ar\|Tudo que é sólido desmancha no ar]]
+- [[Tudo que é sólido desmancha no ar\|Tudo que é sólido desmancha no ar]]
 - [[Severance\|Severance]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/ABSTRACT PHANTOM\|ABSTRACT PHANTOM]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Lyotard, Jean-François\|Lyotard, Jean-François]]

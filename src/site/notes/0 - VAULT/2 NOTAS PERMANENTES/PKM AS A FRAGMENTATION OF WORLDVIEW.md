@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pkm-as-a-fragmentation-of-worldview/","tags":["permanente","insumos","criatividade","sistemático","OrganizaçãoDoConhecimento","PKM","AbordagemFragmentada","Limitações","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pkm-as-a-fragmentation-of-worldview/","tags":["permanente","insumos","criatividade","sistemático","OrganizaçãoDoConhecimento","PKM","AbordagemFragmentada","Limitações","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # pkm fragmenta nossa forma de entender o mundo

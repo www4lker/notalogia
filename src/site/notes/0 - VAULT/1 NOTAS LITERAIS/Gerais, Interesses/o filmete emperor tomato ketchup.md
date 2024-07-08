@@ -10,8 +10,8 @@
 
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/emperor tomato ketchup foi derribado\|emperor tomato ketchup foi derribado]]
--  [[0 - VAULT/1 NOTAS LITERAIS/888/isso não é um filme\|isso não é um filme]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/3. Pier Paolo Pasolini\|3. Pier Paolo Pasolini]]
+-  [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/isso não é um filme\|isso não é um filme]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/3. Pier Paolo Pasolini\|3. Pier Paolo Pasolini]]
 - tags: #mestredeculturacontemporanea #cultura #filosofia #literatura #totalizante #pesquisa #interessesdepesquisa #cinema
 ---
 Título: Emperor Tomato Ketchup Direção: Shūji Terayama Lançamento: 1971 Gênero: Experimental, Avant-Garde, Curta-metragem

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/cheatsheet-do-vim-e-sua-aplicabilidade-no-obsidian/","tags":["permanente","vim","TIPS","massacritica","meta","zettelkasten","escrivão","produtividades","markdown","edicaodetexto","productivity","gerenciamentodeanotações","notasintercon"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/cheatsheet-do-vim-e-sua-aplicabilidade-no-obsidian/","tags":["permanente","vim","TIPS","massacritica","meta","zettelkasten","escrivão","produtividades","markdown","edicaodetexto","productivity","gerenciamentodeanotações","notasintercon"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Cheatsheet do Vim e sua aplicabilidade no Obsidian

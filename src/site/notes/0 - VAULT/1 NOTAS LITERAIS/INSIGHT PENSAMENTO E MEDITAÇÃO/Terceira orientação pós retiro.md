@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/terceira-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/terceira-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Exercícios regulares são essenciais para manter uma boa saúde física e mental. Aqui estão algumas ideias para integrar a atividade física em sua rotina:

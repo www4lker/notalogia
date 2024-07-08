@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/content-por-kate-eichorn/","tags":["permanente","disserte","internet","interessesdepesquisa","academia","pesquisa","massacritica","framework","meta","episteme","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/content-por-kate-eichorn/","tags":["permanente","disserte","internet","interessesdepesquisa","academia","pesquisa","massacritica","framework","meta","episteme","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Kate Eichorn - Content
@@ -14,11 +14,11 @@ criado em: 16:06 2022-10-17
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/World Wide Web\|World Wide Web]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/its the content killing the culture - wisecrack edition\|its the content killing the culture - wisecrack edition]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/o meio é a mensagem\|o meio é a mensagem]]
-- [[0 - VAULT/1 NOTAS LITERAIS/globalização cultural\|globalização cultural]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/globalização cultural\|globalização cultural]]
 - [[NOTAS DE LEITURA/LIVROS/Hiperculturalidade\|NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Indústria Cultural\|Indústria Cultural]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Bordieu, Pierre\|Bordieu, Pierre]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Indústria Cultural\|Indústria Cultural]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Indústria Cultural\|Indústria Cultural]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Bordieu, Pierre\|Bordieu, Pierre]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Indústria Cultural\|Indústria Cultural]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/FAROFA DA GKAY\|FAROFA DA GKAY]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/A ascensão da indústria de conteúdo\|A ascensão da indústria de conteúdo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/A revolução das máquinas de conteúdo\|A revolução das máquinas de conteúdo]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/plano-de-meditacao-28-dias/","tags":["totalizante","pessoalidades","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/plano-de-meditacao-28-dias/","tags":["totalizante","pessoalidades","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # plano de meditação 28 dias
@@ -10,7 +10,7 @@
 
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/lições de um retiro longo de meditação VERSÃO ATUALIZADA\|lições de um retiro longo de meditação VERSÃO ATUALIZADA]]
-- [[0 - VAULT/1 NOTAS LITERAIS/milesima tentativa de resumir leituras do retiro\|milesima tentativa de resumir leituras do retiro]]
+- [[milesima tentativa de resumir leituras do retiro\|milesima tentativa de resumir leituras do retiro]]
 - tags: #totalizante #pessoalidades #householder
 ---
 

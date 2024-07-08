@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/obsidian/","tags":["permanente","massacritica","meta","zettelkasten","escrivão","produtividades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/obsidian/","tags":["permanente","massacritica","meta","zettelkasten","escrivão","produtividades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # obsidian
@@ -14,12 +14,12 @@
 - [[ zettelkasten e serendipidade\| zettelkasten e serendipidade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/zetteltipity\|zetteltipity]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/markdown\|markdown]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Escrevendo agora - markdown\|Escrevendo agora - markdown]]
+- [[Escrevendo agora - markdown\|Escrevendo agora - markdown]]
 - [[PASTA DE IMAGENS/TXT/IAW\|PASTA DE IMAGENS/TXT/IAW]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/IA WRITER MINIMALISTA\|IA WRITER MINIMALISTA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/OBJETIVOS DE ESCRITA\|OBJETIVOS DE ESCRITA]]
 ---
-[[0 - VAULT/1 NOTAS LITERAIS/Escrevendo agora - Copia\|Escrevendo agora - Copia]] —  Onde se compara várias plataformas para organizar e escrever notas e textos, incluindo Nimble, Scrivener, Obsidian, VS Code ou Atom, e Typora.
+[[Escrevendo agora - Copia\|Escrevendo agora - Copia]] —  Onde se compara várias plataformas para organizar e escrever notas e textos, incluindo Nimble, Scrivener, Obsidian, VS Code ou Atom, e Typora.
 Onde se considera fatores como custo, suporte comunitário, qualidade e características ao decidir qual plataforma usar.
 **Onde se escolhe Obsidian** para organizar notas, VS Code para escrever código, e Libre Office para escrever texto.
 

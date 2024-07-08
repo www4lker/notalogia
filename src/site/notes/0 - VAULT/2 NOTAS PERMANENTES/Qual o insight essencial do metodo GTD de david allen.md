@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/qual-o-insight-essencial-do-metodo-gtd-de-david-allen/","tags":["permanente","meta","zettelkasten","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/qual-o-insight-essencial-do-metodo-gtd-de-david-allen/","tags":["permanente","meta","zettelkasten","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # insight método GTD

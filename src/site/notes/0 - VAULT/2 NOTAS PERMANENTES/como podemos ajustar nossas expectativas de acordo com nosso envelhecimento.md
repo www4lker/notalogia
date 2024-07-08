@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-podemos-ajustar-nossas-expectativas-de-acordo-com-nosso-envelhecimento/","tags":["permanente","ExpectativasRealistasComOEnvelhecimento","ConstruindoSabedoriaAoLongoDosAnos","EmoçõesFlutuantesNoCaminhoDoEquilíbrio","ExperiênciasQueMoldamExpectativas","EnvelhecendoComSerenidade","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-podemos-ajustar-nossas-expectativas-de-acordo-com-nosso-envelhecimento/","tags":["permanente","ExpectativasRealistasComOEnvelhecimento","ConstruindoSabedoriaAoLongoDosAnos","EmoçõesFlutuantesNoCaminhoDoEquilíbrio","ExperiênciasQueMoldamExpectativas","EnvelhecendoComSerenidade","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # como podemos ajustar nossas expectativas de acordo com nosso envelhecimento

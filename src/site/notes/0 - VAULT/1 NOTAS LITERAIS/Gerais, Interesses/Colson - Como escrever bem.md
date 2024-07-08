@@ -10,7 +10,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/888/William Zinsser\|William Zinsser]]
+- [[William Zinsser\|William Zinsser]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - Fontes & Links: https://quatrocincoum.com.br/artigos/literatura/como-escrever-bem/
 ---

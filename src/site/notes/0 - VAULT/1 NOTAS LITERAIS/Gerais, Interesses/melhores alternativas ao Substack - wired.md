@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/melhores-alternativas-ao-substack-wired/","tags":["wiredetal","substack","escrivão","EarlyWeb","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/melhores-alternativas-ao-substack-wired/","tags":["wiredetal","substack","escrivão","EarlyWeb","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # The Best Substack Alternatives
@@ -9,8 +9,8 @@
 - 12:54
 ## relacionados:
 - notas: [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/substackers contra nazis\|substackers contra nazis]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Substack é uma ameaça, mais ou menos\|Substack é uma ameaça, mais ou menos]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Para além dos jardins  murados dos substack\|Para além dos jardins  murados dos substack]]
+- [[Substack é uma ameaça, mais ou menos\|Substack é uma ameaça, mais ou menos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Para além dos jardins  murados dos substack\|Para além dos jardins  murados dos substack]]
 - tags: #wiredetal #substack #escrivão #EarlyWeb #insumos
 ---
 # The Best Substack Alternatives

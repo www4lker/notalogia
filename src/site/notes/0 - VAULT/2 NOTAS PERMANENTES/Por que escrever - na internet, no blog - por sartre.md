@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/por-que-escrever-na-internet-no-blog-por-sartre/","tags":["permanente","interessesgerais","pesquisa","literatura","filosofia","escriba","escrita","AUTODESCOBERTA"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/por-que-escrever-na-internet-no-blog-por-sartre/","tags":["permanente","interessesgerais","pesquisa","literatura","filosofia","escriba","escrita","AUTODESCOBERTA"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Por que escrever - na internet, no blog - por sartre
@@ -9,7 +9,7 @@
 - 20:46
 ## relacionados:
 - notas:
-1. [[0 - VAULT/1 NOTAS LITERAIS/Por que escrever - sartre\|Por que escrever - sartre]]
+1. [[Por que escrever - sartre\|Por que escrever - sartre]]
 - tags: #interessesgerais #pesquisa #literatura #filosofia #filosofia #escriba #escrita #AUTODESCOBERTA 
 - Fontes & Links: 
 ---

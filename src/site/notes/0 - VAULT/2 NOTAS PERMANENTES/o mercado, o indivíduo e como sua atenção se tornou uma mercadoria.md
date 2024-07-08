@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-mercado-o-individuo-e-como-sua-atencao-se-tornou-uma-mercadoria/","tags":["permanente","internet","podkasten","geo","filosofia","disserte","acadêmico","metodologia","capitalismo","episteme","otimistarealista","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-mercado-o-individuo-e-como-sua-atencao-se-tornou-uma-mercadoria/","tags":["permanente","internet","podkasten","geo","filosofia","disserte","acadêmico","metodologia","capitalismo","episteme","otimistarealista","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # o mercado, o indivíduo e como sua atenção se tornou uma mercadoria
@@ -12,7 +12,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/tensão  entre capitalismo e autenticidade na indústria cultural\|tensão  entre capitalismo e autenticidade na indústria cultural]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/como podemos ter uma relação minimalista com informações e conteúdo 1\|como podemos ter uma relação minimalista com informações e conteúdo 1]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/A teoria da cauda longa\|A teoria da cauda longa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/A teoria da individuação\|A teoria da individuação]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A teoria da individuação\|A teoria da individuação]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/como podemos ter uma relação minimalista com informações e conteúdo 1\|como podemos ter uma relação minimalista com informações e conteúdo 1]]
 ---
 # À luz dos fatos discutidos, analisar agora como isso afeta o indivíduo e como sua atenção se tornou uma mercadoria

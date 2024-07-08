@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/dazai-e-o-posmodernismo/","tags":["permanente","promptgpt3","mestredeculturacontemporanea","ArtePósModerna","BelezaSubjetiva","OsamuDazai","CriaçãoArtística","PercepçãoOriginal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/dazai-e-o-posmodernismo/","tags":["permanente","promptgpt3","mestredeculturacontemporanea","ArtePósModerna","BelezaSubjetiva","OsamuDazai","CriaçãoArtística","PercepçãoOriginal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # dazai e o pósmodernismo

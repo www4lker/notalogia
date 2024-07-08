@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/aprenda-a-arte-de-escrever-diarios-e-arquivar-sua-vida/","tags":["permanente","diário","pessoalidades","laçosfortes","paginasmatinais","criatividade","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/aprenda-a-arte-de-escrever-diarios-e-arquivar-sua-vida/","tags":["permanente","diário","pessoalidades","laçosfortes","paginasmatinais","criatividade","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 110120231525
@@ -27,7 +27,7 @@
 - [[pessoalidades\|pessoalidades]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Resumo - Homem de 38 anos com 15 anos de educação superior buscando uma mudança de carreira\|Resumo - Homem de 38 anos com 15 anos de educação superior buscando uma mudança de carreira]]
 - [[Hoje saiu minha sentença de herdeiro\|Hoje saiu minha sentença de herdeiro]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Thomas Merton\|Thomas Merton]]
+- [[Thomas Merton\|Thomas Merton]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Montaigne, Michel de\|Montaigne, Michel de]]
 - [[tarot do divorcio\|tarot do divorcio]]
 - [[PRIMEIRA SEMANA DE JULHO\|PRIMEIRA SEMANA DE JULHO]]

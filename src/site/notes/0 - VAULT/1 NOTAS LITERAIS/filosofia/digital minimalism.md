@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/digital-minimalism/","tags":["permanente","minimalismodigital","tecnologia","totalizante","minimim","jardimdigital","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/digital-minimalism/","tags":["permanente","minimalismodigital","tecnologia","totalizante","minimim","jardimdigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # digital minimalism
@@ -9,10 +9,10 @@
 - palavras-chave: #minimalismodigital #tecnologia #totalizante #minimim #jardimdigital #ceticismo 
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Cal Newport\|Cal Newport]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Simondon, Gilbert\|Simondon, Gilbert]]
+- [[Simondon, Gilbert\|Simondon, Gilbert]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a\|Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/como trabalhar como um monge medieval\|como trabalhar como um monge medieval]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/Você precisa pensar como um monge medieval\|Você precisa pensar como um monge medieval]]
+- [[Você precisa pensar como um monge medieval\|Você precisa pensar como um monge medieval]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/The Age of Social Media Is Ending\|The Age of Social Media Is Ending]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/8 ações para melhorar a relação com a tecnologia em 2023\|8 ações para melhorar a relação com a tecnologia em 2023]]
 ---

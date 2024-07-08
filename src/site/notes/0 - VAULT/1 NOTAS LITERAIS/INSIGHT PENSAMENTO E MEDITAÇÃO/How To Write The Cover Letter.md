@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/how-to-write-the-cover-letter/","tags":["disserte","interessesdepesquisa","sinergia","metodologia","acadêmico","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/how-to-write-the-cover-letter/","tags":["disserte","interessesdepesquisa","sinergia","metodologia","acadêmico","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 220920221534
@@ -16,6 +16,6 @@ palavras-chave: #disserte #interessesdepesquisa #sinergia #metodologia #acadêmi
 # How To Write The Cover Letter 
 >“Brevity is the soul of wit.” – William Shakespeare, Hamlet
 
-[[0 - VAULT/1 NOTAS LITERAIS/Saramäki, Jari\|Saramäki, Jari]]. How To Write A Scientific Paper: An Academic Self-Help Guide for PhD Students (p. 93). Edição do Kindle. 
+[[Saramäki, Jari\|Saramäki, Jari]]. How To Write A Scientific Paper: An Academic Self-Help Guide for PhD Students (p. 93). Edição do Kindle. 
 
 To summarise: if you have to write a cover letter, keep it simple, keep it short, put important stuff first, and explain why your work matters.

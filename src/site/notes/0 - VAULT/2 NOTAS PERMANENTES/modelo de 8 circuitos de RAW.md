@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/modelo-de-8-circuitos-de-raw/","tags":["permanente","psicodelico","totalizante","eternoaprendiz","psique","filosofia","criatividade","Wilson8Circuits","ConsciousnessModel","PsychologicalEvolution"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/modelo-de-8-circuitos-de-raw/","tags":["permanente","psicodelico","totalizante","eternoaprendiz","psique","filosofia","criatividade","Wilson8Circuits","ConsciousnessModel","PsychologicalEvolution"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # modelo de 8 circuitos de RAW
@@ -23,13 +23,13 @@ palavras-chave: #psicodelico #totalizante #eternoaprendiz
 
 Hashtags: #Wilson8Circuits, #ConsciousnessModel, #PsychologicalEvolution
 
-Nota 2: [[0 - VAULT/1 NOTAS LITERAIS/Os quatro circuitos inferiores\|Os quatro circuitos inferiores]]
+Nota 2: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Os quatro circuitos inferiores\|Os quatro circuitos inferiores]]
 
-Nota 3: [[0 - VAULT/1 NOTAS LITERAIS/Os quatro circuitos superiores\|Os quatro circuitos superiores]]
-
-
-Nota 4: [[0 - VAULT/1 NOTAS LITERAIS/Implicações e críticas ao modelo de 8 circuitos\|Implicações e críticas ao modelo de 8 circuitos]]
+Nota 3: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Os quatro circuitos superiores\|Os quatro circuitos superiores]]
 
 
-Nota 5: [[0 - VAULT/1 NOTAS LITERAIS/Relevância do modelo de 8 circuitos de Wilson atualmente\|Relevância do modelo de 8 circuitos de Wilson atualmente]]
+Nota 4: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Implicações e críticas ao modelo de 8 circuitos\|Implicações e críticas ao modelo de 8 circuitos]]
+
+
+Nota 5: [[Relevância do modelo de 8 circuitos de Wilson atualmente\|Relevância do modelo de 8 circuitos de Wilson atualmente]]
 

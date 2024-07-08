@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/escrita-ontem-escrita-hoje-escrita-amanha/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/escrita-ontem-escrita-hoje-escrita-amanha/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Escrita
@@ -8,7 +8,7 @@ criado em: 22:39 2022-08-24
 ##### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/William Zinsser\|William Zinsser]]
+- [[William Zinsser\|William Zinsser]]
 -  [[NOTAS DE LEITURA/LIVROS/Sobre a Escrita\|NOTAS DE LEITURA/LIVROS/Sobre a Escrita]] 
 - [[Sobre a Escrita-2\|Sobre a Escrita-2]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]

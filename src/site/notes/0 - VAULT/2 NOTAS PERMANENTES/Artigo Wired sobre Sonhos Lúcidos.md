@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/artigo-wired-sobre-sonhos-lucidos/","tags":["permanente","meditacao","vipassana","insight","sonhos","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/artigo-wired-sobre-sonhos-lucidos/","tags":["permanente","meditacao","vipassana","insight","sonhos","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Artigo Wired sobre Sonhos Lúcidos

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/renascimento-de-true-detective-na-quarta-temporada-nexo-jornal/","tags":["hardboiled","lit","literatura","tv","cultura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/renascimento-de-true-detective-na-quarta-temporada-nexo-jornal/","tags":["hardboiled","lit","literatura","tv","cultura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # true detective - nexo jornal

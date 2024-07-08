@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/protocolo-de-suplementacao-diaria-junho-2024/","tags":["biohack","pessoalidades","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/protocolo-de-suplementacao-diaria-junho-2024/","tags":["biohack","pessoalidades","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Protocolo de Suplementação Diária - junho 2024
@@ -9,11 +9,11 @@
 - 21:24
 ## relacionados:
 - notas:
-1. [[0 - VAULT/1 NOTAS LITERAIS/28 dias usando ginseng e ginkgo\|28 dias usando ginseng e ginkgo]]
+1. [[28 dias usando ginseng e ginkgo\|28 dias usando ginseng e ginkgo]]
 2. [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/GINGKO BILOBA - INSIGNIFICANTE\|GINGKO BILOBA - INSIGNIFICANTE]]
-3. [[0 - VAULT/1 NOTAS LITERAIS/Dieta da mente segundo Dr Permutter\|Dieta da mente segundo Dr Permutter]]
+3. [[Dieta da mente segundo Dr Permutter\|Dieta da mente segundo Dr Permutter]]
 4. [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Hericium + Ganoderma\|Hericium + Ganoderma]]
-5. [[0 - VAULT/1 NOTAS LITERAIS/microdose para produtividade\|microdose para produtividade]]
+5. [[microdose para produtividade\|microdose para produtividade]]
 - tags: #biohack #pessoalidades #totalizante
 - Fontes & Links: 
 ---

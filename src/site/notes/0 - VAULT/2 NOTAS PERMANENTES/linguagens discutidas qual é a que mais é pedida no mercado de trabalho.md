@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/linguagens-discutidas-qual-e-a-que-mais-e-pedida-no-mercado-de-trabalho/","tags":["permanente","programando","criatividade","filosofia","tecnologia","CodingLanguages","SelfTaughtCoding","MovieMagic","FrontEndBackEnd","CodeThatChangedTheWorld","PythonSnakes","Error404","CodingVsProgramming","RaspberryPi","CodingAI","AlgorithmPractice","GitHubExplained","EasiestCodingLanguage","MathAndCoding","CodingForWebDesign","ImportanceOfCoding"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/linguagens-discutidas-qual-e-a-que-mais-e-pedida-no-mercado-de-trabalho/","tags":["permanente","programando","criatividade","filosofia","tecnologia","CodingLanguages","SelfTaughtCoding","MovieMagic","FrontEndBackEnd","CodeThatChangedTheWorld","PythonSnakes","Error404","CodingVsProgramming","RaspberryPi","CodingAI","AlgorithmPractice","GitHubExplained","EasiestCodingLanguage","MathAndCoding","CodingForWebDesign","ImportanceOfCoding"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # linguagens discutidas qual é a que mais é pedida no mercado de trabalho

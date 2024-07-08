@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/entendendo-o-autocontrole-equilibrado-com-as-tendencias-humanas/","tags":["permanente","filosofia","guias","estoico","promptgpt3","Autocontrole","Etnicidades","totalizante","Barreiras","AUTODESCOBERTA","psique","mentesmiceliais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/entendendo-o-autocontrole-equilibrado-com-as-tendencias-humanas/","tags":["permanente","filosofia","guias","estoico","promptgpt3","Autocontrole","Etnicidades","totalizante","Barreiras","AUTODESCOBERTA","psique","mentesmiceliais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Entendendo o autocontrole equilibrado com as tendências humanas
@@ -11,8 +11,8 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/como se tornar mais estoico - um guia\|como se tornar mais estoico - um guia]]
 - palavras-chave: #filosofia #guias #estoico #promptgpt3  
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Como ser um ateísta ético (conversa com o chatgpt)\|Como ser um ateísta ético (conversa com o chatgpt)]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Para ser um pouco mais estóico e ateísta - manual\|Para ser um pouco mais estóico e ateísta - manual]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Neoestoicismo\|Neoestoicismo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Para ser um pouco mais estóico e ateísta - manual\|Para ser um pouco mais estóico e ateísta - manual]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Neoestoicismo\|Neoestoicismo]]
 - [[da perseveranca\|da perseveranca]]
 - Tags: #Autocontrole #Etnicidades #totalizante  #Barreiras #Autocontrole #AUTODESCOBERTA #psique #mentesmiceliais #totalizante 
 - Fontes & Links: 

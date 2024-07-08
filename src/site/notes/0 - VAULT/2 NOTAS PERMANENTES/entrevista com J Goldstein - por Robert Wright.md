@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/entrevista-com-j-goldstein-por-robert-wright/","tags":["permanente","insight","vipassana","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/entrevista-com-j-goldstein-por-robert-wright/","tags":["permanente","insight","vipassana","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # entrevista com J Goldstein - por Robert Wright
@@ -9,8 +9,8 @@
 - 16:17
 ## relacionados:
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Joseph Goldstein\|Joseph Goldstein]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Mindfulness-2\|Mindfulness-2]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Joseph Goldstein\|Joseph Goldstein]]
+- [[Mindfulness-2\|Mindfulness-2]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/reaprender a dar valor para as próprias vitórias\|reaprender a dar valor para as próprias vitórias]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O VALOR DO VOLUME FIXO DE PRODUTIVIDADE\|O VALOR DO VOLUME FIXO DE PRODUTIVIDADE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Fracasse estrategicamente\|Fracasse estrategicamente]]
@@ -40,7 +40,7 @@
 **Nota 5: Emoções e as Quatro Nobres Verdades**
 - **Título:** Emoções e Quatro Nobres Verdades
 - **Conteúdo:** Exploração das emoções como formas elaboradas de sentimentos. Conexão entre sentimentos e as Quatro Nobres Verdades, incluindo a ênfase na aversão como problema.
-- [[0 - VAULT/1 NOTAS LITERAIS/nota 5 - emoções e as 4 nobre verdades - expandido\|nota 5 - emoções e as 4 nobre verdades - expandido]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/nota 5 - emoções e as 4 nobre verdades - expandido\|nota 5 - emoções e as 4 nobre verdades - expandido]]
 
 **Nota 6: Impermanência na Meditação Mindfulness**
 - **Título:** Vivência da Impermanência na Meditação

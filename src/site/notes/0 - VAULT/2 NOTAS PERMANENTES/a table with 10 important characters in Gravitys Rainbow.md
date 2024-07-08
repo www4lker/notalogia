@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-table-with-10-important-characters-in-gravitys-rainbow/","tags":["permanente","literatura","geo","filosofia","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-table-with-10-important-characters-in-gravitys-rainbow/","tags":["permanente","literatura","geo","filosofia","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # a table with 10 important characters in Gravitys Rainbow
@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-06-30
 - Hora: 15:40
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Pynchon, Thomas\|Pynchon, Thomas]]
+- notas: [[Pynchon, Thomas\|Pynchon, Thomas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
 
 - Fontes & Links: https://chat.openai.com/share/6bcffc3e-e144-4444-8a4e-08ab588ca8ac

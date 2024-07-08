@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/apenas-computadores-conseguiram-resolver-este-problema-de-mil-e-oitocentos/","tags":["permanente","geo-processo","geo","meth","academico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/apenas-computadores-conseguiram-resolver-este-problema-de-mil-e-oitocentos/","tags":["permanente","geo-processo","geo","meth","academico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Apenas computadores conseguiram resolver este problema de mil e oitocentos
@@ -8,7 +8,7 @@
 - 19-09-2023
 - 12:05
 ## relacionados:
-- notas: [[matemática da torre de hanói\|matemática da torre de hanói]], [[0 - VAULT/1 NOTAS LITERAIS/resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
+- notas: [[matemática da torre de hanói\|matemática da torre de hanói]], [[resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
 - tags: #geo-processo #geo #meth #academico 
 - Fontes & Links: https://www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/
 ---

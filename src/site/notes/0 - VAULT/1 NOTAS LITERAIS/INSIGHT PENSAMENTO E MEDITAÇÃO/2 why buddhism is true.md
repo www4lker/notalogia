@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/2-why-buddhism-is-true/","tags":["buddhismo","insight","meditacao","totalizante","chatgpt","vipassana","retiro-vipassana","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/2-why-buddhism-is-true/","tags":["buddhismo","insight","meditacao","totalizante","chatgpt","vipassana","retiro-vipassana","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 2 why buddhism is true
@@ -57,7 +57,7 @@ Questões Relacionadas: **Filosofia Budista, Ilusão, Percepção da Realidade, 
 
 ### Nota 12: Uso Terapêutico da Meditação
 
-[[0 - VAULT/1 NOTAS LITERAIS/Origens e Comercialização da Atenção Plena (Mindfulness)\|Origens e Comercialização da Atenção Plena (Mindfulness)]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Origens e Comercialização da Atenção Plena (Mindfulness)\|Origens e Comercialização da Atenção Plena (Mindfulness)]]
 Título: **Meditação como Ferramenta Terapêutica**
 
 Usar a meditação como uma ferramenta terapêutica, sem necessariamente mudar profundamente nossa visão da realidade, é uma aplicação válida. Embora essa abordagem possa não mergulhar profundamente no contexto filosófico em que a meditação budista surgiu e dentro do qual ela floresceu, ela ainda pode ter benefícios significativos para o indivíduo e, potencialmente, para o mundo.

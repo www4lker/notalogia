@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-poeta-sem-exagero/","tags":["permanente","poesia","literatura","pessoalidades","PoesiaMagica"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-poeta-sem-exagero/","tags":["permanente","poesia","literatura","pessoalidades","PoesiaMagica"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A poeta sem exagero
@@ -11,9 +11,9 @@
 
 ### Conteúdo Relacionado
 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/o trabalho de Wislawa Szymborska\|o trabalho de Wislawa Szymborska]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Artigo 451 - Pura Fruição\|Artigo 451 - Pura Fruição]]
-- [[0 - VAULT/1 NOTAS LITERAIS/espanto como elemento central na poesia de Szymborska\|espanto como elemento central na poesia de Szymborska]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/o trabalho de Wislawa Szymborska\|o trabalho de Wislawa Szymborska]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Artigo 451 - Pura Fruição\|Artigo 451 - Pura Fruição]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/espanto como elemento central na poesia de Szymborska\|espanto como elemento central na poesia de Szymborska]]
 - tags: #poesia #literatura #pessoalidades #PoesiaMagica 
 - Fontes & Links: https://quatrocincoum.folha.uol.com.br/br/resenhas/poesia/a-poeta-sem-exagero
 ---
@@ -30,21 +30,21 @@ Biografia e antologia abrem portas para o universo de Wislawa Szymborska, Nobel 
 
 Nota 1:
 Título: A poesia de Wislawa Szymborska: além do óbvio, o mistério da "paisagem do mundo"
-[[0 - VAULT/1 NOTAS LITERAIS/A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo\|A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo\|A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo]]
 
-[[0 - VAULT/1 NOTAS LITERAIS/A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo\|A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo\|A poesia de Wislawa Szymborska -  além do óbvio, o mistério da paisagem do mundo]]
 
 Nota 2:
-Título: [[0 - VAULT/1 NOTAS LITERAIS/A paixão pelos detalhes na obra de Wislawa Szymborska\|A paixão pelos detalhes na obra de Wislawa Szymborska]]
+Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A paixão pelos detalhes na obra de Wislawa Szymborska\|A paixão pelos detalhes na obra de Wislawa Szymborska]]
 
-[[0 - VAULT/1 NOTAS LITERAIS/A paixão pelos detalhes na obra de Wislawa Szymborska\|A paixão pelos detalhes na obra de Wislawa Szymborska]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A paixão pelos detalhes na obra de Wislawa Szymborska\|A paixão pelos detalhes na obra de Wislawa Szymborska]]
 
 Nota 3:
-Título: [[0 - VAULT/1 NOTAS LITERAIS/O percurso político de Wislawa Szymborska - entre alinhamento e desilusão\|O percurso político de Wislawa Szymborska - entre alinhamento e desilusão]]
+Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O percurso político de Wislawa Szymborska - entre alinhamento e desilusão\|O percurso político de Wislawa Szymborska - entre alinhamento e desilusão]]
 
-[[0 - VAULT/1 NOTAS LITERAIS/O percurso político de Wislawa Szymborska - entre alinhamento e desilusão\|O percurso político de Wislawa Szymborska - entre alinhamento e desilusão]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O percurso político de Wislawa Szymborska - entre alinhamento e desilusão\|O percurso político de Wislawa Szymborska - entre alinhamento e desilusão]]
 
 Nota 4:
-Título: [[0 - VAULT/1 NOTAS LITERAIS/Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza\|Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza]]
+Título: [[Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza\|Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza]]
 
-[[0 - VAULT/1 NOTAS LITERAIS/Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza\|Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza]]
+[[Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza\|Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza]]

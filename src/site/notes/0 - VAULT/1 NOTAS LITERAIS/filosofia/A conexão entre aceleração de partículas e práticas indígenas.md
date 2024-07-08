@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/a-conexao-entre-aceleracao-de-particulas-e-praticas-indigenas/","tags":["promptgpt3","mestredeculturacontemporanea","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/a-conexao-entre-aceleracao-de-particulas-e-praticas-indigenas/","tags":["promptgpt3","mestredeculturacontemporanea","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Ailton Krenak e Eduardo Viveiros de Castro

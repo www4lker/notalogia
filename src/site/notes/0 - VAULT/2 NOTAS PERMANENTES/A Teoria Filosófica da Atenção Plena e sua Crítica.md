@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-teoria-filosofica-da-atencao-plena-e-sua-critica/","tags":["permanente","vipassana","sciencebitch","ceticismo","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-teoria-filosofica-da-atencao-plena-e-sua-critica/","tags":["permanente","vipassana","sciencebitch","ceticismo","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A teoria filosófica que sustenta a atenção plena - e a crítica a ela

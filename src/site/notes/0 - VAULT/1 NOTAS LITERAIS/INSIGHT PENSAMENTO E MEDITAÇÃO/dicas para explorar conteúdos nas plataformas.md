@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/dicas-para-explorar-conteudos-nas-plataformas/","tags":["promptgpt3","otimistarealista","ceticismo","mestredeculturacontemporanea","criatividade","criticalmass"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/dicas-para-explorar-conteudos-nas-plataformas/","tags":["promptgpt3","otimistarealista","ceticismo","mestredeculturacontemporanea","criatividade","criticalmass"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # dicas para explorar conteúdos nas plataformas

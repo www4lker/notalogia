@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/qual-o-ancestral-do-meu-projeto/","tags":["criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea","interessesgerais","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/qual-o-ancestral-do-meu-projeto/","tags":["criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea","interessesgerais","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # qual o ancestral do meu projeto

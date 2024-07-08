@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/desafio-para-ia-descrever-a-musica-para-alguem-que-nasceu-surdo/","tags":["filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/desafio-para-ia-descrever-a-musica-para-alguem-que-nasceu-surdo/","tags":["filosofia","pesquisa","interessesdepesquisa","interessesgerais","ceticismo","disserte","criatividade","ludismoiluminado"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Variações Goldberg de Bach ~ segundo IA

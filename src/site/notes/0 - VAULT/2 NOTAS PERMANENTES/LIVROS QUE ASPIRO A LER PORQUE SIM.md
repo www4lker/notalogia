@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/livros-que-aspiro-a-ler-porque-sim/","tags":["gpt4","insight","totalizante","householder","lit","mementomori"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/livros-que-aspiro-a-ler-porque-sim/","tags":["gpt4","insight","totalizante","householder","lit","mementomori"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # LIVROS QUE ASPIRO A LER PORQUE SIM

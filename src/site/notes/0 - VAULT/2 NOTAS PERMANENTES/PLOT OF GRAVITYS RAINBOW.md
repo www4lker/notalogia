@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/plot-of-gravitys-rainbow/","tags":["permanente","literatura","geo","filosofia","chatgpt","GravitysRainbowPlot","ComplexNarrative","ActiveReadingStrategies","PynchonSymbolism"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/plot-of-gravitys-rainbow/","tags":["permanente","literatura","geo","filosofia","chatgpt","GravitysRainbowPlot","ComplexNarrative","ActiveReadingStrategies","PynchonSymbolism"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # PLOT OF GRAVITYS RAINBOW
@@ -11,7 +11,7 @@
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/GUIA PARA LER ARCO ÍRIS GRAVIDADE\|GUIA PARA LER ARCO ÍRIS GRAVIDADE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Pynchon, Thomas\|Pynchon, Thomas]]
+- [[Pynchon, Thomas\|Pynchon, Thomas]]
 
 
 ---

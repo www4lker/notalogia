@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/radical-ai-network/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/radical-ai-network/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # radical AI network
@@ -14,10 +14,10 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/teoria da cauda longa e a indústria do conteúdo\|teoria da cauda longa e a indústria do conteúdo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Don’t ask if artificial intelligence is good or fair, ask how it shifts power\|Don’t ask if artificial intelligence is good or fair, ask how it shifts power]]
-- [[0 - VAULT/1 NOTAS LITERAIS/David Graeber\|David Graeber]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/David Graeber\|David Graeber]]
 - [[O despertar de tudo\|O despertar de tudo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Humans Have Always Been Wrong About Humans\|Humans Have Always Been Wrong About Humans]]
-- [[0 - VAULT/1 NOTAS LITERAIS/notas sobre RAN\|notas sobre RAN]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/notas sobre RAN\|notas sobre RAN]]
 ---
 [fonte](https://radicalai.net/principles)
 

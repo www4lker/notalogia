@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/onde-comeca-o-antropoceno/","tags":["permanente","interessesdepesquisa","interessesgerais","academia","intelectual","disserte","literatura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/onde-comeca-o-antropoceno/","tags":["permanente","interessesdepesquisa","interessesgerais","academia","intelectual","disserte","literatura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 160120231221
@@ -18,7 +18,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/cap 1\|cap 1]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Was 1610 the beginning of a new human epoch\|Was 1610 the beginning of a new human epoch]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/ESCRITA COMO POSSIBILDADE DE SURGIR DO ANTROPOCENO\|ESCRITA COMO POSSIBILDADE DE SURGIR DO ANTROPOCENO]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Anna L Tsing\|Anna L Tsing]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Anna L Tsing\|Anna L Tsing]]
 
 ---
 [fonte the guardian](https://www.theguardian.com/environment/2023/jan/06/h-bombs-chicken-bones-scientists-race-to-define-start-of-the-anthropocene)

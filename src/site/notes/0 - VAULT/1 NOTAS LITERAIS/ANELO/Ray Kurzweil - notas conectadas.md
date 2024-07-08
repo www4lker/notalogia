@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/ray-kurzweil-notas-conectadas/","tags":["InteligênciaArtificial","Robótica","Futuro","Inteligência","Moralidade","tecnologia","pesquisa","interessesgerais","filosofia","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/ray-kurzweil-notas-conectadas/","tags":["InteligênciaArtificial","Robótica","Futuro","Inteligência","Moralidade","tecnologia","pesquisa","interessesgerais","filosofia","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 1. **O Impacto da Lei de Moore na Tecnologia**:
@@ -26,10 +26,10 @@
 8. **A Importância da Inteligência Emocional na IA**:
    A IA está avançando na compreensão de emoções humanas. A capacidade de reconhecer e responder a emoções é crucial para aplicações como assistentes virtuais e cuidados de saúde mental.
 ---
-[[0 - VAULT/1 NOTAS LITERAIS/O Desafio de Equilibrar a IA e a Humanidade\|O Desafio de Equilibrar a IA e a Humanidade]]
-[[0 - VAULT/1 NOTAS LITERAIS/IA, Criatividade e a Essência da Humanidade\|IA, Criatividade e a Essência da Humanidade]]
-[[0 - VAULT/1 NOTAS LITERAIS/Ethics and AI - ética e IA\|Ethics and AI - ética e IA]]
-[[0 - VAULT/1 NOTAS LITERAIS/Inteligência Artificial e Consciência Humana\|Inteligência Artificial e Consciência Humana]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O Desafio de Equilibrar a IA e a Humanidade\|O Desafio de Equilibrar a IA e a Humanidade]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/IA, Criatividade e a Essência da Humanidade\|IA, Criatividade e a Essência da Humanidade]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Ethics and AI - ética e IA\|Ethics and AI - ética e IA]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Inteligência Artificial e Consciência Humana\|Inteligência Artificial e Consciência Humana]]
 [[0 - VAULT/2 NOTAS PERMANENTES/Ray Kurzweil - ZT\|Ray Kurzweil - ZT]]
 #InteligênciaArtificial #Robótica #Futuro #Inteligência #Moralidade #ANELO 
 #tecnologia #pesquisa #interessesgerais #filosofia #filosofia #tecnologia #mestredeculturacontemporanea

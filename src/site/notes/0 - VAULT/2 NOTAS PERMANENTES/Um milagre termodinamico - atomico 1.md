@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/um-milagre-termodinamico-atomico-1/","title":"Um milagre termodinamico - atomico 1","tags":["permanente","interessesdepesquisa","disserte","metodologia","orientador","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/um-milagre-termodinamico-atomico-1/","title":"Um milagre termodinamico - atomico 1","tags":["permanente","interessesdepesquisa","disserte","metodologia","orientador","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Um milagre termodinamico - atomico 1

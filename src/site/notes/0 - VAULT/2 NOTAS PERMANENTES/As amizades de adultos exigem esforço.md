@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/as-amizades-de-adultos-exigem-esforco/","tags":["permanente","AmizadeAdulta","Persistência","Abertura","Consistência","totalizante","Adulthood","SocialInteractions"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/as-amizades-de-adultos-exigem-esforco/","tags":["permanente","AmizadeAdulta","Persistência","Abertura","Consistência","totalizante","Adulthood","SocialInteractions"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # As amizades de adultos exigem esforço
@@ -7,7 +7,7 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-07-24
 - Hora: 12:01
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Fazer amizades com adultos\|Fazer amizades com adultos]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazer amizades com adultos\|Fazer amizades com adultos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Transformar os encontros iniciais em amizades\|Transformar os encontros iniciais em amizades]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/As amizades de adultos exigem esforço\|As amizades de adultos exigem esforço]]
 - tags: #AmizadeAdulta #Persistência #Abertura #Consistência #totalizante 

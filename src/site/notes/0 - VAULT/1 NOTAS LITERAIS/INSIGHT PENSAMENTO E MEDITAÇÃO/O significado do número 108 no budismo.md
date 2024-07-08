@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/o-significado-do-numero-108-no-budismo/","tags":["insight","vipassana","virtú"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/o-significado-do-numero-108-no-budismo/","tags":["insight","vipassana","virtú"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # O significado do número 108 no budismo
@@ -8,7 +8,7 @@ criado em: 02:19 2022-08-10
 ##### Relacionado
 - palavras-chave: #insight #vipassana #virtú
 - notas permanentes: [[0 - VAULT/2 NOTAS PERMANENTES/MEDITAÇÃO\|MEDITAÇÃO]] [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana\|0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/meditar no quintal\|meditar no quintal]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/meditar no quintal\|meditar no quintal]]
 - notas de dissertação:
 - notas de literatura: 
 

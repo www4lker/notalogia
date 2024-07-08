@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/linguagem-discutidas-quais-nao-sao-open-source/","tags":["permanente","programando","criatividade","filosofia","tecnologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/linguagem-discutidas-quais-nao-sao-open-source/","tags":["permanente","programando","criatividade","filosofia","tecnologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # linguagem discutidas quais não são open source
@@ -12,7 +12,7 @@
 ### Conteúdo Relacionado
 
 #programando #criatividade #filosofia #tecnologia 
-- [[0 - VAULT/1 NOTAS LITERAIS/interested in web development\|interested in web development]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/interested in web development\|interested in web development]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/10 linguagens de programação mais usadas no mundo e porquê\|10 linguagens de programação mais usadas no mundo e porquê]]
 
 ---

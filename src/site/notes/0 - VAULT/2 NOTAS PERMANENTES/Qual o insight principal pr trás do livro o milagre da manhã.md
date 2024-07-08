@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/qual-o-insight-principal-pr-tras-do-livro-o-milagre-da-manha/","tags":["permanente","podkasten","mestredeculturacontemporanea","LiteraryExperiment","criatividade","InsightfulObservation"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/qual-o-insight-principal-pr-tras-do-livro-o-milagre-da-manha/","tags":["permanente","podkasten","mestredeculturacontemporanea","LiteraryExperiment","criatividade","InsightfulObservation"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Qual o insight principal pr trás do livro o milagre da manhã

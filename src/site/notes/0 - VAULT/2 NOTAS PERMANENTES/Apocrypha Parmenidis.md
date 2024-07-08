@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/apocrypha-parmenidis/","tags":["meta","promptGPT","elit","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/apocrypha-parmenidis/","tags":["meta","promptGPT","elit","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Apocrypha Parmenidis 
@@ -24,7 +24,7 @@ sendo assim, nada jamais acontece.
 Britto, Paulo Henriques. Fim de verão (p. 22). Companhia das Letras. Edição do Kindle. 
 
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Infancia - P M Campos\|Infancia - P M Campos]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/analisando o poema do PHB\|analisando o poema do PHB]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Paulo Mendes Campos\|Paulo Mendes Campos]]
 - tags: #meta #promptGPT #elit #literatura 

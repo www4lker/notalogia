@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/escrevendo-ensaios-baseados-em-games/","tags":["permanente","games","tv","ensaistica","ensaio","pensamentosaleatorios"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/escrevendo-ensaios-baseados-em-games/","tags":["permanente","games","tv","ensaistica","ensaio","pensamentosaleatorios"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Escrevendo ensaios baseados em games

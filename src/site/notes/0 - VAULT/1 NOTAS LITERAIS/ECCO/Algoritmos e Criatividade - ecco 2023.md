@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/algoritmos-e-criatividade-ecco-2023/","tags":["interessesgerais","interessesdepesquisa","meta","ReadingLiterature","MetacognitionEnhancement","SelfAwareness","Empathy","PerspectiveTaking","CriticalThinking","ProblemSolving","Creativity"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/algoritmos-e-criatividade-ecco-2023/","tags":["interessesgerais","interessesdepesquisa","meta","ReadingLiterature","MetacognitionEnhancement","SelfAwareness","Empathy","PerspectiveTaking","CriticalThinking","ProblemSolving","Creativity"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Algoritmos e *criatividade* - ecco 2023
@@ -11,7 +11,7 @@
 - notas:
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/ECCO 2023 - INCURSÕES\|ECCO 2023 - INCURSÕES]] 
 - [[0 - VAULT/2 NOTAS PERMANENTES/literature, at least in theory, enhance my metacognition\|literature, at least in theory, enhance my metacognition]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/QS - Quantified Self - Self-tracking - mit press\|QS - Quantified Self - Self-tracking - mit press]]
+- [[QS - Quantified Self - Self-tracking - mit press\|QS - Quantified Self - Self-tracking - mit press]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/armadilha do progresso\|armadilha do progresso]]
 - tags: #interessesgerais  #interessesdepesquisa #meta #ReadingLiterature #MetacognitionEnhancement #SelfAwareness #Empathy #PerspectiveTaking #CriticalThinking #ProblemSolving #Creativity
 ---

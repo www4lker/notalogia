@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/somos-todos-bardos-na-era-da-ia/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/somos-todos-bardos-na-era-da-ia/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # somos todos bardos na era da IA
@@ -25,16 +25,16 @@ O artigo destaca a recente liberação da ferramenta de inteligência artificial
 
 Nota 2:
 
-Título: [[0 - VAULT/1 NOTAS LITERAIS/Humanos versus IA - A Celeuma da Substituição\|Humanos versus IA - A Celeuma da Substituição]]
+Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Humanos versus IA - A Celeuma da Substituição\|Humanos versus IA - A Celeuma da Substituição]]
 
 Nota 3:
 
-[[0 - VAULT/1 NOTAS LITERAIS/IA, Criatividade e a Essência da Humanidade\|IA, Criatividade e a Essência da Humanidade]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/IA, Criatividade e a Essência da Humanidade\|IA, Criatividade e a Essência da Humanidade]]
 
 Nota 4:
 
-[[0 - VAULT/1 NOTAS LITERAIS/O Futuro da Narrativa na Era da IA\|O Futuro da Narrativa na Era da IA]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O Futuro da Narrativa na Era da IA\|O Futuro da Narrativa na Era da IA]]
 
 Nota 5:
 
-[[0 - VAULT/1 NOTAS LITERAIS/O Desafio de Equilibrar a IA e a Humanidade\|O Desafio de Equilibrar a IA e a Humanidade]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O Desafio de Equilibrar a IA e a Humanidade\|O Desafio de Equilibrar a IA e a Humanidade]]

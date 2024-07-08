@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/advice-to-aspiring-writers/","tags":["ensaistica","filosofia","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/advice-to-aspiring-writers/","tags":["ensaistica","filosofia","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # advice to aspiring writers
@@ -8,8 +8,8 @@
 #### Relacionado
 - palavras-chave: #ensaistica #filosofia #literatura 
 - notas:
-- [[0 - VAULT/1 NOTAS LITERAIS/Sontag, Susan\|Sontag, Susan]]
-- [[0 - VAULT/1 NOTAS LITERAIS/SUSAN SONTAG ON WRITING\|SUSAN SONTAG ON WRITING]]
+- [[Sontag, Susan\|Sontag, Susan]]
+- [[SUSAN SONTAG ON WRITING\|SUSAN SONTAG ON WRITING]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/mushrooms, a poem by Sylvia Plath\|mushrooms, a poem by Sylvia Plath]]
 ---
  fonte: themarginalian.org

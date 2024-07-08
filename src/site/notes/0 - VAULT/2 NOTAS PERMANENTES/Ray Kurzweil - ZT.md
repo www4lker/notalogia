@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ray-kurzweil-zt/","tags":["permanente","wiredetal","tecnologia","pesquisa","interessesgerais","filosofia","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ray-kurzweil-zt/","tags":["permanente","wiredetal","tecnologia","pesquisa","interessesgerais","filosofia","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Ray Kurzweil - ZT
@@ -10,11 +10,11 @@
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]] 
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/o fim do antropoceno\|o fim do antropoceno]]
-- [[0 - VAULT/1 NOTAS LITERAIS/O MITO DA IA\|O MITO DA IA]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O MITO DA IA\|O MITO DA IA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/humanos de 500 anos de idade\|humanos de 500 anos de idade]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/Ray Kurzweil - notas conectadas\|Ray Kurzweil - notas conectadas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Why the Future Doesn_t Need Us\|Why the Future Doesn_t Need Us]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Mind Children - H Moravec\|Mind Children - H Moravec]]
+- [[Mind Children - H Moravec\|Mind Children - H Moravec]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/anti-psicodelia\|anti-psicodelia]]
 - tags: #wiredetal #tecnologia #pesquisa #interessesgerais #filosofia #filosofia #tecnologia #mestredeculturacontemporanea

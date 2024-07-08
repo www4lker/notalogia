@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/mindfulness-should-be-understood-as-a-practice-of-concentration-and-structuring-the-mind/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/mindfulness-should-be-understood-as-a-practice-of-concentration-and-structuring-the-mind/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 ## Observação 7: A atenção plena deve ser entendida como uma prática de concentração e estruturação da mente.

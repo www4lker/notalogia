@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/curso-de-meditacao-em-2015/","tags":["permanente","Meditação","Vipassana","Objetivos","Equilíbrio"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/curso-de-meditacao-em-2015/","tags":["permanente","Meditação","Vipassana","Objetivos","Equilíbrio"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # curso de meditação em 2015

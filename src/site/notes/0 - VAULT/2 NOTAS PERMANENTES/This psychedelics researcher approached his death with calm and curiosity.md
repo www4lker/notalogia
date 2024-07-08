@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/this-psychedelics-researcher-approached-his-death-with-calm-and-curiosity/","tags":["permanente","TEONANACATL","psicodelico","mementomori","microdose","protocodemd","filosofia","ceticismo","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/this-psychedelics-researcher-approached-his-death-with-calm-and-curiosity/","tags":["permanente","TEONANACATL","psicodelico","mementomori","microdose","protocodemd","filosofia","ceticismo","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # This psychedelics researcher approached his death with calm and curiosity
@@ -8,9 +8,9 @@
 - 07-11-2023
 - 14:26
 ## relacionados:
-- [[0 - VAULT/1 NOTAS LITERAIS/morre Roland Griffiths\|morre Roland Griffiths]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Pollan, Michael\|Pollan, Michael]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Merlin Sheldrake\|Merlin Sheldrake]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/morre Roland Griffiths\|morre Roland Griffiths]]
+- [[Pollan, Michael\|Pollan, Michael]]
+- [[Merlin Sheldrake\|Merlin Sheldrake]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/trama da vida encontra como mudar sua mente\|trama da vida encontra como mudar sua mente]]
 - tags: #TEONANACATL #psicodelico #mementomori #microdose #protocodemd #filosofia #ceticismo #sciencebitch 
 - Fontes & Links: https://www.npr.org/2023/11/05/1210327976/psychedelic-drugs-psilocybin-roland-griffiths-depression-cancer-meditation

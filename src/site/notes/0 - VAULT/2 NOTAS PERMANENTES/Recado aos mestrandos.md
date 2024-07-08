@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/recado-aos-mestrandos/","tags":["permanente","totalizante","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/recado-aos-mestrandos/","tags":["permanente","totalizante","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Recado aos mestrandos
@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #totalizante #promptgpt3 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/141220221327\|141220221327]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/141220221327\|141220221327]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 
 ---

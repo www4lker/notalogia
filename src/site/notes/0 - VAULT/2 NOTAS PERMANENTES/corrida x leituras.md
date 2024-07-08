@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/corrida-x-leituras/","tags":["permanente","nãoficção","autoficção","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/corrida-x-leituras/","tags":["permanente","nãoficção","autoficção","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # corrida x leituras
 criado em: 16:24 2022-08-01
 
-[[0 - VAULT/1 NOTAS LITERAIS/Varella, Drauzio\|Varella, Drauzio]]
+[[Varella, Drauzio\|Varella, Drauzio]]
 
 ---
 

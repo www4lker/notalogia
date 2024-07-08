@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/cetico-saudavel/","tags":["ceticismo","filosofia","totalizante","otimistarealista","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/cetico-saudavel/","tags":["ceticismo","filosofia","totalizante","otimistarealista","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 ## equilíbrio entre ceticismo e abertura
@@ -10,7 +10,7 @@
 
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/psique/Coincidências são reais\|Coincidências são reais]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Por Que Fatos Não Mudam Nossas Mentes\|Por Que Fatos Não Mudam Nossas Mentes]]
+- [[Por Que Fatos Não Mudam Nossas Mentes\|Por Que Fatos Não Mudam Nossas Mentes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Para quê serve a crença\|Para quê serve a crença]]
 - tags: #ceticismo #filosofia #totalizante #otimistarealista #insight 
 ---

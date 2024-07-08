@@ -42,8 +42,8 @@
 
 **Tópicos Relacionados:**  Produtividade, Gestão do Tempo, Ansiedade, Concentração, Motivação, Métodos de Trabalho Eficientes.
 
-[[0 - VAULT/1 NOTAS LITERAIS/888/Como o trabalho otimizado pode se tornar um ciclo vicioso\|Como o trabalho otimizado pode se tornar um ciclo vicioso]]
-[[0 - VAULT/1 NOTAS LITERAIS/888/armadilhas da otimização\|armadilhas da otimização]]
+[[Como o trabalho otimizado pode se tornar um ciclo vicioso\|Como o trabalho otimizado pode se tornar um ciclo vicioso]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/armadilhas da otimização\|armadilhas da otimização]]
 [[0 - VAULT/1 NOTAS LITERAIS/ECCO/Algoritmos e Criatividade - ecco 2023\|Algoritmos e Criatividade - ecco 2023]]
 [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/DEEP WORK e MINDFUL TECH - artigo\|DEEP WORK e MINDFUL TECH - artigo]]
 

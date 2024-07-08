@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/annotation-remi-h/","tags":["permanente","meta","zettelkasten","escrivão","descobertas","pessoalidades","criatividade","insight","mitpress"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/annotation-remi-h/","tags":["permanente","meta","zettelkasten","escrivão","descobertas","pessoalidades","criatividade","insight","mitpress"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Annotation - Remi H.
@@ -10,13 +10,13 @@
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/projeto de pesquisa 2024\|projeto de pesquisa 2024]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/obsidian\|obsidian]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Anotar com caneta ou com computador\|Anotar com caneta ou com computador]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Anotar com caneta ou com computador\|Anotar com caneta ou com computador]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/pen its powerful than computer\|pen its powerful than computer]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/Anotar à mão é melhor que com computador\|Anotar à mão é melhor que com computador]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/10 princípios básicos das anotações eficazes\|10 princípios básicos das anotações eficazes]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Notas eficazes segundo Annotation - MIT Press\|Notas eficazes segundo Annotation - MIT Press]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ANNOTATION - cap 5\|ANNOTATION - cap 5]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ANNOTATION - cap 6\|ANNOTATION - cap 6]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Notas eficazes segundo Annotation - MIT Press\|Notas eficazes segundo Annotation - MIT Press]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ANNOTATION - cap 5\|ANNOTATION - cap 5]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ANNOTATION - cap 6\|ANNOTATION - cap 6]]
 - tags: #meta #zettelkasten #escrivão #descobertas #pessoalidades #criatividade #insight #mitpress
 - Fontes & Links: 
 - https://chat.openai.com/share/2498af4a-9cf2-4b2c-87ce-033427810a3b 

@@ -11,7 +11,7 @@
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/2 why buddhism is true\|2 why buddhism is true]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/entrevista com J Goldstein - por Robert Wright\|entrevista com J Goldstein - por Robert Wright]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST\|O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST\|O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]
 - tags: #podkasten #insight #vipassana #meditacao
 ---
 - [00:00](https://www.youtube.com/watch?v=12s9L0VOAMA&t=0s) 🤯 A meditação profunda permite observar a formação de pensamentos antes de sua plena manifestação, proporcionando experiências sensoriais intensas.

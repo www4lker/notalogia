@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/medicina-e-uma-arte-e-nao-uma-ciencia/","tags":["permanente","literatura","filosofia","realworld","otimistarealista","totalizante","psicodelico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/medicina-e-uma-arte-e-nao-uma-ciencia/","tags":["permanente","literatura","filosofia","realworld","otimistarealista","totalizante","psicodelico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Medicina é uma arte e não uma ciência
@@ -10,11 +10,11 @@
 
 ### Conteúdo Relacionado
 - notas: [[LIT\|LIT]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Varella, Drauzio\|Varella, Drauzio]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Harari, Yuval Noah\|Harari, Yuval Noah]]
+- [[Varella, Drauzio\|Varella, Drauzio]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Harari, Yuval Noah\|Harari, Yuval Noah]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Roland Griffiths - entrevista\|Roland Griffiths - entrevista]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/biomedicalização\|biomedicalização]]
-- [[0 - VAULT/1 NOTAS LITERAIS/susan sontag - a doença como metáfora\|susan sontag - a doença como metáfora]]
+- [[susan sontag - a doença como metáfora\|susan sontag - a doença como metáfora]]
 - tags: #literatura #filosofia #realworld #otimistarealista #totalizante #psicodelico
 ---
 ### resumo

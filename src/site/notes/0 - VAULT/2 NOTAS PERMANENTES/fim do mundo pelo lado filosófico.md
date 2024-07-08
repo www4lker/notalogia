@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/fim-do-mundo-pelo-lado-filosofico/","title":"fim do mundo pelo lado filosófico","tags":["literatura","LiteraryLabyrinth","filosofia","philosophy","PhilosophyDomains","AncientGreekPhilosophy","NewBooks"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/fim-do-mundo-pelo-lado-filosofico/","title":"fim do mundo pelo lado filosófico","tags":["literatura","LiteraryLabyrinth","filosofia","philosophy","PhilosophyDomains","AncientGreekPhilosophy","NewBooks"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 

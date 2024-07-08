@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-ler-mais-livros-via-nexo/","tags":["permanente","nexo","ensaistica","diário","totalizante","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-ler-mais-livros-via-nexo/","tags":["permanente","nexo","ensaistica","diário","totalizante","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 181120221635
@@ -7,7 +7,7 @@
 
 ### Relacionado
 - palavras-chave: #nexo #ensaistica #diário #totalizante 
-- [[0 - VAULT/1 NOTAS LITERAIS/como acabar o livro\|como acabar o livro]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/como acabar o livro\|como acabar o livro]]
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/É importante parar de pesquisar e começar a escrever\|É importante parar de pesquisar e começar a escrever]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/5 livros para entender e pesquisar a cultura pop\|5 livros para entender e pesquisar a cultura pop]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/5 pontos-chave para aquele que planejam ler mais\|5 pontos-chave para aquele que planejam ler mais]]

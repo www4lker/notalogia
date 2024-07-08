@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/passe-a-dominar-o-conteudo-com-essas-11-dicas-imperdiveis/","tags":["permanente","filosofia","realworld","otimistarealista","totalizante","jardimdigital","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/passe-a-dominar-o-conteudo-com-essas-11-dicas-imperdiveis/","tags":["permanente","filosofia","realworld","otimistarealista","totalizante","jardimdigital","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Passe a Dominar o Conteúdo com Essas 11 Dicas Imperdíveis

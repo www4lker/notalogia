@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/observacoes-culturais-de-frankie-analise-dos-millennials/","tags":["literatura","totalizante","pesquisa","interessesdepesquisa","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/observacoes-culturais-de-frankie-analise-dos-millennials/","tags":["literatura","totalizante","pesquisa","interessesdepesquisa","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # millenials - FCO
@@ -11,7 +11,7 @@
 - notas:
 1. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/gen z - FCO\|gen z - FCO]]
 2. [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Consequências Psicológicas do Uso do Instagram\|Consequências Psicológicas do Uso do Instagram]]
-3. [[0 - VAULT/1 NOTAS LITERAIS/literary ethnography\|literary ethnography]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/literary ethnography\|literary ethnography]]
 4. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Observações Culturais de Franky - Análise dos Boomers\|Observações Culturais de Franky - Análise dos Boomers]]
 - tags: #literatura #totalizante #pesquisa #interessesdepesquisa #podkasten 
 - Fontes & Links: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/no-surf-para-personalidade-da-intp-t/","tags":["permanente","habitanimal","nosurf","tecnologia","metas-para-2023","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/no-surf-para-personalidade-da-intp-t/","tags":["permanente","habitanimal","nosurf","tecnologia","metas-para-2023","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 040120231033

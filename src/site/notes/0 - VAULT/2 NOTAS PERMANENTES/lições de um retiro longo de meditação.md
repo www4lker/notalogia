@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/licoes-de-um-retiro-longo-de-meditacao/","tags":["permanente","totalizante","pessoalidades","householder","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/licoes-de-um-retiro-longo-de-meditacao/","tags":["permanente","totalizante","pessoalidades","householder","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 020120231152
@@ -21,7 +21,7 @@
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/19082022\|DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/19082022]], 
 - [[NOTAS DE LEITURA/LIT/ottappa\|NOTAS DE LEITURA/LIT/ottappa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Autenticidade\|Autenticidade]]
-- [[0 - VAULT/1 NOTAS LITERAIS/e trata de meditação Perspectivas de três indivíduos diferentes\|e trata de meditação Perspectivas de três indivíduos diferentes]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/e trata de meditação Perspectivas de três indivíduos diferentes\|e trata de meditação Perspectivas de três indivíduos diferentes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas de retiro dhamma sarana\|notas de retiro dhamma sarana]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/GPT4 - notas de retiro dhamma sarana X lições Cory\|GPT4 - notas de retiro dhamma sarana X lições Cory]]
 ---

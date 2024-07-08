@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/self-tracking-11-pontos/","tags":["permanente","biohack","habitanimal","totalizante","pessoalidades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/self-tracking-11-pontos/","tags":["permanente","biohack","habitanimal","totalizante","pessoalidades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Self tracking
@@ -9,8 +9,8 @@
 - Hora: 18:57
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Self-tracking - MIT Press - analisado\|Self-tracking - MIT Press - analisado]]
-- [[0 - VAULT/1 NOTAS LITERAIS/capítulos em análise - self-tracking\|capítulos em análise - self-tracking]]
+- notas: [[Self-tracking - MIT Press - analisado\|Self-tracking - MIT Press - analisado]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/capítulos em análise - self-tracking\|capítulos em análise - self-tracking]]
 - tags: #biohack #habitanimal #totalizante #pessoalidades 
 - Fontes & Links: 
 ---

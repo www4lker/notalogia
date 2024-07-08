@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-ceder-as-tentacoes-de-forma-saudavel/","tags":["permanente","psique","filosofia","SocialReputation"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-ceder-as-tentacoes-de-forma-saudavel/","tags":["permanente","psique","filosofia","SocialReputation"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # como ceder às tentações de forma saudável

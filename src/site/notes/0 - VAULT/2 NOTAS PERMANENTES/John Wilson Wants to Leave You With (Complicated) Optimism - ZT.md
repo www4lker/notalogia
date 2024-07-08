@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/john-wilson-wants-to-leave-you-with-complicated-optimism-zt/","tags":["permanente","totalizante","habitanimal","criatividade","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/john-wilson-wants-to-leave-you-with-complicated-optimism-zt/","tags":["permanente","totalizante","habitanimal","criatividade","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # John Wilson Wants to Leave You With (Complicated) Optimism - ZT

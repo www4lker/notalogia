@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nao-aguento-mais-nao-aguentar-mais-principais-ideias-principais-perguntas-suscitadas/","tags":["permanente","totalizante","promptGPT","internet","interessesgerais","ceticismo","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nao-aguento-mais-nao-aguentar-mais-principais-ideias-principais-perguntas-suscitadas/","tags":["permanente","totalizante","promptGPT","internet","interessesgerais","ceticismo","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Não aguento mais não aguentar mais - principais ideias - principais perguntas suscitadas
@@ -12,7 +12,7 @@
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Sociedade do cansaço\|Sociedade do cansaço]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Teste buzzfeed de esgotamento\|Teste buzzfeed de esgotamento]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Não aguento mais não aguentar mais - principais ideias\|Não aguento mais não aguentar mais - principais ideias]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como o trabalho otimizado pode se tornar um ciclo vicioso\|Como o trabalho otimizado pode se tornar um ciclo vicioso]]
+- [[Como o trabalho otimizado pode se tornar um ciclo vicioso\|Como o trabalho otimizado pode se tornar um ciclo vicioso]]
 - tags: #totalizante #promptGPT #internet #interessesgerais #ceticismo #mestredeculturacontemporanea 
 - Fontes & Links: https://chat.openai.com/share/f5443081-6c53-4eec-876a-3c06c5ead949
 ---

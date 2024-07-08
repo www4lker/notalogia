@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chinese-philosophy-has-long-known-that-mental-health-is-communal/","tags":["permanente","filosofia","orientalion","iching","totalizante","MentalHealth","CommunityInfluence","CulturalInfluence"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chinese-philosophy-has-long-known-that-mental-health-is-communal/","tags":["permanente","filosofia","orientalion","iching","totalizante","MentalHealth","CommunityInfluence","CulturalInfluence"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A filosofia chinesa sabe há muito tempo que a saúde mental é comunitária
@@ -11,7 +11,7 @@
 
 ### Conteúdo Relacionado
 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/I Ching\|I Ching]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/I Ching\|I Ching]]
 - tags: #filosofia #orientalion #iching #totalizante  
 - Fontes & Links: https://psyche.co/ideas/chinese-philosophy-has-long-known-that-mental-health-is-communal
 ---
@@ -21,14 +21,14 @@ A doença mental não existe em um vácuo, mas é fortemente influenciada por as
 
 
 
-1. [[0 - VAULT/1 NOTAS LITERAIS/Entendimento da saúde mental na China antiga\|Entendimento da saúde mental na China antiga]]: [[0 - VAULT/1 NOTAS LITERAIS/Entendimento da saúde mental na China antiga\|Entendimento da saúde mental na China antiga]]
+1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Entendimento da saúde mental na China antiga\|Entendimento da saúde mental na China antiga]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Entendimento da saúde mental na China antiga\|Entendimento da saúde mental na China antiga]]
 
-2. [[0 - VAULT/1 NOTAS LITERAIS/Papel das comunidades na saúde mental\|Papel das comunidades na saúde mental]]: [[0 - VAULT/1 NOTAS LITERAIS/Papel das comunidades na saúde mental\|Papel das comunidades na saúde mental]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Papel das comunidades na saúde mental\|Papel das comunidades na saúde mental]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Papel das comunidades na saúde mental\|Papel das comunidades na saúde mental]]
 
-3. [[0 - VAULT/1 NOTAS LITERAIS/Confúcio sobre integridade social\|Confúcio sobre integridade social]] [[0 - VAULT/1 NOTAS LITERAIS/Confúcio sobre integridade social\|Confúcio sobre integridade social]] - 
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Confúcio sobre integridade social\|Confúcio sobre integridade social]] [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Confúcio sobre integridade social\|Confúcio sobre integridade social]] - 
 
-4. [[0 - VAULT/1 NOTAS LITERAIS/Confúcio sobre ética pessoal\|Confúcio sobre ética pessoal]]: [[0 - VAULT/1 NOTAS LITERAIS/Confúcio sobre ética pessoal\|Confúcio sobre ética pessoal]]
+4. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Confúcio sobre ética pessoal\|Confúcio sobre ética pessoal]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Confúcio sobre ética pessoal\|Confúcio sobre ética pessoal]]
 
-5. [[0 - VAULT/1 NOTAS LITERAIS/O conceito de Junzi\|O conceito de Junzi]]: [[0 - VAULT/1 NOTAS LITERAIS/O conceito de Junzi\|O conceito de Junzi]]
-5. [[0 - VAULT/1 NOTAS LITERAIS/Piedade filial no pensamento confucionista\|Piedade filial no pensamento confucionista]]: [[0 - VAULT/1 NOTAS LITERAIS/Piedade filial no pensamento confucionista\|Piedade filial no pensamento confucionista]]
-6. [[0 - VAULT/1 NOTAS LITERAIS/Transcendência dos ensinamentos de Confúcio\|Transcendência dos ensinamentos de Confúcio]]: [[0 - VAULT/1 NOTAS LITERAIS/Transcendência dos ensinamentos de Confúcio\|Transcendência dos ensinamentos de Confúcio]]
+5. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O conceito de Junzi\|O conceito de Junzi]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O conceito de Junzi\|O conceito de Junzi]]
+5. [[Piedade filial no pensamento confucionista\|Piedade filial no pensamento confucionista]]: [[Piedade filial no pensamento confucionista\|Piedade filial no pensamento confucionista]]
+6. [[Transcendência dos ensinamentos de Confúcio\|Transcendência dos ensinamentos de Confúcio]]: [[Transcendência dos ensinamentos de Confúcio\|Transcendência dos ensinamentos de Confúcio]]

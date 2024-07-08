@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-impacto-da-abordagem-fragmentada-na-compreensao-do-mundo/","tags":["permanente","AbordagemFragmentada","CompreensãoDoMundo","Interconexões","Limitações","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-impacto-da-abordagem-fragmentada-na-compreensao-do-mundo/","tags":["permanente","AbordagemFragmentada","CompreensãoDoMundo","Interconexões","Limitações","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # O impacto da abordagem fragmentada na compreensão do mundo

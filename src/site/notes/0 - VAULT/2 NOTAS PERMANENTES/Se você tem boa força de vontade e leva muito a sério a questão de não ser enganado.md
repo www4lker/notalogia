@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/se-voce-tem-boa-forca-de-vontade-e-leva-muito-a-serio-a-questao-de-nao-ser-enganado/","tags":["permanente","psique","filosofia","totalizante","PersonalStrategy","FindingWhatWorks","AvoidingDeception","IntellectualHonesty","AlternativeSources","PromotingDiversity","ClearThinking","SelfReflection"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/se-voce-tem-boa-forca-de-vontade-e-leva-muito-a-serio-a-questao-de-nao-ser-enganado/","tags":["permanente","psique","filosofia","totalizante","PersonalStrategy","FindingWhatWorks","AvoidingDeception","IntellectualHonesty","AlternativeSources","PromotingDiversity","ClearThinking","SelfReflection"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Se você tem boa força de vontade e leva muito a sério a questão de não ser enganado

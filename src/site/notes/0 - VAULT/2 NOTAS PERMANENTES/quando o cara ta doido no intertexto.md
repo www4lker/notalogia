@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/quando-o-cara-ta-doido-no-intertexto/","tags":["permanente","realworld","internet","promptgpt3","disserte","interessesdepesquisa","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/quando-o-cara-ta-doido-no-intertexto/","tags":["permanente","realworld","internet","promptgpt3","disserte","interessesdepesquisa","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # quando o cara ta doido no intertexto

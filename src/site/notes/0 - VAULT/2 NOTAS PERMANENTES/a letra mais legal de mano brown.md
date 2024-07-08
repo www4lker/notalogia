@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-letra-mais-legal-de-mano-brown/","tags":["permanente","capturas","sons","cultura","provacabal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/a-letra-mais-legal-de-mano-brown/","tags":["permanente","capturas","sons","cultura","provacabal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # a letra mais legal de mano brown
@@ -8,7 +8,7 @@ criado em: 17:24
 ##### Relacionado
 - palavras-chave: #capturas #[[notasprontas\|notasprontas]] #sons #cultura #provacabal
 - notas permanentes:
-- notas de literatura: [[0 - VAULT/1 NOTAS LITERAIS/screenshots\|screenshots]]
+- notas de literatura: [[screenshots\|screenshots]]
 
 ---
 

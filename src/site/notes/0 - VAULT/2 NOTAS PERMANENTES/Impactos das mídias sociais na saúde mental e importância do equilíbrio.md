@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/impactos-das-midias-sociais-na-saude-mental-e-importancia-do-equilibrio/","tags":["permanente","tecnologia","TechnologyEthics","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/impactos-das-midias-sociais-na-saude-mental-e-importancia-do-equilibrio/","tags":["permanente","tecnologia","TechnologyEthics","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 ## redes sociais podem causar depressão

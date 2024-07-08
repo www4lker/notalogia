@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ideias-principais-do-texto-infancia-e-sofrimento-na-obra-de-dostoievski/","tags":["permanente","dostoievski","formalismorusso","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/ideias-principais-do-texto-infancia-e-sofrimento-na-obra-de-dostoievski/","tags":["permanente","dostoievski","formalismorusso","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Relacionado: [[0 - VAULT/2 NOTAS PERMANENTES/A Ferida da Infância - Walter Benjamin sobre Dostoievski\|A Ferida da Infância - Walter Benjamin sobre Dostoievski]]

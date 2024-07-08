@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-seu-cerebro-distingue-as-memorias-das-percepcoes/","tags":["permanente","wiredetal","sciencebitch","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-seu-cerebro-distingue-as-memorias-das-percepcoes/","tags":["permanente","wiredetal","sciencebitch","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 080120231037
@@ -25,18 +25,18 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/PROJETOS DE HUMANIDADES NA PANDEMIA VIA NEXO\|PROJETOS DE HUMANIDADES NA PANDEMIA VIA NEXO]]
 - [[A Vida e Opiniões do Tristram Shandy\|A Vida e Opiniões do Tristram Shandy]]
 - [[Alejandro Zambra, autor chileno que virou cult\|Alejandro Zambra, autor chileno que virou cult]]
-- [[0 - VAULT/1 NOTAS LITERAIS/William Zinsser\|William Zinsser]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Stefano Mancuso\|Stefano Mancuso]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Plath, Sylvia\|Plath, Sylvia]]
+- [[William Zinsser\|William Zinsser]]
+- [[Stefano Mancuso\|Stefano Mancuso]]
+- [[Plath, Sylvia\|Plath, Sylvia]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Políticas Da Imagem\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Políticas Da Imagem]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Piglia, Ricardo\|Piglia, Ricardo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Neil Gaiman\|Neil Gaiman]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Kazuo Ishiguro\|Kazuo Ishiguro]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Ernaux, Annie\|Ernaux, Annie]]
+- [[Piglia, Ricardo\|Piglia, Ricardo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Neil Gaiman\|Neil Gaiman]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Kazuo Ishiguro\|Kazuo Ishiguro]]
+- [[Ernaux, Annie\|Ernaux, Annie]]
 - [[NOTAS DE LEITURA/LIVROS/Dostoiévski\|NOTAS DE LEITURA/LIVROS/Dostoiévski]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Declínio de um Homem\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Declínio de um Homem]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Bergson, Henry\|Bergson, Henry]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Beiguelman, Giselle\|Beiguelman, Giselle]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Bergson, Henry\|Bergson, Henry]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Beiguelman, Giselle\|Beiguelman, Giselle]]
 - [[NOTAS DE LEITURA/LIVROS/Tecnodiversidade\|NOTAS DE LEITURA/LIVROS/Tecnodiversidade]]
 - [[Stoner\|Stoner]]
 - [[NOTAS DE LEITURA/LIVROS/Seu Cérebro Bem Alimentado\|NOTAS DE LEITURA/LIVROS/Seu Cérebro Bem Alimentado]]
@@ -142,7 +142,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/COMO COMECEI A ESCREVER NOTAS ESTÚPIDAS\|COMO COMECEI A ESCREVER NOTAS ESTÚPIDAS]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Bungo Stray Dogs\|Bungo Stray Dogs]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/traço\|traço]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Sebald, W. G.\|Sebald, W. G.]]
+- [[Sebald, W. G.\|Sebald, W. G.]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/O paradoxo da fé\|O paradoxo da fé]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Der Zauberberg Ou Como deixar a sala vazia rapidamente\|Der Zauberberg Ou Como deixar a sala vazia rapidamente]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Um milagre termodinamico - atomico\|Um milagre termodinamico - atomico]]
