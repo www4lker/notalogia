@@ -1,0 +1,110 @@
+---
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/the-currency-of-the-new-economy-won-t-be-money-but-attention/","tags":["ANELO","interessesgerais","pesquisa","interessesdepesquisa","internet","podkasten","geo","filosofia","disserte","acadêmico","metodologia","capitalismo","episteme","otimistarealista","anglo","wiredetal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+---
+
+# The currency of the New Economy won_t be money, but attention
+
+## criado em: 
+- 04-06-2024
+- 19:41
+## relacionados:
+- notas:
+1. [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/a origem do termo economia da atenção\|a origem do termo economia da atenção]]
+2. [[0 - VAULT/1 NOTAS LITERAIS/888/5 pontos sobre Economia da Atenção\|5 pontos sobre Economia da Atenção]]
+3. [[2 NOTA PERMANENTE/o mercado, o indivíduo e como sua atenção se tornou uma mercadoria\|2 NOTA PERMANENTE/o mercado, o indivíduo e como sua atenção se tornou uma mercadoria]]
+4. [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/ECONOMIA DA ATENÇÃO - Wired\|ECONOMIA DA ATENÇÃO - Wired]]
+- tags: #ANELO #interessesgerais #pesquisa #interessesdepesquisa #internet #podkasten #geo #filosofia #disserte #acadêmico #metodologia #capitalismo #episteme #otimistarealista #anglo #wiredetal 
+- Fontes & Links: https://www.wired.com/1997/12/es-attention/
+---
+# Attention Shoppers!
+
+The currency of the New Economy won't be money, but attention—a radical theory of value.As is now obvious, the economies of the industrialized nations—and especially that of the US—have shifted dramatically. We've turned a corner toward an [economy](https://www.wired.com/tag/economics/) where an increasing number of workers are no longer involved directly in the production, transportation, and distribution of material goods, but instead earn their living managing or dealing with information in some form. Most call this an "information economy."
+
+Yet, ours is not truly an information economy. By definition, economics is the study of how a society uses its scarce resources. And information is not scarce—especially on the net, where it is not only abundant, but overflowing. We are drowning in [information](https://www.wired.com/story/wired-guide-personal-data-collection/), yet constantly increasing our generation of it. So a key question arises: Is there something else that flows through [cyberspace](https://www.wired.com/story/what-is-the-metaverse/), something that is scarce and desirable? There is. No one would put anything on the internet without the hope of obtaining some. It's called [attention](https://www.wired.com/story/3-smart-things-attention/). And the economy of attention—not information—is the natural economy of cyberspace.
+
+Attention has its own behavior, its own dynamics, its own consequences. An economy built on it will be different than the familiar material-based one. For the past decade I have been exploring how this new system will work. This article is a rough outline of where we are headed.
+
+Technically, at least, information and its flow can be accurately detected and counted (in bits, bytes, and baud rates) by simple electronic devices. Attention is more mysterious, a process that can occur only in a mind, yet somehow it moves out into the world as well. If you're in a phone conversation, your attention goes to the party at the other end of the line. If you're chatting over the net, your attention flows through it. The flow may be metaphoric, but it is a metaphor of uncommon depth. Phrases such as "pay attention" and "I can't give you my full attention right now" trip easily off our tongues—almost as if this state of awareness were a substance.
+
+"Attention," write Thomas Mandel and Gerard Van der Leun in their 1996 book _Rules of the Net,_ "is the hard currency of cyberspace." They're dead on. As the net becomes an increasingly strong presence in the overall economy, the flow of attention will not only anticipate the [flow of money](https://www.wired.com/2013/06/money-wants-to-be-free/), but eventually replace it altogether.
+
+Though it might sound peculiar at first, attention as the basis of a new economy really does work. To begin with, attention addresses a fundamental human desire. Let's suppose you woke up one morning, well supplied with food and other material essentials, but invisible and inaudible, unable to get noticed in any way at all. At first, it could be quite amusing to spy and eavesdrop, to see what you're not supposed to. But no matter what you discovered, not being able to share your encounters with anyone would soon become torture—itself a pain you couldn't express to anyone. Living without feedback, even in the lap of luxury, would be for all but a few recluses barely living at all.
+
+Some minimum of attention is essential. While many of us crave huge amounts of recognition, the lure is not merely fame or a place in history. It's also praise from the people around you for what you do. The internet is an amazing expression of these desires. People log on to connect with others, gossip, debate, advise, and learn about those like or unlike themselves. They log on to exchange attention. And, not surprisingly, anyone who has spent an appreciable amount of time on the net has advice about paying attention. In his online book _Virtual Community,_ Howard Rheingold lays out two guidelines: "Rule Number One is to pay attention. Rule Number Two might be: Attention is a limited resource, so pay attention to where you pay attention."
+
+A Truly Limited Resource
+
+But how does attention come to dominate the emerging economy? Any conventional economist will tell you that ordinary material products are scarce and presumably always will be. Technically, that might be true, but in practice, mass production spews forth so much that there's a shift in emphasis away from the material desires that dominated the old economy. For many people in the US, Western Europe, Japan, and a growing list of other places, the materials needed for basic living are more than abundant. To take one small example, in the US food is so cheap and plentiful that eating too much is considered more of a concern than getting too little.
+
+Attention is different. It really is scarce, and the total amount per capita is strictly limited. To see why, consider yours, right now. It's going to these words. No matter how brilliant or savvy at multitasking you are, you can't be focusing on very much else. Ultimately then, the attention economy is a zero-sum game. What one person gets, someone else is denied.
+
+As it happens, I have conflicting feelings about what this implies. I happen to favor equality—equal distribution of the world's wealth. But I also like getting recognition. I can't have it both ways. The size of the attention pie can grow as more and more people join the world audience, but the size of the average slice can't. Real attention to you, meaning minds focusing on you, is always limited by the number of minds there are. The more minds, the more attention—but also the more who might want attention. The total available attention per capita (per mind) is simply not going to change.
+
+Howard Rheingold offers two guidelines on attention. Rule One: Pay attention. Rule Two: Pay attention to where you pay attention.
+
+To summarize, attention can ground an economy because it is a fundamental human desire and is intrinsically, unavoidably scarce. It can be a rich and complex economy because attention comes in many forms: love, recognition, heeding, obedience, thoughtfulness, caring, praising, watching over, attending to one's desires, aiding, advising, critical appraisal, assistance in developing new skills, et cetera. An army sergeant ordering troops doesn't want the kind of attention Madonna seeks. And neither desires the sort I do as I write this. There are also many ways to capture attention: via your thoughts, inventions, self-revelations, expressions, performances, artistic creations, achievements, pleas, and arresting appearances.
+
+There is one further wrinkle. Attention goes both ways, even when information doesn't. Suppose you run into Sam, an old acquaintance. The dialog might go: "How are you?" "Just fine." You may not be any wiser for the small talk, but you've exchanged attention. If you truly want your question answered, Sam's honest reply would be attentive to your desire to know. Each time someone focuses directly or indirectly on anybody else, that can be thought of as a "transaction" in this new economy—a transaction that usually doesn't involve money.
+   
+
+What about this transaction now, where attention flows from a reading audience to an individual? Is it also flowing from me to you? In reality it's not, but if I don't make you feel that I'm writing for you to some extent, what would keep you reading? Whenever you pay attention to someone, you have to be getting at least some _illusory attention_ back.
+
+The key point about the various forms and avenues of attention is that while we each want it to some extent, it does not arrive in equal measure. This explains why many of us are working harder and harder to get some, and why we eagerly latch onto technologies such as the internet and the Web. Cyberspace affords new opportunities for capturing attention that might otherwise dissipate. It promises nearly everyone a chance at attention from millions, the potential to be noticed by the largest possible audience—or by an audience of peers whose attention we value most. But the net also ups the ante, increasing the relentless pressure to get some fraction of this limited resource. At the same time, it generates ever greater demands on each of us to pay what scarce attention we can to others.
+
+Star System
+
+Keeping attention transactions equitable in the future will be no easier than keeping cash transactions equitable today. A spendthrift will allow a few people to monopolize her attention. Or she may even lavish it on someone who can't give it back—say, Elvis, or an ancestor. Remember Rheingold's advice: Pay attention to where you pay attention.
+
+That's because the attention economy is a star system, where Elvis has an advantage. The relationship between stars and fans is central. Even without cyberspace, celebrities in show business, politics, and every other discipline accumulate huge amounts of notice. Over a billion tune into TV specials like the Super Bowl and the Academy Awards. TV networks claim that two and half billion people watched the funeral of Princess Diana.
+
+But suppose you aren't a star like Elvis or Princess Di. Does that mean you'll be impoverished in the coming economy? Maybe not. Cyberspace offers a much more effective means of continuing and completing attention transactions, as well as opening up more possibilities to almost everyone. Whoever you are, however you express yourself, you can now have a crack at the global audience. Most likely you will also see people picking stars (and microstars) and becoming part of their "entourages." In cyberspace, this might mean you set up and run a fan site, or help design or maintain a complex cybercommunity, such as Geocities, where subsections of the site have their own webmasters. If you're a software programmer, for example, you might seek out some visionary codemaster who excites you. She will probably build a rather large entourage, and since you are in her circle, some of that attention will be diverted to you, the upcoming microstar.
+
+Attention flows not only from fan to star, but in a hyperlinked way it can be passed from star to star, or fan to fan. A growing variety of attention types can bounce along through cyberspace: personal advice, suggestions, connections, editing, assistance in self-expression, responses, acclaim, or new software designed especially for your purposes. More gets more. Someone can pay you attention by helping you track down a specific fact (or create some special effect) that will help you get still more notice. Of course, you can earn negative attention as well, such as flaming, shaming, and outright hatred. But as many a disobedient child knows, negative attention can be better than none at all. On the Web, if you're adept, you can use notoriety to bring more notice to yourself.
+
+The End of Money
+
+And here's where it gets interesting: attention can't be bought. When advertisers pay for an ad, for example, they are guaranteed only a chance at an audience's notice. Audience members learn to ignore or turn off all but the most interesting ads, and even then they may not focus on what's being advertised. In fact, as the attention economy becomes dominant, the advertising industry won't exist as it does today, since its point is to induce people to spend money. In the future, ads will exist only to attract and direct attention, because money will be obsolete.
+
+Let me attempt to make this outlandish thought easier to swallow. To begin with, cyberspace is not that hospitable to monetary transactions. Electronic money (in the form of digital bits) requires a complex set of codes, passwords, firewalls, et cetera. Attention requires no encryption. It flows naturally across the Web.
+
+
+Second, if you get attention, that means you have some control over both the thoughts and actions of those paying it to you. Think of a panda. When you started reading this article, you had no idea this black-and-white mammal would enter your thoughts. (Or did you notice a hint in the illustration?) Did you just turn the page back to check? Some readers did. Their action came under my control because of the attention they gave me. Someone better at this than me, someone who "enthralls" an audience, is in quite a real sense temporarily making the audience members her "thralls"—or, slaves. The very act of paying attention may seem voluntary, but often it is not completely so. There is a definite element of compulsion involved. It's no coincidence that people say things like, "I _have_ to check out that Web site," "You've _gotta_ watch that show," or "That book is a _must_ read." And each of those activities takes physical as well as mental effort.
+
+Already today, no matter what you do, the money you receive is more and more likely to track the recognition that comes to you for doing what you do. If there is nothing very special about your work, no matter how hard you apply yourself you won't get noticed, and that increasingly means you won't get paid much either.
+
+As the attention economy becomes dominant, advertising will exist only to attract and direct attention, because money will be obsolete.
+
+This trend in recompense in the US has been documented in _The Winner-Take-All Society,_ a book by economists Robert H. Frank and Philip J. Cook. The authors note that the star system we are accustomed to in sports, entertainment, and the arts has migrated to the professions. As a September 3, 1997, front-page headline in _The Wall Street Journal_ announced, "CEOs are stars now." That's how they are paid, hired, utilized, and dismissed. They operate within their companies more as attention-getting motivators than bosses. The same goes for rainmaking legal partners, high-powered lobbyists, and academics. More and more they are treated as celebrities. When they leave, they leave like stars, taking their entourages in tow. At the other extreme, ordinary line workers, fast-food servers, custodians, and others who don't particularly stand out have found their relative financial standing eroding. In times past, you could be obscure yet secure—now that's harder.
+
+But how exactly will a moneyless attention economy play out in the world of old-fashioned, but still-needed, material goods? How will attention get you, say, an automobile? Cars emanate from vast corporations. Can you really expect an entity like GM to pay you enough attention to build one for you? In truth, the process is not nearly so monolithic; no single company makes cars in isolation. Automobile designs are copied, reverse-engineered, or licensed, and parts are often made by smaller outside workshops. Much of the advice, planning, and management comes from outside consultants. The car is no longer assembled from parts on one long assembly line; rather, subassemblies are often put together in different locations first. At every stage, more and more tasks are automated; that means more of the attention required to make a car occurs upstream as part of design and production planning.
+
+With most people involved in the entire process connected to each other and to the rest of the world through cyberspace, it is not difficult to foresee a time when corporations will pretty much disappear, and when it will make a lot more sense to speak of a complex carmaking community, made up mostly of entourages surrounding thousands of stars and microstars. As is common among entourages, much participation would be less than full time, and the majority of members would belong to other communities as well, and even to other entourages.
+
+Thus many people in the broad car community will also share membership in some of the same communities of attention as anyone who might want a car. As long as the person in question gets enough attention, she would almost certainly be able to draw enough from overlaps between her primary communities and the car community to arrange to be put into the driver's seat she craves. Assuming automation keeps cutting the total amount of actual attention needed to make each individual car, less and less stardom will be required to end up with one.
+
+In cyberspace, there is nothing natural about large-scale divisions like cities, nations, bureaucracies, and corporations. The only divisions, and rough ones at that, are among audiences, entourages, and what could be called attention communities. Each community is centered on some topic and usually includes a number of stars, along with their fans. Attention flows from community to community. Below this primary exchange will flow the less important exchange of goods and materials.
+
+It’s Happened Before
+
+History offers a parallel for understanding this radical notion of an attention economy superseding the use of money. At the height of the feudal order in Europe, everyone took for granted that tilling the soil would always be primary, and that wealth and property would always depend on possessing the right bloodlines to own title to land (which could never be sold). It was unimaginable to either serfs or nobles that nobility and titles could cease to be a means to wealth. They were all that counted then. Yet, as the industrial economy developed, food production became just another industry, and not even a highly important one. Bloodlines lost significance as well, except for pedigreed dogs and racehorses. Something that had hardly existed—money—became the basis of a new economy. And, incidentally, the most gorgeous armor, the most magnificent knightly tournaments, and the greatest interest in noble lineage all took place just as feudalism was on its way out.
+
+If you prefer to think in more numerical terms, ponder this: transactions in which money is involved may be growing in total number, but the total number of global attention transactions is growing even faster. By attention transactions I mean occasions when attention is paid to someone who can possibly make some use of having it, or is able to pass it on to someone else. People trade attention at work, at home, and in between, day in and day out. Anyone tied into the Web might make hundreds of such transactions a day, far more than the number of monetary transactions they are likely to be involved in.
+
+The rise of the attention economy has a parallel: at the height of the feudal order in Europe, bloodlines and titles were replaced by a new form of wealth—money.
+
+The attention economy is something real, and like every real economy, it has its shortcomings. Among its problems are these: 1. The danger of huge inequality between stars and fans; 2. The possibility that increasing demand for our limited attention will keep us from reflecting, or thinking deeply (let alone enjoying leisure); 3. The possibility that we will be so engrossed by efforts to capture our attention that we will shortchange those around us, especially children.
+
+Beyond these problems, there are many more changes to expect as the attention economy grows in power. Here are some that come to mind first:
+
+-   As the flow of attention becomes more important, so will cyberspace.
+-   The importance of stars will increase, with a corresponding decline in power for those who insist on anonymity.
+-   A lessening role for large organizations, because they can't focus or trade attention easily.
+-   The same goes for governments, whose role will diminish as well.
+-   Almost everyone will have a personal Web site.
+-   For a secure old age, you will not want to rely entirely on Social Security or any kind of investment, monetary savings, or pension fund.
+-   In projects of all kinds, comprehensive lists of credits for everyone involved will become as common and necessary as in Hollywood films now.
+-   To thrive in the coming century, you will have to look beyond money in any form and build a stock of attention for yourself as best you can. This will not be an easy current to swim in. But don't be distracted. The most gorgeous castles of capitalism, the most colorful ceremonies of payment and receivables, the most elaborate rituals around money and investments are now at their height, just as the era of the money economy expires. For better or worse, the attention economy will prevail.
+
+---
+
+_Michael H. Goldhaber (mgoldh@well.com) is the author of_ Reinventing Technology _and a visiting scholar at the Institue for the Study of Social Change at the University of California at Berkeley. He’s completing a book on the attention economy._
