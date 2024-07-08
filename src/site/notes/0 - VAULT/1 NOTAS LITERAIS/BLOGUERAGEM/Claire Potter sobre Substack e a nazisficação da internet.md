@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/claire-potter-sobre-substack-e-a-nazisficacao-da-internet/","tags":["substack","textão","anglo","leitura","interessesgerais","mestredeculturacontemporanea","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/claire-potter-sobre-substack-e-a-nazisficacao-da-internet/","tags":["substack","textão","anglo","leitura","interessesgerais","mestredeculturacontemporanea","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Claire Potter sobre Substack e a nazisficação da internet

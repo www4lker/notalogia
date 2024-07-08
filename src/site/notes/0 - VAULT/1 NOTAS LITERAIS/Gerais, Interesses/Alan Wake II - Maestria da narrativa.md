@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/alan-wake-ii-maestria-da-narrativa/","tags":["hardboiled","lit","literatura","tv","cultura","games","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/alan-wake-ii-maestria-da-narrativa/","tags":["hardboiled","lit","literatura","tv","cultura","games","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # alan wake II - Destaque Narrativo de 2023

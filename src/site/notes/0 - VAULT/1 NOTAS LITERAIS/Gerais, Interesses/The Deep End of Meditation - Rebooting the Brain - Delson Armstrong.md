@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/the-deep-end-of-meditation-rebooting-the-brain-delson-armstrong/","tags":["podkasten","insight","vipassana","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/the-deep-end-of-meditation-rebooting-the-brain-delson-armstrong/","tags":["podkasten","insight","vipassana","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # The Deep End of Meditation - Rebooting the Brain - Delson Armstrong
@@ -11,7 +11,7 @@
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/2 why buddhism is true\|2 why buddhism is true]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/entrevista com J Goldstein - por Robert Wright\|entrevista com J Goldstein - por Robert Wright]]
-- [[0 - VAULT/1 NOTAS LITERAIS/O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST\|O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST\|O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]
 - tags: #podkasten #insight #vipassana #meditacao
 ---
 - [00:00](https://www.youtube.com/watch?v=12s9L0VOAMA&t=0s) 🤯 A meditação profunda permite observar a formação de pensamentos antes de sua plena manifestação, proporcionando experiências sensoriais intensas.

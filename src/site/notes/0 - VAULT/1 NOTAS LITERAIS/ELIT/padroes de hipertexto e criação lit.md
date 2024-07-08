@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/padroes-de-hipertexto-e-criacao-lit/","tags":["promptgpt3","disserte","interessesdepesquisa","episteme","insight","filosofia","mestredeculturacontemporanea","acadêmico","intelectual","internet"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/padroes-de-hipertexto-e-criacao-lit/","tags":["promptgpt3","disserte","interessesdepesquisa","episteme","insight","filosofia","mestredeculturacontemporanea","acadêmico","intelectual","internet"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # PADRÕES DE HIPERTEXTO E CRIAÇÃO LITERÁRIA

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/duas-regras-basicas-da-nature-para-uso-de-chatgpt/","tags":["pesquisa","totalizante","interessesdepesquisa","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/duas-regras-basicas-da-nature-para-uso-de-chatgpt/","tags":["pesquisa","totalizante","interessesdepesquisa","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # DUAS REGRAS BÁSICAS DA NATURE PARA USO DE CHATGPT

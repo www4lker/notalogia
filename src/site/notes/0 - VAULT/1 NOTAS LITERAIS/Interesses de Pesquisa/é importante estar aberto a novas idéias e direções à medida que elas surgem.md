@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/e-importante-estar-aberto-a-novas-ideias-e-direcoes-a-medida-que-elas-surgem/","tags":["literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/e-importante-estar-aberto-a-novas-ideias-e-direcoes-a-medida-que-elas-surgem/","tags":["literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # é importante estar aberto a novas idéias e direções à medida que elas surgem

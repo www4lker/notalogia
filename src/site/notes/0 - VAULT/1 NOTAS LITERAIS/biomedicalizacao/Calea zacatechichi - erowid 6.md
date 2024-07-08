@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/calea-zacatechichi-erowid-6/","tags":["meditacao","vipassana","insight","sonhos","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/calea-zacatechichi-erowid-6/","tags":["meditacao","vipassana","insight","sonhos","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 https://www.erowid.org/experiences/exp.php?ID=70605

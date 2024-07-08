@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/apneia-de-telas/","tags":["totalizante","ceticismo","tecnologia","insight","wiredetal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/apneia-de-telas/","tags":["totalizante","ceticismo","tecnologia","insight","wiredetal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # apneia de telas

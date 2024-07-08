@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/como-a-economia-da-china-particularmente-em-tecnologia-se-tornou-mais-bem-sucedida-e-influente-globalmente/","tags":["meta","escrivão","pesquisa","interessesgerais","tecnologia","geo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/como-a-economia-da-china-particularmente-em-tecnologia-se-tornou-mais-bem-sucedida-e-influente-globalmente/","tags":["meta","escrivão","pesquisa","interessesgerais","tecnologia","geo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 311220222346

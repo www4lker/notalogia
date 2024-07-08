@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/este-projeto-visa-explorar-as-trajetorias-da-globalizacao-e-os-desafios-intrinsecos-a-seu-surgimento/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","ECCO","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/este-projeto-visa-explorar-as-trajetorias-da-globalizacao-e-os-desafios-intrinsecos-a-seu-surgimento/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","ECCO","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 2023 16 10 ecco

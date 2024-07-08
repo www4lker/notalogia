@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psique/tad/","tags":["insight","psique","totalizante","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psique/tad/","tags":["insight","psique","totalizante","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # TAD
@@ -14,8 +14,8 @@ Também: **Self-Determination Theory** (SDT)
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Vipassana e TAD\|Vipassana e TAD]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/O link crucial entre motivação e auto consciência\|O link crucial entre motivação e auto consciência]]
 - [[0 - VAULT/1 NOTAS LITERAIS/psique/Como TAD pode me ajudar\|Como TAD pode me ajudar]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Solidão pode ser boa\|Solidão pode ser boa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/jogos difíceis e TAD\|jogos difíceis e TAD]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Solidão pode ser boa\|Solidão pode ser boa]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/jogos difíceis e TAD\|jogos difíceis e TAD]]
 - [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/missão da ciência da personalidade\|missão da ciência da personalidade]]
 - tags: #insight #psique #totalizante #householder 
 - Fontes & Links: https://selfdeterminationtheory.org/theory/

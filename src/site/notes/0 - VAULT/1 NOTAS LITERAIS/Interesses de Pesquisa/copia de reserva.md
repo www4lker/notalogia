@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/copia-de-reserva/","tags":["disserte","tv","pesquisa","escrita","arte","dostoievski"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/copia-de-reserva/","tags":["disserte","tv","pesquisa","escrita","arte","dostoievski"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # copia de reserva

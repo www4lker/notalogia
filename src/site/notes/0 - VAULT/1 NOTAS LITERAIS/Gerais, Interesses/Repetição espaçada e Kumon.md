@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/repeticao-espacada-e-kumon/","tags":["toolstolife","anelo","lit","literatura","academia","academico","meth","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/repeticao-espacada-e-kumon/","tags":["toolstolife","anelo","lit","literatura","academia","academico","meth","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Repetição espaçada e Kumon

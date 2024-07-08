@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/elit-no-brasil-hoje/","tags":["literatura","internet","disserte","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/elit-no-brasil-hoje/","tags":["literatura","internet","disserte","mestredeculturacontemporanea","toródeideias"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # ELIT - NO BRASIL HOJE
@@ -7,11 +7,11 @@
 ## criado em: 
 - 19-06-2024
 - 17:57
-- [[0 - VAULT/1 NOTAS LITERAIS/literatura ergódica\|literatura ergódica]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ELO\|ELO]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Cybertext\|Cybertext]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/literatura ergódica\|literatura ergódica]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/ELO\|ELO]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Cybertext\|Cybertext]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)\|Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Canclini, Néstor García\|Canclini, Néstor García]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Canclini, Néstor García\|Canclini, Néstor García]]
 - #literatura #internet #disserte #mestredeculturacontemporanea 
 
 ## Perguntas de Pesquisa:

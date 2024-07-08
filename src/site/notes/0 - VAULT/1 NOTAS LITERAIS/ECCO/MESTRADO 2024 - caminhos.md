@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/mestrado-2024-caminhos/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","memai","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/mestrado-2024-caminhos/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","memai","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # MESTRADO 2023 - caminhos

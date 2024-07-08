@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/notas-sobre-aspectos-da-psicologia-e-da-ciencia-sobre-nossa-atracao-pelo-medo/","tags":["interessesgerais","cultura","mestredeculturacontemporanea","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/notas-sobre-aspectos-da-psicologia-e-da-ciencia-sobre-nossa-atracao-pelo-medo/","tags":["interessesgerais","cultura","mestredeculturacontemporanea","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # notas sobre aspectos da psicologia e da ciência sobre nossa atração pelo medo

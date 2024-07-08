@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/unheimlich-everywhere/","tags":["permanente","wiredetal","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/unheimlich-everywhere/","tags":["permanente","wiredetal","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Unheimlich Everywhere
@@ -10,9 +10,9 @@
 - Hora: 11:38
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Hui, Yuk\|Hui, Yuk]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/Hui, Yuk\|Hui, Yuk]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
-- [[0 - VAULT/1 NOTAS LITERAIS/filosofia da linguagem\|filosofia da linguagem]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/filosofia da linguagem\|filosofia da linguagem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/chatgpt roubou seu trabalho - e agora oque farás (pergunta)\|chatgpt roubou seu trabalho - e agora oque farás (pergunta)]]
 - tags:   #wiredetal #promptgpt3 #meta #zettelkasten #1000palavrasoumais #disserte #newsletter #ceticismo #escrita #filosofia #mestredeculturacontemporanea #criatividade #episteme 
 - Fontes & Links: https://www.e-flux.com/notes/526496/unheimlich-the-spiral-of-chaos-and-the-cognitive-automaton
@@ -27,16 +27,16 @@ O artigo explora o conceito alemão de "unheimlich", inadequadamente traduzido c
 
 **Notas/Tópicos conectados:**
 
-Nota 2:[[0 - VAULT/1 NOTAS LITERAIS/Evolução histórica do conceito de Unheimlich\|Evolução histórica do conceito de Unheimlich]]
+Nota 2:[[0 - VAULT/1 NOTAS LITERAIS/888/Evolução histórica do conceito de Unheimlich\|Evolução histórica do conceito de Unheimlich]]
 
-Nota 3: [[0 - VAULT/1 NOTAS LITERAIS/Inteligência Artificial e Consciência Humana\|Inteligência Artificial e Consciência Humana]]
+Nota 3: [[0 - VAULT/1 NOTAS LITERAIS/888/Inteligência Artificial e Consciência Humana\|Inteligência Artificial e Consciência Humana]]
 
-Nota 4: [[0 - VAULT/1 NOTAS LITERAIS/Role of Automatons in Modern Society\|Role of Automatons in Modern Society]]
+Nota 4: [[0 - VAULT/1 NOTAS LITERAIS/888/Role of Automatons in Modern Society\|Role of Automatons in Modern Society]]
 
-Nota 5: [[0 - VAULT/1 NOTAS LITERAIS/Mass Psychosis and Societal Collapse\|Mass Psychosis and Societal Collapse]]
+Nota 5: [[0 - VAULT/1 NOTAS LITERAIS/888/Mass Psychosis and Societal Collapse\|Mass Psychosis and Societal Collapse]]
 
-Nota 6: [[0 - VAULT/1 NOTAS LITERAIS/The Consequences of AI Proliferation\|The Consequences of AI Proliferation]]
+Nota 6: [[0 - VAULT/1 NOTAS LITERAIS/888/The Consequences of AI Proliferation\|The Consequences of AI Proliferation]]
 
-Nota 7: [[0 - VAULT/1 NOTAS LITERAIS/Ethics and AI - ética e IA\|Ethics and AI - ética e IA]]
+Nota 7: [[0 - VAULT/1 NOTAS LITERAIS/888/Ethics and AI - ética e IA\|Ethics and AI - ética e IA]]
 
-Nota final: [[0 - VAULT/1 NOTAS LITERAIS/O Paradoxo do Iluminismo\|O Paradoxo do Iluminismo]]
+Nota final: [[0 - VAULT/1 NOTAS LITERAIS/888/O Paradoxo do Iluminismo\|O Paradoxo do Iluminismo]]

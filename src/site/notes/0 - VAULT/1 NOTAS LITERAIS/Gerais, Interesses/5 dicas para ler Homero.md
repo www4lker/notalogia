@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/5-dicas-para-ler-homero/","tags":["habitanimal","literatura","filosofia","sciencebitchn","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/5-dicas-para-ler-homero/","tags":["habitanimal","literatura","filosofia","sciencebitchn","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 5 dicas para ler Homero
@@ -10,8 +10,8 @@
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Heróis Clássicos e a Teoria do Heroísmo de Becker\|Heróis Clássicos e a Teoria do Heroísmo de Becker]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Metamorfoses de ovídio\|Metamorfoses de ovídio]]
-- [[0 - VAULT/1 NOTAS LITERAIS/TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM\|TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM]]
-- [[0 - VAULT/1 NOTAS LITERAIS/como perder o cabaço de livros\|como perder o cabaço de livros]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM\|TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/como perder o cabaço de livros\|como perder o cabaço de livros]]
 - tags: #habitanimal #literatura #filosofia #sciencebitchn #podkasten 
 - Fontes & Links: [this video](https://www.youtube.com/watch?v=tEXrl6Orbo0)
 ---

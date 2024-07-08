@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/1000-fas-de-verdade/","tags":["wiredetal","anglo","substack","internet","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/1000-fas-de-verdade/","tags":["wiredetal","anglo","substack","internet","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 091220220306

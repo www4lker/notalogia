@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/brandon-sanderson-e-teu-deus/","tags":["wiredetal","filosofia","interessesgerais","interessesdepesquisa","toródeideias","elit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/brandon-sanderson-e-teu-deus/","tags":["wiredetal","filosofia","interessesgerais","interessesdepesquisa","toródeideias","elit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Brandon Sanderson é teu deus

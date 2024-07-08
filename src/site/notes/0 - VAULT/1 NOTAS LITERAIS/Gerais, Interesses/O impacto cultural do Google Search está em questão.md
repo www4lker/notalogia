@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/o-impacto-cultural-do-google-search-esta-em-questao/","tags":["interessesgerais","interessesdepesquisa","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/o-impacto-cultural-do-google-search-esta-em-questao/","tags":["interessesgerais","interessesdepesquisa","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # O impacto cultural do Google Search está em questão
@@ -9,9 +9,9 @@
 - 18:06
 ## relacionados:
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Como remover informações pessoais dos resultados de pesquisa do Google\|Como remover informações pessoais dos resultados de pesquisa do Google]]
-- [[0 - VAULT/1 NOTAS LITERAIS/a web está mal\|a web está mal]]
-- [[0 - VAULT/1 NOTAS LITERAIS/como o google aperfeiçoou a web\|como o google aperfeiçoou a web]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Como remover informações pessoais dos resultados de pesquisa do Google\|Como remover informações pessoais dos resultados de pesquisa do Google]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/a web está mal\|a web está mal]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/como o google aperfeiçoou a web\|como o google aperfeiçoou a web]]
 - tags: #interessesgerais #interessesdepesquisa #disserte
 - Fontes & Links: https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords
 ---

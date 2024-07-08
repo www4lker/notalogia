@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/14-why-buddhism-is-true/","tags":["buddhismo","insight","meditacao","totalizante","chatgpt","vipassana","retiro-vipassana","psique","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/14-why-buddhism-is-true/","tags":["buddhismo","insight","meditacao","totalizante","chatgpt","vipassana","retiro-vipassana","psique","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 14 why buddhism is true
@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/13 why buddhism is true\|13 why buddhism is true]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/15 why buddhism is true\|15 why buddhism is true]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Poem with nirvana\|Poem with nirvana]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Poem with nirvana\|Poem with nirvana]]
 - tags: #buddhismo #insight #meditacao #totalizante #chatgpt #vipassana  #retiro-vipassana #psique #anglo 
 ---
 

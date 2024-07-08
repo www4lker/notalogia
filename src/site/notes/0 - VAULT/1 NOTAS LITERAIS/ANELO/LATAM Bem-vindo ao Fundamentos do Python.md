@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/latam-bem-vindo-ao-fundamentos-do-python/","tags":["python","teoria","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/latam-bem-vindo-ao-fundamentos-do-python/","tags":["python","teoria","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # LATAM Bem-vindo ao Fundamentos do Python

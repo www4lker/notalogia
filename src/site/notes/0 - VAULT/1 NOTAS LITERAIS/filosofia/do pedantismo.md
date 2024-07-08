@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/do-pedantismo/","title":"do pedantismo","tags":["totalizante","enfim","insight","filosofia","ceticismo","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/do-pedantismo/","title":"do pedantismo","tags":["totalizante","enfim","insight","filosofia","ceticismo","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # do pedantismo

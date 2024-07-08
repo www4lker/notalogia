@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/vicio-em-chat-gpt/","tags":["interessesgerais","interessesdepesquisa","meta","promptgpt3","wiredetal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/vicio-em-chat-gpt/","tags":["interessesgerais","interessesdepesquisa","meta","promptgpt3","wiredetal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Vício em ChatGpt

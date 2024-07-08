@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/why-you-stay-up-so-late-wired/","tags":["biohack","habitanimal","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/why-you-stay-up-so-late-wired/","tags":["biohack","habitanimal","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Por que você fica acordado até tão tarde, mesmo quando sabe que não deveria
@@ -9,9 +9,9 @@
 - Hora: 11:44
 
 ### Conteúdo Relacionado
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/power down routine\|power down routine]]\
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/power down routine\|power down routine]]\
 - [[0 - VAULT/2 NOTAS PERMANENTES/How to start the perfect sleep routine\|How to start the perfect sleep routine]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Rotina blecaute\|Rotina blecaute]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Rotina blecaute\|Rotina blecaute]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/cronotipo noturno\|cronotipo noturno]]
 - tags: #biohack #habitanimal #totalizante 
 - Fontes & Links: 

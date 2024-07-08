@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/10-razoes-para-ser-bom-o-uso-de-creditos-de-carbono/","tags":["geo","interessesgerais","capitalismo","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/10-razoes-para-ser-bom-o-uso-de-creditos-de-carbono/","tags":["geo","interessesgerais","capitalismo","otimistarealista"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 10 razões para ser bom o uso de créditos de carbono

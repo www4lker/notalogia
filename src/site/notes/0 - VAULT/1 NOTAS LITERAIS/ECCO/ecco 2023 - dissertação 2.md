@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ecco-2023-dissertacao-2/","tags":["ECCO","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ecco-2023-dissertacao-2/","tags":["ECCO","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Este resumo propõe uma análise histórica da arquitetura de Cuiabá, Mato Grosso, com foco particular na influência das imigrações e influências internacionais na formação das edificações históricas e paisagem urbana da cidade.

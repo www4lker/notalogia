@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/desequilibrio-entre-oferta-e-demanda-de-profissionais-na-area-de-tecnologia-no-brasil/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","memai","academico","academia","toródeideias","ECCO","anelo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/desequilibrio-entre-oferta-e-demanda-de-profissionais-na-area-de-tecnologia-no-brasil/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","memai","academico","academia","toródeideias","ECCO","anelo","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # seis principais determinantes do problema e potenciais soluções

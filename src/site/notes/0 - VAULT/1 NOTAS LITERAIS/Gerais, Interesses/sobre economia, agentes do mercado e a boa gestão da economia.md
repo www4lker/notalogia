@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/sobre-economia-agentes-do-mercado-e-a-boa-gestao-da-economia/","tags":["geo","interessesgerais","metodologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/sobre-economia-agentes-do-mercado-e-a-boa-gestao-da-economia/","tags":["geo","interessesgerais","metodologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # sobre economia, agentes do mercado e a boa gestão da economia

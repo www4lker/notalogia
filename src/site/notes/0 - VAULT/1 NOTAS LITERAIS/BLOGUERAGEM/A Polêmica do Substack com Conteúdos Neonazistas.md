@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/a-polemica-do-substack-com-conteudos-neonazistas/","tags":["substack","escrivão","EarlyWeb","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/a-polemica-do-substack-com-conteudos-neonazistas/","tags":["substack","escrivão","EarlyWeb","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A Polêmica do Substack com Conteúdos Neonazistas
@@ -10,9 +10,9 @@ sair do substack?
 - 08:271
 ## relacionados:
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Substack é uma ameaça, mais ou menos\|Substack é uma ameaça, mais ou menos]]
-- [[0 - VAULT/1 NOTAS LITERAIS/filosofia do texto puro - mataroa\|filosofia do texto puro - mataroa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Porque tentar o mataroa\|Porque tentar o mataroa]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Substack é uma ameaça, mais ou menos\|Substack é uma ameaça, mais ou menos]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/filosofia do texto puro - mataroa\|filosofia do texto puro - mataroa]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Porque tentar o mataroa\|Porque tentar o mataroa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/A Polêmica do Substack com Conteúdos Neonazistas\|A Polêmica do Substack com Conteúdos Neonazistas]]
 - tags: #substack #escrivão #EarlyWeb #insumos 
 ---

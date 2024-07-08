@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/a-autenticidade-e-um-conceito-bastante-abstrato/","tags":["toródeideias","meta","obsidian","insight","zettelkasten","promptgpt3","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/a-autenticidade-e-um-conceito-bastante-abstrato/","tags":["toródeideias","meta","obsidian","insight","zettelkasten","promptgpt3","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 

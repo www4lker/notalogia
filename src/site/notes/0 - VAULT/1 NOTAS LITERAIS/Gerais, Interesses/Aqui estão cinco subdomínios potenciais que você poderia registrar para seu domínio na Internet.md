@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/aqui-estao-cinco-subdominios-potenciais-que-voce-poderia-registrar-para-seu-dominio-na-internet/","tags":["internet","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/aqui-estao-cinco-subdominios-potenciais-que-voce-poderia-registrar-para-seu-dominio-na-internet/","tags":["internet","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Aqui estão cinco subdomínios potenciais que você poderia registrar para seu domínio na Internet

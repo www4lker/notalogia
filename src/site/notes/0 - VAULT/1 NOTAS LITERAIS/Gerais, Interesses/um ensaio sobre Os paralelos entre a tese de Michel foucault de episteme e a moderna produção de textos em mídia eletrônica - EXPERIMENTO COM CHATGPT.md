@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/um-ensaio-sobre-os-paralelos-entre-a-tese-de-michel-foucault-de-episteme-e-a-moderna-producao-de-textos-em-midia-eletronica-experimento-com-chatgpt/","tags":["promptgpt3","disserte","filosofia","mestredeculturacontemporanea","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/um-ensaio-sobre-os-paralelos-entre-a-tese-de-michel-foucault-de-episteme-e-a-moderna-producao-de-textos-em-midia-eletronica-experimento-com-chatgpt/","tags":["promptgpt3","disserte","filosofia","mestredeculturacontemporanea","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 231020221805

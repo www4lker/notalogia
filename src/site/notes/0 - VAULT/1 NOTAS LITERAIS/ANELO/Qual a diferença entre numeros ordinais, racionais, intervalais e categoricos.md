@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/qual-a-diferenca-entre-numeros-ordinais-racionais-intervalais-e-categoricos/","tags":["ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/qual-a-diferenca-entre-numeros-ordinais-racionais-intervalais-e-categoricos/","tags":["ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Qual a diferença entre numeros ordinais, racionais, intervalais e categoricos

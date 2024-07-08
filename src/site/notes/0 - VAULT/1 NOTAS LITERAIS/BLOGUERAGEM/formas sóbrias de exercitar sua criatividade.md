@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/formas-sobrias-de-exercitar-sua-criatividade/","tags":["toródeideias","darkforest","totalizante","enfim","insight","filosofia","ceticismo","estoico","promptgpt3","criatividade","wiredetal","artigos","nãoficção","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/formas-sobrias-de-exercitar-sua-criatividade/","tags":["toródeideias","darkforest","totalizante","enfim","insight","filosofia","ceticismo","estoico","promptgpt3","criatividade","wiredetal","artigos","nãoficção","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # formas sóbrias de exercitar sua criatividade

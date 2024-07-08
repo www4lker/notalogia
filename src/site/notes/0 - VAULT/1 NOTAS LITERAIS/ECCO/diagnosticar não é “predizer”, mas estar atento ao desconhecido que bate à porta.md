@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/diagnosticar-nao-e-predizer-mas-estar-atento-ao-desconhecido-que-bate-a-porta/","tags":["permanente","promptgpt3","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/diagnosticar-nao-e-predizer-mas-estar-atento-ao-desconhecido-que-bate-a-porta/","tags":["permanente","promptgpt3","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 202210201143
@@ -8,7 +8,7 @@ criado em: 11:47 20-10-2022
 
 **Objetivo Geral**
 
-Considerando as sensíveis transformações verificadas no mundo contemporâneo e, em particular, na América Latina, submetida a processos próprios de ocupação, crescimento, fricções socioculturais e aos processos mundiais, a partir de meados do século XX, o curso de Mestrado do Programa de Pós-Graduação em Estudos de Cultura Contemporânea (ECCO) visa corresponder à demanda e necessidade de reflexão sobre aquilo que estamos fazendo de nós mesmos, sistematicamente. Diagnosticar os novos modos de fazer, de pensar e de se vincular socialmente é o objetivo geral deste Programa, lembrando, com Gilles Deleuze [[0 - VAULT/1 NOTAS LITERAIS/Deleuze\|Deleuze]], que diagnosticar não é “predizer”, mas estar atento ao desconhecido que bate à porta.
+Considerando as sensíveis transformações verificadas no mundo contemporâneo e, em particular, na América Latina, submetida a processos próprios de ocupação, crescimento, fricções socioculturais e aos processos mundiais, a partir de meados do século XX, o curso de Mestrado do Programa de Pós-Graduação em Estudos de Cultura Contemporânea (ECCO) visa corresponder à demanda e necessidade de reflexão sobre aquilo que estamos fazendo de nós mesmos, sistematicamente. Diagnosticar os novos modos de fazer, de pensar e de se vincular socialmente é o objetivo geral deste Programa, lembrando, com Gilles Deleuze [[0 - VAULT/1 NOTAS LITERAIS/888/Deleuze\|Deleuze]], que diagnosticar não é “predizer”, mas estar atento ao desconhecido que bate à porta.
 
 **Objetivos Específicos**
 
@@ -36,21 +36,21 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 
 
 
-- [[0 - VAULT/1 NOTAS LITERAIS/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Assisti pleasure\|Assisti pleasure]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/atlanta\|atlanta]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD\|CEUPCD]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como mudar sua mente - netflix\|Como mudar sua mente - netflix]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Como mudar sua mente - netflix\|Como mudar sua mente - netflix]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/conte sobre seu projeto para todo mundo\|conte sobre seu projeto para todo mundo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser\|descobrindo o que seu projeto pode ser]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser 1\|descobrindo o que seu projeto pode ser 1]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Eduardo viveiros de castro\|Eduardo viveiros de castro]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Eduardo viveiros de castro\|Eduardo viveiros de castro]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/insight sobre minha dissertação\|NOTAS PERMANENTES/insight sobre minha dissertação.md]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/isso não é um blog\|isso não é um blog]]
 
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/mestrado\|mestrado]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Santos, Milton\|Santos, Milton]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Santos, Milton\|Santos, Milton]]
 
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/O rompimento com a linguagem\|O rompimento com a linguagem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/prompts midjourney\|prompts midjourney]]
@@ -62,7 +62,7 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/quisquilae\|quisquilae]]
 
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/um dia uma semana um mes um ano\|um dia uma semana um mes um ano]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Bauman, Zygmunt\|Bauman, Zygmunt]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Bauman, Zygmunt\|Bauman, Zygmunt]]
 
 
 #promptgpt3 #mestredeculturacontemporanea

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/como-criar-um-esboco-para-uma-revisao-do-videogame-na-steam/","tags":["gpt3","disserte","1000palavrasoumais","interessesgerais","mestredeculturacontemporanea","ensaistica","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/como-criar-um-esboco-para-uma-revisao-do-videogame-na-steam/","tags":["gpt3","disserte","1000palavrasoumais","interessesgerais","mestredeculturacontemporanea","ensaistica","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 081020220255

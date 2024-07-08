@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/conte-sobre-seu-projeto-para-todo-mundo/","tags":["criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/conte-sobre-seu-projeto-para-todo-mundo/","tags":["criatividade","333partedois","totalizante","pesquisa","deliberar","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # conte sobre seu projeto para todo mundo

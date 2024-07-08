@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/888/olavo-amaral-sobre-regulacao-da-ia/","tags":["promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/888/olavo-amaral-sobre-regulacao-da-ia/","tags":["promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 ## Olavo Amaral sobre regulação da IA

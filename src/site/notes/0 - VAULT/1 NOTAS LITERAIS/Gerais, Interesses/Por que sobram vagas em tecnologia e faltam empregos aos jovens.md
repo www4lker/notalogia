@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/por-que-sobram-vagas-em-tecnologia-e-faltam-empregos-aos-jovens/","tags":["toródeideias","ECCO","mestredeculturacontemporanea","anelo","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/por-que-sobram-vagas-em-tecnologia-e-faltam-empregos-aos-jovens/","tags":["toródeideias","ECCO","mestredeculturacontemporanea","anelo","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Por que sobram vagas em tecnologia e faltam empregos aos jovens

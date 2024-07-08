@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/contornando-a-floresta-negra-da-web/","tags":["interessesdepesquisa","disserte","metodologia","orientador","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/contornando-a-floresta-negra-da-web/","tags":["interessesdepesquisa","disserte","metodologia","orientador","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Contornando a floresta negra da web

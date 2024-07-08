@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/coisas-que-da-para-fazer-com-sub-sistema-de-linux-em-windows/","tags":["linux","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/coisas-que-da-para-fazer-com-sub-sistema-de-linux-em-windows/","tags":["linux","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Coisas que dá para fazer com sub sistema de linux em windows

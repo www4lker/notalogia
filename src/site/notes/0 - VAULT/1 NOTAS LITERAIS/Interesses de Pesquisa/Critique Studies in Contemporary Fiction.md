@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/critique-studies-in-contemporary-fiction/","tags":["literatura","estética","mestredeculturacontemporanea","filosofia","pesquisa","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/critique-studies-in-contemporary-fiction/","tags":["literatura","estética","mestredeculturacontemporanea","filosofia","pesquisa","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 050120231526

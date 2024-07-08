@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/no-feature-iaw/","tags":["chatgpt","chatbot","IAeÉtica","IAvsInteligênciaHumana","escrivão","escrita","mestredeculturacontemporanea","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/no-feature-iaw/","tags":["chatgpt","chatbot","IAeÉtica","IAvsInteligênciaHumana","escrivão","escrita","mestredeculturacontemporanea","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # No feature -  IAW

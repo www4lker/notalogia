@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ecco-2023-geografia-e-ativismo-social/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ecco-2023-geografia-e-ativismo-social/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Geografia Digital e Ativismo Social

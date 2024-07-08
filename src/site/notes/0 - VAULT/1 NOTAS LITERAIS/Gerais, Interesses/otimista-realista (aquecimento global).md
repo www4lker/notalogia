@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/otimista-realista-aquecimento-global/","tags":["geo","interessesgerais","capitalismo","otimistarealista","podkasten","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/otimista-realista-aquecimento-global/","tags":["geo","interessesgerais","capitalismo","otimistarealista","podkasten","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # otimista-realista (aquecimento global)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/lista-de-producoes-ecco-2023/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/lista-de-producoes-ecco-2023/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # lista de produções ecco 2023

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/por-que-os-filosofos-desconfiam-dos-seus-sentidos/","tags":["filosofia","interessesgerais","pesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/por-que-os-filosofos-desconfiam-dos-seus-sentidos/","tags":["filosofia","interessesgerais","pesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 

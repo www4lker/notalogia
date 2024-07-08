@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/some-philosophical-insights-into-making-money-or-at-least-cutting-living-costs/","title":"some philosophical insights into making money or at least cutting living costs","tags":["filosofia","meditacao","insight","sciencebitch","permanente","totalizante","pessoalidades","EarnMoreSpendMindfully","MinimalismForCostCutting","InvestInExperiences","ResourcefulSavings","EpicureanFinance"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/some-philosophical-insights-into-making-money-or-at-least-cutting-living-costs/","title":"some philosophical insights into making money or at least cutting living costs","tags":["filosofia","meditacao","insight","sciencebitch","permanente","totalizante","pessoalidades","EarnMoreSpendMindfully","MinimalismForCostCutting","InvestInExperiences","ResourcefulSavings","EpicureanFinance"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 

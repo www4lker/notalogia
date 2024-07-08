@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/veganismo-nao-e-suficiente/","tags":["podkasten","interessesgerais","cultura","totalizante","calistenia","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/veganismo-nao-e-suficiente/","tags":["podkasten","interessesgerais","cultura","totalizante","calistenia","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Veganismo não é suficiente
@@ -9,7 +9,7 @@
 - 12:53
 ## relacionados:
 - notas: [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/um ano vegetariano - informações\|um ano vegetariano - informações]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Três artigos da Wired sobre meio ambiente e alimentação\|Três artigos da Wired sobre meio ambiente e alimentação]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Três artigos da Wired sobre meio ambiente e alimentação\|Três artigos da Wired sobre meio ambiente e alimentação]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Pessoas Alimentos Ultraprocessados\|Pessoas Alimentos Ultraprocessados]]
 - tags: #podkasten #interessesgerais #cultura #totalizante #totalizante #calistenia #householder
 - Fontes & Links: [(11) Vegan diets don't work. Here's why - YouTube](https://www.youtube.com/watch?v=MpxgZGnEF7E)

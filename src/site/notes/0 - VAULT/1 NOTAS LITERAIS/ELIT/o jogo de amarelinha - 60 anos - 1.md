@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/o-jogo-de-amarelinha-60-anos-1/","tags":["lit","literatura","academia","games","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/o-jogo-de-amarelinha-60-anos-1/","tags":["lit","literatura","academia","games","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 [[0 - VAULT/1 NOTAS LITERAIS/888/o jogo de amarelinha - 60 anos\|o jogo de amarelinha - 60 anos]]

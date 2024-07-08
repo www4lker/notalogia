@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/como-comecei-a-escrever-notas-estupidas/","tags":["faláciadocolecionador","meta","zettelkasten","obsidian)"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/como-comecei-a-escrever-notas-estupidas/","tags":["faláciadocolecionador","meta","zettelkasten","obsidian)"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # COMO COMECEI A ESCREVER NOTAS ESTÚPIDAS

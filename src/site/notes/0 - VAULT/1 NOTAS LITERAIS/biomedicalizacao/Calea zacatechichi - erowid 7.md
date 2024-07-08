@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/calea-zacatechichi-erowid-7/","tags":["meditacao","vipassana","insight","sonhos","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/calea-zacatechichi-erowid-7/","tags":["meditacao","vipassana","insight","sonhos","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/Calea zacatechichi\|Calea zacatechichi]]

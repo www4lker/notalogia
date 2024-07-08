@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/as-habilidades-que-serao-importantes-para-o-sucesso-no-setor-de-tecnologia-em-2023/","tags":["wiredetal","anelo","ANELO","mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/as-habilidades-que-serao-importantes-para-o-sucesso-no-setor-de-tecnologia-em-2023/","tags":["wiredetal","anelo","ANELO","mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # As habilidades que serão importantes para o sucesso no setor de tecnologia em 2023

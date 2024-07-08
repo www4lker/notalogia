@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/pentiment/","tags":["games","filosofia","pessoalidades","promptgpt3","1000palavrasoumais","disserte","história"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/pentiment/","tags":["games","filosofia","pessoalidades","promptgpt3","1000palavrasoumais","disserte","história"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # pentiment

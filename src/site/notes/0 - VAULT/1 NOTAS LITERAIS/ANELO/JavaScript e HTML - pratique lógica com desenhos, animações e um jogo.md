@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/java-script-e-html-pratique-logica-com-desenhos-animacoes-e-um-jogo/","tags":["javascript","HTML","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/java-script-e-html-pratique-logica-com-desenhos-animacoes-e-um-jogo/","tags":["javascript","HTML","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # JavaScript e HTML - pratique lógica com desenhos, animações e um jogo

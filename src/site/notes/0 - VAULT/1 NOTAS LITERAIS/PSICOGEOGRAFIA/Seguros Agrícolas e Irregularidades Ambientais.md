@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psicogeografia/seguros-agricolas-e-irregularidades-ambientais/","tags":["pesquisa","interessesgerais","geo","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psicogeografia/seguros-agricolas-e-irregularidades-ambientais/","tags":["pesquisa","interessesgerais","geo","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Seguros Agrícolas e Irregularidades Ambientais
@@ -8,7 +8,7 @@
 - 11-02-2024
 - 11:10
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Apólices para invasores de terras indígenas foram pagas pelo governo federal\|Apólices para invasores de terras indígenas foram pagas pelo governo federal]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/Apólices para invasores de terras indígenas foram pagas pelo governo federal\|Apólices para invasores de terras indígenas foram pagas pelo governo federal]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/O CAMINHO CORRETO DO AGRO\|O CAMINHO CORRETO DO AGRO]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/colonialismo químico\|colonialismo químico]]
 - tags: #pesquisa #interessesgerais #geo #mestredeculturacontemporanea

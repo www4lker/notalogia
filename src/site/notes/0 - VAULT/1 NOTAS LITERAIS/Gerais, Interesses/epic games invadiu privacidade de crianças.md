@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/epic-games-invadiu-privacidade-de-criancas/","tags":["mestredeculturacontemporanea","games","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/epic-games-invadiu-privacidade-de-criancas/","tags":["mestredeculturacontemporanea","games","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # epic games invadiu privacidade de crianças

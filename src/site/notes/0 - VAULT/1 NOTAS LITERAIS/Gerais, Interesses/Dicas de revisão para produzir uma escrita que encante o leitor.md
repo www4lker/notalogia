@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/dicas-de-revisao-para-produzir-uma-escrita-que-encante-o-leitor/","tags":["literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/dicas-de-revisao-para-produzir-uma-escrita-que-encante-o-leitor/","tags":["literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Dicas de revisão para produzir uma escrita que encante o leitor

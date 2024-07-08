@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/the-scientific-method-ub/","tags":["PersonalStrategy","FindingWhatWorks","AvoidingDeception","IntellectualHonesty","AlternativeSources","PromotingDiversity","ClearThinking","SelfReflection"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/the-scientific-method-ub/","tags":["PersonalStrategy","FindingWhatWorks","AvoidingDeception","IntellectualHonesty","AlternativeSources","PromotingDiversity","ClearThinking","SelfReflection"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # The scientific method (UB)

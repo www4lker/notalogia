@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psicogeografia/geografia-humana-para-iniciantes-2/","tags":["geo","teoriaGeográfica","paisagem","geografiaCultural","gpi"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psicogeografia/geografia-humana-para-iniciantes-2/","tags":["geo","teoriaGeográfica","paisagem","geografiaCultural","gpi"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Geografia Humana para Iniciantes

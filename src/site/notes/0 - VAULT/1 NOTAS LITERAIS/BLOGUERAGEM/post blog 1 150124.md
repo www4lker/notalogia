@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/post-blog-1-150124/","tags":["filosofia","literatura","insight","pesquisa","introspecção","mataroa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/post-blog-1-150124/","tags":["filosofia","literatura","insight","pesquisa","introspecção","mataroa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 [[0 - VAULT/1 NOTAS LITERAIS/888/milesima tentativa de resumir leituras do retiro\|milesima tentativa de resumir leituras do retiro]]

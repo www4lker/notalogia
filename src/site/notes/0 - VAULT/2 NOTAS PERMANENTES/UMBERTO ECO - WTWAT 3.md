@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/umberto-eco-wtwat-3/","tags":["permanente","interessesdepesquisa","academia","academico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/umberto-eco-wtwat-3/","tags":["permanente","interessesdepesquisa","academia","academico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # UMBERTO ECO - WTWAT 3
@@ -8,11 +8,11 @@
 - 16-10-2023
 - 19:30
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/UMBERTO ECO - WTWAT 1\|UMBERTO ECO - WTWAT 1]]
-- [[0 - VAULT/1 NOTAS LITERAIS/UMBERTO ECO - WTWAT 2\|UMBERTO ECO - WTWAT 2]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/UMBERTO ECO - WTWAT 1\|UMBERTO ECO - WTWAT 1]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/UMBERTO ECO - WTWAT 2\|UMBERTO ECO - WTWAT 2]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/PROMPT INICIAL - ECCO 2023 INCURSÃO\|PROMPT INICIAL - ECCO 2023 INCURSÃO]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como se faz uma tese\|Como se faz uma tese]]
-- [[0 - VAULT/1 NOTAS LITERAIS/WTWAT - ANKI\|WTWAT - ANKI]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Como se faz uma tese\|Como se faz uma tese]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/WTWAT - ANKI\|WTWAT - ANKI]]
 - tags: #interessesdepesquisa #academia #academico 
 - Fontes & Links: 
 ---

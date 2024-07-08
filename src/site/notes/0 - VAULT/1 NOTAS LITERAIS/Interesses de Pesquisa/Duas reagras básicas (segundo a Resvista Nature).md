@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/duas-reagras-basicas-segundo-a-resvista-nature/","tags":["pesquisa","totalizante","interessesdepesquisa","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/duas-reagras-basicas-segundo-a-resvista-nature/","tags":["pesquisa","totalizante","interessesdepesquisa","disserte"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 060220232110

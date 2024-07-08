@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ecco-2023-midias-sociais-e-narrativas-de-migrantes/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ecco-2023-midias-sociais-e-narrativas-de-migrantes/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # ECCO 2023 - Mídias Sociais e Narrativas de migrantes

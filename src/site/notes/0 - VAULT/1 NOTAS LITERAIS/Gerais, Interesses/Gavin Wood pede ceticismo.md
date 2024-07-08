@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/gavin-wood-pede-ceticismo/","tags":["interessesgerais","interessesdepesquisa","wiredetal","disserte","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/gavin-wood-pede-ceticismo/","tags":["interessesgerais","interessesdepesquisa","wiredetal","disserte","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Gavin Wood pede ceticismo

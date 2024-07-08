@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/explorando-as-possibilidades-de-pesquisa-geografica-no-meu-vault-mem/","tags":["permanente","meta","megavault","pesquisa","substack","escrivão","memai","internet","disserte","promptgpt3","interessesdepesquisa","podkasten","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/explorando-as-possibilidades-de-pesquisa-geografica-no-meu-vault-mem/","tags":["permanente","meta","megavault","pesquisa","substack","escrivão","memai","internet","disserte","promptgpt3","interessesdepesquisa","podkasten","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Que pesquisa para Geografia meu Vault poderia me oferecer - Mem

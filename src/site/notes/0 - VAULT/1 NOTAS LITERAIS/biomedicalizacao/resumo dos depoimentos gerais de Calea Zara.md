@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/resumo-dos-depoimentos-gerais-de-calea-zara/","tags":["sciencebitch","insight","psicodelico","nãoficção"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/resumo-dos-depoimentos-gerais-de-calea-zara/","tags":["sciencebitch","insight","psicodelico","nãoficção"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 
@@ -27,4 +27,4 @@
 O tema recorrente mais evidente nos depoimentos é o **uso de Calea zacatechichi como facilitador de sonhos vívidos e potencializador de sonhos lúcidos**. Todos os usuários relataram alguma forma de intensificação da experiência onírica, seja na forma de sonhos mais detalhados e realistas, seja na facilidade para alcançar a lucidez. Além disso, a exploração dos efeitos no estado de vigília, como a leve euforia e clareza mental, também aparece como um tema relevante. --- Para uma análise mais aprofundada, seria interessante investigar a variabilidade dos efeitos entre diferentes métodos de consumo e dosagens, bem como explorar mais detalhadamente as interações com outras substâncias e os aspectos de segurança a longo prazo.
 
 #sciencebitch #insight #psicodelico #nãoficção
-[[0 - VAULT/1 NOTAS LITERAIS/Psiconautas viagens com a ciência psicodélica brasileira\|Psiconautas viagens com a ciência psicodélica brasileira]]
+[[0 - VAULT/1 NOTAS LITERAIS/888/Psiconautas viagens com a ciência psicodélica brasileira\|Psiconautas viagens com a ciência psicodélica brasileira]]

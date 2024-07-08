@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/colson-como-escrever-bem/","tags":["literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/colson-como-escrever-bem/","tags":["literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Colson - Como escrever bem

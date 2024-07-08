@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/projeto-de-pesquisa-2024/","tags":["promptGPT","anelo","mestredeculturacontemporanea","tecnologia","filosofia","promptgpt3","meta","zettelkasten","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/projeto-de-pesquisa-2024/","tags":["promptGPT","anelo","mestredeculturacontemporanea","tecnologia","filosofia","promptgpt3","meta","zettelkasten","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # projeto de pesquisa 2024

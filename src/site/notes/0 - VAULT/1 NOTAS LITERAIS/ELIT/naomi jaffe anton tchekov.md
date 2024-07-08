@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/naomi-jaffe-anton-tchekov/","tags":["1000palavrasoumais","disserte","literatura","elit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/naomi-jaffe-anton-tchekov/","tags":["1000palavrasoumais","disserte","literatura","elit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 300920221649

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psicogeografia/wired-sobre-capitalismo-e-tecnologia/","tags":["otimistarealista","feministo","capetalismo","leitura","geo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psicogeografia/wired-sobre-capitalismo-e-tecnologia/","tags":["otimistarealista","feministo","capetalismo","leitura","geo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # concluindo sobre capitalismo e tecnologia
@@ -11,7 +11,7 @@
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/3 artigos da wired resumidos\|3 artigos da wired resumidos]]
 -  [[0 - VAULT/1 NOTAS LITERAIS/PSICOGEOGRAFIA/Blame Capitalism\|Blame Capitalism]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Êxitos e deficiências do capitalismo\|Êxitos e deficiências do capitalismo]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Êxitos e deficiências do capitalismo\|Êxitos e deficiências do capitalismo]]
 - #otimistarealista #feministo #capetalismo #leitura #geo
 
 ---

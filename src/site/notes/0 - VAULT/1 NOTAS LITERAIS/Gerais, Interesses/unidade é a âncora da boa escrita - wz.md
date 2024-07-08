@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/unidade-e-a-ancora-da-boa-escrita-wz/","tags":["literatura","intelectual","academia","pesquisa","interessesgerais","substack"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/unidade-e-a-ancora-da-boa-escrita-wz/","tags":["literatura","intelectual","academia","pesquisa","interessesgerais","substack"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # unidade é a âncora da boa escrita - wz

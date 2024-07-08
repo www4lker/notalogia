@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/knausgard-deixa-de-ser-escritor-para-virar-programador-backend/","tags":["criatividade","literatura","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/knausgard-deixa-de-ser-escritor-para-virar-programador-backend/","tags":["criatividade","literatura","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Karl Ove Knausgård deixa de ser escritor para virar programador backend

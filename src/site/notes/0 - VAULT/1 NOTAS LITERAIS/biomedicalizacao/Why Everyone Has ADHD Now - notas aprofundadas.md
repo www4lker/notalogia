@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/why-everyone-has-adhd-now-notas-aprofundadas/","tags":["filosofia","mestredeculturacontemporanea","erowid","ceticismo","insight","biohack","totalizante","podkasten","6:**","333partedois"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/why-everyone-has-adhd-now-notas-aprofundadas/","tags":["filosofia","mestredeculturacontemporanea","erowid","ceticismo","insight","biohack","totalizante","podkasten","6:**","333partedois"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/Why Everyone Has ADHD Now - YouTube\|Why Everyone Has ADHD Now - YouTube]]

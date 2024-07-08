@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/888/qs-quantified-self-self-tracking-mit-press/","tags":["interessesgerais","interessesdepesquisa","meta","ReadingLiterature","MetacognitionEnhancement","SelfAwareness","Empathy","PerspectiveTaking","CriticalThinking","ProblemSolving","Creativity"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/888/qs-quantified-self-self-tracking-mit-press/","tags":["interessesgerais","interessesdepesquisa","meta","ReadingLiterature","MetacognitionEnhancement","SelfAwareness","Empathy","PerspectiveTaking","CriticalThinking","ProblemSolving","Creativity"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Based on the queries performed on the document, here are the thematically separated notes on Quantified Self:

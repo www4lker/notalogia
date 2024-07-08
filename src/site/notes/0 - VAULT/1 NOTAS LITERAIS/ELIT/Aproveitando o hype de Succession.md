@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/aproveitando-o-hype-de-succession/","tags":["literatura","promptGPT","tv","cultura","CulturalPatterns","CulturalInfluence"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/aproveitando-o-hype-de-succession/","tags":["literatura","promptGPT","tv","cultura","CulturalPatterns","CulturalInfluence"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Aproveitando o hype de Succession
@@ -14,7 +14,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Buddenbrooks e Succession\|Buddenbrooks e Succession]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/família e literatura\|família e literatura]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/LIVROS QUE ASPIRO A LER PORQUE SIM\|LIVROS QUE ASPIRO A LER PORQUE SIM]]
-- [[0 - VAULT/1 NOTAS LITERAIS/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
 - tags: #literatura #promptGPT #tv #cultura #CulturalPatterns #CulturalInfluence 
 ---
 Baseado nisso, pode me oferecer uma lista de músicas clássicas, peças de teatro e pinturas para enriquecer esse momento de pico do interesse em succession?

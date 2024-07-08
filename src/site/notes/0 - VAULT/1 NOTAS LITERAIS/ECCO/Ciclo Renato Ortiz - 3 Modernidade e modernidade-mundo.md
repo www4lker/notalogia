@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ciclo-renato-ortiz-3-modernidade-e-modernidade-mundo/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ciclo-renato-ortiz-3-modernidade-e-modernidade-mundo/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Ciclo Renato Ortiz - 3. Modernidade e modernidade-mundo

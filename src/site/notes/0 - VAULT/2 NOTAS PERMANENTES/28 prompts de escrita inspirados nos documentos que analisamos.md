@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/28-prompts-de-escrita-inspirados-nos-documentos-que-analisamos/","tags":["permanente","pessoalidades","diario","totalizante","habitanimal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/28-prompts-de-escrita-inspirados-nos-documentos-que-analisamos/","tags":["permanente","pessoalidades","diario","totalizante","habitanimal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 28 prompts de escrita inspirados nos documentos que analisamos
@@ -15,26 +15,26 @@
 4. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/muito velho para games\|muito velho para games]]
 5. [[0 - VAULT/2 NOTAS PERMANENTES/lições de um retiro longo de meditação\|lições de um retiro longo de meditação]]
 6. [[0 - VAULT/2 NOTAS PERMANENTES/Aprenda a arte de escrever diários e arquivar sua vida\|Aprenda a arte de escrever diários e arquivar sua vida]]
-7. [[0 - VAULT/1 NOTAS LITERAIS/usei o chatgpt para reescrever meu currículo\|usei o chatgpt para reescrever meu currículo]]
+7. [[0 - VAULT/1 NOTAS LITERAIS/888/usei o chatgpt para reescrever meu currículo\|usei o chatgpt para reescrever meu currículo]]
 8. [[0 - VAULT/2 NOTAS PERMANENTES/A Criança e o Louco - Salvadores da Percepção e Aceitação\|A Criança e o Louco - Salvadores da Percepção e Aceitação]]
 9. [[0 - VAULT/2 NOTAS PERMANENTES/Comemntários do vídeo - G Bailas sobre ayahuasca\|Comemntários do vídeo - G Bailas sobre ayahuasca]]
 10. [[While seeking advice from others can be helpful, it's important to remember that the ultimate responsibility for our lives lies with ourselves\|While seeking advice from others can be helpful, it's important to remember that the ultimate responsibility for our lives lies with ourselves]]
 11. [[0 - VAULT/2 NOTAS PERMANENTES/Qual o insight essencial por trás do CNM (comunicação não violenta)\|Qual o insight essencial por trás do CNM (comunicação não violenta)]]
 12. [[0 - VAULT/2 NOTAS PERMANENTES/A espantosa simplicidade de Wislawa Szymborska\|A espantosa simplicidade de Wislawa Szymborska]]
-13. [[0 - VAULT/1 NOTAS LITERAIS/Artigo 451 - Pura Fruição\|Artigo 451 - Pura Fruição]]
+13. [[0 - VAULT/1 NOTAS LITERAIS/888/Artigo 451 - Pura Fruição\|Artigo 451 - Pura Fruição]]
 14. [[0 - VAULT/2 NOTAS PERMANENTES/A poeta sem exagero\|A poeta sem exagero]]
 15. [[0 - VAULT/2 NOTAS PERMANENTES/Pai, sua bênção, pois quero aprender programação\|Pai, sua bênção, pois quero aprender programação]]
 16. [[0 - VAULT/2 NOTAS PERMANENTES/some philosophical insights into making money or at least cutting living costs\|some philosophical insights into making money or at least cutting living costs]]
 17. [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/o cirurgião dentista especialista em ATM\|o cirurgião dentista especialista em ATM]]
 18. [[0 - VAULT/2 NOTAS PERMANENTES/Self tracking - 11 pontos\|Self tracking - 11 pontos]]
-19. [[0 - VAULT/1 NOTAS LITERAIS/ideias para escrever\|ideias para escrever]]
-20. [[0 - VAULT/1 NOTAS LITERAIS/write non fiction or autofiction\|write non fiction or autofiction]]
-21. [[0 - VAULT/1 NOTAS LITERAIS/rico manancial de texto produzido ao longo dos anos\|rico manancial de texto produzido ao longo dos anos]]
-22. [[0 - VAULT/1 NOTAS LITERAIS/the battle for god -  KA\|the battle for god -  KA]]
-23. [[0 - VAULT/1 NOTAS LITERAIS/Em nome de Deus e o fundamentalismo\|Em nome de Deus e o fundamentalismo]]
+19. [[0 - VAULT/1 NOTAS LITERAIS/888/ideias para escrever\|ideias para escrever]]
+20. [[0 - VAULT/1 NOTAS LITERAIS/888/write non fiction or autofiction\|write non fiction or autofiction]]
+21. [[0 - VAULT/1 NOTAS LITERAIS/888/rico manancial de texto produzido ao longo dos anos\|rico manancial de texto produzido ao longo dos anos]]
+22. [[0 - VAULT/1 NOTAS LITERAIS/888/the battle for god -  KA\|the battle for god -  KA]]
+23. [[0 - VAULT/1 NOTAS LITERAIS/888/Em nome de Deus e o fundamentalismo\|Em nome de Deus e o fundamentalismo]]
 24. [[0 - VAULT/2 NOTAS PERMANENTES/games violentos x politicas retrogradas\|games violentos x politicas retrogradas]]
 25. [[0 - VAULT/2 NOTAS PERMANENTES/Serviço do Dhamma\|Serviço do Dhamma]]
-26. [[0 - VAULT/1 NOTAS LITERAIS/Using AI to get a job\|Using AI to get a job]]
+26. [[0 - VAULT/1 NOTAS LITERAIS/888/Using AI to get a job\|Using AI to get a job]]
 27. [[0 - VAULT/2 NOTAS PERMANENTES/chatgpta adaptou entrada do diário para o ileísmo\|chatgpta adaptou entrada do diário para o ileísmo]]
 28. [[0 - VAULT/2 NOTAS PERMANENTES/sentimento da historia 260623\|sentimento da historia 260623]]
 29. [[0 - VAULT/2 NOTAS PERMANENTES/lições de um retiro longo de meditação VERSÃO ATUALIZADA\|lições de um retiro longo de meditação VERSÃO ATUALIZADA]]
@@ -42,8 +42,8 @@
 31. [[0 - VAULT/2 NOTAS PERMANENTES/integrar cnv e tcc\|integrar cnv e tcc]]
 32. [[0 - VAULT/2 NOTAS PERMANENTES/o grande perdido\|o grande perdido]]
 33. [[0 - VAULT/2 NOTAS PERMANENTES/Annotation - Remi H.\|Annotation - Remi H.]]
-34. [[0 - VAULT/1 NOTAS LITERAIS/Notas eficazes segundo Annotation - MIT Press\|Notas eficazes segundo Annotation - MIT Press]]
-35. [[0 - VAULT/1 NOTAS LITERAIS/Self-tracking - MIT Press - analisado\|Self-tracking - MIT Press - analisado]]
+34. [[0 - VAULT/1 NOTAS LITERAIS/888/Notas eficazes segundo Annotation - MIT Press\|Notas eficazes segundo Annotation - MIT Press]]
+35. [[0 - VAULT/1 NOTAS LITERAIS/888/Self-tracking - MIT Press - analisado\|Self-tracking - MIT Press - analisado]]
 36. [[0 - VAULT/2 NOTAS PERMANENTES/28 prompts de escrita inspirados nos documentos que analisamos\|28 prompts de escrita inspirados nos documentos que analisamos]]
 - tags: #pessoalidades #diario #totalizante #habitanimal 
   1. [[0 - VAULT/2 NOTAS PERMANENTES/5 pontos-chave para aquele que planejam ler mais\|5 pontos-chave para aquele que planejam ler mais]]

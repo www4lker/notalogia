@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/e-dando-que-se-recebe/","tags":["mementomori","filosofia","literatura","ensaistica","ceticismo","pessoalidades","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/e-dando-que-se-recebe/","tags":["mementomori","filosofia","literatura","ensaistica","ceticismo","pessoalidades","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 201220221232

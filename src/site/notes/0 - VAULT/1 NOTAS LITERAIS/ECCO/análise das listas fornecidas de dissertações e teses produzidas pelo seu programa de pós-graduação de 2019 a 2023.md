@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/analise-das-listas-fornecidas-de-dissertacoes-e-teses-produzidas-pelo-seu-programa-de-pos-graduacao-de-2019-a-2023/","tags":["promptGPT","anelo","mestredeculturacontemporanea","tecnologia","filosofia","promptgpt3","meta","zettelkasten","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/analise-das-listas-fornecidas-de-dissertacoes-e-teses-produzidas-pelo-seu-programa-de-pos-graduacao-de-2019-a-2023/","tags":["promptGPT","anelo","mestredeculturacontemporanea","tecnologia","filosofia","promptgpt3","meta","zettelkasten","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023

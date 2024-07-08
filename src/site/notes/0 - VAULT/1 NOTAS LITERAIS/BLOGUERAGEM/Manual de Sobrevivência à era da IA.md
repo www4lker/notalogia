@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/manual-de-sobrevivencia-a-era-da-ia/","tags":["gpt4","chatgpt","chatbot","IAeÉtica","IAvsInteligênciaHumana","escrivão","escrita"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/manual-de-sobrevivencia-a-era-da-ia/","tags":["gpt4","chatgpt","chatbot","IAeÉtica","IAvsInteligênciaHumana","escrivão","escrita"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Manual de Sobrevivência à era da IA

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/observacoes-culturais-do-frankie-pessoas-que-leem-livros-em-publico/","tags":["realworld","insights","Humores","literatura","mestredeculturacontemporanea","totalizante","pesquisa","interessesdepesquisa","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/observacoes-culturais-do-frankie-pessoas-que-leem-livros-em-publico/","tags":["realworld","insights","Humores","literatura","mestredeculturacontemporanea","totalizante","pesquisa","interessesdepesquisa","podkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Observações Culturais: pessoas que leem livros em público

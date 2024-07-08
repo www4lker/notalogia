@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/the-currency-of-the-new-economy-won-t-be-money-but-attention/","tags":["ANELO","interessesgerais","pesquisa","interessesdepesquisa","internet","podkasten","geo","filosofia","disserte","acadêmico","metodologia","capitalismo","episteme","otimistarealista","anglo","wiredetal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/the-currency-of-the-new-economy-won-t-be-money-but-attention/","tags":["ANELO","interessesgerais","pesquisa","interessesdepesquisa","internet","podkasten","geo","filosofia","disserte","acadêmico","metodologia","capitalismo","episteme","otimistarealista","anglo","wiredetal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # The currency of the New Economy won_t be money, but attention

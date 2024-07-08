@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/modelos-de-negocios-no-ramo-da-tecnologia/","tags":["meta","escrivão","pesquisa","interessesgerais","tecnologia","geo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/modelos-de-negocios-no-ramo-da-tecnologia/","tags":["meta","escrivão","pesquisa","interessesgerais","tecnologia","geo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 311220222353

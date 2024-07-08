@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/lista-de-coisas-para-se-fazer-offline/","tags":["minimalismodigital","tecnologia","totalizante","minimim","jardimdigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/lista-de-coisas-para-se-fazer-offline/","tags":["minimalismodigital","tecnologia","totalizante","minimim","jardimdigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Lista de coisas para se fazer offline

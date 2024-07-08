@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/supermercado-antropoceno-e-perry-mason/","title":"ANTROPOCENO E PERRY MASON","tags":["criatividade","tv","literatura","otimistarealista","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/supermercado-antropoceno-e-perry-mason/","title":"ANTROPOCENO E PERRY MASON","tags":["criatividade","tv","literatura","otimistarealista","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 
@@ -12,7 +12,7 @@
 ### Conteúdo Relacionado
 - notas: [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Antropoceno\|Antropoceno]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/hard boiled\|hard boiled]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Raymond Chandler - starter pack\|Raymond Chandler - starter pack]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/Raymond Chandler - starter pack\|Raymond Chandler - starter pack]]
 - tags: #criatividade #tv #literatura #otimistarealista #householder 
 - Fontes & Links: https://variety.com/2023/tv/news/perry-mason-canceled-hbo-1235635233/
 ---

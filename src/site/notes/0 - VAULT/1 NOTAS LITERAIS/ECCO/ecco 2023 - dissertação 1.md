@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ecco-2023-dissertacao-1/","tags":["academia","academico","AcademicPerformance","ECCO","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/ecco-2023-dissertacao-1/","tags":["academia","academico","AcademicPerformance","ECCO","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Este resumo de dissertação propõe uma análise interessante sobre a cobertura midiática da migração venezuelana para Cuiabá, Mato Grosso, Brasil. A pesquisa se concentra na forma como a TV Centro América, afiliada à rede Globo, retratou esse fenômeno em seus telejornais e como essas representações foram recebidas pelos migrantes venezuelanos.

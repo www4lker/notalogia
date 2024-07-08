@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/senador-pergunta-por-que-a-steam-hospeda-tanto-conteudo-neo-nazista/","tags":["mestredeculturacontemporanea","games","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/senador-pergunta-por-que-a-steam-hospeda-tanto-conteudo-neo-nazista/","tags":["mestredeculturacontemporanea","games","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Senador Pergunta por que a steam hospeda tanto conteúdo Neo-Nazista

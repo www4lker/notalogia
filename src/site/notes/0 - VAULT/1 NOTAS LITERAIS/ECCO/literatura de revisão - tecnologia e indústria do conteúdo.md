@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/literatura-de-revisao-tecnologia-e-industria-do-conteudo/","tags":["mestredeculturacontemporanea","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/literatura-de-revisao-tecnologia-e-industria-do-conteudo/","tags":["mestredeculturacontemporanea","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Aqui estão alguns artigos científicos que podem ser relevantes para o tema "A Influência da Tecnologia na Cultura dos Criadores de Conteúdo":

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/viagem-ao-pais-do-futuro/","tags":["literatura","geo","totalizante","pesquisa","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/viagem-ao-pais-do-futuro/","tags":["literatura","geo","totalizante","pesquisa","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Viagem ao País do Futuro

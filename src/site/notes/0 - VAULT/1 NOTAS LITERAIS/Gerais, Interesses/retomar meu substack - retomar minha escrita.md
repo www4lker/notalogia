@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/retomar-meu-substack-retomar-minha-escrita/","tags":["newsletter","podkasten","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/retomar-meu-substack-retomar-minha-escrita/","tags":["newsletter","podkasten","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 > O texto parece ser uma introdução ao seu blog, onde você discute diversos temas, incluindo literatura, filosofia, cultura contemporânea e outras áreas, como mindfulness e cogumelos. Você compartilha sua formação em Filosofia e Geografia, bem como sua pós-graduação em Cultura Contemporânea, com foco na produção de textos online. Além disso, você aborda a escolha de usar o Substack como plataforma e sua abordagem em relação às assinaturas, enfatizando a importância da comunidade e do compartilhamento de conhecimento.

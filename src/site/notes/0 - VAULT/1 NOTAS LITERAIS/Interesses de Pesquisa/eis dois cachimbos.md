@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/eis-dois-cachimbos/","tags":["interessesdepesquisa","disserte","acadêmico","pesquisa","intelectual","crítica","teórico","analítico","escrita","leitura","ensino"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/eis-dois-cachimbos/","tags":["interessesdepesquisa","disserte","acadêmico","pesquisa","intelectual","crítica","teórico","analítico","escrita","leitura","ensino"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # eis dois cachimbos

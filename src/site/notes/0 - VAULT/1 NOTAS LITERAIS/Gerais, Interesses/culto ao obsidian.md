@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/culto-ao-obsidian/","tags":["massacritica","meta","zettelkasten","escrivão","produtividades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/culto-ao-obsidian/","tags":["massacritica","meta","zettelkasten","escrivão","produtividades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # culto ao obsidian
@@ -57,7 +57,7 @@
 - De que forma essa diferenciação de usuário afeta o desenvolvimento da plataforma e sua comunidade?
 
 ---
-[[0 - VAULT/1 NOTAS LITERAIS/LONGFORM OBSIDIAN\|LONGFORM OBSIDIAN]]
+[[0 - VAULT/1 NOTAS LITERAIS/888/LONGFORM OBSIDIAN\|LONGFORM OBSIDIAN]]
 [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/obsidian - o fenômeno\|obsidian - o fenômeno]]
 [[0 - VAULT/1 NOTAS LITERAIS/ANELO/obsidian, dendron e foam\|obsidian, dendron e foam]]
 [[0 - VAULT/2 NOTAS PERMANENTES/Minhas Notas - disponíveis em um site novo\|Minhas Notas - disponíveis em um site novo]]

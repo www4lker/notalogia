@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/bonus-from-gpt-4-understanding-beliefs/","title":"bonus from gpt-4","tags":["filosofia","meditacao","insight","sciencebitch","permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/bonus-from-gpt-4-understanding-beliefs/","title":"bonus from gpt-4","tags":["filosofia","meditacao","insight","sciencebitch","permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 

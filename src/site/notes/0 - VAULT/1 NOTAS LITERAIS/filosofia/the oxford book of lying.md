@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/the-oxford-book-of-lying/","tags":["sciencebitch","Metacognition","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/the-oxford-book-of-lying/","tags":["sciencebitch","Metacognition","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 [[0 - VAULT/2 NOTAS PERMANENTES/VERDADE - INSIGHTS\|VERDADE - INSIGHTS]]

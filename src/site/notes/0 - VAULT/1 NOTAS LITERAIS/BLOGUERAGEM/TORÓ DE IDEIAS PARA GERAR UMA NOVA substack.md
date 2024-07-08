@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/toro-de-ideias-para-gerar-uma-nova-substack/","tags":["anglo","escrivão","promptGPT"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/blogueragem/toro-de-ideias-para-gerar-uma-nova-substack/","tags":["anglo","escrivão","promptGPT","toródeideias"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # substack again

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/como-subir-na-classificacao-no-overwatch-de-acordo-com-os-pros/","tags":["games","interessesgerais","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/como-subir-na-classificacao-no-overwatch-de-acordo-com-os-pros/","tags":["games","interessesgerais","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como subir na classificação no Overwatch - de acordo com os pros

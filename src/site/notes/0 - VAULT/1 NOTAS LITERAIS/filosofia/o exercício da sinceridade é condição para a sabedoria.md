@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/o-exercicio-da-sinceridade-e-condicao-para-a-sabedoria/","tags":["insight","nãoficção"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/o-exercicio-da-sinceridade-e-condicao-para-a-sabedoria/","tags":["insight","nãoficção"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # o exercício da sinceridade é condição para a sabedoria

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/a-escrita-nao-como-terapia-mas-como-expressao-e-exploracao-na-visao-de-alice-notley/","tags":["mestredeculturacontemporanea","lit","literatura","academia","academico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/a-escrita-nao-como-terapia-mas-como-expressao-e-exploracao-na-visao-de-alice-notley/","tags":["mestredeculturacontemporanea","lit","literatura","academia","academico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 ### A escrita não como terapia, mas como expressão e exploração, na visão de Alice Notley

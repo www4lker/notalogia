@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/zettelkasten-e-serendipidade/","tags":["massacritica","internet","pesquisa","promptgpt3","meta","zettelkasten","podkasten","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/zettelkasten-e-serendipidade/","tags":["massacritica","internet","pesquisa","promptgpt3","meta","zettelkasten","podkasten","totalizante"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # zettelkasten e serendipidade

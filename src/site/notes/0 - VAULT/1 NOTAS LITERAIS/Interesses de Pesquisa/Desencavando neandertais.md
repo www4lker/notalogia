@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/desencavando-neandertais/","tags":["nãoficção","disserte","interessesdepesquisa","eternoaprendiz","totalizante","pessoalidades","householder","ceticismo","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/desencavando-neandertais/","tags":["nãoficção","disserte","interessesdepesquisa","eternoaprendiz","totalizante","pessoalidades","householder","ceticismo","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Desencavando neandertais

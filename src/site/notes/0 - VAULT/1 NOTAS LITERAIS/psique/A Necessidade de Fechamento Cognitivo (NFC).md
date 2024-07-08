@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psique/a-necessidade-de-fechamento-cognitivo-nfc/","tags":["podkasten","totalizante","filosofia","psique","literatura","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/psique/a-necessidade-de-fechamento-cognitivo-nfc/","tags":["podkasten","totalizante","filosofia","psique","literatura","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A Necessidade de Fechamento Cognitivo (NFC)
@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/psique/naruhodo 404\|naruhodo 404]]
-- [[0 - VAULT/1 NOTAS LITERAIS/becker - death denial\|becker - death denial]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/becker - death denial\|becker - death denial]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/A NEGAÇÃO DA MORTE - BECKER\|A NEGAÇÃO DA MORTE - BECKER]]
 #podkasten #totalizante #filosofia #psique #literatura #sciencebitch
 ---

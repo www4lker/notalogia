@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/resposta-prompt-inicial-ecco-2023-incursao/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/resposta-prompt-inicial-ecco-2023-incursao/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","academico","academia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # RESPOSTA - PROMPT INICIAL - ECCO 2023 INCURSÃO

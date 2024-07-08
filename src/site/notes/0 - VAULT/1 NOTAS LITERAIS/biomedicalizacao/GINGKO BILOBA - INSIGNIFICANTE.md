@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/gingko-biloba-insignificante/","tags":["erowid","filosofia","realworld","otimistarealista","totalizante","psicodelico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/biomedicalizacao/gingko-biloba-insignificante/","tags":["erowid","filosofia","realworld","otimistarealista","totalizante","psicodelico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # GINGKO BILOBA - INSIGNIFICANTE?
@@ -10,7 +10,7 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/biomedicalização\|biomedicalização]] 
-2. [[0 - VAULT/1 NOTAS LITERAIS/sociedade medicalizada\|sociedade medicalizada]]
+2. [[0 - VAULT/1 NOTAS LITERAIS/888/sociedade medicalizada\|sociedade medicalizada]]
 3. [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/L-teanina - erowid\|L-teanina - erowid]]
 - tags: #erowid #filosofia #realworld #otimistarealista #totalizante #psicodelico #erowid
 ---

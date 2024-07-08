@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/a-murder-at-the-end-of-the-world-serie-televisiva-da-fx/","tags":["hardboiled","lit","literatura","tv","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/a-murder-at-the-end-of-the-world-serie-televisiva-da-fx/","tags":["hardboiled","lit","literatura","tv","cultura","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # "Good, not great, whodunit with sci-fi aspirations"

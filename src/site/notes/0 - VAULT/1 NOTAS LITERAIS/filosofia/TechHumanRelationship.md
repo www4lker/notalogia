@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/tech-human-relationship/","tags":["tecnologia","filosofia","TechnologyEthics","TechHumanRelationship","AncientGreekPhilosophy","EmpiricalTurn","PhilosophyDomains","InclusiveImagination","EthicsInTech","CrossCulturalPerspectives","InterdisciplinaryApproaches","TechnologicalFutures","PracticalApplications","PhilosophyMatters","TechEthics"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/tech-human-relationship/","tags":["tecnologia","filosofia","TechnologyEthics","TechHumanRelationship","AncientGreekPhilosophy","EmpiricalTurn","PhilosophyDomains","InclusiveImagination","EthicsInTech","CrossCulturalPerspectives","InterdisciplinaryApproaches","TechnologicalFutures","PracticalApplications","PhilosophyMatters","TechEthics"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # PoT

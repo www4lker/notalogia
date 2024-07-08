@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/1-why-buddhism-is-true/","tags":["buddhismo","insight","meditacao","totalizante","chatgpt","vipassana","retiro-vipassana","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/1-why-buddhism-is-true/","tags":["buddhismo","insight","meditacao","totalizante","chatgpt","vipassana","retiro-vipassana","psique"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 1 why buddhism is true

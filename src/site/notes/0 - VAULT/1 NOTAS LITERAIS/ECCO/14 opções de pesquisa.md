@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/14-opcoes-de-pesquisa/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","tempestadedeideia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/14-opcoes-de-pesquisa/","tags":["mestredeculturacontemporanea","lit","filosofia","interessesdepesquisa","tempestadedeideia","toródeideias","ECCO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # gpt 4 brainstorming TCC - 16

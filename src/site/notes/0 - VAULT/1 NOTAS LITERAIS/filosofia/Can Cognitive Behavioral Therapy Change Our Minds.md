@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/can-cognitive-behavioral-therapy-change-our-minds/","tags":["totalizante","eternoaprendiz","psique","psicodelico","vipassana","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/can-cognitive-behavioral-therapy-change-our-minds/","tags":["totalizante","eternoaprendiz","psique","psicodelico","vipassana","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Can Cognitive Behavioral Therapy Change Our Minds

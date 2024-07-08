@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/divida-os-primeiros-5000-anos/","tags":["wiredetal","artigos","nãoficção","disserte","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/interesses-de-pesquisa/divida-os-primeiros-5000-anos/","tags":["wiredetal","artigos","nãoficção","disserte","interessesdepesquisa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Dívida os primeiros 5000 anos

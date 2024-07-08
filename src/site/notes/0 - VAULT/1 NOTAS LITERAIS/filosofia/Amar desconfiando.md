@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/amar-desconfiando/","tags":["mementomori","filosofia","literatura","ensaistica","ceticismo","pessoalidades","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/amar-desconfiando/","tags":["mementomori","filosofia","literatura","ensaistica","ceticismo","pessoalidades","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 201220221225

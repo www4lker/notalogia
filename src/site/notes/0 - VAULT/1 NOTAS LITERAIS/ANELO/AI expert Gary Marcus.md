@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/ai-expert-gary-marcus/","tags":["interessesgerais","interessesdepesquisa","meta","promptgpt3","wiredetal","podkasten","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/anelo/ai-expert-gary-marcus/","tags":["interessesgerais","interessesdepesquisa","meta","promptgpt3","wiredetal","podkasten","ANELO"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # AI expert Gary Marcus
@@ -11,7 +11,7 @@
 ### Conteúdo Relacionado
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como deveríamos estar usando IA nesse momento (zt)\|Como deveríamos estar usando IA nesse momento (zt)]]
-- [[0 - VAULT/1 NOTAS LITERAIS/o que é agi\|o que é agi]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/o que é agi\|o que é agi]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/mudar o enfoque do desenvolvimento de IA\|mudar o enfoque do desenvolvimento de IA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/chat gpt na vice\|chat gpt na vice]]
 - tags: #interessesgerais #interessesdepesquisa #meta #promptgpt3 #wiredetal #podkasten #ANELO 

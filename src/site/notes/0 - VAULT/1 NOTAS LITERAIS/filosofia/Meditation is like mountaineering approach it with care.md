@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/meditation-is-like-mountaineering-approach-it-with-care/","tags":["totalizante","pessoalidades","filosofia","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/meditation-is-like-mountaineering-approach-it-with-care/","tags":["totalizante","pessoalidades","filosofia","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Meditation is like mountaineering approach it with care

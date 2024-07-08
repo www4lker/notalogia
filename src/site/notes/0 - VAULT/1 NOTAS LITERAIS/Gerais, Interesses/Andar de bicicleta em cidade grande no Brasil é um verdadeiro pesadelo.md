@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/andar-de-bicicleta-em-cidade-grande-no-brasil-e-um-verdadeiro-pesadelo/","tags":["cotidiano","biking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/gerais-interesses/andar-de-bicicleta-em-cidade-grande-no-brasil-e-um-verdadeiro-pesadelo/","tags":["cotidiano","biking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Andar de bicicleta em cidade grande no Brasil é um verdadeiro pesadelo

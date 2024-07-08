@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/mapeando-seus-habitos-de-leitura-uma-analise-detalhada-de-seu-ritmo-literario/","tags":["meta","promptGPT","ANELO","python"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/mapeando-seus-habitos-de-leitura-uma-analise-detalhada-de-seu-ritmo-literario/","tags":["meta","promptGPT","ANELO","python"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Mapeando Seus Hábitos de Leitura - Uma Análise Detalhada de Seu Ritmo Literário
