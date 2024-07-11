@@ -9,7 +9,7 @@
 - 20:37
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/aforismo sobre o medo e o cinema\|aforismo sobre o medo e o cinema]]
-- [[uma série de questões sobre horror, cinema e psicologia\|uma série de questões sobre horror, cinema e psicologia]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/uma série de questões sobre horror, cinema e psicologia\|uma série de questões sobre horror, cinema e psicologia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/o medo\|o medo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/quais sao seus medos\|quais sao seus medos]]
 - tags: #interessesgerais #cultura #mestredeculturacontemporanea #otimistarealista 

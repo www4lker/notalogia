@@ -8,12 +8,12 @@
 - 01-01-2024
 - 18:16
 ## relacionados:
-- notas: [[todo mundo deveria ter um blog txt\|todo mundo deveria ter um blog txt]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/todo mundo deveria ter um blog txt\|todo mundo deveria ter um blog txt]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/blog para sempre\|blog para sempre]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O período do início dos anos 2000 viu o surgimento de plataformas de blog\|O período do início dos anos 2000 viu o surgimento de plataformas de blog]]
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/w4lker ponto com ponto br\|w4lker ponto com ponto br]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/storytelling para FRONT END DEV\|storytelling para FRONT END DEV]]
-- [[The Small Internet\|The Small Internet]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/The Small Internet\|The Small Internet]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/jardim digital ou jardim murado\|jardim digital ou jardim murado]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/digital garden\|digital garden]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Jenny Odell Can Stretch Time and So Can You\|Jenny Odell Can Stretch Time and So Can You]]

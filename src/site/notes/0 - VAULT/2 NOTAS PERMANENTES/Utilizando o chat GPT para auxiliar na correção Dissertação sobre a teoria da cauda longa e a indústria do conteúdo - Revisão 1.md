@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/utilizando-o-chat-gpt-para-auxiliar-na-correcao-dissertacao-sobre-a-teoria-da-cauda-longa-e-a-industria-do-conteudo-revisao-1/","tags":["permanente","promptgpt3","disserte","metodologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/utilizando-o-chat-gpt-para-auxiliar-na-correcao-dissertacao-sobre-a-teoria-da-cauda-longa-e-a-industria-do-conteudo-revisao-1/","tags":["permanente","promptgpt3","disserte","metodologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # chat gpt me ajuda a corrigir

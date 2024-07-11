@@ -13,7 +13,7 @@
 ### Conteúdo Relacionado
 
 - notas: [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Por que nós dormimos\|Por que nós dormimos]]
-- [[power down routine\|power down routine]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/power down routine\|power down routine]]
 - tags: #biohack #habitanimal #totalizante 
 - Fontes & Links: 
 ---

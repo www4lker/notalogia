@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/resumo-homem-de-38-anos-com-15-anos-de-educacao-superior-buscando-uma-mudanca-de-carreira/","tags":["permanente","totalizante","pessoalidades","academia","chatbot","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/resumo-homem-de-38-anos-com-15-anos-de-educacao-superior-buscando-uma-mudanca-de-carreira/","tags":["permanente","totalizante","pessoalidades","academia","chatbot","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 111120221222

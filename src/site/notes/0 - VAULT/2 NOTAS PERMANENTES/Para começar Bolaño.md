@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-09-04
 - Hora: 17:20
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Farmácia Literária - sofrimentos relacionados à leitura\|Farmácia Literária - sofrimentos relacionados à leitura]]
-- [[DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/In the Labyrinth __  A User’s Guide to Bolaño - ZT\|In the Labyrinth __  A User’s Guide to Bolaño - ZT]]
 - tags: #literatura 
 - Fontes & Links: 

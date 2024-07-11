@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/principais-insights-do-livro-como-fazer-amigos-de-dale-carnagie/","tags":["permanente","literatura","autoajuda","nãoficção","chatgpt","meta","filosofia","insight","mestredeculturacontemporanea","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/principais-insights-do-livro-como-fazer-amigos-de-dale-carnagie/","tags":["permanente","literatura","autoajuda","nãoficção","chatgpt","meta","filosofia","insight","mestredeculturacontemporanea","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # principais insights do livro como fazer amigos de Dale Carnagie
@@ -11,8 +11,8 @@
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Como não forçar a amizade e tentar não influenciar os outros\|Como não forçar a amizade e tentar não influenciar os outros]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como fazer amigos quando adulto\|Como fazer amigos quando adulto]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como lidar com a estranheza da amizade\|Como lidar com a estranheza da amizade]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Fazer amizades com adultos\|Fazer amizades com adultos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como lidar com a estranheza da amizade\|Como lidar com a estranheza da amizade]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazer amizades com adultos\|Fazer amizades com adultos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Transformar os encontros iniciais em amizades\|Transformar os encontros iniciais em amizades]]
 - tags: #literatura #autoajuda #nãoficção #chatgpt 
 - #meta #filosofia #insight #mestredeculturacontemporanea #criatividade 

@@ -14,7 +14,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/humanos de 500 anos de idade\|humanos de 500 anos de idade]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/Ray Kurzweil - notas conectadas\|Ray Kurzweil - notas conectadas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Why the Future Doesn_t Need Us\|Why the Future Doesn_t Need Us]]
-- [[Mind Children - H Moravec\|Mind Children - H Moravec]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Mind Children - H Moravec\|Mind Children - H Moravec]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/transhumanismo\|transhumanismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/anti-psicodelia\|anti-psicodelia]]
 - tags: #wiredetal #tecnologia #pesquisa #interessesgerais #filosofia #filosofia #tecnologia #mestredeculturacontemporanea

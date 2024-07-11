@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pensar-no-seu-eu-futuro/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/pensar-no-seu-eu-futuro/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # pensar no seu eu futuro
@@ -7,8 +7,8 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-07-28
 - Hora: 11:32
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/VERDADEIRA NECESSIDADE\|1 NOTAS LITERAIS/VERDADEIRA NECESSIDADE]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Guia prático para um homem de quarenta anos com dificuldades de voltar a meditar e escrever diários\|Guia prático para um homem de quarenta anos com dificuldades de voltar a meditar e escrever diários]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/888/VERDADEIRA NECESSIDADE\|0 - VAULT/1 NOTAS LITERAIS/888/VERDADEIRA NECESSIDADE]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Guia prático para um homem de quarenta anos com dificuldades de voltar a meditar e escrever diários\|Guia prático para um homem de quarenta anos com dificuldades de voltar a meditar e escrever diários]]
 - tags: 
 - Fontes & Links: 
 ---
@@ -25,4 +25,4 @@
 
 6. Pensar no "eu" futuro como um ente querido, mesmo com as incertezas, pode criar um senso de responsabilidade e comprometimento com o bem-estar desse "eu" futuro.
 
-[[0 - VAULT/1 NOTAS LITERAIS/Guia prático para um homem de quarenta anos com dificuldades de voltar a meditar e escrever diários\|Guia prático para um homem de quarenta anos com dificuldades de voltar a meditar e escrever diários]]:
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Guia prático para um homem de quarenta anos com dificuldades de voltar a meditar e escrever diários\|Guia prático para um homem de quarenta anos com dificuldades de voltar a meditar e escrever diários]]:

@@ -9,7 +9,7 @@
 - 10:25
 ## relacionados:
 - notas: 
-- [[terapia de casal - o que é\|terapia de casal - o que é]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/terapia de casal - o que é\|terapia de casal - o que é]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Qual o insight essencial por trás do CNM (comunicação não violenta)\|Qual o insight essencial por trás do CNM (comunicação não violenta)]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Parceiro que não lê\|Parceiro que não lê]]
 - tags: #totalizante #intelectual #pessoalidades #meditacao #psique  

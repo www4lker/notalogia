@@ -12,13 +12,13 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O conceito de heroísmo - para Becker\|O conceito de heroísmo - para Becker]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/becker - death denial\|becker - death denial]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Heróis Clássicos e a Teoria do Heroísmo de Becker\|Heróis Clássicos e a Teoria do Heroísmo de Becker]]
-- [[Sociedade e Heroísmo\|Sociedade e Heroísmo]]
-- [[Sistema de Heróis\|Sistema de Heróis]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Sociedade e Heroísmo\|Sociedade e Heroísmo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Sistema de Heróis\|Sistema de Heróis]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Impacto dos Sistemas de Heróis na Cultura\|Impacto dos Sistemas de Heróis na Cultura]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/This psychedelics researcher approached his death with calm and curiosity\|This psychedelics researcher approached his death with calm and curiosity]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/5 coisas sobre existencialismo\|5 coisas sobre existencialismo]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Honestidade Radical - Notas de Vídeo\|Honestidade Radical - Notas de Vídeo]]
-- [[Por uma geografia dos espaços vividos - geografia e fenomenologia\|Por uma geografia dos espaços vividos - geografia e fenomenologia]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Por uma geografia dos espaços vividos - geografia e fenomenologia\|Por uma geografia dos espaços vividos - geografia e fenomenologia]]
 - tags: #psique #filosofia #literatura #academia #mestredeculturacontemporanea #geo
   
 ---
@@ -46,7 +46,7 @@ A crise da sociedade moderna é que a juventude não se sente mais heroica no pl
 ### Nota 5 - Sociedade como um Sistema de Heróis
 A sociedade é e sempre foi um sistema de ação simbólica, uma estrutura de status e papéis, costumes e regras de comportamento, projetada para servir como um veículo para o heroísmo terrestre. Cada cultura tem um sistema de heróis diferente. Independente de ser mágico, religioso, primitivo ou secular, científico e civilizado, é ainda um sistema de heróis míticos.
 
-**Tópicos Relacionados:** [[Sociedade e Heroísmo\|Sociedade e Heroísmo]], [[Sistema de Heróis\|Sistema de Heróis]], [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Impacto dos Sistemas de Heróis na Cultura\|Impacto dos Sistemas de Heróis na Cultura]].
+**Tópicos Relacionados:** [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Sociedade e Heroísmo\|Sociedade e Heroísmo]], [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Sistema de Heróis\|Sistema de Heróis]], [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Impacto dos Sistemas de Heróis na Cultura\|Impacto dos Sistemas de Heróis na Cultura]].
 
 ### Nota 6 - A Religião e a Crise do Heroísmo
 A crise do heroísmo reflete também na crise da religião organizada. A religião não é mais válida como um sistema de heróis, e por isso a juventude a despreza. Se a cultura tradicional é desacreditada como heroica, a igreja que apoia essa cultura automaticamente se desacredita.

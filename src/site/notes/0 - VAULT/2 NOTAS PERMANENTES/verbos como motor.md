@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/verbos-como-motor/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/verbos-como-motor/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # verbos como motor
@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/William Zinsser\|William Zinsser]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/William Zinsser\|William Zinsser]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Os verbos são a mais importante de todas as suas ferramentas\|Os verbos são a mais importante de todas as suas ferramentas]]
 ---

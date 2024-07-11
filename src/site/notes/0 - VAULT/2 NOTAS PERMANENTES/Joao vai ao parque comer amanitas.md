@@ -9,7 +9,7 @@
 -  Ano, Mês e dia: 2023-07-06
 - Hora: 22:07
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Como se divertir\|Como se divertir]]
-[[Qual deveria ser o espaço do brincar na vida de um adulto\|Qual deveria ser o espaço do brincar na vida de um adulto]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Qual deveria ser o espaço do brincar na vida de um adulto\|Qual deveria ser o espaço do brincar na vida de um adulto]]
 - tags: #interessesgerais #insight #framework #filosofia 
 - Fontes & Links: 
 ---

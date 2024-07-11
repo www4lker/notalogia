@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/verdade-insights/","tags":["sciencebitch","Metacognition","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/verdade-insights/","tags":["sciencebitch","Metacognition","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 [[0 - VAULT/2 NOTAS PERMANENTES/notas de retiro dhamma sarana\|notas de retiro dhamma sarana]]

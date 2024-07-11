@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/protocolo-de-escrita-para-saude-consensus/","tags":["permanente","EscritaCurativa","VocabulárioEmocional","TraumaEPsicoterapia","PoderDasPalavras","HonestidadeCerebral","EstresseEImunidade","TerapiaPelaEscrita","CérebroECorpoConectados","sciencebitch","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/protocolo-de-escrita-para-saude-consensus/","tags":["permanente","EscritaCurativa","VocabulárioEmocional","TraumaEPsicoterapia","PoderDasPalavras","HonestidadeCerebral","EstresseEImunidade","TerapiaPelaEscrita","CérebroECorpoConectados","sciencebitch","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Protocolo de escrita para saúde - consensus
@@ -29,12 +29,12 @@ Articles Confronting a traumatic event: toward an understanding of inhibition an
 ---
 
 1. "[[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Confrontando um evento traumático - Em direção a uma compreensão da inibição e da doença\|Confrontando um evento traumático - Em direção a uma compreensão da inibição e da doença]]" - Como a escrita sobre eventos traumáticos afeta a saúde a longo prazo e a fisiologia a curto prazo?
-2. "[[0 - VAULT/1 NOTAS LITERAIS/Natural emotion vocabularies as windows on distress and well-being\|Natural emotion vocabularies as windows on distress and well-being]]" - Como a riqueza do vocabulário emocional se relaciona com o funcionamento emocional e o bem-estar?
-3. "[[0 - VAULT/1 NOTAS LITERAIS/Disclosure of traumas and immune function\|Disclosure of traumas and immune function]]: Health implications for psychotherapy" - A psicoterapia pode reduzir problemas de saúde ao facilitar a expressão de traumas?
+2. "[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Natural emotion vocabularies as windows on distress and well-being\|Natural emotion vocabularies as windows on distress and well-being]]" - Como a riqueza do vocabulário emocional se relaciona com o funcionamento emocional e o bem-estar?
+3. "[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Disclosure of traumas and immune function\|Disclosure of traumas and immune function]]: Health implications for psychotherapy" - A psicoterapia pode reduzir problemas de saúde ao facilitar a expressão de traumas?
 4. "[[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/Putting Feelings Into Words\|Putting Feelings Into Words]]" - Quais são os mecanismos pelos quais rotular afetos ajuda a gerenciar experiências emocionais negativas?
-5. "[[0 - VAULT/1 NOTAS LITERAIS/Incentivando a honestidade com choques no cérebro\|Incentivando a honestidade com choques no cérebro]]" - A estimulação cerebral não invasiva pode aumentar a honestidade ao reduzir a trapaça?
+5. "[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Incentivando a honestidade com choques no cérebro\|Incentivando a honestidade com choques no cérebro]]" - A estimulação cerebral não invasiva pode aumentar a honestidade ao reduzir a trapaça?
 6. "[[0 - VAULT/1 NOTAS LITERAIS/psique/The β1-adrenergic receptor links sympathetic nerves to T cell exhaustion\|The β1-adrenergic receptor links sympathetic nerves to T cell exhaustion]]" - Como a resposta ao estresse e a atividade do sistema nervoso regulam a exaustão das células T e influenciam doenças?
 7. "[[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Writing About Emotional Experiences as a Therapeutic Process\|Writing About Emotional Experiences as a Therapeutic Process]]" - Como a escrita sobre experiências emocionais contribui para melhorias na saúde física e mental?
-8. "[[0 - VAULT/1 NOTAS LITERAIS/Cérebro e corpo são mais interligados do que imaginávamos\|Cérebro e corpo são mais interligados do que imaginávamos]]" - Como a interação entre cérebro e corpo influencia tanto a saúde física quanto mental, e quais são as implicações para tratamentos?
+8. "[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Cérebro e corpo são mais interligados do que imaginávamos\|Cérebro e corpo são mais interligados do que imaginávamos]]" - Como a interação entre cérebro e corpo influencia tanto a saúde física quanto mental, e quais são as implicações para tratamentos?
 9. [[Therapeutic Journaling\|Therapeutic Journaling]]
 

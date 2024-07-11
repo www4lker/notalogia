@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/the-connection-between-mindfulness-and-phenomenology-has-been-critiqued/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/the-connection-between-mindfulness-and-phenomenology-has-been-critiqued/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 ## Observação 5: A conexão entre a atenção plena e a fenomenologia tem sido criticada.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/gpt3/","tags":["permanente","interessesgerais","interessesdepesquisa","meta","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/gpt3/","tags":["permanente","interessesgerais","interessesdepesquisa","meta","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # gpt3
@@ -13,7 +13,7 @@ criado em: 17:42 2022-08-16
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/como o computador “aprende”\|como o computador “aprende”]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/exemplo de uso de gpt-3\|exemplo de uso de gpt-3]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/gpt3 por ele mesmo\|gpt3 por ele mesmo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/poesia feita por gpt3\|poesia feita por gpt3]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/poesia feita por gpt3\|poesia feita por gpt3]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/prompts midjourney\|prompts midjourney]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney\|engenharia reversa do midjourney]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/chatgpt\|chatgpt]]

@@ -9,9 +9,9 @@
 - 14:24
 ## relacionados:
 - notas: 
-- [[Micorriza\|Micorriza]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Micorriza\|Micorriza]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Mysteries, Yes\|Mysteries, Yes]]
-- [[Merlin Sheldrake\|Merlin Sheldrake]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Merlin Sheldrake\|Merlin Sheldrake]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A trama da vida - introdução\|A trama da vida - introdução]]
 - tags: #fungos #naturae #darkforest #psicodelico #sciencebitch #nãoficção
 - Fontes & Links: https://www.tiktok.com/@wholly.chloe/video/7334819706550963498

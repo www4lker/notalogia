@@ -39,7 +39,7 @@
 
 7. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazer amizades com adultos\|Fazer amizades com adultos]]:[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazer amizades com adultos\|Fazer amizades com adultos]]]. 
 
-8. [[Preparação psicológica\|Preparação psicológica]]: [[Preparação psicológica\|Preparação psicológica]]]
+8. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Preparação psicológica\|Preparação psicológica]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Preparação psicológica\|Preparação psicológica]]]
 
 9. [[0 - VAULT/2 NOTAS PERMANENTES/Transformar os encontros iniciais em amizades\|Transformar os encontros iniciais em amizades]]: [[0 - VAULT/2 NOTAS PERMANENTES/Transformar os encontros iniciais em amizades\|Transformar os encontros iniciais em amizades]]
 

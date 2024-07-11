@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-08-23
 - Hora: 17:32
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/vox -  meditation  -ZT\|vox -  meditation  -ZT]]
-- [[no nothing - article meditation\|no nothing - article meditation]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/no nothing - article meditation\|no nothing - article meditation]]
 - [[0 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/10/Meditation is like mountaineering approach it with care\|0 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/10/Meditation is like mountaineering approach it with care]]
 - tags: #vipassana #sciencebitch #ceticismo #meditacao 
 ---

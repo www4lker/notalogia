@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/La piedra de la locura\|La piedra de la locura]]
 - [[Quando deixamos de entender o mundo\|Quando deixamos de entender o mundo]]
-- [[resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
 - tags: tags: #literatura #filosofia #insight 
 - Fontes & Links: [video original](https://www.youtube.com/watch?v=fLZ8YjO7A_Y)  Flip 2022: Of the harm you gave me…, with Benjamin Labatut
 ---

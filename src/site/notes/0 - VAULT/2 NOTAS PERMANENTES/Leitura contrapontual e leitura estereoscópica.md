@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/leitura-contrapontual-e-leitura-estereoscopica/","tags":["permanente","formalismorusso","literatura","geo","filosofia","disserte","dostoievski","episteme","leitura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/leitura-contrapontual-e-leitura-estereoscopica/","tags":["permanente","formalismorusso","literatura","geo","filosofia","disserte","dostoievski","episteme","leitura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Leitura contrapontual e leitura estereoscópica

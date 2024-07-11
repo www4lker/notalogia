@@ -11,7 +11,15 @@
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/COMO LER MAIS LIVROS - VIA NEXO\|COMO LER MAIS LIVROS - VIA NEXO]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Consequências Psicológicas do Uso do Instagram\|Consequências Psicológicas do Uso do Instagram]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Farmácia Literária - sofrimentos relacionados à leitura\|Farmácia Literária - sofrimentos relacionados à leitura]]
-  ![[r books#^ec5812\|r books#^ec5812]]
+  
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+70.  [The rise of BookTok: meet the teen influencers pushing books up the charts](https://www.theguardian.com/books/2021/jun/25/the-rise-of-booktok-meet-the-teen-influencers-pushing-books-up-the-charts) - [ [THREAD](https://www.reddit.com/r/books/comments/o7mwhi/the_rise_of_booktok_meet_the_teen_influencers/) ] 
+
+</div></div>
+
 - tags: #realworld #insights #Humores #literatura #mestredeculturacontemporanea 
 -   #literatura #totalizante #pesquisa #interessesdepesquisa #podkasten 
 - Fontes & Links: https://www.youtube.com/watch?v=FYTNe5QUSEo&pp=ygUoZnJhbmtpZSdzIGN1bHR1cmFsIG9ic2VydmF0aW9ucyByZWFkZXJzIA%3D%3D

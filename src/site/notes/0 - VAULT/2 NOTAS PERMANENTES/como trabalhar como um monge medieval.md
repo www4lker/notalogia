@@ -8,7 +8,7 @@
 ### Relacionado
 palavras-chave: #intelectual #academia #academico #totalizante #disserte #vipassana #meditacao #criatividade #promptgpt3 
 - notas: 
-- [[Você precisa pensar como um monge medieval\|Você precisa pensar como um monge medieval]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Você precisa pensar como um monge medieval\|Você precisa pensar como um monge medieval]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/digital minimalism\|digital minimalism]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/DEEP WORK e MINDFUL TECH - artigo\|DEEP WORK e MINDFUL TECH - artigo]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A.-D. Sertillanges\|A.-D. Sertillanges]]

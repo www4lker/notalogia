@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/the-main-insight-of-the-book-atomic-habits-by-james-clear/","tags":["permanente","habitanimal","HabitRevolution","SmallChangesBigResults","IdentityShift","SystematicSuccess","EnvironmentMatters","HabitStacking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/the-main-insight-of-the-book-atomic-habits-by-james-clear/","tags":["permanente","habitanimal","HabitRevolution","SmallChangesBigResults","IdentityShift","SystematicSuccess","EnvironmentMatters","HabitStacking"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # The main insight of the book atomic habits by james clear

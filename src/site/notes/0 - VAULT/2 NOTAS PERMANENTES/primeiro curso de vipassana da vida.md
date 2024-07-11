@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/primeiro-curso-de-vipassana-da-vida/","tags":["permanente","Meditação","Vipassana","Objetivos","Equilíbrio","pessoalidades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/primeiro-curso-de-vipassana-da-vida/","tags":["permanente","Meditação","Vipassana","Objetivos","Equilíbrio","pessoalidades"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # primeiro curso de vipassana da vida

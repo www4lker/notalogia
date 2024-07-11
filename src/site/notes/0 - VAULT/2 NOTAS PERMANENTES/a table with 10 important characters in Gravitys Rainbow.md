@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-06-30
 - Hora: 15:40
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
-- notas: [[Pynchon, Thomas\|Pynchon, Thomas]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Pynchon, Thomas\|Pynchon, Thomas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
 
 - Fontes & Links: https://chat.openai.com/share/6bcffc3e-e144-4444-8a4e-08ab588ca8ac

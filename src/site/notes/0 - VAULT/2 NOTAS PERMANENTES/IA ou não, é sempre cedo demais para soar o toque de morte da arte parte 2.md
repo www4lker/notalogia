@@ -10,7 +10,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/gpt3\|gpt3]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/BERT\|BERT]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/racismo algorítmico\|racismo algorítmico]]
-- [[Santos, Milton\|Santos, Milton]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Santos, Milton\|Santos, Milton]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte\|pode inteligencia virtual fazer arte]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/midjourney\|midjourney]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/o que a IA significa para a criatividade humana\|o que a IA significa para a criatividade humana]]

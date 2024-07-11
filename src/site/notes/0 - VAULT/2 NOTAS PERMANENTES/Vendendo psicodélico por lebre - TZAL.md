@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/vendendo-psicodelico-por-lebre-tzal/","tags":["permanente","filosofia","buddhismo","Meditação","Satisfação","Espiritualidade","Diversidade","Drogas","BuscaPorNovidade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/vendendo-psicodelico-por-lebre-tzal/","tags":["permanente","filosofia","buddhismo","Meditação","Satisfação","Espiritualidade","Diversidade","Drogas","BuscaPorNovidade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Vendendo psicodélico por lebre - TZAL

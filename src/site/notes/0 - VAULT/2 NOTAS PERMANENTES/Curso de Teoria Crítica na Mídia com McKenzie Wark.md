@@ -11,7 +11,7 @@
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Interview with McKenzie Wark\|Interview with McKenzie Wark]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Manifesto Hacker - a live\|Manifesto Hacker - a live]]
-- [[review a hacker manifesto\|review a hacker manifesto]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/review a hacker manifesto\|review a hacker manifesto]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Curso de Teoria Crítica na Mídia com McKenzie Wark\|Curso de Teoria Crítica na Mídia com McKenzie Wark]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Januária Cristina Alves - Educação Midiática\|Januária Cristina Alves - Educação Midiática]]
 - tags: #geo #ensaistica #polis #pessoalidades #games #zettelkasten #mestredeculturacontemporanea 
@@ -30,7 +30,7 @@
 | Data                | Tópico                                        | Descrição                                                                                                                                   |
 | ------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Qua, 2 de Setembro  | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/1. Walter Benjamin\|1. Walter Benjamin]]                        | A Obra de Arte na Era de sua Reprodutibilidade Técnica (Harvard University Press, 2008), pp. 19-55; 58-59; 79-95; 274-298; 328-332; 338-339 |
-| Qua, 9 de Setembro  | [[2. Raymond Williams\|2. Raymond Williams]]                       | A Longa Revolução (Pelican, 1961), parte 1                                                                                                  |
+| Qua, 9 de Setembro  | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/2. Raymond Williams\|2. Raymond Williams]]                       | A Longa Revolução (Pelican, 1961), parte 1                                                                                                  |
 | Qua, 16 de Setembro | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/3. Pier Paolo Pasolini\|3. Pier Paolo Pasolini]]                    | Empirismo Herético (New Academia, Washington DC, 2005), p. 167ff                                                                            |
 | Qua, 23 de Setembro | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/4. Donna Haraway\|4. Donna Haraway]]                          | Simians, Cyborgs & Women (Routlege, 1990), cap. 8                                                                                           |
 | Qua, 7 de Outubro   | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/5. Franco ‘Bifo’ Berardi\|5. Franco ‘Bifo’ Berardi]]                  | Alma no Trabalho, (Semiotexte, 2009), pp27-106                                                                                              |
@@ -41,7 +41,7 @@
 | Qua, 11 de Novembro | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/10. Alexander R. Galloway\|10. Alexander R. Galloway]]                 | Efeito Interface (Polity, 2012), pp. 1-78                                                                                                   |
 | Qua, 18 de Novembro | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/11. Maurizio Lazzarato\|11. Maurizio Lazzarato]]                    | Sinais e Máquinas (Semiotexte, 2013), pp7-95                                                                                                |
 | Ter, 24 de Novembro | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/12. Tiziana Terranova\|12. Tiziana Terranova]]                     | Cultura de Rede (Pluto, 2004), cap. 1, 2                                                                                                    |
-| Qua, 2 de Dezembro  | [[13. Paul B Preciado\|13. Paul B Preciado]] | Testo Junkie (Feminist Press, 2013)                                                                                                         |
-| Qua, 9 de Dezembro  | [[14. Jodi Dean\|14. Jodi Dean]]                             | Teoria do Blog (Polity, 2010), pp 1-91                                                                                                      |
-| Qua, 16 de Dezembro | [[15. Benjamin Bratton\|15. Benjamin Bratton]]                      | The Stack, MIT Press, 2015)                                                                                                                 |
+| Qua, 2 de Dezembro  | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/13. Paul B Preciado\|13. Paul B Preciado]] | Testo Junkie (Feminist Press, 2013)                                                                                                         |
+| Qua, 9 de Dezembro  | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/14. Jodi Dean\|14. Jodi Dean]]                             | Teoria do Blog (Polity, 2010), pp 1-91                                                                                                      |
+| Qua, 16 de Dezembro | [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/15. Benjamin Bratton\|15. Benjamin Bratton]]                      | The Stack, MIT Press, 2015)                                                                                                                 |
 

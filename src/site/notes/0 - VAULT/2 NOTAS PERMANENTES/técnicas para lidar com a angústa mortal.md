@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/tecnicas-para-lidar-com-a-angusta-mortal/","tags":["permanente","filosofia","meditacao","vipassana","insight","insumos","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/tecnicas-para-lidar-com-a-angusta-mortal/","tags":["permanente","filosofia","meditacao","vipassana","insight","insumos","chatgpt"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # técnicas para lidar com a angústa mortal

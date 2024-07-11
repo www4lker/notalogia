@@ -9,7 +9,7 @@
 - 12:54
 ## relacionados:
 - notas: [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/substackers contra nazis\|substackers contra nazis]]
-- [[Substack é uma ameaça, mais ou menos\|Substack é uma ameaça, mais ou menos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Substack é uma ameaça, mais ou menos\|Substack é uma ameaça, mais ou menos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Para além dos jardins  murados dos substack\|Para além dos jardins  murados dos substack]]
 - tags: #wiredetal #substack #escrivão #EarlyWeb #insumos
 ---

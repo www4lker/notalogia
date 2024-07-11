@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão 
 - notas: 
-- [[William Zinsser\|William Zinsser]] [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities\|Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/William Zinsser\|William Zinsser]] [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities\|Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - também: [[0 - VAULT/2 NOTAS PERMANENTES/A práxis na prática\|A práxis na prática]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/A práxis do escritor\|A práxis do escritor]]

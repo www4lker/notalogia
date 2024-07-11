@@ -9,9 +9,9 @@
 - Hora: 11:44
 
 ### Conteúdo Relacionado
-- notas: [[power down routine\|power down routine]]\
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/power down routine\|power down routine]]\
 - [[0 - VAULT/2 NOTAS PERMANENTES/How to start the perfect sleep routine\|How to start the perfect sleep routine]]
-- [[Rotina blecaute\|Rotina blecaute]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Rotina blecaute\|Rotina blecaute]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/cronotipo noturno\|cronotipo noturno]]
 - tags: #biohack #habitanimal #totalizante 
 - Fontes & Links: 

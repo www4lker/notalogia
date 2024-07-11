@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/primeira-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/primeira-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 A meditação pode ser uma ferramenta poderosa para aprofundar a compreensão de si mesmo e cultivar a paz interior. No entanto, é importante lembrar que a meditação não é um fim em si mesmo, mas um meio para alcançar a clareza mental e emocional.
@@ -20,5 +20,5 @@ Aqui estão alguns passos que você pode seguir para estabelecer uma rotina de m
 
 Lembre-se, a prática regular da meditação pode ajudar a cultivar a atenção plena, a paz interior e a clareza mental. No entanto, ela é apenas uma ferramenta em seu arsenal, e é importante combinar essa prática com outras estratégias de autocuidado e crescimento pessoal.
 
-[[0 - VAULT/1 NOTAS LITERAIS/888/extra - Analisando as notas sob uma perspectiva superior\|extra - Analisando as notas sob uma perspectiva superior]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/extra - Analisando as notas sob uma perspectiva superior\|extra - Analisando as notas sob uma perspectiva superior]]
 #retiro-vipassana #totalizante #pessoalidades #householder #psique #filosofia #insight

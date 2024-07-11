@@ -9,7 +9,7 @@
 - 17:06
 ## relacionados:
 - notas:
-- [[sociedade medicalizada\|sociedade medicalizada]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/sociedade medicalizada\|sociedade medicalizada]]
 - [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/Why Everyone Has ADHD Now - YouTube\|Why Everyone Has ADHD Now - YouTube]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/o que é biohacking\|o que é biohacking]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Writing About Emotional Experiences as a Therapeutic Process\|Writing About Emotional Experiences as a Therapeutic Process]]

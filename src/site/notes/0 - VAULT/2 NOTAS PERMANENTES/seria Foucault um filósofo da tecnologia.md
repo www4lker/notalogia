@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/seria-foucault-um-filosofo-da-tecnologia/","tags":["permanente","interessesdepesquisa","filosofia","mestredeculturacontemporanea","internet","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/seria-foucault-um-filosofo-da-tecnologia/","tags":["permanente","interessesdepesquisa","filosofia","mestredeculturacontemporanea","internet","promptgpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # seria Foucault um filósofo da tecnologia?
@@ -10,20 +10,20 @@
 
 - palavras-chave: #interessesdepesquisa #filosofia #mestredeculturacontemporanea #internet #promptgpt3 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/episteme\|episteme]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/episteme\|episteme]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Episteme em Foucault\|Episteme em Foucault]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Savoir (conceito)\|Savoir (conceito)]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Savoir (conceito)\|Savoir (conceito)]]
 ---
 
 Notas do artigo:
 
 1. **As primeiras visões de Foucault sobre tecnologia e doença mental:** Foucault abordou o tema da tecnologia em seu livro "Mental Illness and Personality" (Doença mental e personalidade), publicado em 1954. Ele explorou a ideia de que a mecanização da sociedade moderna pode levar à doença mental, especificamente à esquizofrenia, como resultado da alienação e do distanciamento das próprias técnicas. Ele argumentou que a esquizofrenia é uma manifestação do problema sociológico da alienação causada pela mecanização do mundo.
 
-2. [[0 - VAULT/1 NOTAS LITERAIS/A perspectiva marxista de Foucault sobre a tecnologia\|A perspectiva marxista de Foucault sobre a tecnologia]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A perspectiva marxista de Foucault sobre a tecnologia\|A perspectiva marxista de Foucault sobre a tecnologia]]
 
-3. [[0 - VAULT/1 NOTAS LITERAIS/A crítica de Foucault à psicologia e sua relação com o controle social\|A crítica de Foucault à psicologia e sua relação com o controle social]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A crítica de Foucault à psicologia e sua relação com o controle social\|A crítica de Foucault à psicologia e sua relação com o controle social]]
 
-4. [[0 - VAULT/1 NOTAS LITERAIS/A exploração de Foucault do conhecimento, das relações sujeito-objeto e da tecnologia\|A exploração de Foucault do conhecimento, das relações sujeito-objeto e da tecnologia]]
+4. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A exploração de Foucault do conhecimento, das relações sujeito-objeto e da tecnologia\|A exploração de Foucault do conhecimento, das relações sujeito-objeto e da tecnologia]]
    
-5. [[0 - VAULT/1 NOTAS LITERAIS/A perspectiva de Michel Foucault sobre a tecnologia revela sua intrincada conexão com o poder, o conhecimento e a sociedade\|A perspectiva de Michel Foucault sobre a tecnologia revela sua intrincada conexão com o poder, o conhecimento e a sociedade]]
+5. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A perspectiva de Michel Foucault sobre a tecnologia revela sua intrincada conexão com o poder, o conhecimento e a sociedade\|A perspectiva de Michel Foucault sobre a tecnologia revela sua intrincada conexão com o poder, o conhecimento e a sociedade]]

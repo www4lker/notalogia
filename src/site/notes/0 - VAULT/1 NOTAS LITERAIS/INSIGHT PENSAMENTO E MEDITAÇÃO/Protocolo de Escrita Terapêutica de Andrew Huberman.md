@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/protocolo-de-escrita-terapeutica-de-andrew-huberman/","tags":["sciencebitch","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/protocolo-de-escrita-terapeutica-de-andrew-huberman/","tags":["sciencebitch","psique","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Protocolo de Escrita Terapêutica de Andrew Huberman

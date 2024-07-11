@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/quarta-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/quarta-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Compreendo sua busca. Manter-se conectado socialmente é uma parte vital do bem-estar humano. Nós somos seres sociais por natureza e prosperamos na companhia dos outros. Aqui estão algumas sugestões sobre como fortalecer suas conexões sociais:

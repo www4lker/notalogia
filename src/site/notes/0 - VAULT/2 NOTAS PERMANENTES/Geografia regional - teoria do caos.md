@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/geografia-regional-teoria-do-caos/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/geografia-regional-teoria-do-caos/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 [[0 - VAULT/2 NOTAS PERMANENTES/Geografia regional - teoria do caos\|Geografia regional - teoria do caos]]

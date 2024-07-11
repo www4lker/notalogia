@@ -8,7 +8,7 @@ criado em: 22:39 2022-08-24
 ##### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão 
 - notas: 
-- [[William Zinsser\|William Zinsser]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/William Zinsser\|William Zinsser]]
 -  [[NOTAS DE LEITURA/LIVROS/Sobre a Escrita\|NOTAS DE LEITURA/LIVROS/Sobre a Escrita]] 
 - [[Sobre a Escrita-2\|Sobre a Escrita-2]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]

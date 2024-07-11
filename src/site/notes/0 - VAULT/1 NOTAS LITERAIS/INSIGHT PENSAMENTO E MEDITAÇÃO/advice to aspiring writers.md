@@ -8,8 +8,8 @@
 #### Relacionado
 - palavras-chave: #ensaistica #filosofia #literatura 
 - notas:
-- [[Sontag, Susan\|Sontag, Susan]]
-- [[SUSAN SONTAG ON WRITING\|SUSAN SONTAG ON WRITING]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Sontag, Susan\|Sontag, Susan]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/SUSAN SONTAG ON WRITING\|SUSAN SONTAG ON WRITING]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/mushrooms, a poem by Sylvia Plath\|mushrooms, a poem by Sylvia Plath]]
 ---
  fonte: themarginalian.org

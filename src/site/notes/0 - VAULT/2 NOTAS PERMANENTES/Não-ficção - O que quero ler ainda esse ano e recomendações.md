@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nao-ficcao-o-que-quero-ler-ainda-esse-ano-e-recomendacoes/","tags":["permanente","literatura","yt","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nao-ficcao-o-que-quero-ler-ainda-esse-ano-e-recomendacoes/","tags":["permanente","literatura","yt","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Não-ficção - O que quero ler ainda esse ano e recomendações
@@ -8,8 +8,8 @@
 -  Ano, Mês e dia: 2023-07-25
 - Hora: 12:03
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/PROCURANDO SUA IDENTIDADE DE LEITURA\|PROCURANDO SUA IDENTIDADE DE LEITURA]]
-- [[0 - VAULT/1 NOTAS LITERAIS/TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM\|TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM]]
-- [[0 - VAULT/1 NOTAS LITERAIS/não lembro dos livros lidos\|não lembro dos livros lidos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM\|TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/não lembro dos livros lidos\|não lembro dos livros lidos]]
 - tags: #literatura #yt #filosofia #insight 
 - Fontes & Links:  https://www.youtube.com/watch?v=mTxPEERSQjk
 ---

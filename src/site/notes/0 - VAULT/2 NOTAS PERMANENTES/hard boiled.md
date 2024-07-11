@@ -14,7 +14,7 @@
 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/SUPERMERCADO, ANTROPOCENO E PERRY MASON\|SUPERMERCADO, ANTROPOCENO E PERRY MASON]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/como ser abstêmio\|como ser abstêmio]]
-- [[Raymond Chandler - starter pack\|Raymond Chandler - starter pack]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Raymond Chandler - starter pack\|Raymond Chandler - starter pack]]
 - tags: #criatividade #tv #literatura #otimistarealista #householder 
 
 ---

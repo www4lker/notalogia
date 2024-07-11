@@ -8,10 +8,10 @@
 - 26-09-2023
 - 12:59
 ## relacionados:
-notas: [[Sebald, W. G.\|Sebald, W. G.]]
-- [[Understanding Sebald\|Understanding Sebald]]
+notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Sebald, W. G.\|Sebald, W. G.]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Understanding Sebald\|Understanding Sebald]]
 - [[sebald, paciência depois\|sebald, paciência depois]]
-- [[SEBALDWEG - 2023\|SEBALDWEG - 2023]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/SEBALDWEG - 2023\|SEBALDWEG - 2023]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Os Anéis de Saturno\|Os Anéis de Saturno]]
 - tags: #totalizante #pessoalidades #literatura #habitanimal #lit #literatura
 - Links: https://www.youtube.com/watch?v=En3VlxsAVgQ

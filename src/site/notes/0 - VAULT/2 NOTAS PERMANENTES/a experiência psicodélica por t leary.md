@@ -23,7 +23,7 @@ palavras-chave: #psicodelico #totalizante #eternoaprendiz
 
 
 
-Título: [[Teoria da Exploração da Consciência de Leary\|Teoria da Exploração da Consciência de Leary]]
+Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Teoria da Exploração da Consciência de Leary\|Teoria da Exploração da Consciência de Leary]]
 
 
 Nota 2:

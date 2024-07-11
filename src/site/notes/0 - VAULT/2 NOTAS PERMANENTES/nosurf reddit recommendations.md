@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nosurf-reddit-recommendations/","tags":["permanente","filosofia","literatura","ceticismo","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/nosurf-reddit-recommendations/","tags":["permanente","filosofia","literatura","ceticismo","estoico"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # nosurf reddit recommendations

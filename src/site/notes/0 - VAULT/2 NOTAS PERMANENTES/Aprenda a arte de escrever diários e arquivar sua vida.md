@@ -27,7 +27,7 @@
 - [[pessoalidades\|pessoalidades]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Resumo - Homem de 38 anos com 15 anos de educação superior buscando uma mudança de carreira\|Resumo - Homem de 38 anos com 15 anos de educação superior buscando uma mudança de carreira]]
 - [[Hoje saiu minha sentença de herdeiro\|Hoje saiu minha sentença de herdeiro]]
-- [[Thomas Merton\|Thomas Merton]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Thomas Merton\|Thomas Merton]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Montaigne, Michel de\|Montaigne, Michel de]]
 - [[tarot do divorcio\|tarot do divorcio]]
 - [[PRIMEIRA SEMANA DE JULHO\|PRIMEIRA SEMANA DE JULHO]]

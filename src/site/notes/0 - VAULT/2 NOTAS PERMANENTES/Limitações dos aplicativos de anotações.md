@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/limitacoes-dos-aplicativos-de-anotacoes/","tags":["permanente","promptgpt3","disserte","metodologia","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/limitacoes-dos-aplicativos-de-anotacoes/","tags":["permanente","promptgpt3","disserte","metodologia","meta"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Limitations of Note-taking Apps
@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-08-26
 - Hora: 20:10
 - notas: [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Why note-taking apps don’t make us smarter\|Why note-taking apps don’t make us smarter]]
-- [[0 - VAULT/1 NOTAS LITERAIS/texto puro não é uma bala mágica - plaintext blog\|texto puro não é uma bala mágica - plaintext blog]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/texto puro não é uma bala mágica - plaintext blog\|texto puro não é uma bala mágica - plaintext blog]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/The Impact of the Internet on Productivity Exploring Its Benefits and Drawbacks\|The Impact of the Internet on Productivity Exploring Its Benefits and Drawbacks]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/como evitar a falácia do colecionador\|como evitar a falácia do colecionador]]
 - tags: #promptgpt3 #disserte #metodologia  #meta 

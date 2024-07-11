@@ -11,7 +11,7 @@
 ### Conteúdo Relacionado
 - notas: [[Burkeman, Oliver\|Burkeman, Oliver]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Joseph Goldstein\|Joseph Goldstein]]
-- [[Mindfulness-2\|Mindfulness-2]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Mindfulness-2\|Mindfulness-2]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/reaprender a dar valor para as próprias vitórias\|reaprender a dar valor para as próprias vitórias]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O VALOR DO VOLUME FIXO DE PRODUTIVIDADE\|O VALOR DO VOLUME FIXO DE PRODUTIVIDADE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Fracasse estrategicamente\|Fracasse estrategicamente]]

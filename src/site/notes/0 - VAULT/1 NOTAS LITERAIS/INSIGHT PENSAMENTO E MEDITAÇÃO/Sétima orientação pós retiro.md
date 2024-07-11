@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/setima-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/setima-orientacao-pos-retiro/","tags":["retiro-vipassana","totalizante","pessoalidades","householder","psique","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Excelente, a paciência e a autocompaixão são fundamentais para uma vida equilibrada e satisfatória. Vamos explorar isso mais a fundo:
@@ -27,5 +27,5 @@ Como você se sente em relação a essas práticas? Você acha que pode incorpor
 ---
 
 [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Primeira orientação pós retiro\|Primeira orientação pós retiro]]
-[[0 - VAULT/1 NOTAS LITERAIS/extra - Analisando as notas sob uma perspectiva superior\|extra - Analisando as notas sob uma perspectiva superior]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/extra - Analisando as notas sob uma perspectiva superior\|extra - Analisando as notas sob uma perspectiva superior]]
 #retiro-vipassana #totalizante #pessoalidades #householder #psique #filosofia #insight

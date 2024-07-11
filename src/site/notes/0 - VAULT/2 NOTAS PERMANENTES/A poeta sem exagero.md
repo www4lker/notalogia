@@ -45,6 +45,6 @@ Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O percurs
 [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O percurso político de Wislawa Szymborska - entre alinhamento e desilusão\|O percurso político de Wislawa Szymborska - entre alinhamento e desilusão]]
 
 Nota 4:
-Título: [[Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza\|Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza]]
+Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza\|Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza]]
 
-[[Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza\|Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza\|Wislawa Szymborska - a busca pela harmonia entre seriedade e leveza]]

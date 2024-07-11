@@ -20,4 +20,4 @@ Nota 1:
 **Título:** [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A interseção de arte, código e tecnologias de código aberto\|A interseção de arte, código e tecnologias de código aberto]]
 
 Nota 2:
-**Título:** [[um documentário interativo que explora a comunidade de arte digital\|um documentário interativo que explora a comunidade de arte digital]]
+**Título:** [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/um documentário interativo que explora a comunidade de arte digital\|um documentário interativo que explora a comunidade de arte digital]]

@@ -16,6 +16,6 @@ palavras-chave: #disserte #interessesdepesquisa #sinergia #metodologia #acadêmi
 # How To Write The Cover Letter 
 >“Brevity is the soul of wit.” – William Shakespeare, Hamlet
 
-[[Saramäki, Jari\|Saramäki, Jari]]. How To Write A Scientific Paper: An Academic Self-Help Guide for PhD Students (p. 93). Edição do Kindle. 
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Saramäki, Jari\|Saramäki, Jari]]. How To Write A Scientific Paper: An Academic Self-Help Guide for PhD Students (p. 93). Edição do Kindle. 
 
 To summarise: if you have to write a cover letter, keep it simple, keep it short, put important stuff first, and explain why your work matters.

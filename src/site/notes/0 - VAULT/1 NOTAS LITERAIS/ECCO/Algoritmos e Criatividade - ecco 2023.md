@@ -11,7 +11,7 @@
 - notas:
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/ECCO 2023 - INCURSÕES\|ECCO 2023 - INCURSÕES]] 
 - [[0 - VAULT/2 NOTAS PERMANENTES/literature, at least in theory, enhance my metacognition\|literature, at least in theory, enhance my metacognition]]
-- [[QS - Quantified Self - Self-tracking - mit press\|QS - Quantified Self - Self-tracking - mit press]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/QS - Quantified Self - Self-tracking - mit press\|QS - Quantified Self - Self-tracking - mit press]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/armadilha do progresso\|armadilha do progresso]]
 - tags: #interessesgerais  #interessesdepesquisa #meta #ReadingLiterature #MetacognitionEnhancement #SelfAwareness #Empathy #PerspectiveTaking #CriticalThinking #ProblemSolving #Creativity
 ---

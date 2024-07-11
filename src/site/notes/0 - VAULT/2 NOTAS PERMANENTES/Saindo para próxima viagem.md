@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/saindo-para-proxima-viagem/","tags":["permanente","geo","escrita","1000palavrasoumais","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/saindo-para-proxima-viagem/","tags":["permanente","geo","escrita","1000palavrasoumais","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Saindo para próxima viagem
@@ -9,12 +9,12 @@
 - 09:25
 ## relacionados:
 - notas: [[usando chatgpt para transcrever diários\|usando chatgpt para transcrever diários]]
-- [[0 - VAULT/1 NOTAS LITERAIS/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A terapia cognitivo-comportamental (TCC)\|A terapia cognitivo-comportamental (TCC)]]
 
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas de retiro dhamma sarana\|notas de retiro dhamma sarana]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Roteiros de viagem para São Paulo - personalizadíssimo - UPDATE\|Roteiros de viagem para São Paulo - personalizadíssimo - UPDATE]]
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Roteiros de viagem para São Paulo - personalizadíssimo - UPDATE\|Roteiros de viagem para São Paulo - personalizadíssimo - UPDATE]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Roteiros de viagem para São Paulo - personalizadíssimo\|Roteiros de viagem para São Paulo - personalizadíssimo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Roteiros de viagem para São Paulo - personalizadíssimo - UPDATE\|Roteiros de viagem para São Paulo - personalizadíssimo - UPDATE]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Roteiros de viagem para São Paulo - personalizadíssimo - UPDATE\|Roteiros de viagem para São Paulo - personalizadíssimo - UPDATE]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Roteiros de viagem para São Paulo - personalizadíssimo\|Roteiros de viagem para São Paulo - personalizadíssimo]]
 -  [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/SP - ROTEIRO PARA UM AMANTE DE LITERATURA\|SP - ROTEIRO PARA UM AMANTE DE LITERATURA]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/SP - ROTEIRO PARA UM ESTUDANTE DE CULTURA CONTEMPORANEA\|SP - ROTEIRO PARA UM ESTUDANTE DE CULTURA CONTEMPORANEA]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/SP - ROTEIRO PARA UM ESTUDANTE DE GEOGRAFIA\|SP - ROTEIRO PARA UM ESTUDANTE DE GEOGRAFIA]]

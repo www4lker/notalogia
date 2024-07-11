@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/resumo-por-um-filosofo-da-renascenca-segundo-gpt3/","tags":["permanente","promptgpt3","filosofia","literatura","academia","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/resumo-por-um-filosofo-da-renascenca-segundo-gpt3/","tags":["permanente","promptgpt3","filosofia","literatura","academia","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # resumo por um filósofo da renascença segundo gpt3

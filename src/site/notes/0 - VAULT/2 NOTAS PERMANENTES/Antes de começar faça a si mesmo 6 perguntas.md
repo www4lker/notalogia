@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack
 - notas: 
-- [[William Zinsser\|William Zinsser]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/William Zinsser\|William Zinsser]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Sobre o escopo do texto\|Sobre o escopo do texto]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/sobre o argumento principal de um texto\|sobre o argumento principal de um texto]]

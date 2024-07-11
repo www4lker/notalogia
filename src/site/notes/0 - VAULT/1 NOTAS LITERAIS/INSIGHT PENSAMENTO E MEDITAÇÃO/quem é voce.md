@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/quem-e-voce/","tags":["criatividade","333parteum","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/quem-e-voce/","tags":["criatividade","333parteum","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # quem é voce

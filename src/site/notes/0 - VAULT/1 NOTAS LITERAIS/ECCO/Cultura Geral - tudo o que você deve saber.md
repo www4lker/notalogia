@@ -12,7 +12,7 @@
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/MESTRE DE CULTURA CONTEMPORANEA\|MESTRE DE CULTURA CONTEMPORANEA]]
 2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/aflito pelo número de livros no mundo 1\|aflito pelo número de livros no mundo 1]]
-3. [[DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
 - tags: #ECCO #mestredeculturacontemporanea #literatura #filosofia
 - Fontes & Links: 
 ---
@@ -23,7 +23,7 @@
 ### Relacionado
 
 - palavras-chave: #mestredeculturacontemporanea 
-- notas:- [[📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
+- notas:- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Como criar um esboço para uma revisão do videogame na Steam\|Como criar um esboço para uma revisão do videogame na Steam]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Assisti pleasure\|Assisti pleasure]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/atlanta\|atlanta]]
@@ -45,7 +45,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Livros Nexo História e Política Contemporânea\|Livros Nexo História e Política Contemporânea]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/mestizaje\|mestizaje]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/mestrado\|mestrado]]
-- [[Santos, Milton\|Santos, Milton]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Santos, Milton\|Santos, Milton]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/o que voce planeja com minha filha me perguntou o meta\|o que voce planeja com minha filha me perguntou o meta]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/O rompimento com a linguagem\|O rompimento com a linguagem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/prompts midjourney\|prompts midjourney]]
@@ -55,10 +55,10 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/qualificação\|qualificação]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/quisquilae\|quisquilae]]
 - [[Relatório da bolsa\|Relatório da bolsa]]
-- [[Schwanitz, Dietrich\|Schwanitz, Dietrich]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Schwanitz, Dietrich\|Schwanitz, Dietrich]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/um dia uma semana um mes um ano\|um dia uma semana um mes um ano]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Bauman, Zygmunt\|Bauman, Zygmunt]]
-- [[Schwanitz, Dietrich\|Schwanitz, Dietrich]] (autor)
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Schwanitz, Dietrich\|Schwanitz, Dietrich]] (autor)
 ---
 
 >Cultura geral aborda episódios centrais da Bíblia; a emergência dos Estados e a epopéia da modernização, revoluções e democracia; a evolução da literatura, da arte e da música através de suas grandes obras; o desenvolvimento da ciência e da filosofia, o campo de batalha das ideologias, das cosmogonias e das teorias, aborda também a educação dada pelos livros, colégios e universidades, pelos jornais e foros de opiniões. Um quadro cronológico, uma breve relação dos livros que transformaram o mundo e conselhos de leitura aumentam a utilidade desta obra imprescindível.

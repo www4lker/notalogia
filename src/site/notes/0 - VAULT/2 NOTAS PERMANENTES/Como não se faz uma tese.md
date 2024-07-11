@@ -10,7 +10,7 @@
 - #academia #ensaistica #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão #anglo #filosofia 
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/A pirâmide financeira da carreira acadêmica\|A pirâmide financeira da carreira acadêmica]]
-- [[William Zinsser\|William Zinsser]] [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities\|Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/William Zinsser\|William Zinsser]] [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities\|Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como Escrever Bem\|Como Escrever Bem]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O processo de escrever\|O processo de escrever]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/A práxis do escritor\|A práxis do escritor]]

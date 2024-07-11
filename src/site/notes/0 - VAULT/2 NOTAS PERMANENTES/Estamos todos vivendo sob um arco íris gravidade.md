@@ -9,7 +9,7 @@
 ### Conteúdo Relacionado
 
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
-- notas: [[Pynchon, Thomas\|Pynchon, Thomas]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Pynchon, Thomas\|Pynchon, Thomas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/a table with 10 important characters in Gravitys Rainbow\|a table with 10 important characters in Gravitys Rainbow]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/GUIA PARA LER ARCO ÍRIS GRAVIDADE\|GUIA PARA LER ARCO ÍRIS GRAVIDADE]]

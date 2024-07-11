@@ -62,6 +62,6 @@
 
 [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Manifesto Hacker - a live\|Manifesto Hacker - a live]]
 [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Manifesto Hacker\|Manifesto Hacker]]
-[[13. Paul B Preciado\|13. Paul B Preciado]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/13. Paul B Preciado\|13. Paul B Preciado]]
 
 #filosofia #pesquisa #interessesdepesquisa #interessesgerais #ceticismo #disserte #criatividade #ludismoiluminado

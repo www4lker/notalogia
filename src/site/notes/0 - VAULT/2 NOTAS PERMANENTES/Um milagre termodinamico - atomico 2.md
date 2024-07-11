@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/um-milagre-termodinamico-atomico-2/","tags":["permanente","interessesdepesquisa","disserte","metodologia","orientador","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/um-milagre-termodinamico-atomico-2/","tags":["permanente","interessesdepesquisa","disserte","metodologia","orientador","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Um milagre termodinâmico - atômico 2
@@ -9,7 +9,7 @@ criado em: 13:48 2022-08-25
 - notas permanentes: [[0 - VAULT/2 NOTAS PERMANENTES/dissertação index\|dissertação index]] [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]] [[0 - VAULT/2 NOTAS PERMANENTES/Um milagre termodinamico - atomico\|Um milagre termodinamico - atomico]]
 - notas permanentes: [[aquela vez que escrevi sobre meu avo no inumeraveis\|aquela vez que escrevi sobre meu avo no inumeraveis]]
 - notas de dissertação: 
-- notas de literatura: [[0 - VAULT/1 NOTAS LITERAIS/Biblioterapia funciona (pergunta)\|Biblioterapia funciona (pergunta)]]
+- notas de literatura: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Biblioterapia funciona (pergunta)\|Biblioterapia funciona (pergunta)]]
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/relacionando-leituras-com-notas-do-retiro-101223/","tags":["filosofia","literatura","interessesgerais","pesquisa","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/relacionando-leituras-com-notas-do-retiro-101223/","tags":["filosofia","literatura","interessesgerais","pesquisa","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 Você se aprofundou em uma variedade de literatura perspicaz, concentrando-se em temas de percepção, autenticidade e autocompreensão, que se alinham à sua jornada espiritual.

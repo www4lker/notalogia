@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/um-milagre-termodinamico-atomico/","title":"Um milagre termodinamico - atomico","tags":["permanente","interessesdepesquisa","disserte","metodologia","orientador","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/um-milagre-termodinamico-atomico/","title":"Um milagre termodinamico - atomico","tags":["permanente","interessesdepesquisa","disserte","metodologia","orientador","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Um milagre termodinamico - atomico
@@ -9,7 +9,7 @@ criado em: 12:17 2022-08-25
 - palavras-chave: #interessesdepesquisa  #disserte #metodologia #orientador #insumos
 - notas permanentes: [[0 - VAULT/2 NOTAS PERMANENTES/dissertação index\|dissertação index]] [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]]
 **- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/um milagre termodinámico\|um milagre termodinámico]]**
-- notas de dissertação [[0 - VAULT/1 NOTAS LITERAIS/ensaios, de montaigne\|ensaios, de montaigne]]
+- notas de dissertação [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ensaios, de montaigne\|ensaios, de montaigne]]
 - [[dicotomia antigo e contemporaneo\|dicotomia antigo e contemporaneo]]
 - notas de literatura: 
 

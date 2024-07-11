@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/projeto-revolucionario-explorando-o-mega-vault-para-inovacao-e-pesquisa/","tags":["permanente","meta","megavault","pesquisa","substack","escrivão","memai"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/projeto-revolucionario-explorando-o-mega-vault-para-inovacao-e-pesquisa/","tags":["permanente","meta","megavault","pesquisa","substack","escrivão","memai"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # mega-vault

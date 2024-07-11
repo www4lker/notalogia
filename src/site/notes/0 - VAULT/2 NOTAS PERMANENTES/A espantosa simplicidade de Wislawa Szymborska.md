@@ -14,7 +14,7 @@
 ### Conteúdo Relacionado
 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Quão difícil é aprender polonês\|Quão difícil é aprender polonês]]
-- [[Plath, Sylvia\|Plath, Sylvia]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Plath, Sylvia\|Plath, Sylvia]]
 - tags: #poesia #literatura #pessoalidades #literatura #escrita 
 - Fontes & Links: https://quatrocincoum.folha.uol.com.br/br/resenhas/os-melhores-livros-de-2020/a-espantosa-simplicidade-de-wislawa-szymborska
 ---
@@ -41,9 +41,9 @@ Título: O[[ espanto como elemento central na poesia de Szymborska\| espanto com
 [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/espanto como elemento central na poesia de Szymborska\|espanto como elemento central na poesia de Szymborska]]
 
 Nota 4:
-Título: [[O humor e o pensamento em Szymborska\|O humor e o pensamento em Szymborska]]
+Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O humor e o pensamento em Szymborska\|O humor e o pensamento em Szymborska]]
 
-[[O humor e o pensamento em Szymborska\|O humor e o pensamento em Szymborska]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O humor e o pensamento em Szymborska\|O humor e o pensamento em Szymborska]]
 
 Nota 5:
 Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A tradução e a voz de Szymborska em português\|A tradução e a voz de Szymborska em português]]

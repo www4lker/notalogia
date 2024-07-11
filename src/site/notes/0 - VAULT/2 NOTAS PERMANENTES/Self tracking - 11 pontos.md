@@ -9,7 +9,7 @@
 - Hora: 18:57
 
 ### Conteúdo Relacionado
-- notas: [[Self-tracking - MIT Press - analisado\|Self-tracking - MIT Press - analisado]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Self-tracking - MIT Press - analisado\|Self-tracking - MIT Press - analisado]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/capítulos em análise - self-tracking\|capítulos em análise - self-tracking]]
 - tags: #biohack #habitanimal #totalizante #pessoalidades 
 - Fontes & Links: 

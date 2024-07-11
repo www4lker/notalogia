@@ -10,7 +10,7 @@ criado em: 10:13 2022-09-30
 - notas permanentes: [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]] 
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Eco, Umberto\|Eco, Umberto]] [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Foucault, Michel\|Foucault, Michel]] 
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Han, Byung-Chul\|Han, Byung-Chul]] 
-- [[Santos, Milton\|Santos, Milton]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Santos, Milton\|Santos, Milton]]
 - [[261020221004\|261020221004]]
 - 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/0-vault/2-notas-permanentes/md-cc/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -93,10 +93,10 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 
 ---
 #### Mais:
-- [[📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Levy, Pierre\|Levy, Pierre]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/CITAÇÃO Alicia Kowaltowski\|CITAÇÃO Alicia Kowaltowski]]
-- [[Precisamos de arte e cultura\|Precisamos de arte e cultura]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Precisamos de arte e cultura\|Precisamos de arte e cultura]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária\|Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Como criar um esboço para uma revisão do videogame na Steam\|Como criar um esboço para uma revisão do videogame na Steam]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/The Future of the Book\|The Future of the Book]]
@@ -155,8 +155,8 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 - [[Relatório da bolsa\|Relatório da bolsa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Resumido podcast\|Resumido podcast]]
 - [[reuniao colegiado 22 07\|reuniao colegiado 22 07]]
-- [[Santos, Milton\|Santos, Milton]]
-- [[Schwanitz, Dietrich\|Schwanitz, Dietrich]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Santos, Milton\|Santos, Milton]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Schwanitz, Dietrich\|Schwanitz, Dietrich]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Three kinds of hypertext\|Three kinds of hypertext]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/um dia uma semana um mes um ano\|um dia uma semana um mes um ano]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Bauman, Zygmunt\|Bauman, Zygmunt]]

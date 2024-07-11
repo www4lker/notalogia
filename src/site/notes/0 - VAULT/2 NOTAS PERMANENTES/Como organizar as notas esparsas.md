@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-organizar-as-notas-esparsas/","tags":["permanente","criatividade","tecnologia","promptGPT","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-organizar-as-notas-esparsas/","tags":["permanente","criatividade","tecnologia","promptGPT","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como organizar as notas esparsas
@@ -11,9 +11,9 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/do obsidian ao scrivener\|do obsidian ao scrivener]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Guia para transformar sua pesquisa em forma escrita\|Guia para transformar sua pesquisa em forma escrita]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Como fazer meu sistema zettelkasten no Obsidian\|Como fazer meu sistema zettelkasten no Obsidian]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Long form e outros jeitos de escrever seu primeiro livro\|Long form e outros jeitos de escrever seu primeiro livro]]
-- [[0 - VAULT/1 NOTAS LITERAIS/LONGFORM OBSIDIAN\|LONGFORM OBSIDIAN]]
-- [[0 - VAULT/1 NOTAS LITERAIS/pesquisa via chatgpt sobre como escrever\|pesquisa via chatgpt sobre como escrever]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Long form e outros jeitos de escrever seu primeiro livro\|Long form e outros jeitos de escrever seu primeiro livro]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/LONGFORM OBSIDIAN\|LONGFORM OBSIDIAN]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/pesquisa via chatgpt sobre como escrever\|pesquisa via chatgpt sobre como escrever]]
 - tags: #criatividade #tecnologia #promptGPT #academia 
 ---
 

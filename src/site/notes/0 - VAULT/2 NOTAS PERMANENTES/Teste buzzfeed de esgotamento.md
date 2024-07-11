@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/teste-buzzfeed-de-esgotamento/","tags":["permanente","totalizante","promptGPT","internet","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/teste-buzzfeed-de-esgotamento/","tags":["permanente","totalizante","promptGPT","internet","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Teste buzzfeed de esgotamento

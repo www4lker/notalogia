@@ -10,7 +10,7 @@
 
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/lições de um retiro longo de meditação VERSÃO ATUALIZADA\|lições de um retiro longo de meditação VERSÃO ATUALIZADA]]
-- [[milesima tentativa de resumir leituras do retiro\|milesima tentativa de resumir leituras do retiro]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/milesima tentativa de resumir leituras do retiro\|milesima tentativa de resumir leituras do retiro]]
 - tags: #totalizante #pessoalidades #householder
 ---
 

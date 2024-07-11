@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/guerra-de-prompts/","tags":["permanente","meta","metalinguagem","chatgpt","gpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/guerra-de-prompts/","tags":["permanente","meta","metalinguagem","chatgpt","gpt3"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # guerra de prompts
@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #meta #metalinguagem #chatgpt #gpt3 
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/prompts\|prompts]]
-- [[0 - VAULT/1 NOTAS LITERAIS/promptgpt3\|promptgpt3]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/promptgpt3\|promptgpt3]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/prompts midjourney\|prompts midjourney]]
 - 
 ---

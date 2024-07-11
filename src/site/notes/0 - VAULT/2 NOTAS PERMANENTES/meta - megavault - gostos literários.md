@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/meta-megavault-gostos-literarios/","tags":["permanente","meta","memai","megavault","gostosliterários"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/meta-megavault-gostos-literarios/","tags":["permanente","meta","memai","megavault","gostosliterários"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # meta - megavault - gostos literários
@@ -7,7 +7,7 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-09-02
 - Hora: 15:24
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/literary ethnography\|literary ethnography]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/literary ethnography\|literary ethnography]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/181220221256\|181220221256]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/Sertilanges A-D, Cap 7\|Sertilanges A-D, Cap 7]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Farmácia Literária - sofrimentos relacionados à leitura\|Farmácia Literária - sofrimentos relacionados à leitura]]

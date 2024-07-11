@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/neal-stephenson-textos-sobre-reclusao-e-redes-sociais/","tags":["intelectual","academia","academico","totalizante","disserte","tecnologia","minimalismodigital","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/neal-stephenson-textos-sobre-reclusao-e-redes-sociais/","tags":["intelectual","academia","academico","totalizante","disserte","tecnologia","minimalismodigital","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Neal Stephenson - textos sobre reclusão e redes sociais
@@ -62,7 +62,7 @@
 
 **Comentário**: A preocupação inicial com o impacto do e-mail na produtividade evoluiu com a chegada das redes sociais, que são projetadas para captar constantemente a atenção dos usuários.
 
-[[0 - VAULT/1 NOTAS LITERAIS/5 pontos sobre Economia da Atenção\|5 pontos sobre Economia da Atenção]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/5 pontos sobre Economia da Atenção\|5 pontos sobre Economia da Atenção]]
 ### Produtividade e Distrações Digitais
 
 **When I found myself manually refreshing the Facebook window in the hopes of dredging up posts I hadn't seen yet, I decided it was time to think a little harder about the effect that this was having on my ability to get things done.** 

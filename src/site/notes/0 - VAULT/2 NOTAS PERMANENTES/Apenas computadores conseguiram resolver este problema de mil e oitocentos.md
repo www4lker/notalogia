@@ -8,7 +8,7 @@
 - 19-09-2023
 - 12:05
 ## relacionados:
-- notas: [[matemática da torre de hanói\|matemática da torre de hanói]], [[resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
+- notas: [[matemática da torre de hanói\|matemática da torre de hanói]], [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
 - tags: #geo-processo #geo #meth #academico 
 - Fontes & Links: https://www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/
 ---

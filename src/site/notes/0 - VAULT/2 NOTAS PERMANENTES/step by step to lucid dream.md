@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/step-by-step-to-lucid-dream/","tags":["permanente","psique","psicodelico","totalizante","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/step-by-step-to-lucid-dream/","tags":["permanente","psique","psicodelico","totalizante","meditacao"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # step by step to lucid dream

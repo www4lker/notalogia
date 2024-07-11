@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chat-gpt-esta-a-chegar-para-as-salas-de-aula-nao-entre-em-panico/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/chat-gpt-esta-a-chegar-para-as-salas-de-aula-nao-entre-em-panico/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # ChatGPT está a chegar para as salas de aula. Não entre em pânico
@@ -15,7 +15,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/ALARMADOS PELO GPT3, UNIVERSIDADES COMEÇAM E REVISAR SUA FORMA DE ENSINAR - artigo\|ALARMADOS PELO GPT3, UNIVERSIDADES COMEÇAM E REVISAR SUA FORMA DE ENSINAR - artigo]]
 - [[ChatGPT Isn’t the Only Way to Use AI in Education\|ChatGPT Isn’t the Only Way to Use AI in Education]]
-- [[0 - VAULT/1 NOTAS LITERAIS/888/turnit in e o chatgpt\|turnit in e o chatgpt]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/turnit in e o chatgpt\|turnit in e o chatgpt]]
 ---
 [fonte](https://www.wired.com/story/chatgpt-is-coming-for-classrooms-dont-panic/)
 

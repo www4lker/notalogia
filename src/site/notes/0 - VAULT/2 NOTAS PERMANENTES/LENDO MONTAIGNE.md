@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/lendo-montaigne/","tags":["permanente","literatura","totalizante","enfim","insight","filosofia","ceticismo","estoico","FRAMEWORK"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/lendo-montaigne/","tags":["permanente","literatura","totalizante","enfim","insight","filosofia","ceticismo","estoico","FRAMEWORK"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # LENDO MONTAIGNE
@@ -8,7 +8,7 @@ criado em: 20:04 2022-08-01
 ##### Relacionado
 - palavras-chave: #literatura #totalizante #enfim #insight #filosofia #ceticismo #estoico 
 - notas permanentes: [[0 - VAULT/2 NOTAS PERMANENTES/nome de solteira da minha mãe\|nome de solteira da minha mãe]]
-- notas de literatura: [[0 - VAULT/1 NOTAS LITERAIS/ensaios, de montaigne\|ensaios, de montaigne]]
+- notas de literatura: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ensaios, de montaigne\|ensaios, de montaigne]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/o exercício da sinceridade é condição para a sabedoria\|o exercício da sinceridade é condição para a sabedoria]]
 - [[ do pedantismo 25\| do pedantismo 25]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/os hábitos influenciam a percepção\|os hábitos influenciam a percepção]]

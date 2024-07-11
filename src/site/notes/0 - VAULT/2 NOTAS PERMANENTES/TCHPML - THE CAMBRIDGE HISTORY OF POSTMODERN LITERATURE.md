@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/tchpml-the-cambridge-history-of-postmodern-literature/","tags":["permanente","literatura","estética","mestredeculturacontemporanea","filosofia","pesquisa","interessesgerais","geo","ensaistica","polis","pessoalidades","games","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/tchpml-the-cambridge-history-of-postmodern-literature/","tags":["permanente","literatura","estética","mestredeculturacontemporanea","filosofia","pesquisa","interessesgerais","geo","ensaistica","polis","pessoalidades","games","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # TCHPML
@@ -9,14 +9,14 @@
 - palavras-chave: #literatura #estética #mestredeculturacontemporanea #filosofia #pesquisa #interessesgerais 
 - #geo #ensaistica #polis #pessoalidades #games #zettelkasten #mestredeculturacontemporanea #literatura #estética #mestredeculturacontemporanea #filosofia #pesquisa #interessesgerais
 - notas: [[Postmodernism\|Postmodernism]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Derrida\|Derrida]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Kant\|Kant]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Georg Wilhelm Friedrich Hegel\|Georg Wilhelm Friedrich Hegel]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Derrida\|Derrida]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Kant\|Kant]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Georg Wilhelm Friedrich Hegel\|Georg Wilhelm Friedrich Hegel]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/O paradoxo da fé\|O paradoxo da fé]]
 - [[A Sociedade Do Espetáculo\|A Sociedade Do Espetáculo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Tudo que é sólido desmancha no ar\|Tudo que é sólido desmancha no ar]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Tudo que é sólido desmancha no ar\|Tudo que é sólido desmancha no ar]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/pós-modernismo\|pós-modernismo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ilusões do pós-modernismo\|ilusões do pós-modernismo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ilusões do pós-modernismo\|ilusões do pós-modernismo]]
 ---
 
 ## 1. Definição e Complexidade do Pós-Modernismo:

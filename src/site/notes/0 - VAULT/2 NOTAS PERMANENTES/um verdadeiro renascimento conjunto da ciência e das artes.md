@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/um-verdadeiro-renascimento-conjunto-da-ciencia-e-das-artes/","tags":["permanente","promptgpt3","alicia","disserte","insight","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/um-verdadeiro-renascimento-conjunto-da-ciencia-e-das-artes/","tags":["permanente","promptgpt3","alicia","disserte","insight","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 231020221707
@@ -9,7 +9,7 @@
 - palavras-chave: #promptgpt3 #alicia #disserte  #insight #mestredeculturacontemporanea 
 - notas:
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/CITAÇÃO Alicia Kowaltowski\|CITAÇÃO Alicia Kowaltowski]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Precisamos de arte e cultura\|Precisamos de arte e cultura]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Precisamos de arte e cultura\|Precisamos de arte e cultura]]
 
 # um verdadeiro renascimento conjunto da ciência e das artes
 ---

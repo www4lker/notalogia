@@ -8,7 +8,7 @@ criado em: 19:16 2022-07-27
 ##### Relacionado
 - palavras-chave: #capturas #[[notasprontas\|notasprontas]] #householder #provacabal #literatura #poesia
 - notas permanentes: [[poesia\|poesia]]
-- notas de literatura: [[screenshots\|screenshots]][[SEMANA 23 DE 2022\|SEMANA 23 DE 2022]]
+- notas de literatura: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/screenshots\|screenshots]][[SEMANA 23 DE 2022\|SEMANA 23 DE 2022]]
 
 ---
 

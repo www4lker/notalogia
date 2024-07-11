@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/meditacao/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/meditacao/","tags":["permanente"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # MEDITAÇÃO
@@ -23,7 +23,7 @@ criado em: 01:51 2022-08-10
 
 ---
 ### Relacionados
-- **[[0 - VAULT/1 NOTAS LITERAIS/Manufacturing Happy Citizens\|Manufacturing Happy Citizens]]**
+- **[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Manufacturing Happy Citizens\|Manufacturing Happy Citizens]]**
 - [[NOTAS DE LEITURA/LIVROS/21 Lições Para O Século 21\|NOTAS DE LEITURA/LIVROS/21 Lições Para O Século 21]]
 - [[50 Ways to Live on Your Own Terms\|50 Ways to Live on Your Own Terms]]
 - [[2020-01-02\|2020-01-02]]

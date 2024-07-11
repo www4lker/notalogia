@@ -9,7 +9,7 @@
 - Hora: 12:45
 - notas: [[2 NOTA PERMANENTE/O que conversar pode fazer por nós\|2 NOTA PERMANENTE/O que conversar pode fazer por nós]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/o segredo dos podcasters\|o segredo dos podcasters]]
-- [[Preparação psicológica\|Preparação psicológica]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Preparação psicológica\|Preparação psicológica]]
 - tags: #interessesgerais #totalizante #criatividade 
 - Fontes & Links: 
 ---

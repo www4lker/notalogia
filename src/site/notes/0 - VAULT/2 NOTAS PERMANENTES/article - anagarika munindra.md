@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/article-anagarika-munindra/","tags":["permanente","meta","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/article-anagarika-munindra/","tags":["permanente","meta","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # article - anagarika munindra
@@ -8,7 +8,7 @@
 - 04-09-2023
 - 21:56
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Mindfulness-2\|Mindfulness-2]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Mindfulness-2\|Mindfulness-2]]
 - tags: #meta #insight  
 - Fontes & Links: 
 ---

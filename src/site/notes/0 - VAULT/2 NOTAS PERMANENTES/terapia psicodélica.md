@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/terapia-psicodelica/","tags":["permanente","psicodelico","insight","TEONANACATL","fungos","naturae","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/terapia-psicodelica/","tags":["permanente","psicodelico","insight","TEONANACATL","fungos","naturae","sciencebitch"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # terapia psicodélica
@@ -11,10 +11,10 @@ criado em: 17:23 2022-08-04
 - notas de dissertação:
 - notas de literatura: 
 - [[Psiconautas viagens com a ciência psicodélica brasileira 1\|Psiconautas viagens com a ciência psicodélica brasileira 1]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Como mudar sua mente - netflix\|Como mudar sua mente - netflix]] 
-- [[0 - VAULT/1 NOTAS LITERAIS/Como mudar sua mente - livro\|Como mudar sua mente - livro]] 
-- [[0 - VAULT/1 NOTAS LITERAIS/Fungos fantasticos\|Fungos fantasticos]] 
-- [[0 - VAULT/1 NOTAS LITERAIS/Merlin Sheldrake\|Merlin Sheldrake]] 
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como mudar sua mente - netflix\|Como mudar sua mente - netflix]] 
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como mudar sua mente - livro\|Como mudar sua mente - livro]] 
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fungos fantasticos\|Fungos fantasticos]] 
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Merlin Sheldrake\|Merlin Sheldrake]] 
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/a psilocibina no cerebro\|a psilocibina no cerebro]] 
 - [[NOTAS DE LEITURA/LIVROS/As Portas Da Percepção\|NOTAS DE LEITURA/LIVROS/As Portas Da Percepção]]
 -  [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/131020221204\|131020221204]]

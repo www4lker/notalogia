@@ -8,9 +8,9 @@
 -  Ano, Mês e dia: 2023-07-24
 - Hora: 11:36
 - notas: 
- - [[prompts excelentes para  autoficção\|prompts excelentes para  autoficção]]
- - [[prompts excelentes - não ficção literária\|prompts excelentes - não ficção literária]]
- - [[prompts excelentes para ensaística filosófica\|prompts excelentes para ensaística filosófica]]
+ - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/prompts excelentes para  autoficção\|prompts excelentes para  autoficção]]
+ - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/prompts excelentes - não ficção literária\|prompts excelentes - não ficção literária]]
+ - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/prompts excelentes para ensaística filosófica\|prompts excelentes para ensaística filosófica]]
  - [[0 - VAULT/2 NOTAS PERMANENTES/How to Resist the Temptation of AI When Writing- ZT\|How to Resist the Temptation of AI When Writing- ZT]]
   [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como Utilizar o ChatGPT para Aprimorar Sua Escrita + obsidian\|Como Utilizar o ChatGPT para Aprimorar Sua Escrita + obsidian]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/5 Uses for ChatGPT really original\|5 Uses for ChatGPT really original]]

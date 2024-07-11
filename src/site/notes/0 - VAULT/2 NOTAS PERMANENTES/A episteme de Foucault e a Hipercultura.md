@@ -31,7 +31,7 @@ criado em: 22:26 2022-10-12
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/121020222215.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/121020222215.md]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/episteme.md\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/episteme.md]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/061020221226.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/061020221226.md]]
-- [[Precisamos de arte e cultura\|Precisamos de arte e cultura]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Precisamos de arte e cultura\|Precisamos de arte e cultura]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/surrealismo.md\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/surrealismo.md]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Esto no es una Pipa - video analise.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Esto no es una Pipa - video analise.md]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Metodologia do trabalho científico.md\|DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Metodologia do trabalho científico.md]]

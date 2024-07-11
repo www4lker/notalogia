@@ -8,7 +8,7 @@
 - 19-02-2024
 - 13:12
 ## relacionados:
-- notas: [[postagem em 9 seções\|postagem em 9 seções]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/postagem em 9 seções\|postagem em 9 seções]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/GPT4 - notas de retiro dhamma sarana X lições Cory\|GPT4 - notas de retiro dhamma sarana X lições Cory]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Incentivando a honestidade com choques no cérebro\|Incentivando a honestidade com choques no cérebro]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/sobre ser sincero\|sobre ser sincero]]

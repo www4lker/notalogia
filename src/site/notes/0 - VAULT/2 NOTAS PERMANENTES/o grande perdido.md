@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-grande-perdido/","tags":["permanente","totalizante","pessoalidades","householder","geo","antiturismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-grande-perdido/","tags":["permanente","totalizante","pessoalidades","householder","geo","antiturismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # o grande perdido
@@ -20,19 +20,19 @@
 ---
 
 
-1. **Título: [[0 - VAULT/1 NOTAS LITERAIS/O paradoxo da natureza selvagem\|O paradoxo da natureza selvagem]]
+1. **Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O paradoxo da natureza selvagem\|O paradoxo da natureza selvagem]]
 
-2. **Título: [[0 - VAULT/1 NOTAS LITERAIS/Evolução do conceito de natureza selvagem\|Evolução do conceito de natureza selvagem]]
+2. **Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Evolução do conceito de natureza selvagem\|Evolução do conceito de natureza selvagem]]
 
-3. **Título: [[0 - VAULT/1 NOTAS LITERAIS/Natureza selvagem e desconexão tecnológica\|Natureza selvagem e desconexão tecnológica]]
+3. **Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Natureza selvagem e desconexão tecnológica\|Natureza selvagem e desconexão tecnológica]]
 
-4. **Título: [[0 - VAULT/1 NOTAS LITERAIS/O mundo off-line e a natureza selvagem\|O mundo off-line e a natureza selvagem]]
+4. **Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O mundo off-line e a natureza selvagem\|O mundo off-line e a natureza selvagem]]
 
-5. **Título: [[0 - VAULT/1 NOTAS LITERAIS/Turismo na natureza e desintoxicação digital\|Turismo na natureza e desintoxicação digital]]
+5. **Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Turismo na natureza e desintoxicação digital\|Turismo na natureza e desintoxicação digital]]
 
-6. **Título: [[0 - VAULT/1 NOTAS LITERAIS/A ilusão da verdadeira desconexão\|A ilusão da verdadeira desconexão]]
+6. **Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A ilusão da verdadeira desconexão\|A ilusão da verdadeira desconexão]]
 
-7. **Título: [[0 - VAULT/1 NOTAS LITERAIS/O mito da natureza intocada\|O mito da natureza intocada]]
+7. **Título: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O mito da natureza intocada\|O mito da natureza intocada]]
 
 
 

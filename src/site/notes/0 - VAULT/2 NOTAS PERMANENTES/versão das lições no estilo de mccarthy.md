@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/versao-das-licoes-no-estilo-de-mccarthy/","tags":["permanente","chatgpt","literatura","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/versao-das-licoes-no-estilo-de-mccarthy/","tags":["permanente","chatgpt","literatura","criatividade"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # versão das lições no estilo de mccarthy
@@ -7,7 +7,7 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-06-30
 - Hora: 17:14
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Cormac Mccarthy\|Cormac Mccarthy]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Cormac Mccarthy\|Cormac Mccarthy]]
 - #chatgpt #literatura  #criatividade 
 - tags: 
 - Fontes & Links: 

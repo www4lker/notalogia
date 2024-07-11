@@ -14,7 +14,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap\|Turing Trap]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/O paradoxo da fé\|O paradoxo da fé]]
 - [[A Sociedade Do Espetáculo\|A Sociedade Do Espetáculo]]
-- [[Tudo que é sólido desmancha no ar\|Tudo que é sólido desmancha no ar]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Tudo que é sólido desmancha no ar\|Tudo que é sólido desmancha no ar]]
 - [[Severance\|Severance]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/ABSTRACT PHANTOM\|ABSTRACT PHANTOM]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Lyotard, Jean-François\|Lyotard, Jean-François]]

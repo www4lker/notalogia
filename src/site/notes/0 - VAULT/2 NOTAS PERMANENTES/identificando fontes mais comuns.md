@@ -13,7 +13,7 @@ criado em: 15:52 2022-09-30
 
 ---
 # Quais as suas fontes?
-Seguindo um exercício proposto por Tiago Forte em [[Second Brain\|Second Brain]], identifiquemos nossas principais fontes de informação e as classifiquemos por ordem de importância e quantidade de acesso.
+Seguindo um exercício proposto por Tiago Forte em [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Second Brain\|Second Brain]], identifiquemos nossas principais fontes de informação e as classifiquemos por ordem de importância e quantidade de acesso.
 
 ## identificando as mais importantes entradas de informação atuais:
 
@@ -51,8 +51,8 @@ Seguindo um exercício proposto por Tiago Forte em [[Second Brain\|Second Brain]
 16. [[0 - VAULT/2 NOTAS PERMANENTES/novas fontes\|novas fontes]]
 17. [[0 - VAULT/1 NOTAS LITERAIS/meta notas/novos projetos\|novos projetos]]
 18. [[0 - VAULT/2 NOTAS PERMANENTES/Primeira postagem\|Primeira postagem]]
-19. [[screenshots\|screenshots]]
-20. [[sindrome do impostor e dunning krugger efeito\|sindrome do impostor e dunning krugger efeito]]
+19. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/screenshots\|screenshots]]
+20. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/sindrome do impostor e dunning krugger efeito\|sindrome do impostor e dunning krugger efeito]]
 21. [[0 - VAULT/2 NOTAS PERMANENTES/sobre se expressar\|sobre se expressar]]
 22. [[2 - NOTAS PERMANENTES/zettelkasten\|2 - NOTAS PERMANENTES/zettelkasten]]
 

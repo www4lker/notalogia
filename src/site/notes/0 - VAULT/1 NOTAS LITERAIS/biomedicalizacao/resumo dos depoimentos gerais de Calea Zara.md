@@ -27,4 +27,4 @@
 O tema recorrente mais evidente nos depoimentos é o **uso de Calea zacatechichi como facilitador de sonhos vívidos e potencializador de sonhos lúcidos**. Todos os usuários relataram alguma forma de intensificação da experiência onírica, seja na forma de sonhos mais detalhados e realistas, seja na facilidade para alcançar a lucidez. Além disso, a exploração dos efeitos no estado de vigília, como a leve euforia e clareza mental, também aparece como um tema relevante. --- Para uma análise mais aprofundada, seria interessante investigar a variabilidade dos efeitos entre diferentes métodos de consumo e dosagens, bem como explorar mais detalhadamente as interações com outras substâncias e os aspectos de segurança a longo prazo.
 
 #sciencebitch #insight #psicodelico #nãoficção
-[[Psiconautas viagens com a ciência psicodélica brasileira\|Psiconautas viagens com a ciência psicodélica brasileira]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Psiconautas viagens com a ciência psicodélica brasileira\|Psiconautas viagens com a ciência psicodélica brasileira]]

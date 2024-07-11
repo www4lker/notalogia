@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/tgp-estudando-pra-prova/","tags":["permanente","geo","paysage","TGP","aula1","teoriaGeográfica","paisagem","geografiaCultural"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/tgp-estudando-pra-prova/","tags":["permanente","geo","paysage","TGP","aula1","teoriaGeográfica","paisagem","geografiaCultural"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # TGP - estudando pra prova

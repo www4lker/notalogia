@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/the-impact-of-the-internet-on-productivity-exploring-its-benefits-and-drawbacks/","tags":["permanente","promptgpt3","disserte","metodologia","internetdebate","productivityhacks","technologyimpact","workfromhomechallenges","digitaldist"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/the-impact-of-the-internet-on-productivity-exploring-its-benefits-and-drawbacks/","tags":["permanente","promptgpt3","disserte","metodologia","internetdebate","productivityhacks","technologyimpact","workfromhomechallenges","digitaldist"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # The Internet A Boon or Bane for Productivity

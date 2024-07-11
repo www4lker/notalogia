@@ -7,8 +7,8 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-08-26
 - Hora: 21:52
-- notas: [[pesquisa via chatgpt sobre como escrever\|pesquisa via chatgpt sobre como escrever]]
-- [[non fiction novel\|non fiction novel]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/pesquisa via chatgpt sobre como escrever\|pesquisa via chatgpt sobre como escrever]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/non fiction novel\|non fiction novel]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/LEITURA DE LIVROS DE FICÇÃO\|LEITURA DE LIVROS DE FICÇÃO]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Que pesquisa para Cultura Contemporanea meu Vault poderia me oferecer - Mem\|Que pesquisa para Cultura Contemporanea meu Vault poderia me oferecer - Mem]]
 - tags: #literatura #meta

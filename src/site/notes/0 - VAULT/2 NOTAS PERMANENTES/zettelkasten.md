@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/zettelkasten/","tags":["permanente","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/zettelkasten/","tags":["permanente","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # zettelkasten
@@ -27,7 +27,7 @@ criado em: 16:42 2022-08-01
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Notas de projetos\|Notas de projetos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/novas fontes\|novas fontes]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/o que voce planeja com minha filha me perguntou o meta\|o que voce planeja com minha filha me perguntou o meta]]
-- [[0 - VAULT/1 NOTAS LITERAIS/screenshots\|screenshots]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/screenshots\|screenshots]]
 - [[2 - NOTAS PERMANENTES/zettelkasten\|2 - NOTAS PERMANENTES/zettelkasten]]
 - [[🍃NOTAS EFÊMERAS🍄\|🍃NOTAS EFÊMERAS🍄]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/NOTAS PERMANENTES1\|NOTAS PERMANENTES1]]
@@ -48,8 +48,8 @@ criado em: 16:42 2022-08-01
 - [[0 - VAULT/2 NOTAS PERMANENTES/novas fontes\|novas fontes]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/novos projetos\|novos projetos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Primeira postagem\|Primeira postagem]]
-- [[0 - VAULT/1 NOTAS LITERAIS/screenshots\|screenshots]]
-- [[0 - VAULT/1 NOTAS LITERAIS/sindrome do impostor e dunning krugger efeito\|sindrome do impostor e dunning krugger efeito]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/screenshots\|screenshots]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/sindrome do impostor e dunning krugger efeito\|sindrome do impostor e dunning krugger efeito]]
 
 ---
 

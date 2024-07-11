@@ -13,7 +13,7 @@
 2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
 3. [[0 - VAULT/2 NOTAS PERMANENTES/Labatut no FLIP\|Labatut no FLIP]]
 4. [[0 - VAULT/2 NOTAS PERMANENTES/La piedra de la locura\|La piedra de la locura]]
-5. [[resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
+5. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/resenha 451 Quando deixamos de entender o mundo\|resenha 451 Quando deixamos de entender o mundo]]
 6. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
 - tags: #filosofia #tecnologia #geo 
 - Fontes & Links: https://kazumilk.com/books/are-fears-of-a-i-and-nuclear-apocalypse-keeping-you-up-blame-prometheus/44106/

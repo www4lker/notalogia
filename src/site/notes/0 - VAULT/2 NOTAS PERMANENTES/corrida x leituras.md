@@ -5,7 +5,7 @@
 # corrida x leituras
 criado em: 16:24 2022-08-01
 
-[[Varella, Drauzio\|Varella, Drauzio]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Varella, Drauzio\|Varella, Drauzio]]
 
 ---
 

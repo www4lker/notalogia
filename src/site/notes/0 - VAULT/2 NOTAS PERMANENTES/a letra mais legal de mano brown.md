@@ -8,7 +8,7 @@ criado em: 17:24
 ##### Relacionado
 - palavras-chave: #capturas #[[notasprontas\|notasprontas]] #sons #cultura #provacabal
 - notas permanentes:
-- notas de literatura: [[screenshots\|screenshots]]
+- notas de literatura: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/screenshots\|screenshots]]
 
 ---
 

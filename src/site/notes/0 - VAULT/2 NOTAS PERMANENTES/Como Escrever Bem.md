@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-escrever-bem/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/como-escrever-bem/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Como Escrever Bem
@@ -8,26 +8,26 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/William Zinsser\|William Zinsser]]
-- [[0 - VAULT/1 NOTAS LITERAIS/zettelzinsser chapter 1\|zettelzinsser chapter 1]]
-- [[0 - VAULT/1 NOTAS LITERAIS/zettelzinsser chapter 2\|zettelzinsser chapter 2]]
-- [[0 - VAULT/1 NOTAS LITERAIS/zettelzinsser chapter 3\|zettelzinsser chapter 3]]
-- [[0 - VAULT/1 NOTAS LITERAIS/zettelzinsser chapter 4\|zettelzinsser chapter 4]]
-- [[0 - VAULT/1 NOTAS LITERAIS/zettelzinsser chapter 5\|zettelzinsser chapter 5]]
-- [[0 - VAULT/1 NOTAS LITERAIS/zettelzinsser chapter 6\|zettelzinsser chapter 6]] 
-- [[0 - VAULT/1 NOTAS LITERAIS/zettelzinsser chapter 7\|zettelzinsser chapter 7]]
-- [[0 - VAULT/1 NOTAS LITERAIS/141220221311\|141220221311]]
-- [[0 - VAULT/1 NOTAS LITERAIS/141220221315\|141220221315]]
-- [[0 - VAULT/1 NOTAS LITERAIS/141220221327\|141220221327]]
-- [[0 - VAULT/1 NOTAS LITERAIS/141220221344\|141220221344]]
-- [[0 - VAULT/1 NOTAS LITERAIS/141220221348\|141220221348]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/William Zinsser\|William Zinsser]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/zettelzinsser chapter 1\|zettelzinsser chapter 1]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/zettelzinsser chapter 2\|zettelzinsser chapter 2]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/zettelzinsser chapter 3\|zettelzinsser chapter 3]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/zettelzinsser chapter 4\|zettelzinsser chapter 4]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/zettelzinsser chapter 5\|zettelzinsser chapter 5]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/zettelzinsser chapter 6\|zettelzinsser chapter 6]] 
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/zettelzinsser chapter 7\|zettelzinsser chapter 7]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/141220221311\|141220221311]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/141220221315\|141220221315]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/141220221327\|141220221327]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/141220221344\|141220221344]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/141220221348\|141220221348]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/181220221125\|181220221125]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/unidade é a âncora da boa escrita - wz\|unidade é a âncora da boa escrita - wz]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Antes de começar faça a si mesmo 6 perguntas\|Antes de começar faça a si mesmo 6 perguntas]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Todo projeto de texto deve ser reduzido antes de começar a escrever\|Todo projeto de texto deve ser reduzido antes de começar a escrever]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/lide com o lide\|lide com o lide]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/É importante reunir o máximo de informações possíveis ao pesquisar um tópico\|É importante reunir o máximo de informações possíveis ao pesquisar um tópico]]
-- [[0 - VAULT/1 NOTAS LITERAIS/CEB zinsser - anki\|CEB zinsser - anki]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/CEB zinsser - anki\|CEB zinsser - anki]]
 ---
 > “Como escrever bem” é um guia abrangente da arte de escrever, cobrindo uma ampla gama de tópicos, incluindo gramática, estilo, organização e o processo de escrita. O livro é destinado a qualquer pessoa que busque melhorar suas habilidades de escrita, seja para fins pessoais ou profissionais. Ele oferece conselhos práticos sobre como superar as armadilhas comuns e escrever com clareza e precisão.
 

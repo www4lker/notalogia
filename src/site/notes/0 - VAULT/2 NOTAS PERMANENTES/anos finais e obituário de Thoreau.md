@@ -9,7 +9,7 @@
 - Hora: 17:23
 
 ### Conteúdo Relacionado
-- notas: [[Thoreau, Henry David\|Thoreau, Henry David]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Thoreau, Henry David\|Thoreau, Henry David]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/This psychedelics researcher approached his death with calm and curiosity\|This psychedelics researcher approached his death with calm and curiosity]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ensaios, de montaigne\|ensaios, de montaigne]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/pc siqueira está morto\|pc siqueira está morto]]

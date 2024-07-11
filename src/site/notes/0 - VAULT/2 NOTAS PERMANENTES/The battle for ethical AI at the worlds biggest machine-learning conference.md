@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/the-battle-for-ethical-ai-at-the-worlds-biggest-machine-learning-conference/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/the-battle-for-ethical-ai-at-the-worlds-biggest-machine-learning-conference/","tags":["permanente","promptgpt3","meta","zettelkasten","1000palavrasoumais","disserte","newsletter","ceticismo","escrita","filosofia","mestredeculturacontemporanea","totalizante","criatividade","episteme"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # The battle for ethical AI at the world’s biggest machine-learning conference

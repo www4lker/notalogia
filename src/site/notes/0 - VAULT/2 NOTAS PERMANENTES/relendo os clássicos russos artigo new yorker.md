@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/relendo-os-classicos-russos-artigo-new-yorker/","tags":["permanente","formalismorusso","literatura","geo","filosofia","disserte","dostoievski","episteme","leitura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/relendo-os-classicos-russos-artigo-new-yorker/","tags":["permanente","formalismorusso","literatura","geo","filosofia","disserte","dostoievski","episteme","leitura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 240120231441
@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #formalismorusso #literatura #geo #filosofia #disserte #dostoievski #episteme #leitura 
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
 - 
 ---
 # Rereading Russian Classics in the Shadow of the Ukraine War
@@ -31,7 +31,7 @@ Então existe um nome para aquilo que ele faz?  [[0 - VAULT/2 NOTAS PERMANENTES/
 
 **A ideologia por trás da dominação**
 
-*[O inimigo é Putin, não Pushkin](https://www.pen-deutschland.de/de/2022/03/06/the-enemy-is-putin-not-pushkin/) — [[0 - VAULT/1 NOTAS LITERAIS/PEN INTERNATIONAL\|PEN INTERNATIONAL]]*
+*[O inimigo é Putin, não Pushkin](https://www.pen-deutschland.de/de/2022/03/06/the-enemy-is-putin-not-pushkin/) — [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/PEN INTERNATIONAL\|PEN INTERNATIONAL]]*
 
 >(…) ==During the war, generations of Russian literary youths—among them, Pushkin and Tolstoy—went to the region. They wrote about their experiences, forming what came to be known as the Russian literature of the Caucasus==: works I had been hugely excited to learn about in college, because they often included Turkic words. As the nineteenth century progressed, Georgian literary youths began to study in St. Petersburg, read Pushkin, and adopt Russian Romantic rhetoric to describe Georgian national identity.
 
@@ -72,7 +72,7 @@ A origem geográfica e hierarquica da revolução — e como fenômenos históri
 
 > ==As Said points out, novels became a dominant literary form in eighteenth-century Britain and France, precisely when Britain was becoming the biggest empire in world history and France was a rival. Novels and empires grew symbiotically, defining and sustaining each other. “Robinson Crusoe,” one of the first British novels, is about an English castaway who learns to exploit the natural and human resources of a non-European island. ==In an influential reading of “Mansfield Park,” Said zooms in on a few references to a second, Antiguan property—implicitly, a sugar plantation—belonging to Mansfield’s proprietor. The point isn’t just that life in the English countryside is underwritten by slave labor, but that the novel’s plot itself mirrors the colonial enterprise. Fanny Price, an outsider at Mansfield, undergoes a series of harrowing social trials, and marries the baronet’s son. A rational subject comes to a scary new place—one already inhabited by other, unreasonable people—and becomes its rightful occupant. ==What does a story like that tell you about how the world works?==
 
-*[[0 - VAULT/1 NOTAS LITERAIS/Julián Fuks\|Julián Fuks]] fala sobre romance e especificamente sobre Robison crusoe em seu livro Teoria do romance — ali ele dirá que os romances de ficção não queriam, não se permitiam, dizer-se trabalhos de ficção.*
+*[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Julián Fuks\|Julián Fuks]] fala sobre romance e especificamente sobre Robison crusoe em seu livro Teoria do romance — ali ele dirá que os romances de ficção não queriam, não se permitiam, dizer-se trabalhos de ficção.*
 
 
 > Unlike Tatiana, Anna doesn’t remain faithful to her empire-building husband. She leaves Karenin for Vronsky, who turns down a prestigious military post in Tashkent in order to travel with her to Italy. But the Imperial Army gets Vronsky back in the end. That final image of Anna’s lifeless head is actually a flashback Vronsky has, on his way to join a Pan-Slavic volunteer detachment fighting the Ottomans in Serbia. With Anna dead, and the love plot over, his only desire is to end his own life, and to kill as many Turks as possible in the process. ==To quote a recent think piece titled “Decolonizing the Mysterious Soul of the Great Russian Novel,” by Liubov Terekhova—a Ukrainian critic who was reassessing “Anna Karenina” from the United Arab Emirates, as Russia bombed her home city, Kyiv—“Russia is always waging a war where a man can flee in search of death.”==
@@ -128,7 +128,7 @@ Muitas referências além dos russo conhecidos. Mas importa ver a aplicação da
 
 >In 1880, near the end of his life, Dostoyevsky gave a famous speech at the unveiling of the Pushkin monument in what is now Moscow’s Pushkin Square, extolling Pushkin as the most Russian and the most universal of writers. 
 
-Eu tenho esse discurso na íntegra em um livro chamado **[[0 - VAULT/1 NOTAS LITERAIS/Antologia do pensamento crítico russo\|Antologia do pensamento crítico russo]] (1802-1901)** — da ed. 34 — na página 405. Dostoiévsky chama seu surgimento de pofecia. E será utilizado por Putin para fins malévolos.
+Eu tenho esse discurso na íntegra em um livro chamado **[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Antologia do pensamento crítico russo\|Antologia do pensamento crítico russo]] (1802-1901)** — da ed. 34 — na página 405. Dostoiévsky chama seu surgimento de pofecia. E será utilizado por Putin para fins malévolos.
 
 > The point of drawing a connection between Dostoyevsky and Putin isn’t to “censure” Dostoyevsky but to understand the mechanics of **trauma and repression**. In his own life, Dostoyevsky didn’t always apply this insight—but, like all good novelists, he enabled his future readers to see further than he could at the time.
 
@@ -143,7 +143,7 @@ Aqui se faz notar que nem mesmo os criadores de uma obra são capazes de escapar
 
 > Multiplicity is built into the text: ten versions exist, none conclusive. Tolstoy kept the draft at hand until his death, in 1910. In an 1898 diary entry, Tolstoy mentions a certain “English toy”—it sounds stereoscopic—that “shows under a glass now one thing, now another.” Hadji Murat, he writes, must be represented in this fashion: as “a husband, a fanatic, etc.” It occurred to me to think of that “English toy” as the novel itself—a technology inherited by Tolstoy from Austen and Defoe, one that could reveal different truths from different points in space and time, perhaps even destabilizing the structures it once bolstered.
 
-A autora volta mais uma vez ao livro póstumo de [[0 - VAULT/1 NOTAS LITERAIS/Tolstói, Lev\|Tolstói, Lev]],  Khadji-Murát. Ela denota como esse romance era ele mesmo além de seu tempo — e isso está denotado também na resenha que a ed. 34 faz do livro:  “uma obra-prima e que se mostra de uma atualidade impressionante”. 
+A autora volta mais uma vez ao livro póstumo de [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Tolstói, Lev\|Tolstói, Lev]],  Khadji-Murát. Ela denota como esse romance era ele mesmo além de seu tempo — e isso está denotado também na resenha que a ed. 34 faz do livro:  “uma obra-prima e que se mostra de uma atualidade impressionante”. 
 
 Finalmente:
 

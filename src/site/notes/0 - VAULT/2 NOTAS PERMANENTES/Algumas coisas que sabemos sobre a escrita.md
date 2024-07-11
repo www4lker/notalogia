@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #literatura #intelectual #academia #pesquisa #interessesgerais #substack #escrita #escrivão 
 - notas: 
-- [[William Zinsser\|William Zinsser]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/William Zinsser\|William Zinsser]]
 - [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities\|Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
 ---
 # Algumas coisas que sabemos sobre a escrita:

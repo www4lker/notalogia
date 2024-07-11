@@ -9,7 +9,7 @@
 ### Relacionado
 
 - palavras-chave: #mestredeculturacontemporanea #lit #filosofia 
-- notas: [[Superindústria do imaginário\|Superindústria do imaginário]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Superindústria do imaginário\|Superindústria do imaginário]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fake News - definição\|Fake News - definição]]
 ---
 
@@ -18,16 +18,16 @@
 
 
 
-1. [[Surgimento dos blogs como plataformas de comunicação séria\|Surgimento dos blogs como plataformas de comunicação séria]]
+1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Surgimento dos blogs como plataformas de comunicação séria\|Surgimento dos blogs como plataformas de comunicação séria]]
 
 2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Diferença entre os blogs e as formas tradicionais de comunicação\|Diferença entre os blogs e as formas tradicionais de comunicação]]
 
-3. [[Popularidade dos blogs devido à facilidade de criação e compartilhamento\|Popularidade dos blogs devido à facilidade de criação e compartilhamento]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Popularidade dos blogs devido à facilidade de criação e compartilhamento\|Popularidade dos blogs devido à facilidade de criação e compartilhamento]]
 
 4. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Papel dos blogs na formação de comunidades\|Papel dos blogs na formação de comunidades]]
 
-5. [[Transição dos blogs para as redes sociais\|Transição dos blogs para as redes sociais]]
+5. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Transição dos blogs para as redes sociais\|Transição dos blogs para as redes sociais]]
 
-6. [[Resumo da fase de blogs que precedeu o boom das redes sociais\|Resumo da fase de blogs que precedeu o boom das redes sociais]]
+6. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Resumo da fase de blogs que precedeu o boom das redes sociais\|Resumo da fase de blogs que precedeu o boom das redes sociais]]
 
 Cada nota encapsula uma ideia distinta, garantindo assim que elas sejam atômicas. Qualquer redundância foi eliminada para manter a clareza e a simplicidade das anotações.

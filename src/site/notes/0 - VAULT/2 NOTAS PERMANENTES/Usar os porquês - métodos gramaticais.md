@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/usar-os-porques-metodos-gramaticais/","tags":["permanente","chatgpt","criatividade","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/usar-os-porques-metodos-gramaticais/","tags":["permanente","chatgpt","criatividade","literatura","intelectual","academia","pesquisa","interessesgerais","substack","escrita","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Usar os porquês - métodos gramaticais
@@ -13,8 +13,8 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/A reescrita é crucial\|A reescrita é crucial]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Dicas de revisão para produzir uma escrita que encante o leitor\|Dicas de revisão para produzir uma escrita que encante o leitor]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Hábitos mentais do escritor\|Hábitos mentais do escritor]]
-- [[0 - VAULT/1 NOTAS LITERAIS/zettelzinsser chapter 1\|zettelzinsser chapter 1]]
-- [[0 - VAULT/1 NOTAS LITERAIS/141220221348\|141220221348]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/zettelzinsser chapter 1\|zettelzinsser chapter 1]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/141220221348\|141220221348]]
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/OBJETIVOS DE ESCRITA\|OBJETIVOS DE ESCRITA]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/é recomendável evitar o uso de advérbios desnecessários\|é recomendável evitar o uso de advérbios desnecessários]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/é importante estar aberto a novas idéias e direções à medida que elas surgem\|é importante estar aberto a novas idéias e direções à medida que elas surgem]]

@@ -9,7 +9,7 @@ criado em: 12:43 2022-08-03
 - palavras-chave: #insight #mestredeculturacontemporanea #disserte #1000palavrasoumais 
 - notas permanentes: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/curadoria de filosofia da tecnologia\|curadoria de filosofia da tecnologia]]
-- notas de literatura: [[📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
+- notas de literatura: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
 [[Outra_globalizacao\|Outra_globalizacao]]
 [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]]
 - [[2022-W25\|2022-W25]]

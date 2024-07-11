@@ -9,8 +9,8 @@
 - 14:26
 ## relacionados:
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/morre Roland Griffiths\|morre Roland Griffiths]]
-- [[Pollan, Michael\|Pollan, Michael]]
-- [[Merlin Sheldrake\|Merlin Sheldrake]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Pollan, Michael\|Pollan, Michael]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Merlin Sheldrake\|Merlin Sheldrake]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/trama da vida encontra como mudar sua mente\|trama da vida encontra como mudar sua mente]]
 - tags: #TEONANACATL #psicodelico #mementomori #microdose #protocodemd #filosofia #ceticismo #sciencebitch 
 - Fontes & Links: https://www.npr.org/2023/11/05/1210327976/psychedelic-drugs-psilocybin-roland-griffiths-depression-cancer-meditation

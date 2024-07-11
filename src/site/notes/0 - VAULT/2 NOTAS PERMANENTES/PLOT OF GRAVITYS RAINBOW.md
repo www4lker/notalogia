@@ -11,7 +11,7 @@
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/GUIA PARA LER ARCO ÍRIS GRAVIDADE\|GUIA PARA LER ARCO ÍRIS GRAVIDADE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
-- [[Pynchon, Thomas\|Pynchon, Thomas]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Pynchon, Thomas\|Pynchon, Thomas]]
 
 
 ---

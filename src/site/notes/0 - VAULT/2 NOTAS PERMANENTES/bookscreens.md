@@ -8,7 +8,7 @@
 #### Relacionado
 - palavras-chave: #ensaistica #filosofia #literatura 
 - notas:
-- [[Sontag, Susan\|Sontag, Susan]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Sontag, Susan\|Sontag, Susan]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/mushrooms, a poem by Sylvia Plath\|mushrooms, a poem by Sylvia Plath]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/advice to aspiring writers\|advice to aspiring writers]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/CARTA A BORGES DE SUSAN SONTAG\|CARTA A BORGES DE SUSAN SONTAG]]

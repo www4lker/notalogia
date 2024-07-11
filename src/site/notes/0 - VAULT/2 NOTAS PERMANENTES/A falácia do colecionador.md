@@ -16,7 +16,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes\|meta-prompt Article to notes]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/obsidian\|obsidian]]
-- [[Second Brain\|Second Brain]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Second Brain\|Second Brain]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/pen its powerful than computer\|pen its powerful than computer]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/mente estendida\|mente estendida]]
 ---

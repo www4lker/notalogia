@@ -10,7 +10,7 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/biomedicalização\|biomedicalização]] 
-2. [[sociedade medicalizada\|sociedade medicalizada]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/sociedade medicalizada\|sociedade medicalizada]]
 3. [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/L-teanina - erowid\|L-teanina - erowid]]
 - tags: #erowid #filosofia #realworld #otimistarealista #totalizante #psicodelico #erowid
 ---

@@ -7,7 +7,7 @@
 
 - palavras-chave: #ensaistica #filosofia #literatura #microdose 
 - notas:
-- [[Plath, Sylvia\|Plath, Sylvia]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Plath, Sylvia\|Plath, Sylvia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/hifacultura\|hifacultura]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/terapia psicodélica\|terapia psicodélica]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/o poema cogumelos explicado\|o poema cogumelos explicado]]

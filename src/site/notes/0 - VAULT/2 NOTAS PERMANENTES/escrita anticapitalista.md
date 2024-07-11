@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/escrita-anticapitalista/","tags":["permanente","interessesdepesquisa","interessesgerais","academia","intelectual","disserte","literatura","mestredeculturacontemporanea","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/escrita-anticapitalista/","tags":["permanente","interessesdepesquisa","interessesgerais","academia","intelectual","disserte","literatura","mestredeculturacontemporanea","escrivão"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Escrita anticapitalista
@@ -10,17 +10,17 @@ criado em: 15:32 2022-08-22
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/ESCRITA COMO POSSIBILDADE DE SURGIR DO ANTROPOCENO\|ESCRITA COMO POSSIBILDADE DE SURGIR DO ANTROPOCENO]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/escritas da pandemia\|escritas da pandemia]]
-- [[0 - VAULT/1 NOTAS LITERAIS/filosofia da linguagem\|filosofia da linguagem]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Linguagem e capitalismo\|Linguagem e capitalismo]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Cortázar, Julio\|Cortázar, Julio]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/filosofia da linguagem\|filosofia da linguagem]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Linguagem e capitalismo\|Linguagem e capitalismo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Cortázar, Julio\|Cortázar, Julio]]
 - [[O escorpião encalacrado\|O escorpião encalacrado]]
-- [[0 - VAULT/1 NOTAS LITERAIS/surrealismo\|surrealismo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/surrealismo\|surrealismo]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ\|ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/markdown\|markdown]]
 
 ---
 
-## [[0 - VAULT/1 NOTAS LITERAIS/Linguagem e capitalismo\|Linguagem e capitalismo]]
+## [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Linguagem e capitalismo\|Linguagem e capitalismo]]
 
 - Morelli parece convencido de que se o escritor continuar submetido à linguagem que venderam a ele junto com a roupa que veste e com o nome e o batismo e a nacionalidade, o único valor de sua obra será o estético, valor esse que o velho parece desprezar cada vez mais. Em algum lugar ele é bastante explícito: **na opinião dele não se pode denunciar coisa alguma se o fazemos no interior do sistema ao qual pertence o denunciado. Escrever contra o capitalismo com a bagagem mental e o vocabulário que derivam do capitalismo é perda de tempo.** 
 - — E é por isso que o escritor precisa incendiar a linguagem, acabar com as formas coaguladas e ir ainda mais além, pôr em dúvida a possibilidade de que essa linguagem continue em contato com o que ele pretende desqualificar. Não mais as palavras em si, porque isso não é tão importante, mas a estrutura total de um idioma, de um discurso.)

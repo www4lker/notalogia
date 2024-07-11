@@ -12,7 +12,7 @@
 - [[a trama da vida podcast poe na estante\|a trama da vida podcast poe na estante]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Fazer as contas\|Fazer as contas]]
 - [[midnight gospel\|midnight gospel]]
-- [[podcast sobre true crime\|podcast sobre true crime]]
-- [[referencias cruzadas, sempre\|referencias cruzadas, sempre]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/podcast sobre true crime\|podcast sobre true crime]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/referencias cruzadas, sempre\|referencias cruzadas, sempre]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/Psicodelia e misticismo\|Psicodelia e misticismo]]
 

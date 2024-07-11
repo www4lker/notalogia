@@ -10,7 +10,7 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/How to Resist the Temptation of AI When Writing\|How to Resist the Temptation of AI When Writing]]
-2. [[writing with AI - IA net\|writing with AI - IA net]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/writing with AI - IA net\|writing with AI - IA net]]
 3. [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/As entrelinhas dos conteúdos produzidos pelo ChatGpt\|As entrelinhas dos conteúdos produzidos pelo ChatGpt]]
 4. [[0 - VAULT/1 NOTAS LITERAIS/ECCO/No feature -  IAW\|No feature -  IAW]]
 5. [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/voce quer ser escritor - lamento\|voce quer ser escritor - lamento]]

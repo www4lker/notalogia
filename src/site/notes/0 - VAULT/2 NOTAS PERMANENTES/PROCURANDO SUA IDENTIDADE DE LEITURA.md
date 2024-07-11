@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/procurando-sua-identidade-de-leitura/","tags":["permanente","habitanimal","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/procurando-sua-identidade-de-leitura/","tags":["permanente","habitanimal","literatura"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # PROCURANDO SUA IDENTIDADE DE LEITURA

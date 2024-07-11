@@ -9,8 +9,8 @@
 - 21:00
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/psique/When Philosophers Become Therapists\|When Philosophers Become Therapists]]
-- [[The achievement society is burning us out, we need more play\|The achievement society is burning us out, we need more play]]
-- [[no nothing - article meditation\|no nothing - article meditation]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/The achievement society is burning us out, we need more play\|The achievement society is burning us out, we need more play]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/no nothing - article meditation\|no nothing - article meditation]]
 - tags: #filosofia #mestredeculturacontemporanea #art 
 ---
 

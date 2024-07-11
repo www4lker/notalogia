@@ -11,7 +11,7 @@
 
 - palavras-chave: 
 - notas: #chatgpt #games #literatura #ergodico 
-- [[Thoreau, Henry David\|Thoreau, Henry David]] 
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Thoreau, Henry David\|Thoreau, Henry David]] 
 - [[0 - VAULT/2 NOTAS PERMANENTES/Red Dead Redemption - Uma jornada de redenção no Velho Oeste\|Red Dead Redemption - Uma jornada de redenção no Velho Oeste]]
 - [[Meridiano De Sangue\|Meridiano De Sangue]]
 - [[Blood Meridian or the Evening Redness in the West\|Blood Meridian or the Evening Redness in the West]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/lady-macbeth-do-distrito-de-mtzensk/","tags":["permanente","literatura","filosofia","formalismorusso"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/lady-macbeth-do-distrito-de-mtzensk/","tags":["permanente","literatura","filosofia","formalismorusso"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Lady Macbeth do distrito de Mtzensk
@@ -8,7 +8,7 @@
 
 - [[0 - VAULT/2 NOTAS PERMANENTES/Rei Lear das Estepes\|Rei Lear das Estepes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/King Lear - versos finais em inglês\|King Lear - versos finais em inglês]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dostoiévski, Fiodor\|Dostoiévski, Fiodor]]
 - tags: #literatura #filosofia #formalismorusso 
 #### Fontes & Links
 

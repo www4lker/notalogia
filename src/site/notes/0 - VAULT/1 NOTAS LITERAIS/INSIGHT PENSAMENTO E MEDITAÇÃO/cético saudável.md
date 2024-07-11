@@ -10,7 +10,7 @@
 
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/psique/Coincidências são reais\|Coincidências são reais]]
-- [[Por Que Fatos Não Mudam Nossas Mentes\|Por Que Fatos Não Mudam Nossas Mentes]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Por Que Fatos Não Mudam Nossas Mentes\|Por Que Fatos Não Mudam Nossas Mentes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Para quê serve a crença\|Para quê serve a crença]]
 - tags: #ceticismo #filosofia #totalizante #otimistarealista #insight 
 ---

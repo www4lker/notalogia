@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/zettelkasten-deutch-falacia-do-colecionador/","tags":["permanente","filosofia","realworld","otimistarealista","totalizante","jardimdigital","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/zettelkasten-deutch-falacia-do-colecionador/","tags":["permanente","filosofia","realworld","otimistarealista","totalizante","jardimdigital","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # falácia do colecionador - do site oficial
@@ -9,7 +9,7 @@
 - palavras-chave: #filosofia #realworld #otimistarealista #totalizante #jardimdigital #meta #zettelkasten 
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/obsidian\|obsidian]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Second Brain\|Second Brain]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Second Brain\|Second Brain]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/pen its powerful than computer\|pen its powerful than computer]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/mente estendida\|mente estendida]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/como evitar a falácia do colecionador\|como evitar a falácia do colecionador]]
@@ -20,7 +20,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes\|meta-prompt Article to notes]]
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes\|NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/obsidian\|obsidian]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Second Brain\|Second Brain]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Second Brain\|Second Brain]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/pen its powerful than computer\|pen its powerful than computer]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/mente estendida\|mente estendida]]
 ---

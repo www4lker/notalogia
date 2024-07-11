@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/se-voce-acha-que-forca-de-vontade-e-sempre-boa-conheca-os-contras/","tags":["permanente","psique","filosofia","totalizante","BeyondWillpower","NuancedSelfControl","SocialReputation","EmotionalCosts","HealthImplications","FindingBalance"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/se-voce-acha-que-forca-de-vontade-e-sempre-boa-conheca-os-contras/","tags":["permanente","psique","filosofia","totalizante","BeyondWillpower","NuancedSelfControl","SocialReputation","EmotionalCosts","HealthImplications","FindingBalance"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Se voce acha que força de vontade é sempre boa, conheça os contras

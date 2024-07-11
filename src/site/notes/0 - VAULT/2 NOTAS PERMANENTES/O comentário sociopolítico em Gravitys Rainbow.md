@@ -9,7 +9,7 @@
 - Hora: 15:29
 
 - palavras-chave: #literatura #geo #filosofia #chatgpt 
-- notas: [[Pynchon, Thomas\|Pynchon, Thomas]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Pynchon, Thomas\|Pynchon, Thomas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Estamos todos vivendo sob um arco íris gravidade\|Estamos todos vivendo sob um arco íris gravidade]]
 - Fontes & Links: 
 ---

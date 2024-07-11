@@ -9,7 +9,7 @@
 ### Relacionado
 
 - palavras-chave: #disserte #internet #interessesdepesquisa #mestredeculturacontemporanea #academia 
-- notas: [[Superindústria do imaginário\|Superindústria do imaginário]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Superindústria do imaginário\|Superindústria do imaginário]]
 - mais notas relacionadas abaixo
 ---
 
@@ -28,5 +28,5 @@ Notas do artigo:
 6. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A ameaça da nova revolução tecnológica\|A ameaça da nova revolução tecnológica]]
 7. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A necessidade de controlar a tecnologia\|A necessidade de controlar a tecnologia]]
 8. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A divisão do sujeito\|A divisão do sujeito]]
-9. [[O abismo entre linguagem e existência\|O abismo entre linguagem e existência]]
+9. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O abismo entre linguagem e existência\|O abismo entre linguagem e existência]]
 10. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A reflexão sobre a tecnologia e a vida humana\|A reflexão sobre a tecnologia e a vida humana]]

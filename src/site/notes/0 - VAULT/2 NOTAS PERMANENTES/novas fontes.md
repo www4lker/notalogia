@@ -26,7 +26,7 @@ criado em: 15:59 2022-08-01
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Notas de projetos\|Notas de projetos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/novas fontes\|novas fontes]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Primeira postagem\|Primeira postagem]]
-- [[screenshots\|screenshots]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/screenshots\|screenshots]]
 - [[2 - NOTAS PERMANENTES/zettelkasten\|2 - NOTAS PERMANENTES/zettelkasten]]
 
 ---

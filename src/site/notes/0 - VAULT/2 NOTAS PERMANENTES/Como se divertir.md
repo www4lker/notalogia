@@ -7,7 +7,7 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-07-06
 - Hora: 19:31
-- notas: [[Qual deveria ser o espaço do brincar na vida de um adulto\|Qual deveria ser o espaço do brincar na vida de um adulto]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Qual deveria ser o espaço do brincar na vida de um adulto\|Qual deveria ser o espaço do brincar na vida de um adulto]]
 - tags: #interessesgerais #insight #framework #filosofia 
 - Fontes & Links: https://psyche.co/guides/how-to-start-having-more-fun-in-your-busy-life
 ---

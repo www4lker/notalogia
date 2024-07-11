@@ -31,5 +31,5 @@ Nota 3: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Os quatro 
 Nota 4: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Implicações e críticas ao modelo de 8 circuitos\|Implicações e críticas ao modelo de 8 circuitos]]
 
 
-Nota 5: [[Relevância do modelo de 8 circuitos de Wilson atualmente\|Relevância do modelo de 8 circuitos de Wilson atualmente]]
+Nota 5: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Relevância do modelo de 8 circuitos de Wilson atualmente\|Relevância do modelo de 8 circuitos de Wilson atualmente]]
 

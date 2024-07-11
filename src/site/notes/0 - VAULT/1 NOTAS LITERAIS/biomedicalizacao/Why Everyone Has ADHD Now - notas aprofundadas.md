@@ -88,6 +88,6 @@ Em suma, o vídeo sugere que os sentimentos generalizados de ADHD podem ser mais
 ---
 
 - [[0 - VAULT/2 NOTAS PERMANENTES/biomedicalização\|biomedicalização]]
-- [[sociedade medicalizada\|sociedade medicalizada]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/sociedade medicalizada\|sociedade medicalizada]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Leverage Dopamine to Overcome Procrastination & Optimize Effort\|Leverage Dopamine to Overcome Procrastination & Optimize Effort]]
 - tags: #filosofia #mestredeculturacontemporanea #erowid #ceticismo #filosofia #insight #biohack #totalizante #podkasten 

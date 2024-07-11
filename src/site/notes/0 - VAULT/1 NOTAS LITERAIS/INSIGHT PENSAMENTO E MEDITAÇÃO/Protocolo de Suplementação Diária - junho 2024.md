@@ -9,11 +9,11 @@
 - 21:24
 ## relacionados:
 - notas:
-1. [[28 dias usando ginseng e ginkgo\|28 dias usando ginseng e ginkgo]]
+1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/28 dias usando ginseng e ginkgo\|28 dias usando ginseng e ginkgo]]
 2. [[0 - VAULT/1 NOTAS LITERAIS/biomedicalizacao/GINGKO BILOBA - INSIGNIFICANTE\|GINGKO BILOBA - INSIGNIFICANTE]]
-3. [[Dieta da mente segundo Dr Permutter\|Dieta da mente segundo Dr Permutter]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dieta da mente segundo Dr Permutter\|Dieta da mente segundo Dr Permutter]]
 4. [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Hericium + Ganoderma\|Hericium + Ganoderma]]
-5. [[microdose para produtividade\|microdose para produtividade]]
+5. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/microdose para produtividade\|microdose para produtividade]]
 - tags: #biohack #pessoalidades #totalizante
 - Fontes & Links: 
 ---

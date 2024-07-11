@@ -20,8 +20,8 @@ fonte: https://www1.folha.uol.com.br/ilustrissima/2023/01/tragedia-yanomami-most
 
 [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Crítica à violência histórica e atual contra os povos indígenas\|Crítica à violência histórica e atual contra os povos indígenas]]
 
-[[Política e história de colonização\|Política e história de colonização]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Política e história de colonização\|Política e história de colonização]]
 
-[[Percepção pública dos povos indígenas e da Amazônia\|Percepção pública dos povos indígenas e da Amazônia]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Percepção pública dos povos indígenas e da Amazônia\|Percepção pública dos povos indígenas e da Amazônia]]
 
 [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Obras de Ailton Krenak e visões sobre o futuro\|Obras de Ailton Krenak e visões sobre o futuro]]

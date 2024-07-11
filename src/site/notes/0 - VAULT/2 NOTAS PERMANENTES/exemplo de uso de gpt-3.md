@@ -11,7 +11,7 @@ criado em: 18:49 2022-08-16
 - [[0 - VAULT/2 NOTAS PERMANENTES/gpt3\|gpt3]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/BERT\|BERT]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/gpt3 por ele mesmo\|gpt3 por ele mesmo]]
-- [[poesia feita por gpt3\|poesia feita por gpt3]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/poesia feita por gpt3\|poesia feita por gpt3]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ\|ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]
 - notas de dissertação:
 - notas de literatura: 

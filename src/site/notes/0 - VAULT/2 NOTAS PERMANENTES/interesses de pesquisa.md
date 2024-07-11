@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/interesses-de-pesquisa/","tags":["permanente","interessesdepesquisa","disserte","insight","zettelkasten","metodologia","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/interesses-de-pesquisa/","tags":["permanente","interessesdepesquisa","disserte","insight","zettelkasten","metodologia","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Notas com a #interessesdepesquisa
@@ -8,11 +8,11 @@ criado em: 11:51 2022-08-03
 ##### Relacionado
 - palavras-chave: #disserte #insight #zettelkasten #metodologia #mestredeculturacontemporanea 
 - notas:- [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/O passado não é mais como era antigamente\|O passado não é mais como era antigamente]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Resenhas 451\|Resenhas 451]]
-- [[0 - VAULT/1 NOTAS LITERAIS/GLOBALIZAÇÃO - INDEX\|GLOBALIZAÇÃO - INDEX]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Resenhas 451\|Resenhas 451]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/GLOBALIZAÇÃO - INDEX\|GLOBALIZAÇÃO - INDEX]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Ciberespaço\|Ciberespaço]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/No tempo das catástrofes (inserção possível na dissertação)\|No tempo das catástrofes (inserção possível na dissertação)]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Levy, Pierre\|Levy, Pierre]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Levy, Pierre\|Levy, Pierre]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/nos divertindo até a morte\|nos divertindo até a morte]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Resumido podcast\|Resumido podcast]]
 - [[251020220040\|251020220040]]
@@ -29,7 +29,7 @@ criado em: 11:51 2022-08-03
 - [[0 - VAULT/2 NOTAS PERMANENTES/Um milagre termodinamico - atomico\|Um milagre termodinamico - atomico]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/NOTAS PERMANENTES1\|NOTAS PERMANENTES1]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/interesses de pesquisa\|interesses de pesquisa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Linguagem e capitalismo\|Linguagem e capitalismo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Linguagem e capitalismo\|Linguagem e capitalismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/How To Write The Materials And Methods\|How To Write The Materials And Methods]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/How To Write The Introduction - PART 2\|How To Write The Introduction - PART 2]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/How To Write The Introduction\|How To Write The Introduction]]
@@ -43,20 +43,20 @@ criado em: 11:51 2022-08-03
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo\|Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/escritas da pandemia\|escritas da pandemia]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/escrita anticapitalista\|escrita anticapitalista]]
-- [[0 - VAULT/1 NOTAS LITERAIS/DEFESA EM 12 PASSOS\|DEFESA EM 12 PASSOS]]
-- [[0 - VAULT/1 NOTAS LITERAIS/globalização cultural\|globalização cultural]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DEFESA EM 12 PASSOS\|DEFESA EM 12 PASSOS]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/globalização cultural\|globalização cultural]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Three kinds of hypertext\|Three kinds of hypertext]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Publishing versus communicating\|Publishing versus communicating]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/books vs other supports\|books vs other supports]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Images versus alphabetic culture\|Images versus alphabetic culture]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/The Future of the Book\|The Future of the Book]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/A HISTÓRIA DO HIPERTEXTO - 121020222345\|A HISTÓRIA DO HIPERTEXTO - 121020222345]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Georg Wilhelm Friedrich Hegel\|Georg Wilhelm Friedrich Hegel]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Georg Wilhelm Friedrich Hegel\|Georg Wilhelm Friedrich Hegel]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária\|Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica\|Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/5 pontos-chave que eu deveria saber ao estudar sobre como a programação da aprendizagem influencia as habilidades criativas e literárias\|5 pontos-chave que eu deveria saber ao estudar sobre como a programação da aprendizagem influencia as habilidades criativas e literárias]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/os 5 pontos-chave que eu deveria saber ao estudar Como a produção literária moderna ocorre nos meios eletrônicos e quais são suas implicações\|os 5 pontos-chave que eu deveria saber ao estudar Como a produção literária moderna ocorre nos meios eletrônicos e quais são suas implicações]]
-- [[0 - VAULT/1 NOTAS LITERAIS/summarize Polanyi's paradox with an analogy\|summarize Polanyi's paradox with an analogy]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/summarize Polanyi's paradox with an analogy\|summarize Polanyi's paradox with an analogy]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/qualificação\|qualificação]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/O meio é a mensagem notas do podcast boa noite internet\|O meio é a mensagem notas do podcast boa noite internet]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Podkasten/its the content killing the culture - wisecrack edition\|its the content killing the culture - wisecrack edition]]

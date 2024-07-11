@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/aura-em-benjamin/","tags":["permanente","filosofia","literatura","interessesgerais","interessesdepesquisa","disserte","criatividade","escrita"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/aura-em-benjamin/","tags":["permanente","filosofia","literatura","interessesgerais","interessesdepesquisa","disserte","criatividade","escrita"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # aura em benjamin
@@ -10,7 +10,7 @@
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Autenticidade\|Autenticidade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/outono\|outono]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Benjamin, Walter\|Benjamin, Walter]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Benjamin, Walter\|Benjamin, Walter]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/chatgpt\|chatgpt]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/GPT COMO MICROFONE\|GPT COMO MICROFONE]]

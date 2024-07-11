@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/prompt-sobre-biohacking-no-chatgpt/","tags":["permanente","filosofia","realworld","otimistarealista","totalizante","psicodelico","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/prompt-sobre-biohacking-no-chatgpt/","tags":["permanente","filosofia","realworld","otimistarealista","totalizante","psicodelico","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # prompt sobre biohacking no chatgpt

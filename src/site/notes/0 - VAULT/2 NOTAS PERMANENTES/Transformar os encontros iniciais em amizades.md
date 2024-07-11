@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-07-24
 - Hora: 12:16
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/Como não forçar a amizade e tentar não influenciar os outros\|Como não forçar a amizade e tentar não influenciar os outros]] 
-- [[Preparação psicológica\|Preparação psicológica]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Preparação psicológica\|Preparação psicológica]]
 -  [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Fazer amizades com adultos\|Fazer amizades com adultos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Transformar os encontros iniciais em amizades\|Transformar os encontros iniciais em amizades]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/As amizades de adultos exigem esforço\|As amizades de adultos exigem esforço]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/notas-permanentes-sao/","tags":["permanente","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/notas-permanentes-sao/","tags":["permanente","meta","zettelkasten"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # notas permanentes são
@@ -35,10 +35,10 @@ criado em: 16:27 2022-09-30
 14. [[lit notas\|lit notas]]
 15. [[0 - VAULT/2 NOTAS PERMANENTES/NOTAS DE LITERATURA\|NOTAS DE LITERATURA]]
 16. [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Notas de projetos\|Notas de projetos]]
-17. [[0 - VAULT/1 NOTAS LITERAIS/NOTAS PASSAGEIRAS\|NOTAS PASSAGEIRAS]]
+17. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/NOTAS PASSAGEIRAS\|NOTAS PASSAGEIRAS]]
 18. [[0 - VAULT/2 NOTAS PERMANENTES/notas permanentes são\|notas permanentes são]]
 19. [[0 - VAULT/2 NOTAS PERMANENTES/novas fontes\|novas fontes]]
 20. [[0 - VAULT/2 NOTAS PERMANENTES/O que os jardins digitais não são\|O que os jardins digitais não são]]
 21. [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/o que voce planeja com minha filha me perguntou o meta\|o que voce planeja com minha filha me perguntou o meta]]
 22. [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/O rompimento com a linguagem\|O rompimento com a linguagem]]
-23. [[0 - VAULT/1 NOTAS LITERAIS/screenshots\|screenshots]]
+23. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/screenshots\|screenshots]]

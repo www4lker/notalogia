@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/usando-o-anki-para-aprender-qualquer-coisa/","tags":["permanente","disserte","mestredeculturacontemporanea","insight","pessoalidades","criatividade","tecnologia","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/usando-o-anki-para-aprender-qualquer-coisa/","tags":["permanente","disserte","mestredeculturacontemporanea","insight","pessoalidades","criatividade","tecnologia","interessesgerais"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # usando o ANKI para aprender QUALQUER COISA

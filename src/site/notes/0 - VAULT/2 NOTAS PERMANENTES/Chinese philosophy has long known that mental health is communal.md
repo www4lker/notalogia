@@ -30,5 +30,5 @@ A doença mental não existe em um vácuo, mas é fortemente influenciada por as
 4. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Confúcio sobre ética pessoal\|Confúcio sobre ética pessoal]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Confúcio sobre ética pessoal\|Confúcio sobre ética pessoal]]
 
 5. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O conceito de Junzi\|O conceito de Junzi]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/O conceito de Junzi\|O conceito de Junzi]]
-5. [[Piedade filial no pensamento confucionista\|Piedade filial no pensamento confucionista]]: [[Piedade filial no pensamento confucionista\|Piedade filial no pensamento confucionista]]
-6. [[Transcendência dos ensinamentos de Confúcio\|Transcendência dos ensinamentos de Confúcio]]: [[Transcendência dos ensinamentos de Confúcio\|Transcendência dos ensinamentos de Confúcio]]
+5. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Piedade filial no pensamento confucionista\|Piedade filial no pensamento confucionista]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Piedade filial no pensamento confucionista\|Piedade filial no pensamento confucionista]]
+6. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Transcendência dos ensinamentos de Confúcio\|Transcendência dos ensinamentos de Confúcio]]: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Transcendência dos ensinamentos de Confúcio\|Transcendência dos ensinamentos de Confúcio]]

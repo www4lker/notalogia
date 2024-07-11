@@ -10,11 +10,11 @@
 
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/filosofia/filosofia da tecnologia\|filosofia da tecnologia]]
-- [[summary the truth of the technological world\|summary the truth of the technological world]]
-- [[summary the truth of the technological world\|summary the truth of the technological world]]
-- [[The Question Concerning Technology in China - and other works\|The Question Concerning Technology in China - and other works]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/summary the truth of the technological world\|summary the truth of the technological world]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/summary the truth of the technological world\|summary the truth of the technological world]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/The Question Concerning Technology in China - and other works\|The Question Concerning Technology in China - and other works]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/SONHOS TECNOFEUDAIS\|SONHOS TECNOFEUDAIS]]
-- [[resenha livro do Vinícius Portella\|resenha livro do Vinícius Portella]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/resenha livro do Vinícius Portella\|resenha livro do Vinícius Portella]]
 
 - Fontes & Links: #filosofia #pesquisa #interessesdepesquisa #interessesgerais #ceticismo #disserte #criatividade #ludismoiluminado
 ---
@@ -31,21 +31,21 @@ Numa direção mais ampla, muitos vêm também tentando recuperar o pensamento f
 Uma coisa parece certa: vindo de onde vier, o confronto real com nossos problemas ecológicos e sociais demanda uma investigação profunda das nossas cadeias de mediação tecnológica. E está mais do que na hora de as ciências humanas se embrenharem mais fundo nessas questões.
 
 ## How We Became Posthuman
-[[review how we become posthuman\|review how we become posthuman]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/review how we become posthuman\|review how we become posthuman]]
 
 N. Katherine Hayles (University of Chicago Press, 2008)
 
 Uma das principais teóricas norte-americanas de literatura e tecnologia, Nancy Katherine Hayles escreveu esse clássico da teoria de mídia no final da década de 1990 (infelizmente ainda sem tradução por aqui). As principais discussões do livro giram em torno da oposição entre o digital e o corpo, informação e matéria, e em como o mito do digital se construiu em cima de uma negação da sua materialidade subjacente. Hayles descortina os fundamentos filosóficos, científicos e políticos da era cibernética com erudição e clareza.
 
 ## Do modo de existência dos objetos técnicos
-[[review On the Mode of Existence of Technical Objects by Simondon\|review On the Mode of Existence of Technical Objects by Simondon]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/review On the Mode of Existence of Technical Objects by Simondon\|review On the Mode of Existence of Technical Objects by Simondon]]
 
 Gilbert Simondon (Trad. Vera Ribeiro, Contraponto, 2020)
 
 Gilbert Simondon ainda é bem desconhecido no Brasil, apesar de ter influenciado bastante o filósofo Gilles Deleuze (figurinha carimbada nas pós-graduações em humanidades por aqui). Simondon parte da premissa de que a cultura humanista ocidental havia se formado como um sistema de defesa contra a técnica, considerada em si uma fonte de alienação. Em contraponto, o autor oferece uma visão da tecnicidade não como uma força oposta ao humano e à natureza, mas como algo que deve ser entendido de forma mais aberta e horizontal, menos concentrada em tecnocratas e mais espalhada por toda a sociedade. Talvez seja a hora de começar a digerir melhor essas ideias.
 
 ## A Hacker Manifesto
-[[review a hacker manifesto\|review a hacker manifesto]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/review a hacker manifesto\|review a hacker manifesto]]
 
 McKenzie Wark (Harvard University Press, 2004)
 
@@ -55,7 +55,7 @@ Também sem tradução no Brasil, o manifesto hacker da teórica australiana McK
 { #06aca6}
 
 
-[[summary the truth of the technological world\|summary the truth of the technological world]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/summary the truth of the technological world\|summary the truth of the technological world]]
 
 Friedrich Kittler (Trad. Markus Heddiger, Contraponto, 2017)
 

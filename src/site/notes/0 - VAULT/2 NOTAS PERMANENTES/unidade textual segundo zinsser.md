@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/unidade-textual-segundo-zinsser/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/unidade-textual-segundo-zinsser/","tags":["permanente","literatura","intelectual","academia","pesquisa","interessesgerais","substack"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # unidade textual segundo zinsser

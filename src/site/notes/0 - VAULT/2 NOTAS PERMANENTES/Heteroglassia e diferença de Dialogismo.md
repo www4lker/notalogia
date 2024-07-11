@@ -9,7 +9,7 @@
 - palavras-chave: #literatura #interessesdepesquisa #interessesgerais #filosofia #formalismorusso 
 - notas: [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Dostoiévski\|NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Dostoiévski]]
 - [[Bakhtin, M\|Bakhtin, M]]
-- [[Tolstói, Lev\|Tolstói, Lev]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Tolstói, Lev\|Tolstói, Lev]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/relendo os clássicos russos artigo new yorker\|relendo os clássicos russos artigo new yorker]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Dialogismo\|Dialogismo]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/O que é romance polifônico e alguns exemplos\|O que é romance polifônico e alguns exemplos]]

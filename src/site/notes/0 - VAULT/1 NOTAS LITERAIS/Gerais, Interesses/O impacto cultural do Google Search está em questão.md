@@ -11,7 +11,7 @@
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como remover informações pessoais dos resultados de pesquisa do Google\|Como remover informações pessoais dos resultados de pesquisa do Google]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/a web está mal\|a web está mal]]
-- [[como o google aperfeiçoou a web\|como o google aperfeiçoou a web]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/como o google aperfeiçoou a web\|como o google aperfeiçoou a web]]
 - tags: #interessesgerais #interessesdepesquisa #disserte
 - Fontes & Links: https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords
 ---

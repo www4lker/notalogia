@@ -10,9 +10,9 @@ sair do substack?
 - 08:271
 ## relacionados:
 - notas: 
-- [[Substack é uma ameaça, mais ou menos\|Substack é uma ameaça, mais ou menos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Substack é uma ameaça, mais ou menos\|Substack é uma ameaça, mais ou menos]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/filosofia do texto puro - mataroa\|filosofia do texto puro - mataroa]]
-- [[Porque tentar o mataroa\|Porque tentar o mataroa]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Porque tentar o mataroa\|Porque tentar o mataroa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/BLOGUERAGEM/A Polêmica do Substack com Conteúdos Neonazistas\|A Polêmica do Substack com Conteúdos Neonazistas]]
 - tags: #substack #escrivão #EarlyWeb #insumos 
 ---

@@ -55,5 +55,5 @@ Trabalhando com cuidado e dedicação, você será capaz de transformar suas val
 [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/esquema - LEITURAS CLANDESTINAS 4\|esquema - LEITURAS CLANDESTINAS 4]]
 [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/SP - ROTEIRO PARA UM ESTUDANTE DE GEOGRAFIA\|SP - ROTEIRO PARA UM ESTUDANTE DE GEOGRAFIA]]
 [[0 - VAULT/2 NOTAS PERMANENTES/Saindo para próxima viagem\|Saindo para próxima viagem]]
-[[Roteiros de viagem para São Paulo - personalizadíssimo\|Roteiros de viagem para São Paulo - personalizadíssimo]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Roteiros de viagem para São Paulo - personalizadíssimo\|Roteiros de viagem para São Paulo - personalizadíssimo]]
 #toródeideias #geo #escrita #insight

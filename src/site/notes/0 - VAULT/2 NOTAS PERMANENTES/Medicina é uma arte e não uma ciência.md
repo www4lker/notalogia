@@ -10,11 +10,11 @@
 
 ### Conteúdo Relacionado
 - notas: [[LIT\|LIT]]
-- [[Varella, Drauzio\|Varella, Drauzio]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Varella, Drauzio\|Varella, Drauzio]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Harari, Yuval Noah\|Harari, Yuval Noah]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Roland Griffiths - entrevista\|Roland Griffiths - entrevista]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/biomedicalização\|biomedicalização]]
-- [[susan sontag - a doença como metáfora\|susan sontag - a doença como metáfora]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/susan sontag - a doença como metáfora\|susan sontag - a doença como metáfora]]
 - tags: #literatura #filosofia #realworld #otimistarealista #totalizante #psicodelico
 ---
 ### resumo

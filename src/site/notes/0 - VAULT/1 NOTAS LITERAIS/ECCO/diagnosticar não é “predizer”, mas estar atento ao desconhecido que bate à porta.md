@@ -36,7 +36,7 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 
 
 
-- [[📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Assisti pleasure\|Assisti pleasure]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/atlanta\|atlanta]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD\|CEUPCD]]
@@ -50,7 +50,7 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/isso não é um blog\|isso não é um blog]]
 
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/mestrado\|mestrado]]
-- [[Santos, Milton\|Santos, Milton]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Santos, Milton\|Santos, Milton]]
 
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/O rompimento com a linguagem\|O rompimento com a linguagem]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/prompts midjourney\|prompts midjourney]]

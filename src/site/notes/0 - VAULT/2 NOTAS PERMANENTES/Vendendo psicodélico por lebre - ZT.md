@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/vendendo-psicodelico-por-lebre-zt/","tags":["permanente","filosofia","buddhismo","Meditação","Religião","Oriental","Ocidental","Transcendência"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/vendendo-psicodelico-por-lebre-zt/","tags":["permanente","filosofia","buddhismo","Meditação","Religião","Oriental","Ocidental","Transcendência"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # "Trocando" psicodélico por lebre

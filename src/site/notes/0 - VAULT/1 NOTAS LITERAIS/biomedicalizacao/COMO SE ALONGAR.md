@@ -10,7 +10,7 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas\|Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas]]
-2. [[porque cardio não vai te emagrecer\|porque cardio não vai te emagrecer]]
+2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/porque cardio não vai te emagrecer\|porque cardio não vai te emagrecer]]
 3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/meditar no quintal\|meditar no quintal]]
 4. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como Transformar um Passeio de Bicicleta em um Treino de Ciclismo\|Como Transformar um Passeio de Bicicleta em um Treino de Ciclismo]]
 - tags: #totalizante #mementomori #criatividade #toolstolife #ceticismo #calistenia #totalizante #householder

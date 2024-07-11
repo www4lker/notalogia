@@ -13,7 +13,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/O VALOR DO VOLUME FIXO DE PRODUTIVIDADE\|O VALOR DO VOLUME FIXO DE PRODUTIVIDADE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Abraçe a tecnologia chata\|Abraçe a tecnologia chata]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Fracasse estrategicamente\|Fracasse estrategicamente]]
-- [[qual a sua causa, walker\|qual a sua causa, walker]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/qual a sua causa, walker\|qual a sua causa, walker]]
 - tags: #mementomori #criatividade #toolstolife #ceticismo 
 - Fontes & Links: https://chat.openai.com/share/ed96eb0e-5a60-4be8-b612-f9d8245435d4
 ---

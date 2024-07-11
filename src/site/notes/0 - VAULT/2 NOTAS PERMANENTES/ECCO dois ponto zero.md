@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-09-02
 - Hora: 20:03
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Clean perversion in consumer culture\|Clean perversion in consumer culture]]
-- [[write non fiction or autofiction\|write non fiction or autofiction]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/write non fiction or autofiction\|write non fiction or autofiction]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/projeto revolucionário explorando o mega-vault para inovação e pesquisa\|projeto revolucionário explorando o mega-vault para inovação e pesquisa]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Explorando as possibilidades de pesquisa geográfica no meu Vault - Mem\|Explorando as possibilidades de pesquisa geográfica no meu Vault - Mem]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/gpt 4 brainstorming TCC\|gpt 4 brainstorming TCC]]

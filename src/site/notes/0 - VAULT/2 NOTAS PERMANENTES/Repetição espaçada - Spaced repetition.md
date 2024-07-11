@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/repeticao-espacada-spaced-repetition/","tags":["permanente","disserte","mestredeculturacontemporanea","insight","pessoalidades","criatividade","tecnologia","interessesgerais","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/repeticao-espacada-spaced-repetition/","tags":["permanente","disserte","mestredeculturacontemporanea","insight","pessoalidades","criatividade","tecnologia","interessesgerais","anglo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # 060220231846
@@ -13,7 +13,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/pkm - personal knowledge management\|pkm - personal knowledge management]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/o que é PKM\|o que é PKM]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/criticismo PKM\|criticismo PKM]]
-- [[0 - VAULT/1 NOTAS LITERAIS/conhecimento contingente e PKM\|1 NOTAS LITERAIS/conhecimento contingente e PKM]]
+- [[0 - VAULT/1 NOTAS LITERAIS/888/conhecimento contingente e PKM\|0 - VAULT/1 NOTAS LITERAIS/888/conhecimento contingente e PKM]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/all about anki\|all about anki]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Método baseado na repetição espaçada e ANKI para me preparar para a defesa\|Método baseado na repetição espaçada e ANKI para me preparar para a defesa]]
 

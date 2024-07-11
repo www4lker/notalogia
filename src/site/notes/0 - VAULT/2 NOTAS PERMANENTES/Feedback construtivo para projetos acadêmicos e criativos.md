@@ -8,7 +8,7 @@
 ## criado em: 
 -  Ano, Mês e dia: 2023-08-26
 - Hora: 22:46
-- notas: [[prompts memai\|prompts memai]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/prompts memai\|prompts memai]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/sobre a criatividade\|sobre a criatividade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ChatGPT Não é a única forma de usar a IA na Educação\|ChatGPT Não é a única forma de usar a IA na Educação]]
 - tags: #memai #toródeideias 

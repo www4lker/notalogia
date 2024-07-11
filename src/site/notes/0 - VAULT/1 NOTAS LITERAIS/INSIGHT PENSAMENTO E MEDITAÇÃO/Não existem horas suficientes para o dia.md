@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/nao-existem-horas-suficientes-para-o-dia/","tags":["darkforest","totalizante","enfim","insight","filosofia","ceticismo","estoico","habitanimal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/nao-existem-horas-suficientes-para-o-dia/","tags":["darkforest","totalizante","enfim","insight","filosofia","ceticismo","estoico","habitanimal"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Não existem horas suficientes para o dia

@@ -57,10 +57,10 @@ Aqui está um breve resumo de cada circuito, em termos simples:
 
 >Expand: The Cultural Circuit
 
-[[o circuito cultural\|o circuito cultural]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/o circuito cultural\|o circuito cultural]]
 
 >expand: The Emotional Circuit
 
-[[o circuito emocional\|o circuito emocional]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/o circuito emocional\|o circuito emocional]]
 
 

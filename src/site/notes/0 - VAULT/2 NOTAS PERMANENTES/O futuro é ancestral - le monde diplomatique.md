@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-futuro-e-ancestral-le-monde-diplomatique/","tags":["permanente","filosofia","mestredeculturacontemporanea","lit","geo","capetalismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/o-futuro-e-ancestral-le-monde-diplomatique/","tags":["permanente","filosofia","mestredeculturacontemporanea","lit","geo","capetalismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # O futuro é ancestral
@@ -11,7 +11,7 @@
 - palavras-chave: #filosofia #mestredeculturacontemporanea #lit #geo #capetalismo 
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/ailton krenak podcast ilustríssima conversa\|ailton krenak podcast ilustríssima conversa]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Decolonização - Um desafio às estruturas de poder opressivas\|Decolonização - Um desafio às estruturas de poder opressivas]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Decolonização - Um desafio às estruturas de poder opressivas\|Decolonização - Um desafio às estruturas de poder opressivas]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/A queda do céu\|A queda do céu]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Humans Have Always Been Wrong About Humans\|Humans Have Always Been Wrong About Humans]]
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/resposta-teonanacatl/","tags":["permanente","sciencebitch","insight","psicodelico","nãoficção","TEONANACATL"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/resposta-teonanacatl/","tags":["permanente","sciencebitch","insight","psicodelico","nãoficção","TEONANACATL"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # resposta teonanacatl
@@ -8,7 +8,7 @@
 - 19-09-2023
 - 15:57
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/Cogumelos Livres\|Cogumelos Livres]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Cogumelos Livres\|Cogumelos Livres]]
 palavras-chave: #sciencebitch #insight #psicodelico #nãoficção #TEONANACATL 
 - Fontes & Links: 
 ---

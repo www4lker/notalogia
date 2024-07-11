@@ -9,7 +9,7 @@
 - 20:46
 ## relacionados:
 - notas:
-1. [[Por que escrever - sartre\|Por que escrever - sartre]]
+1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Por que escrever - sartre\|Por que escrever - sartre]]
 - tags: #interessesgerais #pesquisa #literatura #filosofia #filosofia #escriba #escrita #AUTODESCOBERTA 
 - Fontes & Links: 
 ---

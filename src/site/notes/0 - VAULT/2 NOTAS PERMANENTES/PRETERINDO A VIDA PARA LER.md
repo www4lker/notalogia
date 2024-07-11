@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/preterindo-a-vida-para-ler/","tags":["permanente","literatura","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/preterindo-a-vida-para-ler/","tags":["permanente","literatura","filosofia","insight"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # PRETERINDO A VIDA PARA LER
@@ -10,9 +10,9 @@
 
 ### Conteúdo Relacionado
 - notas: 
-- [[0 - VAULT/1 NOTAS LITERAIS/Biblioterapia funciona (pergunta)\|Biblioterapia funciona (pergunta)]]
-- [[0 - VAULT/1 NOTAS LITERAIS/medo de terminar o livro\|medo de terminar o livro]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Tolstói, Lev\|Tolstói, Lev]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Biblioterapia funciona (pergunta)\|Biblioterapia funciona (pergunta)]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/medo de terminar o livro\|medo de terminar o livro]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Tolstói, Lev\|Tolstói, Lev]]
 - tags: #literatura #filosofia #insight 
 ---
 

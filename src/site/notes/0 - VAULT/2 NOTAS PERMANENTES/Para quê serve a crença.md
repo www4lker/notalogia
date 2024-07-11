@@ -9,7 +9,7 @@
 - Hora: 17:47
 - notas: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/As crenças nos ajudam a fazer previsões, selecionar ações, compreender os assuntos com mais detalhes\|As crenças nos ajudam a fazer previsões, selecionar ações, compreender os assuntos com mais detalhes]]
-- [[Um comentário perspicaz sobre o capítulo poderia ser\|Um comentário perspicaz sobre o capítulo poderia ser]] 
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Um comentário perspicaz sobre o capítulo poderia ser\|Um comentário perspicaz sobre o capítulo poderia ser]] 
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Kahneman, Daniel\|Kahneman, Daniel]]
 - tags: #filosofia #meditacao #insight #sciencebitch #permanente
 - Fontes & Links: 

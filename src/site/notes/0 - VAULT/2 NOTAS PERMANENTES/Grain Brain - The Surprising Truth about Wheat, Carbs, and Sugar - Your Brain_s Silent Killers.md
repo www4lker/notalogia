@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/grain-brain-the-surprising-truth-about-wheat-carbs-and-sugar-your-brain-s-silent-killers/","tags":["permanente","totalizante","calistenia","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/grain-brain-the-surprising-truth-about-wheat-carbs-and-sugar-your-brain-s-silent-killers/","tags":["permanente","totalizante","calistenia","householder"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Grain Brain - The Surprising Truth about Wheat, Carbs, and Sugar - Your Brain's Silent Killers
@@ -8,8 +8,8 @@
 -  Ano, Mês e dia: 2023-07-24
 - notas: 
 - [[Grain Brain - The Surprising Truth about Wheat, Carbs, and Sugar - Your Brain's Silent Killers\|Grain Brain - The Surprising Truth about Wheat, Carbs, and Sugar - Your Brain's Silent Killers]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Dieta Cetogênica à prova de bobos\|Dieta Cetogênica à prova de bobos]]
-- [[0 - VAULT/1 NOTAS LITERAIS/DIETA CETOGENICA - DIETA DA MENTE\|DIETA CETOGENICA - DIETA DA MENTE]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dieta Cetogênica à prova de bobos\|Dieta Cetogênica à prova de bobos]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DIETA CETOGENICA - DIETA DA MENTE\|DIETA CETOGENICA - DIETA DA MENTE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/uma lista abrangente de alimentos comumente encontrados no Brasil que sejam adequados para uma dieta cetogênica\|uma lista abrangente de alimentos comumente encontrados no Brasil que sejam adequados para uma dieta cetogênica]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/PARAR DE COMER AÇUCAR\|PARAR DE COMER AÇUCAR]]
 - tags: #totalizante #calistenia #householder 

@@ -9,7 +9,7 @@
 - 19:02
 ## relacionados:
 - notas:
-1. [[writing with AI - IA net\|writing with AI - IA net]]
+1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/writing with AI - IA net\|writing with AI - IA net]]
 2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Impacto da IA na criatividade\|Impacto da IA na criatividade]]
 3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como deveríamos estar usando IA nesse momento GPT 4 (zt)\|Como deveríamos estar usando IA nesse momento GPT 4 (zt)]]
 - tags: #chatgpt #chatbot #IAeÉtica #IAvsInteligênciaHumana #escrivão #escrita

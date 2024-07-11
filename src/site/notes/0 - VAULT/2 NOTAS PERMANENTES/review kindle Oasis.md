@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/review-kindle-oasis/","tags":["permanente","books","literatura","tecnologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/review-kindle-oasis/","tags":["permanente","books","literatura","tecnologia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # review kindle Oasis
@@ -8,10 +8,10 @@
 - 05-09-2023
 - 01:26
 ## relacionados:
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/CANSADO DE LER EM KINDLE\|CANSADO DE LER EM KINDLE]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/CANSADO DE LER EM KINDLE\|CANSADO DE LER EM KINDLE]]
 - [[r kindle\|r kindle]]
-- [[0 - VAULT/1 NOTAS LITERAIS/contra o hype dos livros\|contra o hype dos livros]]
-- [[0 - VAULT/1 NOTAS LITERAIS/intimidado por livrão\|intimidado por livrão]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/contra o hype dos livros\|contra o hype dos livros]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/intimidado por livrão\|intimidado por livrão]]
 - tags: #books #literatura #tecnologia
 - Fontes & Links: https://www.amazon.com.br/gp/customer-reviews/RMDLOFC0V3SL9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07L5J1LY9
 ---

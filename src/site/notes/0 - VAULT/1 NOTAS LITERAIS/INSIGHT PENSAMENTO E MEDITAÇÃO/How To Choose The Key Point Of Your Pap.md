@@ -8,7 +8,7 @@ criado em: 11:54 2022-09-22
 palavras-chave: #disserte #interessesdepesquisa #sinergia #metodologia #acadêmico #escrita #escrivão 
 - notas permanentes: 
 - [[0 - VAULT/2 NOTAS PERMANENTES/dissertação index\|dissertação index]]
-- [[Saramäki - RESUMÃO\|Saramäki - RESUMÃO]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Saramäki - RESUMÃO\|Saramäki - RESUMÃO]]
 - [[Feynman's Approach\|Feynman's Approach]]
 
 ---

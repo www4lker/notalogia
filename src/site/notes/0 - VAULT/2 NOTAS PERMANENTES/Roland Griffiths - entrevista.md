@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/roland-griffiths-entrevista/","tags":["permanente","TEONANACATL","psicodelico","mementomori","microdose","protocodemd","filosofia","ceticismo","sciencebitch","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/roland-griffiths-entrevista/","tags":["permanente","TEONANACATL","psicodelico","mementomori","microdose","protocodemd","filosofia","ceticismo","sciencebitch","insumos"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Roland Griffiths
@@ -11,9 +11,9 @@
 ### Conteúdo Relacionado
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/terapia psicodélica\|terapia psicodélica]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/This psychedelics researcher approached his death with calm and curiosity\|This psychedelics researcher approached his death with calm and curiosity]]
-- [[0 - VAULT/1 NOTAS LITERAIS/morre Roland Griffiths\|morre Roland Griffiths]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Pollan, Michael\|Pollan, Michael]]
-- [[0 - VAULT/1 NOTAS LITERAIS/Merlin Sheldrake\|Merlin Sheldrake]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/morre Roland Griffiths\|morre Roland Griffiths]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Pollan, Michael\|Pollan, Michael]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Merlin Sheldrake\|Merlin Sheldrake]]
 - [[0 - VAULT/1 NOTAS LITERAIS/PSICODELICO/trama da vida encontra como mudar sua mente\|trama da vida encontra como mudar sua mente]]
 - tags: #TEONANACATL #psicodelico #mementomori #microdose #protocodemd #filosofia #ceticismo #sciencebitch #insumos
   - Fontes & Links: https://www.nytimes.com/interactive/2023/04/03/magazine/roland-griffiths-interview.html

@@ -77,10 +77,10 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 
 ---
 #### Mais:
-- [[📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/📕 DISSERTAÇÃO\|📕 DISSERTAÇÃO]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Levy, Pierre\|Levy, Pierre]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ECCO/CITAÇÃO Alicia Kowaltowski\|CITAÇÃO Alicia Kowaltowski]]
-- [[Precisamos de arte e cultura\|Precisamos de arte e cultura]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Precisamos de arte e cultura\|Precisamos de arte e cultura]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária\|Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Como criar um esboço para uma revisão do videogame na Steam\|Como criar um esboço para uma revisão do videogame na Steam]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/The Future of the Book\|The Future of the Book]]
@@ -139,8 +139,8 @@ Considerando as sensíveis transformações verificadas no mundo contemporâneo 
 - [[Relatório da bolsa\|Relatório da bolsa]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Resumido podcast\|Resumido podcast]]
 - [[reuniao colegiado 22 07\|reuniao colegiado 22 07]]
-- [[Santos, Milton\|Santos, Milton]]
-- [[Schwanitz, Dietrich\|Schwanitz, Dietrich]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Santos, Milton\|Santos, Milton]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Schwanitz, Dietrich\|Schwanitz, Dietrich]]
 - [[0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Three kinds of hypertext\|Three kinds of hypertext]]
 - [[0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/um dia uma semana um mes um ano\|um dia uma semana um mes um ano]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Bauman, Zygmunt\|Bauman, Zygmunt]]

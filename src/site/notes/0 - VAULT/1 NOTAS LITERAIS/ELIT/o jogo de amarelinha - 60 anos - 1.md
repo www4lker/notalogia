@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/o-jogo-de-amarelinha-60-anos-1/","tags":["lit","literatura","academia","games","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
-[[o jogo de amarelinha - 60 anos\|o jogo de amarelinha - 60 anos]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/o jogo de amarelinha - 60 anos\|o jogo de amarelinha - 60 anos]]
 #lit #literatura #academia #games #filosofia
 
 "O Jogo da Amarelinha", publicado originalmente em 1963 sob o título "Rayuela", é uma obra marcante do escritor argentino Julio Cortázar¹. Este romance experimental pode ser lido de duas maneiras, desafiando o leitor a ser um agente na construção da narrativa¹. Esta inovação na forma de narrar influenciou gerações de leitores e escritores ao redor do mundo⁷.

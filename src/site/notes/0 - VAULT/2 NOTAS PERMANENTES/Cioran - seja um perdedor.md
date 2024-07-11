@@ -43,7 +43,7 @@ O artigo discute o argumento filosófico apresentado por Emil Cioran, um filóso
 [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/A perspectiva filosófica do perdedorismo\|A perspectiva filosófica do perdedorismo]]
 
 **Nota 4: Percepção do fracasso**
-[[Percepção do fracasso\|Percepção do fracasso]]
+[[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Percepção do fracasso\|Percepção do fracasso]]
 
 **Nota 5: Esterilização de experiências desagradáveis pela sociedade**
 [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Esterilização de experiências desagradáveis pela sociedade\|Esterilização de experiências desagradáveis pela sociedade]]

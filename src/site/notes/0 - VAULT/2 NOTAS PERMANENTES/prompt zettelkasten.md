@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/prompt-zettelkasten/","tags":["permanente","meta","chatgpt","chatbot","gpt3","gpt4","promptgpt3","promptGPT"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/0-vault/2-notas-permanentes/prompt-zettelkasten/","tags":["permanente","meta","chatgpt","chatbot","gpt3","gpt4","promptgpt3","promptGPT"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # prompt zettelkasten
@@ -8,7 +8,7 @@
 -  Ano, Mês e dia: 2023-07-08
 - Hora: 18:28
 - tags: #meta #chatgpt #chatbot #gpt3 #gpt4 #promptgpt3 #promptGPT 
-- notas: [[0 - VAULT/1 NOTAS LITERAIS/improved prompt to learn a book\|improved prompt to learn a book]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/improved prompt to learn a book\|improved prompt to learn a book]]
 - Fontes & Links: 
 ---
 

@@ -10,13 +10,13 @@
 
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas\|Integrando pedalada, pular corda e exercícios de resistência para perda de gordura abdominal e fortalecimento das costas]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/Entendendo o autocontrole equilibrado com as tendências humanas\|Entendendo o autocontrole equilibrado com as tendências humanas]]
-- [[28 dias usando ginseng e ginkgo\|28 dias usando ginseng e ginkgo]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/28 dias usando ginseng e ginkgo\|28 dias usando ginseng e ginkgo]]
 - tags: #calistenia #totalizante #householder 
 - Fontes & Links: https://chat.openai.com/share/cdce8746-7319-4e08-8762-5ebb4f1b1efe
 	- - notas + 
 - [[Grain Brain - The Surprising Truth about Wheat, Carbs, and Sugar - Your Brain's Silent Killers\|Grain Brain - The Surprising Truth about Wheat, Carbs, and Sugar - Your Brain's Silent Killers]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Dieta Cetogênica à prova de bobos\|Dieta Cetogênica à prova de bobos]]
-- [[DIETA CETOGENICA - DIETA DA MENTE\|DIETA CETOGENICA - DIETA DA MENTE]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DIETA CETOGENICA - DIETA DA MENTE\|DIETA CETOGENICA - DIETA DA MENTE]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/uma lista abrangente de alimentos comumente encontrados no Brasil que sejam adequados para uma dieta cetogênica\|uma lista abrangente de alimentos comumente encontrados no Brasil que sejam adequados para uma dieta cetogênica]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/PARAR DE COMER AÇUCAR\|PARAR DE COMER AÇUCAR]]
 - tags: #totalizante #calistenia #householder 

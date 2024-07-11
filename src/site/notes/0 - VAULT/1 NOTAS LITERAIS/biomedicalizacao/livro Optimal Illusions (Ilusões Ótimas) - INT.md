@@ -8,11 +8,11 @@
 - 28-03-2024
 - 12:29
 ## relacionados:
-- notas: [[self help está lavando sua mente - Alice Cappelle\|self help está lavando sua mente - Alice Cappelle]]
+- notas: [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/self help está lavando sua mente - Alice Cappelle\|self help está lavando sua mente - Alice Cappelle]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/ilusões da otimização\|ilusões da otimização]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/armadilhas da otimização\|armadilhas da otimização]]
-- [[Como o trabalho otimizado pode se tornar um ciclo vicioso\|Como o trabalho otimizado pode se tornar um ciclo vicioso]]
-- [[Neoluditas 2023\|Neoluditas 2023]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Como o trabalho otimizado pode se tornar um ciclo vicioso\|Como o trabalho otimizado pode se tornar um ciclo vicioso]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Neoluditas 2023\|Neoluditas 2023]]
 - tags: #realworld #insight #BIOHACK #totalizante 
 - Fontes & Links: 
 ---
