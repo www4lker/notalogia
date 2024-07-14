@@ -14,7 +14,7 @@
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Buddenbrooks e Succession\|Buddenbrooks e Succession]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/família e literatura\|família e literatura]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/LIVROS QUE ASPIRO A LER PORQUE SIM\|LIVROS QUE ASPIRO A LER PORQUE SIM]]
-- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ELIT/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
 - tags: #literatura #promptGPT #tv #cultura #CulturalPatterns #CulturalInfluence 
 ---
 Baseado nisso, pode me oferecer uma lista de músicas clássicas, peças de teatro e pinturas para enriquecer esse momento de pico do interesse em succession?

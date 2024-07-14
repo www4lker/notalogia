@@ -29,7 +29,7 @@ Berthoud, Ella; Elderkin, Susan. Farmácia literária (p. 291). Verus. Edição 
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/medo de começar um livro novo\|medo de começar um livro novo]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/sem concentração para ler\|sem concentração para ler]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/vergonha por procrastinar a leitura\|vergonha por procrastinar a leitura]]
-- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ELIT/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM\|TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DESISTINDO CEDO DEMAIS DO LIVRO\|DESISTINDO CEDO DEMAIS DO LIVRO]]
 - [[INCAPAZ DE ENCONTRAR UM DE SEUS LIVROS\|INCAPAZ DE ENCONTRAR UM DE SEUS LIVROS]]

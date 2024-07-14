@@ -8,6 +8,6 @@ Alice Notley rejeita a ideia de que a escrita seja terapêutica. Para ela, a esc
 baseado no excerto da [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/entrevista de Notley com a PR\|entrevista de Notley com a PR]]
 
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/ELIT/A escrita não como terapia, mas como expressão e exploração, na visão de Alice Notley\|A escrita não como terapia, mas como expressão e exploração, na visão de Alice Notley]]
-- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Interview with McKenzie Wark- ZT\|Interview with McKenzie Wark- ZT]]
 - tags: #mestredeculturacontemporanea #lit #literatura #academia #academico 

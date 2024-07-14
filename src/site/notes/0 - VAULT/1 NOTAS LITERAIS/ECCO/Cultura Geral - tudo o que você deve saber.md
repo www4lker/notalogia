@@ -12,7 +12,7 @@
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/MESTRE DE CULTURA CONTEMPORANEA\|MESTRE DE CULTURA CONTEMPORANEA]]
 2. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/aflito pelo número de livros no mundo 1\|aflito pelo número de livros no mundo 1]]
-3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
+3. [[0 - VAULT/1 NOTAS LITERAIS/ELIT/DESEJO DE PARECER CULTO\|DESEJO DE PARECER CULTO]]
 - tags: #ECCO #mestredeculturacontemporanea #literatura #filosofia
 - Fontes & Links: 
 ---

@@ -9,7 +9,7 @@
 - 16:04
 ## relacionados:
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/ELIT/A escrita não como terapia, mas como expressão e exploração, na visão de Alice Notley\|A escrita não como terapia, mas como expressão e exploração, na visão de Alice Notley]]
-- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Interview with McKenzie Wark- ZT\|Interview with McKenzie Wark- ZT]]
 - tags: #mestredeculturacontemporanea #lit #literatura #academia #academico 
 - Fontes & Links: 

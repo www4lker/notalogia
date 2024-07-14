@@ -199,7 +199,7 @@ A escuridão como os braços de um moinho.
 
 - notas: 
 - [[0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/analisando o poema do PMC\|analisando o poema do PMC]]
-- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
+- [[0 - VAULT/2 NOTAS PERMANENTES/Anne Carson - Short Talks\|Anne Carson - Short Talks]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/analisando o poema do PHB\|analisando o poema do PHB]]
 - [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Paulo Mendes Campos\|Paulo Mendes Campos]]
 - tags: #meta #promptGPT #elit #literatura 

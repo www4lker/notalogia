@@ -8,7 +8,7 @@
 - 11-07-2024
 - 13:55
 ## relacionados:
-- notas: [[0 - VAULT/2 NOTAS PERMANENTES/Herman Melville e Moby-Dick\|Herman Melville e Moby-Dick]]
+- notas: [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Herman Melville e Moby-Dick\|Herman Melville e Moby-Dick]]
 1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Irmãos Karamázov\|Irmãos Karamázov]]
 2. [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Por quê ler Moby-dick - part 2\|Por quê ler Moby-dick - part 2]]
 3. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/o náufrago\|o náufrago]]
