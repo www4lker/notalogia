@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-vault/1-notas-literais/insight-pensamento-e-meditacao/resposta-sol2070/","tags":["obsidian","meta","conversa"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
-[[EXTRA/resposta-sol2070 - postagem\|resposta-sol2070 - postagem]]
+[[0 - VAULT/EXTRA/resposta-sol2070 - postagem\|resposta-sol2070 - postagem]]
 
 #obsidian #meta #conversa #pessoalidades 
 
