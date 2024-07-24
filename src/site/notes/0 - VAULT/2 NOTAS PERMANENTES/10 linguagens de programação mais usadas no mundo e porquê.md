@@ -18,7 +18,7 @@
 - notas: [[2 NOTA PERMANENTE/glossário programação\|2 NOTA PERMANENTE/glossário programação]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/linguagem discutidas quais não são open source\|linguagem discutidas quais não são open source]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/interested in web development\|interested in web development]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ANELO/notas de estudo/3 meses para começar a trabalhar com programação\|3 meses para começar a trabalhar com programação]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ANELO/3 meses para começar a trabalhar com programação\|3 meses para começar a trabalhar com programação]]
 ---
 
 [[0 - VAULT/2 NOTAS PERMANENTES/Explique o que é a linguagem de programação Javascript e porque ela é tão popular\|Explique o que é a linguagem de programação Javascript e porque ela é tão popular]]

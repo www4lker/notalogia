@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/elit-no-brasil-hoje/","tags":["literatura","internet","disserte","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/elit-no-brasil-hoje/","tags":["literatura","internet","disserte","mestredeculturacontemporanea","toródeideias"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # ELIT - NO BRASIL HOJE

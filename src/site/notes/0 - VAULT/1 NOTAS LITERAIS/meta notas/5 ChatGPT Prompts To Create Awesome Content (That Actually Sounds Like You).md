@@ -10,7 +10,7 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Melhores prompts\|Melhores prompts]]
-2. [[0 - VAULT/1 NOTAS LITERAIS/ANELO/artigos/artigo wired sobre engenharia de prompt para chat gpt\|artigo wired sobre engenharia de prompt para chat gpt]]
+2. [[0 - VAULT/1 NOTAS LITERAIS/ANELO/artigo wired sobre engenharia de prompt para chat gpt\|artigo wired sobre engenharia de prompt para chat gpt]]
 3. [[0 - VAULT/1 NOTAS LITERAIS/ANELO/chatgpt cheat sheet\|chatgpt cheat sheet]]
 4. [[0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes\|meta-prompt Article to notes]]
 5. [[0 - VAULT/1 NOTAS LITERAIS/meta notas/how would you like chatgpt to respond - HWYLTA\|how would you like chatgpt to respond - HWYLTA]]

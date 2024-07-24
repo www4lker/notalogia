@@ -12,7 +12,7 @@
 - notas: [[0 - VAULT/1 NOTAS LITERAIS/ANELO/chatgpt cheat sheet\|chatgpt cheat sheet]],
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/primeiro negocio usando o chatgpt\|primeiro negocio usando o chatgpt]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Using AI to get a job\|Using AI to get a job]]
-- [[0 - VAULT/1 NOTAS LITERAIS/ANELO/artigos/artigo wired sobre engenharia de prompt para chat gpt\|artigo wired sobre engenharia de prompt para chat gpt]]
+- [[0 - VAULT/1 NOTAS LITERAIS/ANELO/artigo wired sobre engenharia de prompt para chat gpt\|artigo wired sobre engenharia de prompt para chat gpt]]
 - [[0 - VAULT/1 NOTAS LITERAIS/ANELO/AI expert Gary Marcus\|AI expert Gary Marcus]]
 - 
 - tags: #promptgpt3 #chatgpt #otimistarealista #pessoalidades #tecnologia #ANELO 

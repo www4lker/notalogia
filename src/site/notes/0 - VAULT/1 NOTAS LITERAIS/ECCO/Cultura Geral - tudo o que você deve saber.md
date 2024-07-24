@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/cultura-geral-tudo-o-que-voce-deve-saber/","tags":["ECCO","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/ecco/cultura-geral-tudo-o-que-voce-deve-saber/","tags":["ECCO","mestredeculturacontemporanea","literatura","filosofia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # Cultura Geral - tudo o que você deve saber

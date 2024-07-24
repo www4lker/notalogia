@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/digital-minimalism/","tags":["permanente","minimalismodigital","tecnologia","totalizante","minimim","jardimdigital"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/digital-minimalism/","tags":["permanente","minimalismodigital","tecnologia","totalizante","minimim","jardimdigital","ceticismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # digital minimalism

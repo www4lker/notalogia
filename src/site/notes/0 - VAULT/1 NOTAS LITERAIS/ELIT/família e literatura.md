@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/familia-e-literatura/","tags":["literatura","promptGPT","tv","cultura","CulturalPatterns","CulturalInfluence"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/elit/familia-e-literatura/","tags":["literatura","promptGPT","tv","cultura","CulturalPatterns","CulturalInfluence","mestredeculturacontemporanea"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # família e literatura

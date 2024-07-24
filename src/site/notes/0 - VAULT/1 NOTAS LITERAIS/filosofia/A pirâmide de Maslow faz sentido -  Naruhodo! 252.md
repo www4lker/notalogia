@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/a-piramide-de-maslow-faz-sentido-naruhodo-252/","tags":["podkasten","totalizante","filosofia","psique","literatura","sciencebitch","academia",103,155,229,{"Minas":null},"MulheresPodcasters"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/a-piramide-de-maslow-faz-sentido-naruhodo-252/","tags":["podkasten","totalizante","filosofia","psique","literatura","sciencebitch","academia",103,155,229,{"Minas":null},"MulheresPodcasters","Minas"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 # A pirâmide de Maslow faz sentido?
