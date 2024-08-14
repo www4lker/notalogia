@@ -9,7 +9,7 @@
 - 17:52
 ## relacionados:
 - notas:
-1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/how to take smart notes\|how to take smart notes]]
+1. [[0 - VAULT/1 NOTAS LITERAIS/how to take smart notes\|how to take smart notes]]
 2. [[0 - VAULT/1 NOTAS LITERAIS/meta notas/TUDO É CONECTADO\|TUDO É CONECTADO]]
 - tags: #meta #zettelkasten #habitanimal #mestredeculturacontemporanea #meta #zettelkasten #PKM #academico
 ---
