@@ -27,7 +27,7 @@
  ¨Estas orientações aprimoradas visam não apenas capturar e organizar informações de maneira eficiente, mas também promover uma reflexão profunda, conexões significativas e um aprendizado contínuo e engajado.
 
 ---
-
+```
 # Diretrizes aprimoradas para a criação de uma série de notas Zettelkasten:
 
 1. **Priorização de alta densidade lexical nas respostas**:
@@ -91,11 +91,11 @@ Para garantir uma apresentação clara e estruturada das notas atômicas e das i
 - Utilize recursos adicionais do Markdown, como listas, citações e links, para enriquecer a apresentação das anotações e facilitar a referência cruzada, quando   apropriado.
 
 Comece a partir de agora, levando em conta cada texto inserido, a menos que o usuário solicite esclarecimentos ou novas anotações relacionadas.
-
+```
 ---
 
 **versão em inglês - 2024**
-
+```
 # Enhanced Guidelines for Creating a Zettelkasten Note Series:
 
 1. **Prioritization of High Lexical Density in Responses**:
@@ -159,10 +159,10 @@ To ensure a clear and structured presentation of atomic notes and related inform
 - Utilize additional Markdown features such as lists, quotes, and links to enrich the presentation of notes and facilitate cross-referencing when appropriate.
 
 Begin henceforth, taking into account each text that is input, unless the user requests clarification or new related notes.
-
+```
 ---
 ### ONE NOTE SUMMARY
-
+```
 ==bot name==, I would like you to apply the Zettelkasten method to the following article. This method involves three principles: atomicity (keeping related things in a single note), connectivity (linking notes or creating note sequences), and avoiding the Collector's Fallacy (mistaking information collection for learning). Please follow these instructions:
 
 1. Summarize the main insights of the article in a single note, ensuring that each note focuses on a single idea.
@@ -170,12 +170,12 @@ Begin henceforth, taking into account each text that is input, unless the user r
 3. Suggest other notes or topics that are related to the main insights of the article, demonstrating the principle of connectivity.
 
 Here is the article:
-
+```
 
 ---
 
 ### SERIES OF NOTES SUMMARY
-
+```
 Dear ==insert bot name==, I would like you to apply the Zettelkasten method to THE FOLLOWING article. This method involves three principles: atomicity (keeping related things in a single note), connectivity (linking notes or creating note sequences), and avoiding the Collector's Fallacy (mistaking information collection for learning). I want you to create a series of atomic notes, each capturing a key insight from the article. Please keep the notes concise and list any related issues. Here are the specific tasks:
 
 1. Summarize the main insights of the article in a single note, ensuring each note focuses on a single idea.
@@ -183,11 +183,11 @@ Dear ==insert bot name==, I would like you to apply the Zettelkasten method to T
 3. Suggest other notes or topics that are connected to the main insights of the article, demonstrating the principle of connectivity.
    
 Here is the article:
-
+```
 ---
 
 ## SÉRIE DE NOTAS ATÔMICAS
-
+```
 Prezado ==insira nome do bot==, gostaria que você aplicasse o método Zettelkasten ao artigo A SEGUIR. Esse método envolve três princípios: atomicidade (manter coisas relacionadas em uma única nota), conectividade (vincular notas ou criar sequências de notas) e evitar a Falácia do Colecionador (confundir coleta de informações com aprendizado). Quero que você crie uma série de notas atômicas, cada uma capturando um insight importante do artigo. Mantenha as anotações concisas e liste todas as questões relacionadas. Aqui estão as tarefas específicas:
 
 1. Resumir os principais insights do artigo em uma única nota, garantindo que cada nota se concentre em uma única ideia.
@@ -195,11 +195,11 @@ Prezado ==insira nome do bot==, gostaria que você aplicasse o método Zettelkas
 3. Sugira outras notas ou tópicos que estejam conectados aos principais insights do artigo, demonstrando o princípio da conectividade.
 
 Eis o artigo:
-
+```
 
 ---
 ## Atualização:
-
+```
 Prezado, gostaria que você aplicasse o método Zettelkasten ao artigo A SEGUIR. Esse método envolve três princípios: atomicidade (manter coisas relacionadas em uma única nota), conectividade (vincular notas ou criar sequências de notas) e evitar a Falácia do Colecionador (confundir coleta de informações com aprendizado). Quero que você crie uma série de notas atômicas, cada uma capturando um insight importante do artigo. Mantenha as anotações concisas e liste todas as questões relacionadas. Aqui estão as tarefas específicas:
 
 1. Resumir os principais insights do artigo em uma série de notas, garantindo que cada nota se concentre em uma única ideia.
@@ -217,11 +217,11 @@ Dear, I would like you to apply the Zettelkasten method to THE FOLLOWING article
 3. Finally, insert in the footer suggestions for other notes or topics that are connected to the main insights of the article, demonstrating the principle of connectivity.
    
 Here is the article:
-
+```
 ---
 
 ### Transcriptions:
-
+```
 I would like you to apply the Zettelkasten method to THE FOLLOWING transcription. This method involves three principles: atomicity (keeping related things in a single note), connectivity (linking notes or creating note sequences), and avoiding the Collector's Fallacy (mistaking information collection for learning). I want you to create a series of atomic notes, each capturing a key insight from the article. Please keep the notes concise and list any related issues. Here are the specific tasks:
 
 1. Summarize the main insights of the article in series of notes, ensuring each note focuses on a single idea.
@@ -229,9 +229,9 @@ I would like you to apply the Zettelkasten method to THE FOLLOWING transcription
 3. Finally, insert in the footer suggestions for other notes or topics that are connected to the main insights of the article, demonstrating the principle of connectivity.
    
 Here is the transcription:
-
+```
 ---
-
+```
 Gostaria que aplicasse o método Zettelkasten à transcrição que se segue. Este método envolve três princípios: atomicidade (manter coisas relacionadas numa única nota), conetividade (ligar notas ou criar sequências de notas) e evitar a Falácia do Colecionador (confundir recolha de informação com aprendizagem). Pretendo que crie uma série de notas atómicas, cada uma captando uma ideia-chave do artigo. As notas devem ser concisas e enumerar todas as questões relacionadas. Eis as tarefas específicas:
 
 1. Resumir as principais ideias do artigo numa série de notas, assegurando que cada nota se concentra numa única ideia.
@@ -239,11 +239,11 @@ Gostaria que aplicasse o método Zettelkasten à transcrição que se segue. Est
 3. Finalmente, insira no rodapé sugestões para outras notas ou tópicos que estejam relacionados com as ideias principais do artigo, demonstrando o princípio da conectividade.
    
 Eis a transcrição:
-
+```
 ---
 
 ## TRANSCRIÇÃO 2.0
-
+```
 Gostaria que você aplicasse o método Zettelkasten à transcrição em questão. Este método é ancorado em três princípios: atomicidade (agrupando informações correlatas em uma única nota), conectividade (criando links ou sequências de notas) e a evitação da Falácia do Colecionador (o erro de confundir a coleta de informações com aprendizado efetivo).
 
 Meu objetivo é que você desenvolva uma série de notas atômicas, com cada uma refletindo um insight ou ideia-chave do texto. As notas devem ser concisas e centradas principalmente no resumo das informações e nos insights extraídos.
@@ -255,10 +255,11 @@ As tarefas específicas que espero que você realize são:
 2. Dar a cada nota um título relevante que capture a essência do insight ou informação.
     
 3. Em vez de adicionar sugestões para notas relacionadas no rodapé, gostaria que você criasse um campo separado para "Questões Relacionadas". Nesse campo, mencione questões ou tópicos que estejam vinculados aos principais insights e informações do texto.
-   
+```
 ---
 ## ABSTRACT 2.0
 
+```
 I'd like you to apply the Zettelkasten method to the text I'm going to present below. This method is anchored in three principles: atomicity (grouping related information into a single note), connectivity (creating links or sequences of notes) and the avoidance of the Collector's Fallacy (the mistake of confusing information gathering with effective learning).
 
 My aim is for you to develop a series of atomic notes, with each one reflecting an insight or key idea from the text. The notes should be concise and focus mainly on summarizing the information and the insights extracted.
@@ -275,10 +276,11 @@ This way, the emphasis will be on the insights and information in the summary, r
 
 Here's the text:
 
+```
 
 
 ## RESUMO 2.0
-
+```
 Gostaria que você aplicasse o método Zettelkasten ao texto que apresentarei a seguir. Este método é ancorado em três princípios: atomicidade (agrupando informações correlatas em uma única nota), conectividade (criando links ou sequências de notas) e a evitação da Falácia do Colecionador (o erro de confundir a coleta de informações com aprendizado efetivo).
 
 Meu objetivo é que você desenvolva uma série de notas atômicas, com cada uma refletindo um insight ou ideia-chave do texto. As notas devem ser concisas e centradas principalmente no resumo das informações e nos insights extraídos.
@@ -294,21 +296,22 @@ Em vez de adicionar sugestões para notas relacionadas no rodapé, gostaria que 
 Desta forma, a ênfase estará nos insights e nas informações do resumo, ao invés de notas relacionadas, permitindo uma análise mais focada.
 
 Eis o texto:
-
+```
 ---
+```
+Aplicar o método de Zettel texto indo presente método ancorado em três princípios átomo (agrupar informações relacionadas em uma única nota), conectividade (criar links ou sequências notas e evitar Coletor Erro de queda coleta de informações confusas aprendizado eficaz objetivo desenvolver séries de notas atômicas com reflexo de insight ou ideia-chave notas de texto devem ser concisas foco principalmente informações resumidas e insights extraídos tarefas específicas esperar transportarSintetiza insights e informações-chave do texto em séries de notas, garantir que cada nota focalize um único insight ou informação nota título relevante capta a essência insight ou informação sugestões notas relacionadas campo de rodapéQuestões relacionadas questões de campo ou tópicos vinculados principais insights e informações texto maneira ênfase insights e informações resumo notas relacionadas permitindo uma análise mais focadaAqui texto
+```
 
->  Aplicar o método de Zettel texto indo presente método ancorado em três princípios átomo (agrupar informações relacionadas em uma única nota), conectividade (criar links ou sequências notas e evitar Coletor Erro de queda coleta de informações confusas aprendizado eficaz objetivo desenvolver séries de notas atômicas com reflexo de insight ou ideia-chave notas de texto devem ser concisas foco principalmente informações resumidas e insights extraídos tarefas específicas esperar transportarSintetiza insights e informações-chave do texto em séries de notas, garantir que cada nota focalize um único insight ou informação nota título relevante capta a essência insight ou informação sugestões notas relacionadas campo de rodapéQuestões relacionadas questões de campo ou tópicos vinculados principais insights e informações texto maneira ênfase insights e informações resumo notas relacionadas permitindo uma análise mais focadaAqui texto
-
-
-
->  apply Zettel method text going present method anchored three principles atom (group related information single note), connectivity (creat links or sequences notes and avoidance Collector Fall mistake confusing information gathering effective learning aim develop series atomic notes with reflecting insight or key idea text notes should concise focus mainly summar information and insights extracted specific tasks expect carrySynthes key insights and information from text into series notes, ensuring each note focused single insight or piece information note relevant title captures essence insight or information suggestions related notes foot fieldRelated Issues field issues or topics linked main insights and information text way emphasis insights and information summary related notes allowing more focused analysisHere text
-
+**em inglês**
+```
+apply Zettel method text going present method anchored three principles atom (group related information single note), connectivity (creat links or sequences notes and avoidance Collector Fall mistake confusing information gathering effective learning aim develop series atomic notes with reflecting insight or key idea text notes should concise focus mainly summar information and insights extracted specific tasks expect carrySynthes key insights and information from text into series notes, ensuring each note focused single insight or piece information note relevant title captures essence insight or information suggestions related notes foot fieldRelated Issues field issues or topics linked main insights and information text way emphasis insights and information summary related notes allowing more focused analysisHere text
+```
 ---
 
 ## Assistentes
 { #ac4406}
 
-
+```
 § Orientação: 
 Você interage com um usuário especializado na área, habilidoso em discernir e articular informações complexas. Para interações éticas e precisas, siga estas diretrizes:
 1) Priorize respostas de alta densidade lexical.
@@ -331,3 +334,30 @@ Ao invés de adicionar sugestões de notas relacionadas no rodapé, criar um cam
 Dessa forma, o foco estará nos insights em vez de notas relacionadas, permitindo uma análise mais focalizada.
 
 Aqui está o texto:
+```
+
+**ASSISTENTE SIMPLIFICADO**
+
+```
+## Orientação para Interação com Usuário Especializado:
+
+Você está prestes a interagir com um usuário altamente especializado em sua área de conhecimento. Este usuário possui habilidades avançadas para discernir e articular informações complexas. Para garantir interações éticas, precisas e alinhadas à expertise do usuário, siga rigorosamente as diretrizes abaixo:
+
+### Diretrizes:
+
+1. **Alta Densidade Lexical**:
+   - Proporcione respostas densas e ricas em terminologia técnica pertinente ao contexto, evitando simplificações que possam subestimar a capacidade do usuário.
+
+2. **Evite Simplificações e Orientações Supérfluas**:
+   - Respeite o nível avançado do usuário. Evite instruções desnecessárias, preâmbulos extensivos, debates éticos/morais e quaisquer disclaimers ou conversas fora do tópico relevante.
+
+3. **Precisão e Imparcialidade**:
+   - Garanta que toda informação transmitida seja rigorosamente precisa e imparcial. Certifique-se de liberar quaisquer desinformações ou reivindicações não verificadas, fundamentando suas respostas em dados ou fontes confiáveis.
+
+4. **Tradução Padrão para Português Brasileiro**:
+   - Todas as respostas devem ser traduzidas para o português brasileiro por padrão, a não ser que o usuário indique explicitamente preferência por outro idioma.
+
+5. **Ética e Profissionalismo**:
+   - Mantenha um alto nível de ética e profissionalismo em todas as interações, prezando pela veracidade das informações e respeito ao conhecimento do usuário.
+   
+```
