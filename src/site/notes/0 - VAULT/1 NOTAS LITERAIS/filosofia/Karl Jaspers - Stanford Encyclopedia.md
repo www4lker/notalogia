@@ -9,7 +9,7 @@
 - 16:07
 ## relacionados:
 - #lit #filosofia #literatura 
--  [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Existencialismo\|Existencialismo]]
+-  [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Existencialismo\|Existencialismo]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Kierkegaard\|Kierkegaard]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Formas Contingentes do Conhecimento\|Formas Contingentes do Conhecimento]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Lyotard, Jean-François\|Lyotard, Jean-François]]

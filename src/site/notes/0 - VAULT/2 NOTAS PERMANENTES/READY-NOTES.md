@@ -34,7 +34,7 @@
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Schwanitz, Dietrich\|Schwanitz, Dietrich]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Hobsbawn, Eric\|Hobsbawn, Eric]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Rushdie, Salman\|Rushdie, Salman]]
-- [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Nietzsche, Friedrich\|Nietzsche, Friedrich]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Nietzsche, Friedrich\|Nietzsche, Friedrich]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/etnomusicologia\|etnomusicologia]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Realismo Capitalista\|Realismo Capitalista]]
 - [[0 - VAULT/1 NOTAS LITERAIS/REFERÊNCIA BIO/Montaigne, Michel de\|Montaigne, Michel de]]

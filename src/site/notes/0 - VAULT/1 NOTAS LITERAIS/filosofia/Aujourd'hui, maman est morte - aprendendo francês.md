@@ -10,7 +10,7 @@
 ## relacionados:
 - notas: [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/seis meses para aprender francês\|seis meses para aprender francês]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/Camus, Albert\|Camus, Albert]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Existencialismo\|Existencialismo]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Existencialismo\|Existencialismo]]
 - tags: #filosofia #literatura #academia #franceses #literatura #filosofia
 ---
 A primeira frase de "O Estrangeiro" de Albert Camus em francês é: **"Aujourd'hui, maman est morte."**

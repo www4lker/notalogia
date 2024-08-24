@@ -8,7 +8,7 @@
 ### Relacionado
 - palavras-chave: #Paradoxo #absurdo 
 - notas: 
-- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Existencialismo\|Existencialismo]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Existencialismo\|Existencialismo]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Autenticidade\|Autenticidade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/READY-NOTES\|READY-NOTES]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/O paradoxo da fé\|O paradoxo da fé]]

@@ -16,7 +16,7 @@ criado em: 12:13 2022-10-13
 - [[Breviário De Decomposição-2\|Breviário De Decomposição-2]]
 - [[NOTAS DE LEITURA/LIVROS/Como Me Tornei Estúpido\|NOTAS DE LEITURA/LIVROS/Como Me Tornei Estúpido]]
 - [[NOTAS DE LEITURA/LIVROS/Demian\|NOTAS DE LEITURA/LIVROS/Demian]]
-- [[0 - VAULT/3 NOTAS PARA REVISAR/REVISÃO TARDIA/Existencialismo\|Existencialismo]]
+- [[0 - VAULT/1 NOTAS LITERAIS/filosofia/Existencialismo\|Existencialismo]]
 - [[NOTAS DE LEITURA/LIVROS/Na Natureza Selvagem - Nova Edição Com Posfácio Inédito Do Autor\|NOTAS DE LEITURA/LIVROS/Na Natureza Selvagem - Nova Edição Com Posfácio Inédito Do Autor]]
 - [[O Livro Da Vida-2\|O Livro Da Vida-2]]
 - [[0 - VAULT/1 NOTAS LITERAIS/filosofia/plenitude\|plenitude]]
