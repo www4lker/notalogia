@@ -10,6 +10,7 @@
 - notas: [[0 - VAULT/2 NOTAS PERMANENTES/zetteltipity\|zetteltipity]] 
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/prompt - louco, genio ou criança\|prompt - louco, genio ou criança]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/meta\|meta]]
+- [[0 - VAULT/EXTRA/Prompt com cadeia de comando\|Prompt com cadeia de comando]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/prompt zettelkasten\|prompt zettelkasten]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/como fazer notas atômicas segundo o GPT\|como fazer notas atômicas segundo o GPT]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/custom-prompt\|custom-prompt]]
