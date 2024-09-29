@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/o-paradoxo-da-fe/","tags":["Fé","Paradoxo","Existencialismo"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-vault/1-notas-literais/filosofia/o-paradoxo-da-fe/","tags":["Fé","Paradoxo","Existencialismo","filosofia","academia"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"noteIcon":""}
 ---
 
 # O paradoxo da fé
