@@ -13,7 +13,6 @@ criado em: 00:38 2022-10-17
 - [[0 - VAULT/1 NOTAS LITERAIS/ELIT/Autoficção\|Autoficção]]
 - [[0 - VAULT/1 NOTAS LITERAIS/meta notas/sobre a criatividade\|sobre a criatividade]]
 - [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/literatura ergódica\|literatura ergódica]]
-- 
 
 ---
 ##  escrever uma peça de autoficção na qual o narrador repense sua vida depois de descobrir que ele foi adotado apenas aos 20 anos de idade:
