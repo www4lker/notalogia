@@ -10,7 +10,7 @@
 ## relacionados:
 - notas:
 1. [[0 - VAULT/1 NOTAS LITERAIS/ELIT/TOP 10 ANTONY DOEER -  insights de dados\|TOP 10 ANTONY DOEER -  insights de dados]]
-2. [[0 - VAULT/3 NOTAS PARA REVISAR/A Lista dos Melhores Livros do Século 21 Segundo o The New York Times Book Review top 30\|A Lista dos Melhores Livros do Século 21 Segundo o The New York Times Book Review top 30]]
+2. [[0 - VAULT/1 NOTAS LITERAIS/A Lista dos Melhores Livros do Século 21 Segundo o The New York Times Book Review top 30\|0 - VAULT/1 NOTAS LITERAIS/A Lista dos Melhores Livros do Século 21 Segundo o The New York Times Book Review top 30]]
 - tags: #lit 
 ---
 

@@ -11,7 +11,7 @@
 - notas:
 1. [[0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar/meta anki\|meta anki]]
 2. [[0 - VAULT/1 NOTAS LITERAIS/how to take smart notes\|how to take smart notes]]
-3. [[0 - VAULT/DEZESSEIS/cornell-notes\|0 - VAULT/DEZESSEIS/cornell-notes]]
+3. [[0 - VAULT/2 NOTAS PERMANENTES/cornell-notes\|0 - VAULT/2 NOTAS PERMANENTES/cornell-notes]]
 - tags: #autoanki 
 - Fontes & Links: https://www.youtube.com/watch?v=Bvsf591rYWE
 ---

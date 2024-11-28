@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/lit/tabela-literatura-e-cibercultura/","tags":["chatbot","elit"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"noteIcon":""}
+---
+
+# aula de mestrado analisada
+
+Uma tabela gerada com ajuda de #chatbot para entender o curso e suas aulas.  
+
+| Data  | Docente                                                             | Tema                                                                                                | Principais Insights Acadêmicos                                                                             | Relações com Literatura Digital                                                                                |
+| ----- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 26/03 | Dílson                                                              | Apresentação da disciplina                                                                          | Introdução ao tema da disciplina, objetivos e expectativas de aprendizado.                                 | Estabelecimento das bases para discussões futuras sobre a literatura digital e suas implicações.               |
+| 02/04 | Prof. Dr. Auricélio Soares Fernandes (UEPB)                         | Adaptação, mídias e intermidialidade                                                                | A adaptação é uma técnica de tradução que envolve recriação cultural e estética.                           | A relação entre a adaptação literária e as mídias digitais, destacando a intermedialidade.                     |
+| 09/04 | Profa. Dra. Isa Maria Marques de Oliveira (IEPGH-MG)                | Poesia e Tecnologia                                                                                 | A interatividade e a convergência de mídias transformam a poesia contemporânea.                            | A poesia digital como um suporte artístico, que combina diversas linguagens e experiências sensoriais.         |
+| 16/04 | Prof. Dr. Rogério Barbosa da Silva (CEFET-MG)                       | Poéticas experimentais                                                                              | A relação entre programação e poesia, e a importância da interatividade na literatura digital.             | A poética digital como uma forma de experimentação artística que desafia as normas tradicionais da literatura. |
+| 07/05 | Profa. Dra. Sílvia Aparecida José e Silva (FATEC - Americana)       | Além das páginas: desvendando conexões entre literatura e videogame                                 | A interatividade nos jogos digitais permite que os jogadores criem narrativas únicas e personalizadas.     | A interatividade nos jogos digitais como uma nova forma de contar histórias, conectando literatura e jogos.    |
+| 14/05 | Profa. Dra. Ana Carolina dos Santos Marques (Ohio State University) | Aspectos de ensino e aprendizagem na literatura digital                                             | A literatura digital oferece novas formas de engajamento e interatividade, essenciais para o aprendizado.  | A literatura digital como uma ferramenta educativa que transforma a experiência de leitura e escrita.          |
+| 21/05 | Profa. Dra. Cássia Cordeiro Furtado (UFMA)                          | Literatura infantil digital e seu contributo para o processo de alfabetização e práticas de leitura | A literatura digital pode enriquecer o processo de alfabetização ao oferecer interatividade e engajamento. | A literatura infantil digital como um meio eficaz para promover a leitura e a alfabetização em crianças.       |
+
+#elit 
